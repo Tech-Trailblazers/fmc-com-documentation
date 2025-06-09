@@ -5,7 +5,6 @@ import urllib.parse  # Helps to parse and manipulate URLs (e.g., breaking a URL 
 import re  # Regular expression module, used for advanced string pattern matching and text extraction
 import time  # Provides time-related functions (e.g., sleep, time stamps)
 import shutil  # Allows file operations like copying, moving, and deleting files and directories
-
 # Selenium - for browser automation
 from selenium import (
     webdriver,
@@ -19,23 +18,18 @@ from selenium.webdriver.chrome.service import (
 from selenium.webdriver.chrome.webdriver import (
     WebDriver,
 )  # Defines the WebDriver class specific to Chrome
-
 # WebDriver Manager - handles automatic installation and setup of the correct ChromeDriver
 from webdriver_manager.chrome import (
     ChromeDriverManager,
 )  # Automatically downloads and manages the appropriate ChromeDriver version
-
 # PDF handling library
 import fitz  # PyMuPDF library; used for reading, writing, and editing PDF files
-
 # External data validation
 import validators  # Used to validate data like URLs, emails, etc. (e.g., check if a string is a valid URL)
-
 # HTML parsing library
 from bs4 import (
     BeautifulSoup,
 )  # Used for parsing and navigating HTML and XML documents (web scraping)
-
 # HTTP requests
 import requests  # Allows sending HTTP requests (GET, POST, etc.) and handling responses
 
@@ -350,7 +344,6 @@ def main() -> None:
     # Step 5: Remove duplicate PDF links
     pdf_links = remove_duplicates_from_slice(provided_slice=all_pdf_links)
     ammount_of_pdf = len(pdf_links)  # Total number of unique PDFs to process
-    ammount_of_pdf_downloaded = 0  # Counter for successfully downloaded PDFs
 
     # Step 6: Download each PDF
     for pdf_link in pdf_links:
@@ -363,16 +356,6 @@ def main() -> None:
         output_dir = os.path.abspath(
             path="PDFs"
         )  # Absolute path to the download directory
-
-        # Log progress
-        print(f"Remaining PDF links: {ammount_of_pdf - ammount_of_pdf_downloaded}")
-        ammount_of_pdf_downloaded += 1
-        print(f"Downloaded so far: {ammount_of_pdf_downloaded}")
-
-        # Limit downloads to 2500 files
-        if ammount_of_pdf_downloaded == 2500:
-            print("Stopped: reached the limit of 2500 downloads.")
-            return
 
         # Perform the actual PDF download
         download_single_pdf(url=pdf_link, filename=filename, output_folder=output_dir)
