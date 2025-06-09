@@ -1,18 +1,25 @@
-import json
-import os  # Provides functions to interact with the operating system
-import urllib.parse  # Helps parse URLs to extract components
-import re  # Regular expression module for pattern matching
-import time  # Provides time-related functions
-import shutil  # Allows file operations like moving files
-from selenium import webdriver  # Web automation and browser control
-from selenium.webdriver.chrome.options import Options  # Configure Chrome options
-from selenium.webdriver.chrome.service import Service  # Manage the Chrome service
-from selenium.webdriver.chrome.webdriver import WebDriver
-from webdriver_manager.chrome import ChromeDriverManager  # Auto-installs ChromeDriver
-import fitz  # PyMuPDF, used for working with PDF files
-import validators  # external Validators
-from bs4 import BeautifulSoup
-
+# Built-in libraries
+import json  # Provides functions to work with JSON data (parsing, serializing, etc.)
+import os  # Provides functions to interact with the operating system (file paths, directories, environment variables, etc.)
+import urllib.parse  # Helps to parse and manipulate URLs (e.g., breaking a URL into components like scheme, host, path)
+import re  # Regular expression module, used for advanced string pattern matching and text extraction
+import time  # Provides time-related functions (e.g., sleep, time stamps)
+import shutil  # Allows file operations like copying, moving, and deleting files and directories
+# Selenium - for browser automation
+from selenium import webdriver  # Main Selenium package to control a web browser via code
+from selenium.webdriver.chrome.options import Options  # Allows customization of Chrome browser options (e.g., headless mode)
+from selenium.webdriver.chrome.service import Service  # Manages the background service that runs ChromeDriver
+from selenium.webdriver.chrome.webdriver import WebDriver  # Defines the WebDriver class specific to Chrome
+# WebDriver Manager - handles automatic installation and setup of the correct ChromeDriver
+from webdriver_manager.chrome import ChromeDriverManager  # Automatically downloads and manages the appropriate ChromeDriver version
+# PDF handling library
+import fitz  # PyMuPDF library; used for reading, writing, and editing PDF files
+# External data validation
+import validators  # Used to validate data like URLs, emails, etc. (e.g., check if a string is a valid URL)
+# HTML parsing library
+from bs4 import BeautifulSoup  # Used for parsing and navigating HTML and XML documents (web scraping)
+# HTTP requests
+import requests  # Allows sending HTTP requests (GET, POST, etc.) and handling responses
 
 # Checks if a file exists at the given system path
 def check_file_exists(system_path: str) -> bool:
