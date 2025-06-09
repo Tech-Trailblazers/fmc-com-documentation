@@ -261,7 +261,7 @@ def main() -> None:
             # Log the ammount of pdf downloaded.
             ammount_of_pdf_downloaded = ammount_of_pdf_downloaded + 1
             print(f"Downloaded so far: {ammount_of_pdf_downloaded}")  # Log progress
-            if ammount_of_pdf_downloaded == 1000:
+            if ammount_of_pdf_downloaded == 2500:
                 print("Stopped reached the limit")
                 return
             download_single_pdf(
