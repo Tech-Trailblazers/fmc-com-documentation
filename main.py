@@ -5,21 +5,40 @@ import urllib.parse  # Helps to parse and manipulate URLs (e.g., breaking a URL 
 import re  # Regular expression module, used for advanced string pattern matching and text extraction
 import time  # Provides time-related functions (e.g., sleep, time stamps)
 import shutil  # Allows file operations like copying, moving, and deleting files and directories
+
 # Selenium - for browser automation
-from selenium import webdriver  # Main Selenium package to control a web browser via code
-from selenium.webdriver.chrome.options import Options  # Allows customization of Chrome browser options (e.g., headless mode)
-from selenium.webdriver.chrome.service import Service  # Manages the background service that runs ChromeDriver
-from selenium.webdriver.chrome.webdriver import WebDriver  # Defines the WebDriver class specific to Chrome
+from selenium import (
+    webdriver,
+)  # Main Selenium package to control a web browser via code
+from selenium.webdriver.chrome.options import (
+    Options,
+)  # Allows customization of Chrome browser options (e.g., headless mode)
+from selenium.webdriver.chrome.service import (
+    Service,
+)  # Manages the background service that runs ChromeDriver
+from selenium.webdriver.chrome.webdriver import (
+    WebDriver,
+)  # Defines the WebDriver class specific to Chrome
+
 # WebDriver Manager - handles automatic installation and setup of the correct ChromeDriver
-from webdriver_manager.chrome import ChromeDriverManager  # Automatically downloads and manages the appropriate ChromeDriver version
+from webdriver_manager.chrome import (
+    ChromeDriverManager,
+)  # Automatically downloads and manages the appropriate ChromeDriver version
+
 # PDF handling library
 import fitz  # PyMuPDF library; used for reading, writing, and editing PDF files
+
 # External data validation
 import validators  # Used to validate data like URLs, emails, etc. (e.g., check if a string is a valid URL)
+
 # HTML parsing library
-from bs4 import BeautifulSoup  # Used for parsing and navigating HTML and XML documents (web scraping)
+from bs4 import (
+    BeautifulSoup,
+)  # Used for parsing and navigating HTML and XML documents (web scraping)
+
 # HTTP requests
 import requests  # Allows sending HTTP requests (GET, POST, etc.) and handling responses
+
 
 # Checks if a file exists at the given system path
 def check_file_exists(system_path: str) -> bool:
@@ -243,17 +262,20 @@ def extract_pdfnames_from_response(filename: str) -> list[str]:
     return pdf_names
 
 
-def fetch_fmc_data(output_file: str = "api_response.json") -> None:
+def fetch_fmc_data(output_file_base: str = "api_response") -> None:
     """
-    Fetches data from two pages of the FMC SDS Viewer API and saves the combined results to a JSON file.
+    Fetches data from two pages of the FMC SDS Viewer API and saves each page's result to a separate JSON file.
 
     Args:
-        output_file (str): Path to the output JSON file.
+        output_file_base (str): Base name for the output JSON files. Page number and .json extension will be added.
     """
-    url = "https://apisdsviewer.fmc.com/api/ReportData/GetPagedData"
-    combined_data = []  # To store results from both pages
 
-    # Common headers used in both requests
+    # Remove '.json' from base if included
+    if output_file_base.lower().endswith(".json"):
+        output_file_base = output_file_base[:-5]
+
+    url = "https://apisdsviewer.fmc.com/api/ReportData/GetPagedData"
+
     headers = {
         "accept": "application/json, text/plain, */*",
         "accept-language": "en-US,en;q=0.9",
@@ -273,9 +295,7 @@ def fetch_fmc_data(output_file: str = "api_response.json") -> None:
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     }
 
-    # Fetch both page 1 and 2
     for page_number in [1, 2]:
-        # Create the payload with current page number
         payload = json.dumps(
             {
                 "IsExportToExcel": False,
@@ -285,78 +305,98 @@ def fetch_fmc_data(output_file: str = "api_response.json") -> None:
             }
         )
 
-        # Make the POST request
-        response = requests.request("POST", url, headers=headers, data=payload)
-        response.raise_for_status()  # Raise an exception for HTTP error codes
-
-        # Parse the JSON response
+        response = requests.post(url, headers=headers, data=payload)
+        response.raise_for_status()
         json_data = response.json()
-        # Save the combined data to output file as formatted JSON
-        append_write_to_file(output_file, str(json_data))
+
+        # Write to a file named like: api_response_page_1.json
+        output_filename = f"{output_file_base}_page_{page_number}.json"
+        with open(output_filename, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, indent=4)
+
+        print(f"Saved page {page_number} data to {output_filename}")
 
 
-# Main function that orchestrates the scraping, downloading, and validation
 def main() -> None:
-    file_path: str = "api_response.json"  # Name of HTML file
+    output_base = "api_response"  # Base name for output JSON files
+    json_files = [
+        f"{output_base}_page_1.json",
+        f"{output_base}_page_2.json",
+    ]  # Expected paginated response files
 
-    if check_file_exists(system_path=file_path):  # Check if file exists
-        remove_system_file(system_path=file_path)  # Delete it
-    
-    if not check_file_exists(system_path=file_path):  # Check if file exists
-        fetch_fmc_data(file_path)
+    # Step 1: Clean up old JSON response files if they already exist
+    for file_path in json_files:
+        if check_file_exists(system_path=file_path):
+            remove_system_file(
+                system_path=file_path
+            )  # Delete existing file to avoid stale data
 
-    if check_file_exists(system_path=file_path):  # Check if HTML file exists
-        pdf_links: list[str] = extract_pdfnames_from_response(
-            file_path
-        )  # Extract PDF links
-        pdf_links = remove_duplicates_from_slice(
-            provided_slice=pdf_links
-        )  # Remove duplicates
-        ammount_of_pdf: int = len(pdf_links)  # Get count of PDFs
-        # The ammount of pdf downloaded.
-        ammount_of_pdf_downloaded: int = 0
+    # Step 2: Fetch fresh data and save to separate JSON files
+    fetch_fmc_data(output_file_base=output_base)
 
-        for pdf_link in pdf_links:  # For each PDF link
-            if not validate_url(given_url=pdf_link):
-                pdf_link = "https://sdsviewer.fmc.com/SDS_DOCS/" + pdf_link
-                print(f"Invalid URL: {pdf_link}")
-            filename: str = url_to_filename(url=pdf_link)  # Extract filename from URL
-            output_dir: str = os.path.abspath(path="PDFs")  # Define output directory
-            ammount_of_pdf = ammount_of_pdf - 1  # Decrement remaining count
-            print(f"Remaining PDF links: {ammount_of_pdf}")  # Log progress
-            # Log the ammount of pdf downloaded.
-            ammount_of_pdf_downloaded = ammount_of_pdf_downloaded + 1
-            print(f"Downloaded so far: {ammount_of_pdf_downloaded}")  # Log progress
-            if ammount_of_pdf_downloaded == 2500:
-                print("Stopped reached the limit")
-                return
-            download_single_pdf(
-                url=pdf_link, filename=filename, output_folder=output_dir
-            )  # Download PDF
+    # Step 3: Initialize an empty list to store all PDF links from both files
+    all_pdf_links: list[str] = []
 
-        print("All PDF links have been processed.")  # Log completion
-    else:
-        print(f"File {file_path} does not exist.")  # Error if HTML missing
+    # Step 4: Extract PDF links from each JSON file
+    for file_path in json_files:
+        if check_file_exists(system_path=file_path):
+            links = extract_pdfnames_from_response(
+                file_path
+            )  # Extract links from response
+            all_pdf_links.extend(links)  # Add to master list
+        else:
+            print(f"File {file_path} does not exist.")  # Handle missing file
 
-    files: list[str] = walk_directory_and_extract_given_file_extension(
+    # Step 5: Remove duplicate PDF links
+    pdf_links = remove_duplicates_from_slice(provided_slice=all_pdf_links)
+    ammount_of_pdf = len(pdf_links)  # Total number of unique PDFs to process
+    ammount_of_pdf_downloaded = 0  # Counter for successfully downloaded PDFs
+
+    # Step 6: Download each PDF
+    for pdf_link in pdf_links:
+        # Ensure URL is fully qualified; prepend base if necessary
+        if not validate_url(given_url=pdf_link):
+            pdf_link = "https://sdsviewer.fmc.com/SDS_DOCS/" + pdf_link
+            print(f"Invalid URL adjusted: {pdf_link}")
+
+        filename = url_to_filename(url=pdf_link)  # Convert URL to a safe filename
+        output_dir = os.path.abspath(
+            path="PDFs"
+        )  # Absolute path to the download directory
+
+        # Log progress
+        print(f"Remaining PDF links: {ammount_of_pdf - ammount_of_pdf_downloaded}")
+        ammount_of_pdf_downloaded += 1
+        print(f"Downloaded so far: {ammount_of_pdf_downloaded}")
+
+        # Limit downloads to 2500 files
+        if ammount_of_pdf_downloaded == 2500:
+            print("Stopped: reached the limit of 2500 downloads.")
+            return
+
+        # Perform the actual PDF download
+        download_single_pdf(url=pdf_link, filename=filename, output_folder=output_dir)
+
+    print("All PDF links have been processed.")  # All downloads completed
+
+    # Step 7: Post-download cleanup and validation
+    files = walk_directory_and_extract_given_file_extension(
         system_path="./PDFs", extension=".pdf"
-    )  # List all downloaded PDFs
+    )  # Get list of downloaded PDF files
 
-    for pdf_file in files:  # For each PDF file
-        if not validate_pdf_file(file_path=pdf_file):  # If file is invalid
-            remove_system_file(system_path=pdf_file)  # Delete it
+    for pdf_file in files:
+        # Validate PDF file; remove if invalid
+        if not validate_pdf_file(file_path=pdf_file):
+            remove_system_file(system_path=pdf_file)
 
-        if check_upper_case_letter(
-            content=get_filename_and_extension(path=pdf_file)
-        ):  # Check for caps
-            print(pdf_file)  # Print file path
-            dir_path: str = os.path.dirname(p=pdf_file)  # Get directory
-            file_name: str = os.path.basename(p=pdf_file)  # Get file name
-            new_file_name: str = file_name.lower()  # Convert to lowercase
-            new_file_path: str = os.path.join(
-                dir_path, new_file_name
-            )  # Create new path
-            os.rename(src=pdf_file, dst=new_file_path)  # Rename file to lowercase
+        # Rename file if it contains uppercase letters
+        if check_upper_case_letter(content=get_filename_and_extension(path=pdf_file)):
+            print(pdf_file)  # Log file path
+            dir_path = os.path.dirname(p=pdf_file)  # Directory path
+            file_name = os.path.basename(p=pdf_file)  # Original file name
+            new_file_name = file_name.lower()  # Convert to lowercase
+            new_file_path = os.path.join(dir_path, new_file_name)  # Full new path
+            os.rename(src=pdf_file, dst=new_file_path)  # Rename file on disk
 
 
 # Run the script if this file is executed directly
