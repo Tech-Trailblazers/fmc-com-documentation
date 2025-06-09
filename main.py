@@ -256,10 +256,11 @@ def main() -> None:
                 print(f"Invalid URL: {pdf_link}")
             filename: str = url_to_filename(url=pdf_link)  # Extract filename from URL
             output_dir: str = os.path.abspath(path="PDFs")  # Define output directory
-            ammount_of_pdf -= 1  # Decrement remaining count
+            ammount_of_pdf = ammount_of_pdf - 1  # Decrement remaining count
             print(f"Remaining PDF links: {ammount_of_pdf}")  # Log progress
             # Log the ammount of pdf downloaded.
             ammount_of_pdf_downloaded = ammount_of_pdf_downloaded + 1
+            print(f"Downloaded so far: {ammount_of_pdf_downloaded}")  # Log progress
             if ammount_of_pdf_downloaded == 1000:
                 print("Stopped reached the limit")
                 return
