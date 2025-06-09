@@ -247,6 +247,8 @@ def main() -> None:
             provided_slice=pdf_links
         )  # Remove duplicates
         ammount_of_pdf: int = len(pdf_links)  # Get count of PDFs
+        # The ammount of pdf downloaded.
+        ammount_of_pdf_downloaded: int = 0
 
         for pdf_link in pdf_links:  # For each PDF link
             if not validate_url(given_url=pdf_link):
@@ -256,6 +258,11 @@ def main() -> None:
             output_dir: str = os.path.abspath(path="PDFs")  # Define output directory
             ammount_of_pdf -= 1  # Decrement remaining count
             print(f"Remaining PDF links: {ammount_of_pdf}")  # Log progress
+            # Log the ammount of pdf downloaded.
+            ammount_of_pdf_downloaded = ammount_of_pdf_downloaded + 1
+            if ammount_of_pdf_downloaded == 1000:
+                print("Stopped reached the limit")
+                return
             download_single_pdf(
                 url=pdf_link, filename=filename, output_folder=output_dir
             )  # Download PDF
