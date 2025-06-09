@@ -13,6 +13,7 @@ import fitz  # PyMuPDF, used for working with PDF files
 import validators  # external Validators
 from bs4 import BeautifulSoup
 
+
 # Checks if a file exists at the given system path
 def check_file_exists(system_path: str) -> bool:
     return os.path.isfile(path=system_path)  # Return True if file exists
@@ -235,9 +236,67 @@ def extract_pdfnames_from_response(filename: str) -> list[str]:
     return pdf_names
 
 
+def fetch_fmc_data(output_file: str = "api_response.json") -> None:
+    """
+    Fetches data from two pages of the FMC SDS Viewer API and saves the combined results to a JSON file.
+
+    Args:
+        output_file (str): Path to the output JSON file.
+    """
+    url = "https://apisdsviewer.fmc.com/api/ReportData/GetPagedData"
+    combined_data = []  # To store results from both pages
+
+    # Common headers used in both requests
+    headers = {
+        "accept": "application/json, text/plain, */*",
+        "accept-language": "en-US,en;q=0.9",
+        "cache-control": "no-cache",
+        "content-type": "application/json",
+        "dnt": "1",
+        "origin": "https://sdsviewer.fmc.com",
+        "pragma": "no-cache",
+        "priority": "u=1, i",
+        "referer": "https://sdsviewer.fmc.com/",
+        "sec-ch-ua": '"Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"',
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": '"macOS"',
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    }
+
+    # Fetch both page 1 and 2
+    for page_number in [1, 2]:
+        # Create the payload with current page number
+        payload = json.dumps(
+            {
+                "IsExportToExcel": False,
+                "QuerySearchModel": {"RevisionDateFilter": {}, "PublishDateFilter": {}},
+                "pageNumber": page_number,
+                "pageSize": 5000,
+            }
+        )
+
+        # Make the POST request
+        response = requests.request("POST", url, headers=headers, data=payload)
+        response.raise_for_status()  # Raise an exception for HTTP error codes
+
+        # Parse the JSON response
+        json_data = response.json()
+        # Save the combined data to output file as formatted JSON
+        append_write_to_file(output_file, str(json_data))
+
+
 # Main function that orchestrates the scraping, downloading, and validation
 def main() -> None:
     file_path: str = "api_response.json"  # Name of HTML file
+
+    if check_file_exists(system_path=file_path):  # Check if file exists
+        remove_system_file(system_path=file_path)  # Delete it
+    
+    if not check_file_exists(system_path=file_path):  # Check if file exists
+        fetch_fmc_data(file_path)
 
     if check_file_exists(system_path=file_path):  # Check if HTML file exists
         pdf_links: list[str] = extract_pdfnames_from_response(
