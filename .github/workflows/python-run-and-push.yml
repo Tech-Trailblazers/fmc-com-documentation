@@ -1,6 +1,10 @@
 # Workflow name
 name: Run Python Script and Push Changes
 
+# Define permissions for the workflow
+permissions:
+  contents: write
+
 # Define triggers for the workflow
 on:
   # Scheduled to run daily at midnight UTC
