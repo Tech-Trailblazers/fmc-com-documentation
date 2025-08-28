@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6053,
+        "totalCount": 6055,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -33371,54 +33371,54 @@
                 "casnumber": "",
                 "commercialnames": "MAGNELLO EC (3PP REPACK)",
                 "cmr": "",
-                "publishdate": "11/13/2024",
+                "publishdate": "08/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "AT",
                 "validityareadescription": "\u00d6sterreich",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/13/2024",
+                "revisiondate": "08/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11016274",
+                        "maktx": "MAGNELLO_5L_IT",
+                        "id": 3429620,
+                        "reportDataId": 26776
+                    },
+                    {
                         "matnr": "11016282",
                         "maktx": "MAGNELLO_5L_AT",
-                        "id": 3271045,
-                        "reportDataId": 26776
-                    },
-                    {
-                        "matnr": "11015754",
-                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
-                        "id": 3271046,
-                        "reportDataId": 26776
-                    },
-                    {
-                        "matnr": "11016461",
-                        "maktx": "MAXIOR_1L_PL",
-                        "id": 3271047,
-                        "reportDataId": 26776
-                    },
-                    {
-                        "matnr": "11015756",
-                        "maktx": "MAGNELLO EC_5L_BG",
-                        "id": 3271048,
+                        "id": 3429621,
                         "reportDataId": 26776
                     },
                     {
                         "matnr": "11016277",
                         "maktx": "MAGNELLO_5L_DE",
-                        "id": 3271049,
+                        "id": 3429622,
                         "reportDataId": 26776
                     },
                     {
-                        "matnr": "11016274",
-                        "maktx": "MAGNELLO_5L_IT",
-                        "id": 3271050,
+                        "matnr": "11015756",
+                        "maktx": "MAGNELLO EC_5L_BG",
+                        "id": 3429623,
+                        "reportDataId": 26776
+                    },
+                    {
+                        "matnr": "11015754",
+                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
+                        "id": 3429624,
+                        "reportDataId": 26776
+                    },
+                    {
+                        "matnr": "11016461",
+                        "maktx": "MAXIOR_1L_PL",
+                        "id": 3429625,
                         "reportDataId": 26776
                     }
                 ],
@@ -33439,54 +33439,54 @@
                 "casnumber": "",
                 "commercialnames": "MAGNELLO EC (3PP REPACK)",
                 "cmr": "",
-                "publishdate": "11/13/2024",
+                "publishdate": "08/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "DE",
                 "validityareadescription": "Deutschland",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/13/2024",
+                "revisiondate": "08/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11016274",
+                        "maktx": "MAGNELLO_5L_IT",
+                        "id": 3429608,
+                        "reportDataId": 26777
+                    },
+                    {
                         "matnr": "11016282",
                         "maktx": "MAGNELLO_5L_AT",
-                        "id": 3271051,
-                        "reportDataId": 26777
-                    },
-                    {
-                        "matnr": "11015754",
-                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
-                        "id": 3271052,
-                        "reportDataId": 26777
-                    },
-                    {
-                        "matnr": "11016461",
-                        "maktx": "MAXIOR_1L_PL",
-                        "id": 3271053,
-                        "reportDataId": 26777
-                    },
-                    {
-                        "matnr": "11015756",
-                        "maktx": "MAGNELLO EC_5L_BG",
-                        "id": 3271054,
+                        "id": 3429609,
                         "reportDataId": 26777
                     },
                     {
                         "matnr": "11016277",
                         "maktx": "MAGNELLO_5L_DE",
-                        "id": 3271055,
+                        "id": 3429610,
                         "reportDataId": 26777
                     },
                     {
-                        "matnr": "11016274",
-                        "maktx": "MAGNELLO_5L_IT",
-                        "id": 3271056,
+                        "matnr": "11015756",
+                        "maktx": "MAGNELLO EC_5L_BG",
+                        "id": 3429611,
+                        "reportDataId": 26777
+                    },
+                    {
+                        "matnr": "11015754",
+                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
+                        "id": 3429612,
+                        "reportDataId": 26777
+                    },
+                    {
+                        "matnr": "11016461",
+                        "maktx": "MAXIOR_1L_PL",
+                        "id": 3429613,
                         "reportDataId": 26777
                     }
                 ],
@@ -120271,54 +120271,54 @@
                 "casnumber": "",
                 "commercialnames": "MAGNELLO EC (3PP REPACK)",
                 "cmr": "",
-                "publishdate": "03/07/2025",
+                "publishdate": "08/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "DE",
                 "validityareadescription": "Germany",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "03/07/2025",
+                "revisiondate": "08/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11016274",
+                        "maktx": "MAGNELLO_5L_IT",
+                        "id": 3429614,
+                        "reportDataId": 27078
+                    },
+                    {
                         "matnr": "11016282",
                         "maktx": "MAGNELLO_5L_AT",
-                        "id": 3271057,
-                        "reportDataId": 27078
-                    },
-                    {
-                        "matnr": "11015754",
-                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
-                        "id": 3271058,
-                        "reportDataId": 27078
-                    },
-                    {
-                        "matnr": "11016461",
-                        "maktx": "MAXIOR_1L_PL",
-                        "id": 3271059,
-                        "reportDataId": 27078
-                    },
-                    {
-                        "matnr": "11015756",
-                        "maktx": "MAGNELLO EC_5L_BG",
-                        "id": 3271060,
+                        "id": 3429615,
                         "reportDataId": 27078
                     },
                     {
                         "matnr": "11016277",
                         "maktx": "MAGNELLO_5L_DE",
-                        "id": 3271061,
+                        "id": 3429616,
                         "reportDataId": 27078
                     },
                     {
-                        "matnr": "11016274",
-                        "maktx": "MAGNELLO_5L_IT",
-                        "id": 3271062,
+                        "matnr": "11015756",
+                        "maktx": "MAGNELLO EC_5L_BG",
+                        "id": 3429617,
+                        "reportDataId": 27078
+                    },
+                    {
+                        "matnr": "11015754",
+                        "maktx": "MAGNELLO EC_5L_BG_SYNGENTA",
+                        "id": 3429618,
+                        "reportDataId": 27078
+                    },
+                    {
+                        "matnr": "11016461",
+                        "maktx": "MAXIOR_1L_PL",
+                        "id": 3429619,
                         "reportDataId": 27078
                     }
                 ],
@@ -199970,16 +199970,16 @@
                 "casnumber": "",
                 "commercialnames": "RYX 600 g/L FS",
                 "cmr": "",
-                "publishdate": "07/24/2025",
+                "publishdate": "08/27/2025",
                 "iupac": "",
                 "incode": "E2Y45",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "US",
                 "validityareadescription": "USA",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "07/24/2025",
+                "revisiondate": "08/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -199987,7 +199987,7 @@
                     {
                         "matnr": "12006670",
                         "maktx": "RYX 600FS_MI_MO",
-                        "id": 3255017,
+                        "id": 3429627,
                         "reportDataId": 27524
                     }
                 ],
@@ -200008,16 +200008,16 @@
                 "casnumber": "",
                 "commercialnames": "RYX 600 g/L FS",
                 "cmr": "",
-                "publishdate": "07/24/2025",
+                "publishdate": "08/27/2025",
                 "iupac": "",
                 "incode": "E2Y45",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "US",
                 "validityareadescription": "USA",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "07/24/2025",
+                "revisiondate": "08/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -200025,7 +200025,7 @@
                     {
                         "matnr": "12006670",
                         "maktx": "RYX 600FS_MI_MO",
-                        "id": 3255018,
+                        "id": 3429626,
                         "reportDataId": 27525
                     }
                 ],
@@ -220705,6 +220705,82 @@
                     }
                 ],
                 "id": 27653
+            },
+            {
+                "pdfname": "50003030_SDS_CA_3F.PDF",
+                "specificationid": "50003030",
+                "path": "\\\\172.18.22.6\\sds_external/50003030_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Rynaxypyr\u00ae Active 600 FS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS",
+                "cmr": "",
+                "publishdate": "08/27/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "08/27/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006670",
+                        "maktx": "RYX 600FS_MI_MO",
+                        "id": 3429628,
+                        "reportDataId": 27654
+                    }
+                ],
+                "id": 27654
+            },
+            {
+                "pdfname": "50003030_SDS_CA_EN.PDF",
+                "specificationid": "50003030",
+                "path": "\\\\172.18.22.6\\sds_external/50003030_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Rynaxypyr\u00ae Active 600 FS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "RYNAXYPYR ACTIVE 600 FS",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS",
+                "cmr": "",
+                "publishdate": "08/27/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "08/27/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006670",
+                        "maktx": "RYX 600FS_MI_MO",
+                        "id": 3429629,
+                        "reportDataId": 27655
+                    }
+                ],
+                "id": 27655
             }
         ],
         "isExportToExcel": false
