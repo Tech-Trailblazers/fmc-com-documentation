@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6059,
+        "totalCount": 6060,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -129628,7 +129628,20 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [],
+                "materials": [
+                    {
+                        "matnr": "11015255",
+                        "maktx": "PRESENCE FULL_10KG_BR",
+                        "id": 3430007,
+                        "reportDataId": 27123
+                    },
+                    {
+                        "matnr": "11015262",
+                        "maktx": "PRESENCE FULL_1KG_BR",
+                        "id": 3430008,
+                        "reportDataId": 27123
+                    }
+                ],
                 "id": 27123
             },
             {
@@ -133863,93 +133876,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11008336",
+                        "maktx": "DISMISS_0.5GAL_US",
+                        "id": 3429899,
+                        "reportDataId": 27157
+                    },
+                    {
                         "matnr": "11014620",
                         "maktx": "AUTHORITY 48SC_200L_BD",
-                        "id": 2752814,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "12001334",
-                        "maktx": "SFZ 480SC_?_?_?",
-                        "id": 2752815,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "12000910",
-                        "maktx": "SFZ 480SC_WY_TAGR",
-                        "id": 2752816,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "11007886",
-                        "maktx": "AUTHORITY SC_1L_NZ",
-                        "id": 2752817,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "12001348",
-                        "maktx": "SFZ 480SC_?_?_?",
-                        "id": 2752818,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "11015897",
-                        "maktx": "SPARTAN 4F_2.5GAL_US",
-                        "id": 2752819,
+                        "id": 3429900,
                         "reportDataId": 27157
                     },
                     {
                         "matnr": "11014711",
                         "maktx": "BORAL 50SC_200L_GT",
-                        "id": 2752820,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "11014858",
-                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
-                        "id": 2752821,
+                        "id": 3429901,
                         "reportDataId": 27157
                     },
                     {
                         "matnr": "11008371",
                         "maktx": "AUTHORITY 480SC_3.79L_CA",
-                        "id": 2752822,
-                        "reportDataId": 27157
-                    },
-                    {
-                        "matnr": "11005983",
-                        "maktx": "AUTHORITY 480SC_1L_SA",
-                        "id": 2752823,
+                        "id": 3429902,
                         "reportDataId": 27157
                     },
                     {
                         "matnr": "12001171",
                         "maktx": "SFZ 480SC_200L_SZ_JL",
-                        "id": 2752824,
+                        "id": 3429903,
                         "reportDataId": 27157
                     },
                     {
-                        "matnr": "11008475",
-                        "maktx": "DISMISS_6OZ_US",
-                        "id": 2752825,
+                        "matnr": "11005983",
+                        "maktx": "AUTHORITY 480SC_1L_SA",
+                        "id": 3429904,
                         "reportDataId": 27157
                     },
                     {
-                        "matnr": "12001894",
-                        "maktx": "SFZ 480SC_WY_MUL",
-                        "id": 2752826,
+                        "matnr": "11015897",
+                        "maktx": "SPARTAN 4F_2.5GAL_US",
+                        "id": 3429905,
                         "reportDataId": 27157
                     },
                     {
-                        "matnr": "11008336",
-                        "maktx": "DISMISS_0.5GAL_US",
-                        "id": 2752827,
+                        "matnr": "12000910",
+                        "maktx": "SFZ 480SC_WY_TAGR",
+                        "id": 3429906,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "12001348",
+                        "maktx": "SFZ 480SC_?_?_?",
+                        "id": 3429907,
                         "reportDataId": 27157
                     },
                     {
                         "matnr": "11004754",
                         "maktx": "BLANKET_2.5GAL_US _TENKOZ",
-                        "id": 2752828,
+                        "id": 3429908,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "11007886",
+                        "maktx": "AUTHORITY SC_1L_NZ",
+                        "id": 3429909,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "11008475",
+                        "maktx": "DISMISS_6OZ_US",
+                        "id": 3429910,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "12001894",
+                        "maktx": "SFZ 480SC_WY_MUL",
+                        "id": 3429911,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "11014858",
+                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
+                        "id": 3429912,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "12001334",
+                        "maktx": "SFZ 480SC_?_?_?",
+                        "id": 3429913,
+                        "reportDataId": 27157
+                    },
+                    {
+                        "matnr": "11016862",
+                        "maktx": "AUTHORITY 480SC_500ML_TW",
+                        "id": 3429914,
                         "reportDataId": 27157
                     }
                 ],
@@ -190111,93 +190130,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008475",
-                        "maktx": "DISMISS_6OZ_US",
-                        "id": 3230086,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11007886",
-                        "maktx": "AUTHORITY SC_1L_NZ",
-                        "id": 3230087,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11004754",
-                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
-                        "id": 3230088,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11008371",
-                        "maktx": "AUTHORITY 480SC_3.79L_CA",
-                        "id": 3230089,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11014858",
-                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
-                        "id": 3230090,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "12001894",
-                        "maktx": "SFZ 480SC_WY_MUL",
-                        "id": 3230091,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "12001334",
-                        "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230092,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "12001171",
-                        "maktx": "SFZ 480SC_200L_SZ_JL",
-                        "id": 3230093,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11014711",
-                        "maktx": "BORAL 50SC_200L_GT",
-                        "id": 3230094,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "11005983",
-                        "maktx": "AUTHORITY 480SC_1L_SA",
-                        "id": 3230095,
-                        "reportDataId": 27465
-                    },
-                    {
-                        "matnr": "12000910",
-                        "maktx": "SFZ 480SC_WY_TAGR",
-                        "id": 3230096,
+                        "matnr": "11008336",
+                        "maktx": "DISMISS_0.5GAL_US",
+                        "id": 3429915,
                         "reportDataId": 27465
                     },
                     {
                         "matnr": "11014620",
                         "maktx": "AUTHORITY 48SC_200L_BD",
-                        "id": 3230097,
+                        "id": 3429916,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11014711",
+                        "maktx": "BORAL 50SC_200L_GT",
+                        "id": 3429917,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11008371",
+                        "maktx": "AUTHORITY 480SC_3.79L_CA",
+                        "id": 3429918,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "12001171",
+                        "maktx": "SFZ 480SC_200L_SZ_JL",
+                        "id": 3429919,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11005983",
+                        "maktx": "AUTHORITY 480SC_1L_SA",
+                        "id": 3429920,
                         "reportDataId": 27465
                     },
                     {
                         "matnr": "11015897",
                         "maktx": "SPARTAN 4F_2.5GAL_US",
-                        "id": 3230098,
+                        "id": 3429921,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "12000910",
+                        "maktx": "SFZ 480SC_WY_TAGR",
+                        "id": 3429922,
                         "reportDataId": 27465
                     },
                     {
                         "matnr": "12001348",
                         "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230099,
+                        "id": 3429923,
                         "reportDataId": 27465
                     },
                     {
-                        "matnr": "11008336",
-                        "maktx": "DISMISS_0.5GAL_US",
-                        "id": 3230100,
+                        "matnr": "11004754",
+                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
+                        "id": 3429924,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11007886",
+                        "maktx": "AUTHORITY SC_1L_NZ",
+                        "id": 3429925,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11008475",
+                        "maktx": "DISMISS_6OZ_US",
+                        "id": 3429926,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "12001894",
+                        "maktx": "SFZ 480SC_WY_MUL",
+                        "id": 3429927,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11014858",
+                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
+                        "id": 3429928,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "12001334",
+                        "maktx": "SFZ 480SC_?_?_?",
+                        "id": 3429929,
+                        "reportDataId": 27465
+                    },
+                    {
+                        "matnr": "11016862",
+                        "maktx": "AUTHORITY 480SC_500ML_TW",
+                        "id": 3429930,
                         "reportDataId": 27465
                     }
                 ],
@@ -190233,93 +190258,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008475",
-                        "maktx": "DISMISS_6OZ_US",
-                        "id": 3230101,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11007886",
-                        "maktx": "AUTHORITY SC_1L_NZ",
-                        "id": 3230102,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11004754",
-                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
-                        "id": 3230103,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11008371",
-                        "maktx": "AUTHORITY 480SC_3.79L_CA",
-                        "id": 3230104,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11014858",
-                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
-                        "id": 3230105,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "12001894",
-                        "maktx": "SFZ 480SC_WY_MUL",
-                        "id": 3230106,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "12001334",
-                        "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230107,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "12001171",
-                        "maktx": "SFZ 480SC_200L_SZ_JL",
-                        "id": 3230108,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11014711",
-                        "maktx": "BORAL 50SC_200L_GT",
-                        "id": 3230109,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "11005983",
-                        "maktx": "AUTHORITY 480SC_1L_SA",
-                        "id": 3230110,
-                        "reportDataId": 27466
-                    },
-                    {
-                        "matnr": "12000910",
-                        "maktx": "SFZ 480SC_WY_TAGR",
-                        "id": 3230111,
+                        "matnr": "11008336",
+                        "maktx": "DISMISS_0.5GAL_US",
+                        "id": 3429931,
                         "reportDataId": 27466
                     },
                     {
                         "matnr": "11014620",
                         "maktx": "AUTHORITY 48SC_200L_BD",
-                        "id": 3230112,
+                        "id": 3429932,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11014711",
+                        "maktx": "BORAL 50SC_200L_GT",
+                        "id": 3429933,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11008371",
+                        "maktx": "AUTHORITY 480SC_3.79L_CA",
+                        "id": 3429934,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "12001171",
+                        "maktx": "SFZ 480SC_200L_SZ_JL",
+                        "id": 3429935,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11005983",
+                        "maktx": "AUTHORITY 480SC_1L_SA",
+                        "id": 3429936,
                         "reportDataId": 27466
                     },
                     {
                         "matnr": "11015897",
                         "maktx": "SPARTAN 4F_2.5GAL_US",
-                        "id": 3230113,
+                        "id": 3429937,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "12000910",
+                        "maktx": "SFZ 480SC_WY_TAGR",
+                        "id": 3429938,
                         "reportDataId": 27466
                     },
                     {
                         "matnr": "12001348",
                         "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230114,
+                        "id": 3429939,
                         "reportDataId": 27466
                     },
                     {
-                        "matnr": "11008336",
-                        "maktx": "DISMISS_0.5GAL_US",
-                        "id": 3230115,
+                        "matnr": "11004754",
+                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
+                        "id": 3429940,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11007886",
+                        "maktx": "AUTHORITY SC_1L_NZ",
+                        "id": 3429941,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11008475",
+                        "maktx": "DISMISS_6OZ_US",
+                        "id": 3429942,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "12001894",
+                        "maktx": "SFZ 480SC_WY_MUL",
+                        "id": 3429943,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11014858",
+                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
+                        "id": 3429944,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "12001334",
+                        "maktx": "SFZ 480SC_?_?_?",
+                        "id": 3429945,
+                        "reportDataId": 27466
+                    },
+                    {
+                        "matnr": "11016862",
+                        "maktx": "AUTHORITY 480SC_500ML_TW",
+                        "id": 3429946,
                         "reportDataId": 27466
                     }
                 ],
@@ -190355,93 +190386,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008475",
-                        "maktx": "DISMISS_6OZ_US",
-                        "id": 3230116,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11007886",
-                        "maktx": "AUTHORITY SC_1L_NZ",
-                        "id": 3230117,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11004754",
-                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
-                        "id": 3230118,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11008371",
-                        "maktx": "AUTHORITY 480SC_3.79L_CA",
-                        "id": 3230119,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11014858",
-                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
-                        "id": 3230120,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "12001894",
-                        "maktx": "SFZ 480SC_WY_MUL",
-                        "id": 3230121,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "12001334",
-                        "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230122,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "12001171",
-                        "maktx": "SFZ 480SC_200L_SZ_JL",
-                        "id": 3230123,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11014711",
-                        "maktx": "BORAL 50SC_200L_GT",
-                        "id": 3230124,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "11005983",
-                        "maktx": "AUTHORITY 480SC_1L_SA",
-                        "id": 3230125,
-                        "reportDataId": 27467
-                    },
-                    {
-                        "matnr": "12000910",
-                        "maktx": "SFZ 480SC_WY_TAGR",
-                        "id": 3230126,
+                        "matnr": "11008336",
+                        "maktx": "DISMISS_0.5GAL_US",
+                        "id": 3429947,
                         "reportDataId": 27467
                     },
                     {
                         "matnr": "11014620",
                         "maktx": "AUTHORITY 48SC_200L_BD",
-                        "id": 3230127,
+                        "id": 3429948,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11014711",
+                        "maktx": "BORAL 50SC_200L_GT",
+                        "id": 3429949,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11008371",
+                        "maktx": "AUTHORITY 480SC_3.79L_CA",
+                        "id": 3429950,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "12001171",
+                        "maktx": "SFZ 480SC_200L_SZ_JL",
+                        "id": 3429951,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11005983",
+                        "maktx": "AUTHORITY 480SC_1L_SA",
+                        "id": 3429952,
                         "reportDataId": 27467
                     },
                     {
                         "matnr": "11015897",
                         "maktx": "SPARTAN 4F_2.5GAL_US",
-                        "id": 3230128,
+                        "id": 3429953,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "12000910",
+                        "maktx": "SFZ 480SC_WY_TAGR",
+                        "id": 3429954,
                         "reportDataId": 27467
                     },
                     {
                         "matnr": "12001348",
                         "maktx": "SFZ 480SC_?_?_?",
-                        "id": 3230129,
+                        "id": 3429955,
                         "reportDataId": 27467
                     },
                     {
-                        "matnr": "11008336",
-                        "maktx": "DISMISS_0.5GAL_US",
-                        "id": 3230130,
+                        "matnr": "11004754",
+                        "maktx": "BLANKET_2.5GAL_US _TENKOZ",
+                        "id": 3429956,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11007886",
+                        "maktx": "AUTHORITY SC_1L_NZ",
+                        "id": 3429957,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11008475",
+                        "maktx": "DISMISS_6OZ_US",
+                        "id": 3429958,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "12001894",
+                        "maktx": "SFZ 480SC_WY_MUL",
+                        "id": 3429959,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11014858",
+                        "maktx": "AUTHORITY 480 MUC HERBICIDE_946L_CA",
+                        "id": 3429960,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "12001334",
+                        "maktx": "SFZ 480SC_?_?_?",
+                        "id": 3429961,
+                        "reportDataId": 27467
+                    },
+                    {
+                        "matnr": "11016862",
+                        "maktx": "AUTHORITY 480SC_500ML_TW",
+                        "id": 3429962,
                         "reportDataId": 27467
                     }
                 ],
@@ -221323,6 +221360,92 @@
                     }
                 ],
                 "id": 27659
+            },
+            {
+                "pdfname": "50000924_EXT_SDS_PL_PL.PDF",
+                "specificationid": "50000924",
+                "path": "\\\\172.18.22.6\\sds_external/50000924_EXT_SDS_PL_PL.PDF",
+                "reptype": "MSDS",
+                "language": "PL",
+                "genvariant": "EXT_SDS_PL",
+                "authorizedportal": "P3",
+                "productname": "IRAZU\u00ae 100 SE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 100 g/L SE (PROXEL) (CHILD)",
+                "cmr": "",
+                "publishdate": "08/29/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PL",
+                "validityareadescription": "Poland",
+                "legacyspecid": "Q-1367",
+                "legacysdsid": "130000106290",
+                "revisiondate": "08/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015301",
+                        "maktx": "EXIREL BAIT 2023_200ML_IT",
+                        "id": 3430065,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11014480",
+                        "maktx": "EXIREL BAIT 2022_150ML_IT",
+                        "id": 3430066,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11010191",
+                        "maktx": "EXIREL BAIT 2000_200ML_IT",
+                        "id": 3430067,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11014491",
+                        "maktx": "EXIREL BAIT 2022_200ML_IT",
+                        "id": 3430068,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11015312",
+                        "maktx": "EXIREL BAIT_150ML_IT",
+                        "id": 3430069,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11014985",
+                        "maktx": "EXIREL BAIT 2023_150ML_IT",
+                        "id": 3430070,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11014353",
+                        "maktx": "EXIREL BAIT VISAREL_CP150ML 5L_IT",
+                        "id": 3430071,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11013734",
+                        "maktx": "EXIREL BAIT 2021_150ML_IT",
+                        "id": 3430072,
+                        "reportDataId": 27660
+                    },
+                    {
+                        "matnr": "11015280",
+                        "maktx": "EXIREL BAIT_200ML_IT",
+                        "id": 3430073,
+                        "reportDataId": 27660
+                    }
+                ],
+                "id": 27660
             }
         ],
         "isExportToExcel": false
