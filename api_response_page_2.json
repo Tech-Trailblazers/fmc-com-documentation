@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6062,
+        "totalCount": 6064,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,248 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000963_SDS_DK_6N.PDF",
-                "specificationid": "50000963",
-                "path": "\\\\172.18.22.6\\sds_external/50000963_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "TRIBENURON METHYL 75WG (PASTE EXTRUDED)",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CAMEO 75PX (M)",
-                "casnumber": "",
-                "commercialnames": "TBM 75 WG (EXTRUDED)",
-                "cmr": "",
-                "publishdate": "09/19/2024",
-                "iupac": "",
-                "incode": "L5300",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "E-05.2",
-                "legacysdsid": "130000028296",
-                "revisiondate": "09/19/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006574",
-                        "maktx": "POINTER 75PX _500G_MD",
-                        "id": 1928390,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006101",
-                        "maktx": "GRANSTAR 75PX_50G_OM",
-                        "id": 1928391,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005493",
-                        "maktx": "GRANSTAR 75DF_1KG_NZ",
-                        "id": 1928392,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006319",
-                        "maktx": "EXPRESS_200G_RU KZ",
-                        "id": 1928393,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009630",
-                        "maktx": "EXPRESS 75PX 10X500G JAR MD-CORTEVA",
-                        "id": 1928394,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009373",
-                        "maktx": "EXPRESS 75PX_500G_KZ",
-                        "id": 1928395,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12002114",
-                        "maktx": "TBM 750WG - PASTE_50KG_UF_ALL",
-                        "id": 1928396,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005838",
-                        "maktx": "GRANSTAR_50G_TR",
-                        "id": 1928397,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009506",
-                        "maktx": "EXPRESS LW_320G_CA",
-                        "id": 1928398,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006019",
-                        "maktx": "EXPRESS_500G_UA",
-                        "id": 1928399,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12000616",
-                        "maktx": "TBM 750WG_500KG_AU",
-                        "id": 1928400,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009633",
-                        "maktx": "EXPRESS 75PX 10X500G JAR UA-CORTEVA",
-                        "id": 1928401,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11013363",
-                        "maktx": "EXPRESS 75WG_500G_UA",
-                        "id": 1928402,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006415",
-                        "maktx": "GRANSTAR_90G_TR",
-                        "id": 1928403,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009627",
-                        "maktx": "GRANSTAR 75PX 10X90G JAR TR-SYN",
-                        "id": 1928404,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005330",
-                        "maktx": "GRANSTAR_200G_NZ",
-                        "id": 1928405,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005342",
-                        "maktx": "EXPRESS 75DF_500G_AU",
-                        "id": 1928406,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005438",
-                        "maktx": "GRANSTAR 75DF_100G_DZ_ACI",
-                        "id": 1928407,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11014413",
-                        "maktx": "EXPRESS 75PX_60G_RS_AGROMARKET",
-                        "id": 1928408,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11001042",
-                        "maktx": "EXPRESS 75PX 10X500G JAR KZ-CORTEVA",
-                        "id": 1928409,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11005259",
-                        "maktx": "SPARTAN _160G_CA",
-                        "id": 1928410,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11000825",
-                        "maktx": "EXPRESS 75PX 10X500G JAR MD-SYN",
-                        "id": 1928411,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009640",
-                        "maktx": "FLUENCE 75PX 10X500G JAR MD-SYN",
-                        "id": 1928412,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12001535",
-                        "maktx": "TBM 750WG_60KG",
-                        "id": 1928413,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11014965",
-                        "maktx": "EXPRESS 75WG_60G_MD",
-                        "id": 1928414,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11000215",
-                        "maktx": "EXPRESS 75PX_200G_RU_CORTEVA",
-                        "id": 1928415,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12002132",
-                        "maktx": "TBM 750WG_?_CA_DWDP",
-                        "id": 1928416,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006611",
-                        "maktx": "GRANSTAR_10KG_NZ",
-                        "id": 1928417,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11006232",
-                        "maktx": "EXPRESS 75WG_500G_MD",
-                        "id": 1928418,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009653",
-                        "maktx": "EXPRESS 75PX 10X500G JAR UA-SYN",
-                        "id": 1928419,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11001731",
-                        "maktx": "EXPRESS 75PX_500G_KZ",
-                        "id": 1928420,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12005363",
-                        "maktx": "TBM 750WG - PASTE_500KG_CA_UF_ALL",
-                        "id": 1928421,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "11009618",
-                        "maktx": "GRANSTAR 75PX 10X90G JAR TR-CORTEVA",
-                        "id": 1928422,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12002086",
-                        "maktx": "TBM 750DF_50KG_?",
-                        "id": 1928423,
-                        "reportDataId": 26572
-                    },
-                    {
-                        "matnr": "12002173",
-                        "maktx": "TBM 750WG_?_?",
-                        "id": 1928424,
-                        "reportDataId": 26572
-                    }
-                ],
-                "id": 26572
-            },
             {
                 "pdfname": "50001047_SDS_CN_ZH.PDF",
                 "specificationid": "50001047",
@@ -221558,6 +221316,486 @@
                     }
                 ],
                 "id": 27663
+            },
+            {
+                "pdfname": "50001122_EXT_SDS_DZ_FR.PDF",
+                "specificationid": "50001122",
+                "path": "\\\\172.18.22.6\\sds_external/50001122_EXT_SDS_DZ_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "EXT_SDS_DZ",
+                "authorizedportal": "P3",
+                "productname": "VYTEGRIS\u2122 HI-PHOS FERTILIZER",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0034",
+                "cmr": "",
+                "publishdate": "09/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DZ",
+                "validityareadescription": "Algeria",
+                "legacyspecid": "NP-0034",
+                "legacysdsid": "NP-0034",
+                "revisiondate": "09/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3433037,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 3433038,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3433039,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3433040,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3433041,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3433042,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3433043,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3433044,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3433045,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3433046,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3433047,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3433048,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3433049,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3433050,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3433051,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3433052,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3433053,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3433054,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3433055,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001604",
+                        "maktx": "HI PHOS_5L_TN_AGDI",
+                        "id": 3433056,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3433057,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3433058,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3433059,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3433060,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3433061,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3433062,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3433063,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3433064,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3433065,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3433066,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3433067,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3433068,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3433069,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3433070,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 3433071,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001575",
+                        "maktx": "HI PHOS_10L_EG_TIBA",
+                        "id": 3433072,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3433073,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3433074,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3433075,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3433076,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3433077,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3433078,
+                        "reportDataId": 27664
+                    }
+                ],
+                "id": 27664
+            },
+            {
+                "pdfname": "50000811_SDS_GB_6N.PDF",
+                "specificationid": "50000811",
+                "path": "\\\\172.18.22.6\\sds_external/50000811_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "STALLION\u00ae SYNC TEC\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CLOMAZONE + PENDIMETHALIN 30/333 CS",
+                "casnumber": "",
+                "commercialnames": "CLZ(HP) + PEN (30 + 333) G/L CS",
+                "cmr": "",
+                "publishdate": "09/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "FO004132",
+                "legacysdsid": "",
+                "revisiondate": "09/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005914",
+                        "maktx": "CLZ 30 + PEN 333CS_KWIZ_YNGN",
+                        "id": 3433079,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "12001659",
+                        "maktx": "CLZ 30-PEN 333CS_KWIZ_JL BASF",
+                        "id": 3433080,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11014598",
+                        "maktx": "STALLION SYNCTEC_5L_GB",
+                        "id": 3433081,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11009488",
+                        "maktx": "STALLION SYNC TEC 30 333_10L_FR",
+                        "id": 3433082,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "12001016",
+                        "maktx": "CLZ 34 - PEN 375CS_KWIZ_CYND BASF",
+                        "id": 3433083,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11005368",
+                        "maktx": "STALLION_1L_MA_BASF",
+                        "id": 3433084,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "12006451",
+                        "maktx": "CLZ 30 + PEN 333CS_1000L_KWIZ_ALL",
+                        "id": 3433085,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11001824",
+                        "maktx": "STALLION SYNCTEC_1000L_GB",
+                        "id": 3433086,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11008135",
+                        "maktx": "STALLION SYNC TEC_5L_AT",
+                        "id": 3433087,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11014760",
+                        "maktx": "STALLION SYNCTEC_10L_GB",
+                        "id": 3433088,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11014820",
+                        "maktx": "STALLION SYNC_10L_IE",
+                        "id": 3433089,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11001230",
+                        "maktx": "STALLION SYNCTEC_5L_BE",
+                        "id": 3433090,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11002539",
+                        "maktx": "STALLION_5L_MA_AMAROC",
+                        "id": 3433091,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11015790",
+                        "maktx": "STALLION SYNCTEC_10L_BE",
+                        "id": 3433092,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11013816",
+                        "maktx": "STALLION_5L_TN_AGRIPROTEC",
+                        "id": 3433093,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11008123",
+                        "maktx": "STALLION SYNC T_10L_IE_GB",
+                        "id": 3433094,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11002793",
+                        "maktx": "STALLION 363CS_1L_PL",
+                        "id": 3433095,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11009136",
+                        "maktx": "STALLION SYNC TEC_10L_FR",
+                        "id": 3433096,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11007858",
+                        "maktx": "STALLION SYNC TEC 30 333_5L_BE",
+                        "id": 3433097,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11008219",
+                        "maktx": "SYNCTEC STALLION_5L_CZ_FNAGRO",
+                        "id": 3433098,
+                        "reportDataId": 27665
+                    },
+                    {
+                        "matnr": "11008203",
+                        "maktx": "STALLION 363CS_10L_PL",
+                        "id": 3433099,
+                        "reportDataId": 27665
+                    }
+                ],
+                "id": 27665
+            },
+            {
+                "pdfname": "50000175_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50000175",
+                "path": "\\\\172.18.22.6\\sds_external/50000175_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "RUGBY\u00ae 100 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CADUSAFOS 10 WT% GR",
+                "casnumber": "",
+                "commercialnames": "CAD 10 GR",
+                "cmr": "",
+                "publishdate": "09/02/2025",
+                "iupac": "",
+                "incode": "VNL66",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "FO004028",
+                "legacysdsid": "",
+                "revisiondate": "09/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004606",
+                        "maktx": "RUGBY 100 GR_10KG_BR",
+                        "id": 3433101,
+                        "reportDataId": 27666
+                    }
+                ],
+                "id": 27666
             }
         ],
         "isExportToExcel": false
