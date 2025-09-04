@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6064,
+        "totalCount": 6062,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,840 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001047_SDS_CN_ZH.PDF",
-                "specificationid": "50001047",
-                "path": "\\\\172.18.22.6\\sds_external/50001047_SDS_CN_ZH.PDF",
-                "reptype": "MSDS",
-                "language": "ZH",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "Ally\u00ae XP Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "MEM 60 WG (PASTE EXTRUDED)",
-                "cmr": "",
-                "publishdate": "09/19/2024",
-                "iupac": "",
-                "incode": "T6376",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "A-06.1.1",
-                "legacysdsid": "130000028543",
-                "revisiondate": "09/19/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001302",
-                        "maktx": "ALLY 60XP_50KG_MX",
-                        "id": 1902003,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12002985",
-                        "maktx": "MEM 600WG_60KG",
-                        "id": 1902004,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12001088",
-                        "maktx": "MEM 600WG_500KG_UF ALL",
-                        "id": 1902005,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12005273",
-                        "maktx": "MEM 600WG - PASTE_500KG_CA_UF_ALL",
-                        "id": 1902006,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11004554",
-                        "maktx": "ACCURATE,60WG,10GR,E,S#MX,V2",
-                        "id": 1902007,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11006140",
-                        "maktx": "ALLY XP_15G_PE",
-                        "id": 1902008,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11015492",
-                        "maktx": "ALLY_244G_CA",
-                        "id": 1902009,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11008990",
-                        "maktx": "METSULFURON METHYL 60XP_100G_AR",
-                        "id": 1902010,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12001076",
-                        "maktx": "MEM 600WG - PASTE_50KG_CA_UF_ALL",
-                        "id": 1902011,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11009507",
-                        "maktx": "ALLY_50KG_MUL",
-                        "id": 1902012,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12005210",
-                        "maktx": "MEM 600WG - PASTE_50KG_UF_ALL",
-                        "id": 1902013,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11005785",
-                        "maktx": "ALLY 60XP_10G_MX",
-                        "id": 1902014,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11014835",
-                        "maktx": "ALLY XP_50KG_CO",
-                        "id": 1902015,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11006220",
-                        "maktx": "ALLY 60XP_50KG_JP",
-                        "id": 1902016,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11006214",
-                        "maktx": "ALLY 60XP_50KG_CO",
-                        "id": 1902017,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12001970",
-                        "maktx": "MEM 600WG_50KG_?_?",
-                        "id": 1902018,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11006139",
-                        "maktx": "ALLY XP_15G_CO",
-                        "id": 1902019,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12002193",
-                        "maktx": "MEM 600WG_?_CA_DWDP",
-                        "id": 1902020,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12005150",
-                        "maktx": "MEM 600WG - PASTE_50KG_BR_UF_ALL",
-                        "id": 1902021,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11006174",
-                        "maktx": "BRUSH-OFF_250G_ZA",
-                        "id": 1902022,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11005999",
-                        "maktx": "ALLY 60XP_35LB_US",
-                        "id": 1902023,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11010181",
-                        "maktx": "METSULFURON 60XP 5KG FRC CA",
-                        "id": 1902024,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12002128",
-                        "maktx": "MEM 600WG - PASTE_50KG_FR RU_CB_ALL",
-                        "id": 1902025,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12005151",
-                        "maktx": "MEM 600WG - PASTE_50KG_MX_XPOL_MA",
-                        "id": 1902026,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11005609",
-                        "maktx": "ALLY 60XP_8OZ_US",
-                        "id": 1902027,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "12005242",
-                        "maktx": "MEM 600WG - PASTE_50KG_BR_XPOL_MA",
-                        "id": 1902028,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11014095",
-                        "maktx": "CONCEPT_100G_BR",
-                        "id": 1902029,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11015673",
-                        "maktx": "ALLY XP_11LB_US",
-                        "id": 1902030,
-                        "reportDataId": 26573
-                    },
-                    {
-                        "matnr": "11014860",
-                        "maktx": "ALLY_50KG_AR",
-                        "id": 1902031,
-                        "reportDataId": 26573
-                    }
-                ],
-                "id": 26573
-            },
-            {
-                "pdfname": "50001047_SDS_CN_EN.PDF",
-                "specificationid": "50001047",
-                "path": "\\\\172.18.22.6\\sds_external/50001047_SDS_CN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "Ally\u00ae XP Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "MEM 60 WG (PASTE EXTRUDED)",
-                "cmr": "",
-                "publishdate": "09/19/2024",
-                "iupac": "",
-                "incode": "T6376",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "A-06.1.1",
-                "legacysdsid": "130000028543",
-                "revisiondate": "09/19/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001302",
-                        "maktx": "ALLY 60XP_50KG_MX",
-                        "id": 1902032,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12001088",
-                        "maktx": "MEM 600WG_500KG_UF ALL",
-                        "id": 1902033,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12005273",
-                        "maktx": "MEM 600WG - PASTE_500KG_CA_UF_ALL",
-                        "id": 1902034,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11006220",
-                        "maktx": "ALLY 60XP_50KG_JP",
-                        "id": 1902035,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11004554",
-                        "maktx": "ACCURATE,60WG,10GR,E,S#MX,V2",
-                        "id": 1902036,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11006140",
-                        "maktx": "ALLY XP_15G_PE",
-                        "id": 1902037,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11015492",
-                        "maktx": "ALLY_244G_CA",
-                        "id": 1902038,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11008990",
-                        "maktx": "METSULFURON METHYL 60XP_100G_AR",
-                        "id": 1902039,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12001076",
-                        "maktx": "MEM 600WG - PASTE_50KG_CA_UF_ALL",
-                        "id": 1902040,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11009507",
-                        "maktx": "ALLY_50KG_MUL",
-                        "id": 1902041,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12005210",
-                        "maktx": "MEM 600WG - PASTE_50KG_UF_ALL",
-                        "id": 1902042,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11005785",
-                        "maktx": "ALLY 60XP_10G_MX",
-                        "id": 1902043,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11006214",
-                        "maktx": "ALLY 60XP_50KG_CO",
-                        "id": 1902044,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12002985",
-                        "maktx": "MEM 600WG_60KG",
-                        "id": 1902045,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12001970",
-                        "maktx": "MEM 600WG_50KG_?_?",
-                        "id": 1902046,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11014835",
-                        "maktx": "ALLY XP_50KG_CO",
-                        "id": 1902047,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12002193",
-                        "maktx": "MEM 600WG_?_CA_DWDP",
-                        "id": 1902048,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12005150",
-                        "maktx": "MEM 600WG - PASTE_50KG_BR_UF_ALL",
-                        "id": 1902049,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11006174",
-                        "maktx": "BRUSH-OFF_250G_ZA",
-                        "id": 1902050,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11005999",
-                        "maktx": "ALLY 60XP_35LB_US",
-                        "id": 1902051,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11010181",
-                        "maktx": "METSULFURON 60XP 5KG FRC CA",
-                        "id": 1902052,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12002128",
-                        "maktx": "MEM 600WG - PASTE_50KG_FR RU_CB_ALL",
-                        "id": 1902053,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12005151",
-                        "maktx": "MEM 600WG - PASTE_50KG_MX_XPOL_MA",
-                        "id": 1902054,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11005609",
-                        "maktx": "ALLY 60XP_8OZ_US",
-                        "id": 1902055,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11015673",
-                        "maktx": "ALLY XP_11LB_US",
-                        "id": 1902056,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "12005242",
-                        "maktx": "MEM 600WG - PASTE_50KG_BR_XPOL_MA",
-                        "id": 1902057,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11014095",
-                        "maktx": "CONCEPT_100G_BR",
-                        "id": 1902058,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11006139",
-                        "maktx": "ALLY XP_15G_CO",
-                        "id": 1902059,
-                        "reportDataId": 26574
-                    },
-                    {
-                        "matnr": "11014860",
-                        "maktx": "ALLY_50KG_AR",
-                        "id": 1902060,
-                        "reportDataId": 26574
-                    }
-                ],
-                "id": 26574
-            },
-            {
-                "pdfname": "50000856_SDS_KZ_RU.PDF",
-                "specificationid": "50000856",
-                "path": "\\\\172.18.22.6\\sds_external/50000856_SDS_KZ_RU.PDF",
-                "reptype": "MSDS",
-                "language": "RU",
-                "genvariant": "SDS_KZ",
-                "authorizedportal": "P3",
-                "productname": "CAYMAN\u00ae WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FOM + TBM (20 + 60) WG (v2)",
-                "cmr": "",
-                "publishdate": "04/07/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "KZ",
-                "validityareadescription": "Kazakhstan",
-                "legacyspecid": "FO004191",
-                "legacysdsid": "",
-                "revisiondate": "04/07/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014454",
-                        "maktx": "SARACEN MAX_25G_AL_AGROUNION",
-                        "id": 2758022,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11005977",
-                        "maktx": "CAYMAN_0.1KG_TR",
-                        "id": 2758023,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11003528",
-                        "maktx": "SARACEN MAX_100G_RS",
-                        "id": 2758024,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11005993",
-                        "maktx": "SARACEN MAX_25GR_XK",
-                        "id": 2758025,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11014579",
-                        "maktx": "GRANSTAR MAX_100G_TN_AGRIPROTEC",
-                        "id": 2758026,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11000504",
-                        "maktx": "SARACEN MAX 80WG_25G_MK",
-                        "id": 2758027,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11016536",
-                        "maktx": "CAYMAN_250G_KZ",
-                        "id": 2758028,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "12000731",
-                        "maktx": "TBM 600 - FOM 200WG_PA",
-                        "id": 2758029,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11016205",
-                        "maktx": "GRANSTAR MAX_250G_MA_AGRIMATCO",
-                        "id": 2758030,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11016078",
-                        "maktx": "SARACEN MAX_25G_BA_AGRIMATCO",
-                        "id": 2758031,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11015353",
-                        "maktx": "CYCLON_25G_MA_AGRIMATCO",
-                        "id": 2758032,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11005865",
-                        "maktx": "FRAGMA MAX WG_250G_UA",
-                        "id": 2758033,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11000498",
-                        "maktx": "GOLASSO_0.25KG_IL_LUXEM INDUS",
-                        "id": 2758034,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11005455",
-                        "maktx": "SARACEN MAX_25G_RS",
-                        "id": 2758035,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11003917",
-                        "maktx": "\u0422\u0430\u043d\u0434\u0435\u043c 800\u0412\u0414_250\u0433_\u0420\u0424 \u0420\u0411",
-                        "id": 2758036,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11015475",
-                        "maktx": "GRANSTAR MAX_25G_MA_AGRIMATCO",
-                        "id": 2758037,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11014463",
-                        "maktx": "SARACEN MAX_25G_MK_RADOMAK",
-                        "id": 2758038,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11003917",
-                        "maktx": "TANDEM_250G_RU BY",
-                        "id": 2758039,
-                        "reportDataId": 26575
-                    },
-                    {
-                        "matnr": "11013878",
-                        "maktx": "GRANSTAR MAX_250G_TN_AGRIPROTEC",
-                        "id": 2758040,
-                        "reportDataId": 26575
-                    }
-                ],
-                "id": 26575
-            },
-            {
-                "pdfname": "50000694_SDS_DK_6N.PDF",
-                "specificationid": "50000694",
-                "path": "\\\\172.18.22.6\\sds_external/50000694_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "FLUTRIAFOL 25 G/L SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "VINCIT 2.5%",
-                "casnumber": "",
-                "commercialnames": "FLT 25 g/L SC",
-                "cmr": "",
-                "publishdate": "09/20/2024",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO002245",
-                "legacysdsid": "",
-                "revisiondate": "09/20/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001558",
-                        "maktx": "VINCIT MINIMA_200L_ES",
-                        "id": 2222845,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "12000271",
-                        "maktx": "FLT 25SC_MUL_ST_CALA",
-                        "id": 2222846,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11003998",
-                        "maktx": "VINCIT NOVA 25SC_5L_RO",
-                        "id": 2222847,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11001740",
-                        "maktx": "VINCIT MINIMA SC_5L_MD",
-                        "id": 2222848,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "12005641",
-                        "maktx": "FLT 25SC_ST_RO",
-                        "id": 2222849,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11001737",
-                        "maktx": "VINCIT MINIMA_900L_ES",
-                        "id": 2222850,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11000281",
-                        "maktx": "VINCIT FLO_5L_CL",
-                        "id": 2222851,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11000644",
-                        "maktx": "VINCIT NOVA_5L_RO",
-                        "id": 2222852,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11001847",
-                        "maktx": "VINCIT MINIMA_20L_ES",
-                        "id": 2222853,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "11000309",
-                        "maktx": "VINCIT CS_5L_BG",
-                        "id": 2222854,
-                        "reportDataId": 26576
-                    },
-                    {
-                        "matnr": "12006050",
-                        "maktx": "FLT 25SC_ST_7C",
-                        "id": 2222855,
-                        "reportDataId": 26576
-                    }
-                ],
-                "id": 26576
-            },
-            {
-                "pdfname": "50000694_SDS_DE_DE.PDF",
-                "specificationid": "50000694",
-                "path": "\\\\172.18.22.6\\sds_external/50000694_SDS_DE_DE.PDF",
-                "reptype": "MSDS",
-                "language": "DE",
-                "genvariant": "SDS_DE",
-                "authorizedportal": "P3",
-                "productname": "FLUTRIAFOL 25 G/L SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "VINCIT 2.5%",
-                "casnumber": "",
-                "commercialnames": "FLT 25 g/L SC",
-                "cmr": "",
-                "publishdate": "09/20/2024",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DE",
-                "validityareadescription": "Deutschland",
-                "legacyspecid": "FO002245",
-                "legacysdsid": "",
-                "revisiondate": "09/20/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003998",
-                        "maktx": "VINCIT NOVA 25SC_5L_RO",
-                        "id": 2222856,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11001740",
-                        "maktx": "VINCIT MINIMA SC_5L_MD",
-                        "id": 2222857,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "12000271",
-                        "maktx": "FLT 25SC_MUL_ST_CALA",
-                        "id": 2222858,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "12005641",
-                        "maktx": "FLT 25SC_ST_RO",
-                        "id": 2222859,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11001737",
-                        "maktx": "VINCIT MINIMA_900L_ES",
-                        "id": 2222860,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11001558",
-                        "maktx": "VINCIT MINIMA_200L_ES",
-                        "id": 2222861,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11000281",
-                        "maktx": "VINCIT FLO_5L_CL",
-                        "id": 2222862,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11000644",
-                        "maktx": "VINCIT NOVA_5L_RO",
-                        "id": 2222863,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11001847",
-                        "maktx": "VINCIT MINIMA_20L_ES",
-                        "id": 2222864,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "11000309",
-                        "maktx": "VINCIT CS_5L_BG",
-                        "id": 2222865,
-                        "reportDataId": 26577
-                    },
-                    {
-                        "matnr": "12006050",
-                        "maktx": "FLT 25SC_ST_7C",
-                        "id": 2222866,
-                        "reportDataId": 26577
-                    }
-                ],
-                "id": 26577
-            },
-            {
-                "pdfname": "50000017_SDS_CN_EN.PDF",
-                "specificationid": "50000017",
-                "path": "\\\\172.18.22.6\\sds_external/50000017_SDS_CN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "ALLY\u00ae 20WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "MEM 20 WG (FLUID BED)",
-                "cmr": "",
-                "publishdate": "09/20/2024",
-                "iupac": "",
-                "incode": "T6376",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "A-05",
-                "legacysdsid": "130000000083",
-                "revisiondate": "09/20/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015588",
-                        "maktx": "ABUTO_100G_BE",
-                        "id": 1903861,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "11014157",
-                        "maktx": "ARKEM_500G_FR",
-                        "id": 1903862,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "11007415",
-                        "maktx": "ARKEM_100G_FR",
-                        "id": 1903863,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "11006147",
-                        "maktx": "ALLY 20DF_500G_ID MY",
-                        "id": 1903864,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "11005882",
-                        "maktx": "ALLY 20DF_250G_ID MY",
-                        "id": 1903865,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "12002100",
-                        "maktx": "MEM 200WG - FLUID BED_50KG_?",
-                        "id": 1903866,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "12005341",
-                        "maktx": "MEM 200WG \u2013 FLUID BED_500KG_UF_ALL",
-                        "id": 1903867,
-                        "reportDataId": 26578
-                    },
-                    {
-                        "matnr": "12001487",
-                        "maktx": "MEM 200WG - PASTE_1000KG_UF_ALL",
-                        "id": 1903868,
-                        "reportDataId": 26578
-                    }
-                ],
-                "id": 26578
-            },
             {
                 "pdfname": "50000017_SDS_CN_ZH.PDF",
                 "specificationid": "50000017",
@@ -221796,6 +220962,950 @@
                     }
                 ],
                 "id": 27666
+            },
+            {
+                "pdfname": "50000936_SDS_ID_EN.PDF",
+                "specificationid": "50000936",
+                "path": "\\\\172.18.22.6\\sds_external/50000936_SDS_ID_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "Ally\u00ae 20 WG Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MEM 20 WG (PASTE EXTRUDED,FORMERLY MELT)",
+                "cmr": "",
+                "publishdate": "09/03/2025",
+                "iupac": "",
+                "incode": "T6376",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "A-05.1",
+                "legacysdsid": "130000029137",
+                "revisiondate": "09/03/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005541",
+                        "maktx": "MEM 200WG_25KG_PA_ALL",
+                        "id": 3433108,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12005420",
+                        "maktx": "MEM 200WG-MELT_60KG_ID_SU_ALL",
+                        "id": 3433109,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12001130",
+                        "maktx": "ALGRIP WG CTN 2X25X8G SCH (IN) ID",
+                        "id": 3433110,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12005830",
+                        "maktx": "MEM 200WG_25KG_IN_PA_ALL",
+                        "id": 3433111,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11005269",
+                        "maktx": "ALLY 20WG_250G_ID",
+                        "id": 3433112,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12005580",
+                        "maktx": "MEM 200WG_25KG_ID_PA_ALL",
+                        "id": 3433113,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11005840",
+                        "maktx": "ALLY 20WG_100G_ID",
+                        "id": 3433114,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11005504",
+                        "maktx": "ALLY 20WG_20G_ID_SAH",
+                        "id": 3433115,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11014238",
+                        "maktx": "ALLY 20DF_500G_MY",
+                        "id": 3433116,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11014217",
+                        "maktx": "ALLY 20DF_250G_MY",
+                        "id": 3433117,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12002271",
+                        "maktx": "ALLY 20DF EXTRUDED PREMIX VAR WT DRM ID",
+                        "id": 3433118,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12002270",
+                        "maktx": "ALLY 20DF (EXTRUDED) VAR WT DRM ID",
+                        "id": 3433119,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11006249",
+                        "maktx": "ALGRIP WG CTN 50X8 G SCH (IN)",
+                        "id": 3433120,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "12002272",
+                        "maktx": "ALLY 20DF (EXTRUDED) 25KG DRM (MY) ID",
+                        "id": 3433121,
+                        "reportDataId": 27667
+                    },
+                    {
+                        "matnr": "11005420",
+                        "maktx": "ALLY 20WG_5G_ID",
+                        "id": 3433122,
+                        "reportDataId": 27667
+                    }
+                ],
+                "id": 27667
+            },
+            {
+                "pdfname": "50000936_SDS_ID_ID.PDF",
+                "specificationid": "50000936",
+                "path": "\\\\172.18.22.6\\sds_external/50000936_SDS_ID_ID.PDF",
+                "reptype": "MSDS",
+                "language": "ID",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "Ally\u00ae 20 WG Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MEM 20 WG (PASTE EXTRUDED,FORMERLY MELT)",
+                "cmr": "",
+                "publishdate": "09/03/2025",
+                "iupac": "",
+                "incode": "T6376",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "A-05.1",
+                "legacysdsid": "130000029137",
+                "revisiondate": "09/03/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005541",
+                        "maktx": "MEM 200WG_25KG_PA_ALL",
+                        "id": 3433123,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12005420",
+                        "maktx": "MEM 200WG-MELT_60KG_ID_SU_ALL",
+                        "id": 3433124,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12001130",
+                        "maktx": "ALGRIP WG CTN 2X25X8G SCH (IN) ID",
+                        "id": 3433125,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12005830",
+                        "maktx": "MEM 200WG_25KG_IN_PA_ALL",
+                        "id": 3433126,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11005269",
+                        "maktx": "ALLY 20WG_250G_ID",
+                        "id": 3433127,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12005580",
+                        "maktx": "MEM 200WG_25KG_ID_PA_ALL",
+                        "id": 3433128,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11005840",
+                        "maktx": "ALLY 20WG_100G_ID",
+                        "id": 3433129,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11005504",
+                        "maktx": "ALLY 20WG_20G_ID_SAH",
+                        "id": 3433130,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11014238",
+                        "maktx": "ALLY 20DF_500G_MY",
+                        "id": 3433131,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11014217",
+                        "maktx": "ALLY 20DF_250G_MY",
+                        "id": 3433132,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12002271",
+                        "maktx": "ALLY 20DF EXTRUDED PREMIX VAR WT DRM ID",
+                        "id": 3433133,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12002270",
+                        "maktx": "ALLY 20DF (EXTRUDED) VAR WT DRM ID",
+                        "id": 3433134,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11006249",
+                        "maktx": "ALGRIP WG CTN 50X8 G SCH (IN)",
+                        "id": 3433135,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "12002272",
+                        "maktx": "ALLY 20DF (EXTRUDED) 25KG DRM (MY) ID",
+                        "id": 3433136,
+                        "reportDataId": 27668
+                    },
+                    {
+                        "matnr": "11005420",
+                        "maktx": "ALLY 20WG_5G_ID",
+                        "id": 3433137,
+                        "reportDataId": 27668
+                    }
+                ],
+                "id": 27668
+            },
+            {
+                "pdfname": "50000099_SDS_ID_EN.PDF",
+                "specificationid": "50000099",
+                "path": "\\\\172.18.22.6\\sds_external/50000099_SDS_ID_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "Verimark\u00ae 200SC Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (ACTICIDE)",
+                "cmr": "",
+                "publishdate": "09/03/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "Q-1662",
+                "legacysdsid": "130000132666",
+                "revisiondate": "09/03/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014512",
+                        "maktx": "VERIMARK 20%SC_200ML_OM_AGRIMATCO",
+                        "id": 3433138,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11009539",
+                        "maktx": "VERIMARK_2.365L_CA",
+                        "id": 3433139,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11009524",
+                        "maktx": "VERIMARK 20SC_250CC_AR",
+                        "id": 3433140,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002154",
+                        "maktx": "CZP 200SC ACTICIDE_200L_?",
+                        "id": 3433141,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007001",
+                        "maktx": "VERIMARK_80OZ_US",
+                        "id": 3433142,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12005551",
+                        "maktx": "CZP 200SC ACTICIDE_ST_MO",
+                        "id": 3433143,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11016467",
+                        "maktx": "VERIMARK_200ML_CO",
+                        "id": 3433144,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12001014",
+                        "maktx": "CZP 200SC_200L_?",
+                        "id": 3433145,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12001295",
+                        "maktx": "VERIMARK 200L_MX",
+                        "id": 3433146,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007167",
+                        "maktx": "VERIMARK 20SC_200ML_PE",
+                        "id": 3433147,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11016549",
+                        "maktx": "VERIMARK 20SC_1L_KE_ELGON",
+                        "id": 3433148,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007466",
+                        "maktx": "VERIMARK 200SC_375ML_JO_AGRIMATCO",
+                        "id": 3433149,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007053",
+                        "maktx": "VERIMARK_50ML_IQ_DEBBANE",
+                        "id": 3433150,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002043",
+                        "maktx": "VERIMARK (ACTICIDE) WIP BULK FORMULATION",
+                        "id": 3433151,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11015157",
+                        "maktx": "VERIMARK_1L_CL",
+                        "id": 3433152,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11014514",
+                        "maktx": "VERIMARK 200SC_200ML_SA_AL JAMMAZ",
+                        "id": 3433153,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11014793",
+                        "maktx": "VERIMARK_200L_PE_FARMEX",
+                        "id": 3433154,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11000333",
+                        "maktx": "VERIMARK_250ML_CL",
+                        "id": 3433155,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11002796",
+                        "maktx": "VERIMARK_500ML_PS_MAKALDE",
+                        "id": 3433156,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11000206",
+                        "maktx": "VERIMARK 20SC_1L_MX",
+                        "id": 3433157,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002171",
+                        "maktx": "VERIMARK 200 SC BLK VAR WT SG",
+                        "id": 3433158,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12001110",
+                        "maktx": "DPX HGW86 ACTICIDE 200SC_200L_US",
+                        "id": 3433159,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11016459",
+                        "maktx": "VERIMARK_1L_CO",
+                        "id": 3433160,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12006620",
+                        "maktx": "CZP 200SC_1000L_MX_UB_JI",
+                        "id": 3433161,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11015220",
+                        "maktx": "VERIMARK_200L_PE_FARMAGRO",
+                        "id": 3433162,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12005811",
+                        "maktx": "CZP 200SC ACTICIDE_1000L_TR_ST_MO",
+                        "id": 3433163,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12006473",
+                        "maktx": "CZP 200SC_200L_CO_MI_MO",
+                        "id": 3433164,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11009661",
+                        "maktx": "VERIMARK 20X375ML BTL EG -FMC",
+                        "id": 3433165,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002821",
+                        "maktx": "VERIMARK 200SC (HGW86 CN)LA1209 200L DRM",
+                        "id": 3433166,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11015927",
+                        "maktx": "VERIMARK_200L_EC",
+                        "id": 3433167,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002278",
+                        "maktx": "VERIMARK (ACTICIDE) WIP BULK USA ONLY",
+                        "id": 3433168,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007500",
+                        "maktx": "VERIMARK_200ML_CO",
+                        "id": 3433169,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12002760",
+                        "maktx": "CYAZYPYR 200SC_200L_KR",
+                        "id": 3433170,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11013793",
+                        "maktx": "VERIMARK 200SC_375ML_OM",
+                        "id": 3433171,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007127",
+                        "maktx": "VERIMARK 20 SC_5L_GB IE",
+                        "id": 3433172,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11013628",
+                        "maktx": "VERIMARK_100ML_EC",
+                        "id": 3433173,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11016710",
+                        "maktx": "VERIMARK_200ML_EC",
+                        "id": 3433174,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007502",
+                        "maktx": "VERIMARK 20SC_200ML_CAM",
+                        "id": 3433175,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12001687",
+                        "maktx": "CZP 200SC_?_?_?",
+                        "id": 3433176,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11014278",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 3433177,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11006983",
+                        "maktx": "VERIMARK_500ML_IL_GADOT",
+                        "id": 3433178,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11015326",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 3433179,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11006940",
+                        "maktx": "VERIMARK_375ML_MA_AGRIMATCO",
+                        "id": 3433180,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11000205",
+                        "maktx": "VERIMARK 20SC_1L_?",
+                        "id": 3433181,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11013784",
+                        "maktx": "VERIMARK 200SC_375ML_SA",
+                        "id": 3433182,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12005606",
+                        "maktx": "CZP 200SC ACTICIDE_1L_ST_MO",
+                        "id": 3433183,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12005556",
+                        "maktx": "CZP 200SC ACTICIDE_1000L_ST_MO",
+                        "id": 3433184,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11013289",
+                        "maktx": "VERIMARK_375ML_TN",
+                        "id": 3433185,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11015293",
+                        "maktx": "VERIMARK_200ML_IQ_AGRIMATCO",
+                        "id": 3433186,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11007501",
+                        "maktx": "VERIMARK_200ML_EC",
+                        "id": 3433187,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "12001297",
+                        "maktx": "VERIMARK 20SC_200L_AR",
+                        "id": 3433188,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11006985",
+                        "maktx": "VERIMARK 20SC_500ML_MX",
+                        "id": 3433189,
+                        "reportDataId": 27669
+                    },
+                    {
+                        "matnr": "11013123",
+                        "maktx": "VERIMARK 20 SC_200 L_GT",
+                        "id": 3433190,
+                        "reportDataId": 27669
+                    }
+                ],
+                "id": 27669
+            },
+            {
+                "pdfname": "50000099_SDS_ID_ID.PDF",
+                "specificationid": "50000099",
+                "path": "\\\\172.18.22.6\\sds_external/50000099_SDS_ID_ID.PDF",
+                "reptype": "MSDS",
+                "language": "ID",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "Verimark\u00ae 200SC Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (ACTICIDE)",
+                "cmr": "",
+                "publishdate": "09/03/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "Q-1662",
+                "legacysdsid": "130000132666",
+                "revisiondate": "09/03/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014512",
+                        "maktx": "VERIMARK 20%SC_200ML_OM_AGRIMATCO",
+                        "id": 3433191,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11009539",
+                        "maktx": "VERIMARK_2.365L_CA",
+                        "id": 3433192,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11009524",
+                        "maktx": "VERIMARK 20SC_250CC_AR",
+                        "id": 3433193,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002154",
+                        "maktx": "CZP 200SC ACTICIDE_200L_?",
+                        "id": 3433194,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007001",
+                        "maktx": "VERIMARK_80OZ_US",
+                        "id": 3433195,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12005551",
+                        "maktx": "CZP 200SC ACTICIDE_ST_MO",
+                        "id": 3433196,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11016467",
+                        "maktx": "VERIMARK_200ML_CO",
+                        "id": 3433197,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12001014",
+                        "maktx": "CZP 200SC_200L_?",
+                        "id": 3433198,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12001295",
+                        "maktx": "VERIMARK 200L_MX",
+                        "id": 3433199,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007167",
+                        "maktx": "VERIMARK 20SC_200ML_PE",
+                        "id": 3433200,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11016549",
+                        "maktx": "VERIMARK 20SC_1L_KE_ELGON",
+                        "id": 3433201,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007466",
+                        "maktx": "VERIMARK 200SC_375ML_JO_AGRIMATCO",
+                        "id": 3433202,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007053",
+                        "maktx": "VERIMARK_50ML_IQ_DEBBANE",
+                        "id": 3433203,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002043",
+                        "maktx": "VERIMARK (ACTICIDE) WIP BULK FORMULATION",
+                        "id": 3433204,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11015157",
+                        "maktx": "VERIMARK_1L_CL",
+                        "id": 3433205,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11014514",
+                        "maktx": "VERIMARK 200SC_200ML_SA_AL JAMMAZ",
+                        "id": 3433206,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11014793",
+                        "maktx": "VERIMARK_200L_PE_FARMEX",
+                        "id": 3433207,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11000333",
+                        "maktx": "VERIMARK_250ML_CL",
+                        "id": 3433208,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11002796",
+                        "maktx": "VERIMARK_500ML_PS_MAKALDE",
+                        "id": 3433209,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11000206",
+                        "maktx": "VERIMARK 20SC_1L_MX",
+                        "id": 3433210,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002171",
+                        "maktx": "VERIMARK 200 SC BLK VAR WT SG",
+                        "id": 3433211,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12001110",
+                        "maktx": "DPX HGW86 ACTICIDE 200SC_200L_US",
+                        "id": 3433212,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11016459",
+                        "maktx": "VERIMARK_1L_CO",
+                        "id": 3433213,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12006620",
+                        "maktx": "CZP 200SC_1000L_MX_UB_JI",
+                        "id": 3433214,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11015220",
+                        "maktx": "VERIMARK_200L_PE_FARMAGRO",
+                        "id": 3433215,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12005811",
+                        "maktx": "CZP 200SC ACTICIDE_1000L_TR_ST_MO",
+                        "id": 3433216,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12006473",
+                        "maktx": "CZP 200SC_200L_CO_MI_MO",
+                        "id": 3433217,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11009661",
+                        "maktx": "VERIMARK 20X375ML BTL EG -FMC",
+                        "id": 3433218,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002821",
+                        "maktx": "VERIMARK 200SC (HGW86 CN)LA1209 200L DRM",
+                        "id": 3433219,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11015927",
+                        "maktx": "VERIMARK_200L_EC",
+                        "id": 3433220,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002278",
+                        "maktx": "VERIMARK (ACTICIDE) WIP BULK USA ONLY",
+                        "id": 3433221,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007500",
+                        "maktx": "VERIMARK_200ML_CO",
+                        "id": 3433222,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12002760",
+                        "maktx": "CYAZYPYR 200SC_200L_KR",
+                        "id": 3433223,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11013793",
+                        "maktx": "VERIMARK 200SC_375ML_OM",
+                        "id": 3433224,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007127",
+                        "maktx": "VERIMARK 20 SC_5L_GB IE",
+                        "id": 3433225,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11013628",
+                        "maktx": "VERIMARK_100ML_EC",
+                        "id": 3433226,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11016710",
+                        "maktx": "VERIMARK_200ML_EC",
+                        "id": 3433227,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007502",
+                        "maktx": "VERIMARK 20SC_200ML_CAM",
+                        "id": 3433228,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12001687",
+                        "maktx": "CZP 200SC_?_?_?",
+                        "id": 3433229,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11014278",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 3433230,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11006983",
+                        "maktx": "VERIMARK_500ML_IL_GADOT",
+                        "id": 3433231,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11015326",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 3433232,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11006940",
+                        "maktx": "VERIMARK_375ML_MA_AGRIMATCO",
+                        "id": 3433233,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11000205",
+                        "maktx": "VERIMARK 20SC_1L_?",
+                        "id": 3433234,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11013784",
+                        "maktx": "VERIMARK 200SC_375ML_SA",
+                        "id": 3433235,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12005606",
+                        "maktx": "CZP 200SC ACTICIDE_1L_ST_MO",
+                        "id": 3433236,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12005556",
+                        "maktx": "CZP 200SC ACTICIDE_1000L_ST_MO",
+                        "id": 3433237,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11013289",
+                        "maktx": "VERIMARK_375ML_TN",
+                        "id": 3433238,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11015293",
+                        "maktx": "VERIMARK_200ML_IQ_AGRIMATCO",
+                        "id": 3433239,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11007501",
+                        "maktx": "VERIMARK_200ML_EC",
+                        "id": 3433240,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "12001297",
+                        "maktx": "VERIMARK 20SC_200L_AR",
+                        "id": 3433241,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11006985",
+                        "maktx": "VERIMARK 20SC_500ML_MX",
+                        "id": 3433242,
+                        "reportDataId": 27670
+                    },
+                    {
+                        "matnr": "11013123",
+                        "maktx": "VERIMARK 20 SC_200 L_GT",
+                        "id": 3433243,
+                        "reportDataId": 27670
+                    }
+                ],
+                "id": 27670
             }
         ],
         "isExportToExcel": false
