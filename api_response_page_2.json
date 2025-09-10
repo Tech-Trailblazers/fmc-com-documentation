@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6049,
+        "totalCount": 6051,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,356 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50002517_SDS_AU_6N.PDF",
-                "specificationid": "50002517",
-                "path": "\\\\172.18.22.6\\sds_external/50002517_SDS_AU_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_AU",
-                "authorizedportal": "P3",
-                "productname": "VANTACOR\u00ae Insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "RYX 600 g/l SC",
-                "cmr": "",
-                "publishdate": "09/23/2024",
-                "iupac": "",
-                "incode": "E2Y45",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "AU",
-                "validityareadescription": "Australia",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "09/23/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12005821",
-                        "maktx": "RYX 600SC_1000L_TR_MI_MO",
-                        "id": 3440141,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006531",
-                        "maktx": "RYX 600SC_BR_UB_ALL",
-                        "id": 3440142,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006131",
-                        "maktx": "RYX 600SC_200L_MX_MI_MO",
-                        "id": 3440143,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006490",
-                        "maktx": "RYX 600SC_200L_CO_MI_MO",
-                        "id": 3440144,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016129",
-                        "maktx": "TUVENTA_20ML_IN",
-                        "id": 3440145,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016370",
-                        "maktx": "VANTACOR_100ML_MA_BASF",
-                        "id": 3440146,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015084",
-                        "maktx": "PRESTICOR 600SC_240ML_TR",
-                        "id": 3440147,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015769",
-                        "maktx": "VANTACOR_1L_ID",
-                        "id": 3440148,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006062",
-                        "maktx": "RYX 600SC_1000L_ID_TU_JI",
-                        "id": 3440149,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015085",
-                        "maktx": "PRESTICOR 600SC_60ML_TR",
-                        "id": 3440150,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006390",
-                        "maktx": "RYX 600SC_1000L_ALL",
-                        "id": 3440151,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12005820",
-                        "maktx": "RYX 600SC_1000L_AR PY_MI_MO",
-                        "id": 3440152,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016654",
-                        "maktx": "CORAGEN MAXX_500ML_MX",
-                        "id": 3440153,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11014225",
-                        "maktx": "CORAGEN MAX_2L_CA",
-                        "id": 3440154,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015655",
-                        "maktx": "VANTACOR_1L_CO",
-                        "id": 3440155,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015436",
-                        "maktx": "VANTACOR_1L_PH",
-                        "id": 3440156,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016317",
-                        "maktx": "CORAGEN EVO_200ML_GE",
-                        "id": 3440157,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016651",
-                        "maktx": "TUVENTA_200ML_IN",
-                        "id": 3440158,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016455",
-                        "maktx": "VANTACOR_1L_UZ",
-                        "id": 3440159,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016749",
-                        "maktx": "VANTACOR_250ML_PH",
-                        "id": 3440160,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016158",
-                        "maktx": "TUVENTA_100ML_IN",
-                        "id": 3440161,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016491",
-                        "maktx": "VANTACOR_200ML_CO",
-                        "id": 3440162,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016165",
-                        "maktx": "TUVENTA_50ML_IN",
-                        "id": 3440163,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015680",
-                        "maktx": "VANTACOR_1L_MX",
-                        "id": 3440164,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016790",
-                        "maktx": "CORAGEN EVO_1GAL_US",
-                        "id": 3440165,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11014714",
-                        "maktx": "CHLORANTRAGEN 600SC_2.5L_AU_GENFARM",
-                        "id": 3440166,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015675",
-                        "maktx": "SOLACE 600SC_2.5L_AU",
-                        "id": 3440167,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11013441",
-                        "maktx": "VANTACOR_2.5GAL_US",
-                        "id": 3440168,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015058",
-                        "maktx": "VANTACOR SC_500ML_UA",
-                        "id": 3440169,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016150",
-                        "maktx": "DURENTIS_5GAL_US",
-                        "id": 3440170,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015555",
-                        "maktx": "VANTACOR_1GAL_US",
-                        "id": 3440171,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11014716",
-                        "maktx": "PEACEKEEPER 600SC_2.5L_AU",
-                        "id": 3440172,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11013744",
-                        "maktx": "VANTACOR_2.5L_AU",
-                        "id": 3440173,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12005180",
-                        "maktx": "RYX 600SC_MI_MO",
-                        "id": 3440174,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016261",
-                        "maktx": "CORAGEN EVO_500ML_CL",
-                        "id": 3440175,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015423",
-                        "maktx": "PRESTICOR_1L_ID",
-                        "id": 3440176,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016248",
-                        "maktx": "VANTACOR_1L_KZ",
-                        "id": 3440177,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006100",
-                        "maktx": "RYX 600SC_200L_MI_MO",
-                        "id": 3440178,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015556",
-                        "maktx": "CORAGEN EVO_1QT_US",
-                        "id": 3440179,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12006558",
-                        "maktx": "RYX 600SC_1000L_US_MI_MO",
-                        "id": 3440180,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016090",
-                        "maktx": "CORAGEN MAXX_1L_MX",
-                        "id": 3440181,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015121",
-                        "maktx": "VANTACOR SC_1L_UA",
-                        "id": 3440182,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015053",
-                        "maktx": "CORAGEN EVO_500ML_AR",
-                        "id": 3440183,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016441",
-                        "maktx": "VANTACOR_5L_BR",
-                        "id": 3440184,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12005840",
-                        "maktx": "RYX 600SC_200L_TR_MI_MO",
-                        "id": 3440185,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016442",
-                        "maktx": "VANTACOR_10L_BR",
-                        "id": 3440186,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11013440",
-                        "maktx": "VANTACOR_1QT_US",
-                        "id": 3440187,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016644",
-                        "maktx": "CORAGEN MAXX_200ML_MX",
-                        "id": 3440188,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016452",
-                        "maktx": "VANTACOR_1L_BR",
-                        "id": 3440189,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "12005261",
-                        "maktx": "RYX 600SC_1000L_TU_JI",
-                        "id": 3440190,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11015468",
-                        "maktx": "VANTACOR_5L_PH",
-                        "id": 3440191,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016753",
-                        "maktx": "VANTACOR LENTIL_1L_AU",
-                        "id": 3440192,
-                        "reportDataId": 26598
-                    },
-                    {
-                        "matnr": "11016863",
-                        "maktx": "VANTACOR_500ML_ID",
-                        "id": 3440193,
-                        "reportDataId": 26598
-                    }
-                ],
-                "id": 26598
-            },
             {
                 "pdfname": "50002755_SDS_AU_6N.PDF",
                 "specificationid": "50002755",
@@ -220336,6 +219986,1014 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 27674
+            },
+            {
+                "pdfname": "50000092_SDS_ZA_EN.PDF",
+                "specificationid": "50000092",
+                "path": "\\\\172.18.22.6\\sds_external/50000092_SDS_ZA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_ZA",
+                "authorizedportal": "P3",
+                "productname": "PREVATHON\u00ae 5 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "PREVATHON (ACTICIDE LA1209) (M)",
+                "casnumber": "",
+                "commercialnames": "RYX 5 SC (ACTICIDE)",
+                "cmr": "",
+                "publishdate": "09/09/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ZA",
+                "validityareadescription": "South Africa",
+                "legacyspecid": "Q-1618",
+                "legacysdsid": "130000141068",
+                "revisiondate": "09/09/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000113",
+                        "maktx": "PREVATHON_110GAL_US",
+                        "id": 3440970,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12002144",
+                        "maktx": "RYX 50SC_200L_FR_HU_JI",
+                        "id": 3440971,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007646",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-CIDT",
+                        "id": 3440972,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12002170",
+                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_JI",
+                        "id": 3440973,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007120",
+                        "maktx": "PREVATHON 5SC_100ML_KH",
+                        "id": 3440974,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006855",
+                        "maktx": "PREVATHON 5SC_250ML_MY",
+                        "id": 3440975,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11008999",
+                        "maktx": "PREVATHON 5SC_500ML_ID MY",
+                        "id": 3440976,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11002800",
+                        "maktx": "PREVATHON 5SC_1L_TH",
+                        "id": 3440977,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016153",
+                        "maktx": "PREVATHON 5SC_250ML_VN",
+                        "id": 3440978,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015677",
+                        "maktx": "COREGIS_500ML_MY",
+                        "id": 3440979,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015686",
+                        "maktx": "ELICOR 50SC_500ML_ID",
+                        "id": 3440980,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015962",
+                        "maktx": "ELICOR 50SC_100ML_ID",
+                        "id": 3440981,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006779",
+                        "maktx": "PREVATHON 5SC_500ML_PH",
+                        "id": 3440982,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006725",
+                        "maktx": "PREVATHON 5SC_500ML_TH",
+                        "id": 3440983,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016182",
+                        "maktx": "SELEBEL_5L_ES_BASF",
+                        "id": 3440984,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000123",
+                        "maktx": "INTOREL 5SC_250ML_PH",
+                        "id": 3440985,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007056",
+                        "maktx": "PREVATHON 50SC_500ML_CN",
+                        "id": 3440986,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006738",
+                        "maktx": "PREVATHON_100ML_NZ",
+                        "id": 3440987,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007166",
+                        "maktx": "PREVATHON 5SC_250ML_TH",
+                        "id": 3440988,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006844",
+                        "maktx": "PREVATHON 50SC_200ML_CN",
+                        "id": 3440989,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007661",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BJ-FMC",
+                        "id": 3440990,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000152",
+                        "maktx": "PREVATHON 50SC_10ML_TH_SCH",
+                        "id": 3440991,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11014931",
+                        "maktx": "PREVATHON 5SC_15ML_VN_LOC",
+                        "id": 3440992,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009663",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOFITEX",
+                        "id": 3440993,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006233",
+                        "maktx": "RYX 50SC ACTICIDE_ST_MO",
+                        "id": 3440994,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015856",
+                        "maktx": "TECORLA_5L_BE",
+                        "id": 3440995,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006504",
+                        "maktx": "RYX 50SC ACTICIDE_ST_JI",
+                        "id": 3440996,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11014106",
+                        "maktx": "STAMPEDE 5SC_250ML_PH_BASF",
+                        "id": 3440997,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007657",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL TG-FMC",
+                        "id": 3440998,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11013882",
+                        "maktx": "PREVATHON_20ML_TH",
+                        "id": 3440999,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006542",
+                        "maktx": "RYX 50SC_1L_ST_MO",
+                        "id": 3441000,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006780",
+                        "maktx": "PREVATHON 50SC_250ML_ID",
+                        "id": 3441001,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016511",
+                        "maktx": "SELEBEL_5L_IT",
+                        "id": 3441002,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007584",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOCOMA",
+                        "id": 3441003,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007071",
+                        "maktx": "PREVATHON 5SC_500ML_ID",
+                        "id": 3441004,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015580",
+                        "maktx": "ELICOR 50SC_250ML_ID",
+                        "id": 3441005,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016228",
+                        "maktx": "TECORLA_1L_PT_FITOSISTEMA",
+                        "id": 3441006,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006843",
+                        "maktx": "PREVATHON 5SC_250ML_TH",
+                        "id": 3441007,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007635",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-FASOCOTON",
+                        "id": 3441008,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12002045",
+                        "maktx": "PREVATHON (ACTICIDE) WI BULK FORMULATION",
+                        "id": 3441009,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015690",
+                        "maktx": "COREGIS_250ML_MY",
+                        "id": 3441010,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000578",
+                        "maktx": "PREVATHON 5SC_200ML_MUL",
+                        "id": 3441011,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015545",
+                        "maktx": "FREECOR 50SC_250ML_ID",
+                        "id": 3441012,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006594",
+                        "maktx": "RYX 50SC_1L_ST_JI",
+                        "id": 3441013,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016051",
+                        "maktx": "TECORLA_5L_IT",
+                        "id": 3441014,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000108",
+                        "maktx": "PREVATHON TM 5SC_15ML_KH_SCH",
+                        "id": 3441015,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016305",
+                        "maktx": "TECORLA_1L_IT",
+                        "id": 3441016,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007015",
+                        "maktx": "PREVATHON 5SC_200ML_CM_ARYSTA",
+                        "id": 3441017,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006785",
+                        "maktx": "PREVATHON 50SC_100ML_ID",
+                        "id": 3441018,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006737",
+                        "maktx": "PREVATHON 5SC_25ML_VN_SAH",
+                        "id": 3441019,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11002799",
+                        "maktx": "PREVATHON 5SC_15ML_TH",
+                        "id": 3441020,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006583",
+                        "maktx": "RYX 50SC_1000L_ST_JI",
+                        "id": 3441021,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009414",
+                        "maktx": "PREVATHON 50SC_200ML_CN_TIANFU",
+                        "id": 3441022,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016628",
+                        "maktx": "PREVATHON_500ML_CN",
+                        "id": 3441023,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015745",
+                        "maktx": "PREVATHON_1000L_MA_AMAROC",
+                        "id": 3441024,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11001696",
+                        "maktx": "PREVATHON 5SC_1000L_CN",
+                        "id": 3441025,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007644",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-COIC",
+                        "id": 3441026,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009662",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL SN-FMC",
+                        "id": 3441027,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015565",
+                        "maktx": "PREVATHON 5SC_200L_PH_TU_JI",
+                        "id": 3441028,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009417",
+                        "maktx": "PREVATHON 50SC_500ML_CN_TIANFU",
+                        "id": 3441029,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016494",
+                        "maktx": "TECORLA_3L_BE",
+                        "id": 3441030,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015822",
+                        "maktx": "TECORLA_1L_GR",
+                        "id": 3441031,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009422",
+                        "maktx": "PREVATHON 50SC_20ML_CN_TIANFU",
+                        "id": 3441032,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015581",
+                        "maktx": "PREVATHON 5SC_250ML_VN_LOC",
+                        "id": 3441033,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11016175",
+                        "maktx": "PREVATHON 200SC_7ML_VN",
+                        "id": 3441034,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006782",
+                        "maktx": "PREVATHON 5SC_250ML_PH",
+                        "id": 3441035,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11014830",
+                        "maktx": "PREVATHON_100ML_TH",
+                        "id": 3441036,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11006792",
+                        "maktx": "PREVATHON 50SC_15ML_CN",
+                        "id": 3441037,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000078",
+                        "maktx": "PREVATHON 5SC_15ML_VN_SCH",
+                        "id": 3441038,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11015842",
+                        "maktx": "TECORLA_1L_BG",
+                        "id": 3441039,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006284",
+                        "maktx": "RYX 50SC_1000L_ST_MO",
+                        "id": 3441040,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006584",
+                        "maktx": "RYX 50SC_5L_ST_JI",
+                        "id": 3441041,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007373",
+                        "maktx": "PREVATHON 5SC_250ML_MM",
+                        "id": 3441042,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007067",
+                        "maktx": "PREVATHON 5SC_250ML_MY ID_SIPP",
+                        "id": 3441043,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11013982",
+                        "maktx": "PREVATHON 5SC_1000L_MUL",
+                        "id": 3441044,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11000142",
+                        "maktx": "PREVATHON_2.5GAL_US",
+                        "id": 3441045,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007654",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-IVOIRE.C",
+                        "id": 3441046,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12001791",
+                        "maktx": "RYX 50SC_?_?_?",
+                        "id": 3441047,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007180",
+                        "maktx": "PREVATHON 5SC_150ML_VN",
+                        "id": 3441048,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12000723",
+                        "maktx": "Prevathon Acticide",
+                        "id": 3441049,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006550",
+                        "maktx": "RYX 50SC_5L_ST_MO",
+                        "id": 3441050,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11007145",
+                        "maktx": "PREVATHON 5SC_500ML_MUL_ULP",
+                        "id": 3441051,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "11009652",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL ML-FMC",
+                        "id": 3441052,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12001608",
+                        "maktx": "PREVATHON 5SC (E2Y45 CN) L BULK LA1209",
+                        "id": 3441053,
+                        "reportDataId": 27675
+                    },
+                    {
+                        "matnr": "12006564",
+                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_ST_JI",
+                        "id": 3441054,
+                        "reportDataId": 27675
+                    }
+                ],
+                "id": 27675
+            },
+            {
+                "pdfname": "50000082_SDS_GE_6N.PDF",
+                "specificationid": "50000082",
+                "path": "\\\\172.18.22.6\\sds_external/50000082_SDS_GE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GE",
+                "authorizedportal": "P3",
+                "productname": "EXIREL\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DPX-HGW86-100SE (M)",
+                "casnumber": "",
+                "commercialnames": "CZP 100 g/L SE (PROXEL)",
+                "cmr": "",
+                "publishdate": "09/09/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GE",
+                "validityareadescription": "Georgia",
+                "legacyspecid": "Q-1367",
+                "legacysdsid": "130000050443",
+                "revisiondate": "09/09/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013879",
+                        "maktx": "EXIREL_200ML_PT_BAYER",
+                        "id": 3441055,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000257",
+                        "maktx": "EXIREL 100SE_1L_AT",
+                        "id": 3441056,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12005423",
+                        "maktx": "CZP 100SE_ST_MO",
+                        "id": 3441057,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000082",
+                        "maktx": "EXIREL_1L_NZ",
+                        "id": 3441058,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11015665",
+                        "maktx": "EXIREL_1L_IT",
+                        "id": 3441059,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014222",
+                        "maktx": "EXIREL_1L_MD",
+                        "id": 3441060,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014690",
+                        "maktx": "EXIREL 10SE_500ML_GR",
+                        "id": 3441061,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000195",
+                        "maktx": "EXIREL_1L_BE LU",
+                        "id": 3441062,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016092",
+                        "maktx": "EXIREL_1L_MK_HEMOMAK",
+                        "id": 3441063,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016688",
+                        "maktx": "IRAZU_5L_CZ",
+                        "id": 3441064,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013881",
+                        "maktx": "EXIREL_1L_SI_PICOUNT",
+                        "id": 3441065,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000192",
+                        "maktx": "EXIREL 100SE_1L_DE",
+                        "id": 3441066,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000213",
+                        "maktx": "EXIREL_1L_ES",
+                        "id": 3441067,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000119",
+                        "maktx": "EXIREL_1L_NL",
+                        "id": 3441068,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014390",
+                        "maktx": "EXIREL BAIT_250ML_GR",
+                        "id": 3441069,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016493",
+                        "maktx": "EXIREL 10SE_250ML_GR",
+                        "id": 3441070,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016177",
+                        "maktx": "EXIREL 2025_1L_IT",
+                        "id": 3441071,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016630",
+                        "maktx": "EXIREL 10 SE_1L_PT_ACANO",
+                        "id": 3441072,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11009625",
+                        "maktx": "EXIREL_200ML_ES",
+                        "id": 3441073,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014155",
+                        "maktx": "EXIREL BAIT_1L_GR",
+                        "id": 3441074,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016631",
+                        "maktx": "EXIREL 100 SE_1L_PT_ MARREIROS",
+                        "id": 3441075,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016615",
+                        "maktx": "EXIREL SE_1L_PT_ JSOBRAL",
+                        "id": 3441076,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014963",
+                        "maktx": "EXIREL 100SE_250ML_SA_AGRIMATCO",
+                        "id": 3441077,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014084",
+                        "maktx": "EXIREL_1L_SK",
+                        "id": 3441078,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013307",
+                        "maktx": "EXIREL_1L_CZ",
+                        "id": 3441079,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11015601",
+                        "maktx": "EXIREL 2024_1L_IT",
+                        "id": 3441080,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12006520",
+                        "maktx": "CZP 100SE_ST_JI",
+                        "id": 3441081,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016629",
+                        "maktx": "EXIREL 10_1L_PT_FITOSISTEMA",
+                        "id": 3441082,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016287",
+                        "maktx": "EXIREL_1L_CZ SK",
+                        "id": 3441083,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013315",
+                        "maktx": "EXIREL_250ML_DZ_CASAP",
+                        "id": 3441084,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000177",
+                        "maktx": "EXIREL SE_1L_HU",
+                        "id": 3441085,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11015351",
+                        "maktx": "EXIREL_5L_DE",
+                        "id": 3441086,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12006681",
+                        "maktx": "CZP 100SE_5L_ST_JI",
+                        "id": 3441087,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013222",
+                        "maktx": "EXIREL_1L_PT_BAYER",
+                        "id": 3441088,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12005554",
+                        "maktx": "CZP 100SE_1000L_ST_MO",
+                        "id": 3441089,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014962",
+                        "maktx": "EXIREL_250ML_HR_AGROCHEM MAKS",
+                        "id": 3441090,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014196",
+                        "maktx": "EXIREL 2022_1L_IT",
+                        "id": 3441091,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12006562",
+                        "maktx": "CZP 100SE_1000L_MUL_ST_JI",
+                        "id": 3441092,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12005607",
+                        "maktx": "CZP 100SE_1L_ST_MO",
+                        "id": 3441093,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013360",
+                        "maktx": "EXIREL 100SE_1L_PL",
+                        "id": 3441094,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12002155",
+                        "maktx": "CZP 100SE_200L_AU",
+                        "id": 3441095,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000155",
+                        "maktx": "EXIREL 10SE_1L_GR",
+                        "id": 3441096,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11015148",
+                        "maktx": "EXIREL 100SE_5L_RO",
+                        "id": 3441097,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016263",
+                        "maktx": "EXIREL_50ML_HR_AGROCHEM MAKS",
+                        "id": 3441098,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12006622",
+                        "maktx": "CZP 100SE_1L_ST_JI",
+                        "id": 3441099,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013564",
+                        "maktx": "EXIREL_1L_MA_AMAROC",
+                        "id": 3441100,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11000204",
+                        "maktx": "EXIREL 2021_1L_IT",
+                        "id": 3441101,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11015583",
+                        "maktx": "EXIREL_1L_PT_SERVAGRONIS",
+                        "id": 3441102,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11016477",
+                        "maktx": "EXIREL CEBO_200ML_ES",
+                        "id": 3441103,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013306",
+                        "maktx": "EXIREL_50ML_RS_AGROMARKET",
+                        "id": 3441104,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11013528",
+                        "maktx": "EXIREL_1.2L_DZ_CASAP",
+                        "id": 3441105,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "12001140",
+                        "maktx": "DPX HGW86 (PROXEL) 100SE_200L_AU US",
+                        "id": 3441106,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11014951",
+                        "maktx": "EXIREL 2023_1L_IT",
+                        "id": 3441107,
+                        "reportDataId": 27676
+                    },
+                    {
+                        "matnr": "11007429",
+                        "maktx": "EXIREL_5L_NZ",
+                        "id": 3441108,
+                        "reportDataId": 27676
+                    }
+                ],
+                "id": 27676
+            },
+            {
+                "pdfname": "50001155_SDS_AT_DE.PDF",
+                "specificationid": "50001155",
+                "path": "\\\\172.18.22.6\\sds_external/50001155_SDS_AT_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_AT",
+                "authorizedportal": "P3",
+                "productname": "HU-MAN 15",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0074",
+                "cmr": "",
+                "publishdate": "09/09/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "AT",
+                "validityareadescription": "\u00d6sterreich",
+                "legacyspecid": "NP-0074",
+                "legacysdsid": "NP-0074",
+                "revisiondate": "09/09/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001963",
+                        "maktx": "VC HU MAN 15_10L_GB IE",
+                        "id": 3441109,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11002307",
+                        "maktx": "HU MAN 15_10L_BE_ALLIANCE",
+                        "id": 3441110,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11001765",
+                        "maktx": "VC HU MAN 15_GB IE",
+                        "id": 3441111,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11013941",
+                        "maktx": "HU-MAN 15_600L_DE",
+                        "id": 3441112,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11014887",
+                        "maktx": "HU-MAN 15_10L_FI",
+                        "id": 3441113,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11002519",
+                        "maktx": "HUMAN 15_10L_BO",
+                        "id": 3441114,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "12000304",
+                        "maktx": "MN 15-S 21.8-MG 2-ZN 1-P2O5 19SL_FL_ALL",
+                        "id": 3441115,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11015861",
+                        "maktx": "HU-MAN 15_10L_BE",
+                        "id": 3441116,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11015646",
+                        "maktx": "HUMAN-15_600L_NL_HOLLAND FYTO",
+                        "id": 3441117,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11014728",
+                        "maktx": "HU-MAN 15_10L_IE",
+                        "id": 3441118,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11002110",
+                        "maktx": "HUMAN 15_10L_NL_HOLL FYTO",
+                        "id": 3441119,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11014852",
+                        "maktx": "HU-MAN 15_10L_AT",
+                        "id": 3441120,
+                        "reportDataId": 27677
+                    },
+                    {
+                        "matnr": "11013961",
+                        "maktx": "HU-MAN 15_10L_DE",
+                        "id": 3441121,
+                        "reportDataId": 27677
+                    }
+                ],
+                "id": 27677
             }
         ],
         "isExportToExcel": false
