@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6053,
+        "totalCount": 6050,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,156 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50003000_EXT_SDS_ES_EN.PDF",
-                "specificationid": "50003000",
-                "path": "\\\\172.18.22.6\\sds_external/50003000_EXT_SDS_ES_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "DEDALO WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "Stroby\u00ae WG",
-                "casnumber": "",
-                "commercialnames": "DEDALO WG (3PP BUY-SELL)",
-                "cmr": "",
-                "publishdate": "09/24/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Spain",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "09/24/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000699",
-                        "maktx": "DEDALO WG_200G_ES",
-                        "id": 1933617,
-                        "reportDataId": 26608
-                    }
-                ],
-                "id": 26608
-            },
-            {
-                "pdfname": "50001558_SDS_AU_6N.PDF",
-                "specificationid": "50001558",
-                "path": "\\\\172.18.22.6\\sds_external/50001558_SDS_AU_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_AU",
-                "authorizedportal": "P3",
-                "productname": "FUZILIER SELECTIVE HERBICIDE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FLF 212 g/l EC",
-                "cmr": "",
-                "publishdate": "09/24/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "AU",
-                "validityareadescription": "Australia",
-                "legacyspecid": "FO004367",
-                "legacysdsid": "",
-                "revisiondate": "09/24/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001168",
-                        "maktx": "FLF 212EC_WG_LUBA",
-                        "id": 1933618,
-                        "reportDataId": 26609
-                    },
-                    {
-                        "matnr": "11004032",
-                        "maktx": "FUZILIER_5L_AU",
-                        "id": 1933619,
-                        "reportDataId": 26609
-                    }
-                ],
-                "id": 26609
-            },
-            {
-                "pdfname": "50002765_EXT_SDS_GR_6N.PDF",
-                "specificationid": "50002765",
-                "path": "\\\\172.18.22.6\\sds_external/50002765_EXT_SDS_GR_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_GR",
-                "authorizedportal": "P3",
-                "productname": "SELEBEL\u2122",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "RYX 5 SC (ACTICIDE) (CHILD)",
-                "cmr": "",
-                "publishdate": "09/24/2024",
-                "iupac": "",
-                "incode": "E2Y45",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "GR",
-                "validityareadescription": "Greece",
-                "legacyspecid": "Q-1618",
-                "legacysdsid": "130000141068",
-                "revisiondate": "09/24/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016156",
-                        "maktx": "SELEBEL_1L_GR",
-                        "id": 2591290,
-                        "reportDataId": 26610
-                    },
-                    {
-                        "matnr": "11016532",
-                        "maktx": "SELEBEL_1L_IT",
-                        "id": 2591291,
-                        "reportDataId": 26610
-                    },
-                    {
-                        "matnr": "11000134",
-                        "maktx": "ELICOR 5SC_500ML_PH",
-                        "id": 2591292,
-                        "reportDataId": 26610
-                    },
-                    {
-                        "matnr": "11016176",
-                        "maktx": "SELEBEL_5L_IT_CORTEVA",
-                        "id": 2591293,
-                        "reportDataId": 26610
-                    },
-                    {
-                        "matnr": "11016531",
-                        "maktx": "PREVATHON_3L_BE",
-                        "id": 2591294,
-                        "reportDataId": 26610
-                    },
-                    {
-                        "matnr": "11000130",
-                        "maktx": "ELICOR 5SC_250ML_PH",
-                        "id": 2591295,
-                        "reportDataId": 26610
-                    }
-                ],
-                "id": 26610
-            },
             {
                 "pdfname": "50002765_EXT_SDS_GR_EL.PDF",
                 "specificationid": "50002765",
@@ -26708,177 +26558,189 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006258",
-                        "maktx": "BROADSIDE_121.5G_CA",
-                        "id": 2241963,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005115",
-                        "maktx": "MAROX SX_100G_IT_SUMITOMO",
-                        "id": 2241964,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006587",
-                        "maktx": "CALIBRE 50SX_300G_MUL",
-                        "id": 2241965,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11007452",
-                        "maktx": "CALIBRE SX_220G_MUL",
-                        "id": 2241966,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006068",
-                        "maktx": "HARMONY EXTRA SX_600G_FR",
-                        "id": 2241967,
+                        "matnr": "12005252",
+                        "maktx": "TIM 333 TBM 167SG_450KG_CA_UF_ALL",
+                        "id": 3511300,
                         "reportDataId": 26789
                     },
                     {
                         "matnr": "11015487",
                         "maktx": "REFINE SG_486G_CA",
-                        "id": 2241968,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "12001579",
-                        "maktx": "TIM 333 TBM 167SG_435KG_UF_ALL",
-                        "id": 2241969,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "12002112",
-                        "maktx": "REFINE 50SG CTN 486G BTL CA",
-                        "id": 2241970,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006159",
-                        "maktx": "RATIO 50SX_250G_FI",
-                        "id": 2241971,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11009508",
-                        "maktx": "REFINE EXTRA 50SG_486G_CA",
-                        "id": 2241972,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006332",
-                        "maktx": "HARMONY PLUS 50SX_100G_NO",
-                        "id": 2241973,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005942",
-                        "maktx": "REFINE EXTRA SX_250G_DE",
-                        "id": 2241974,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "12002190",
-                        "maktx": "TIM 333 - TBM 167SG_500KG_CA",
-                        "id": 2241975,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006447",
-                        "maktx": "REFINE EXTRA_180G_BG",
-                        "id": 2241976,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005990",
-                        "maktx": "HARMONY PLUS 50SX_300G_SE",
-                        "id": 2241977,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005594",
-                        "maktx": "HARMONY EXTRA W-TOTALSOL_480OZ_SG",
-                        "id": 2241978,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006362",
-                        "maktx": "HARMONY EXTRA SX_100G_AT",
-                        "id": 2241979,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006026",
-                        "maktx": "HARMONY EXTRA W-TOTALSOL_15OZ_ SG",
-                        "id": 2241980,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "12001627",
-                        "maktx": "TIM 333 TBM 167SG_450KG_UF_ALL",
-                        "id": 2241981,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005921",
-                        "maktx": "HARMONY EXTRA W-TOTALSOL_48OZ_SG",
-                        "id": 2241982,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "12005252",
-                        "maktx": "TIM 333 TBM 167SG_450KG_CA_UF_ALL",
-                        "id": 2241983,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005927",
-                        "maktx": "REFINE EXTRA SX_150G_CH_LEU GYGAX",
-                        "id": 2241984,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006082",
-                        "maktx": "POSTA SX_150G_ES_BAYER",
-                        "id": 2241985,
+                        "id": 3511301,
                         "reportDataId": 26789
                     },
                     {
                         "matnr": "12001506",
                         "maktx": "TIM 333 TBM 167SG_50KG_UF_ALL",
-                        "id": 2241986,
+                        "id": 3511302,
                         "reportDataId": 26789
                     },
                     {
-                        "matnr": "11005528",
-                        "maktx": "REFINE EXTRA SX_1.5KG_DE",
-                        "id": 2241987,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11006363",
-                        "maktx": "HARMONY EXTRA SX_600G_AT",
-                        "id": 2241988,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005897",
-                        "maktx": "HARMONY PLUS 50SX_250G_SE",
-                        "id": 2241989,
-                        "reportDataId": 26789
-                    },
-                    {
-                        "matnr": "11005490",
-                        "maktx": "GRANSTAR EXTRA SG_150G_GR",
-                        "id": 2241990,
+                        "matnr": "12001579",
+                        "maktx": "TIM 333 TBM 167SG_435KG_UF_ALL",
+                        "id": 3511303,
                         "reportDataId": 26789
                     },
                     {
                         "matnr": "11006067",
                         "maktx": "HARMONY EXTRA SX_180G_FR",
-                        "id": 2241991,
+                        "id": 3511304,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11007452",
+                        "maktx": "CALIBRE SX_220G_MUL",
+                        "id": 3511305,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006082",
+                        "maktx": "POSTA SX_150G_ES_BAYER",
+                        "id": 3511306,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006026",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_15OZ_ SG",
+                        "id": 3511307,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006363",
+                        "maktx": "HARMONY EXTRA SX_600G_AT",
+                        "id": 3511308,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006447",
+                        "maktx": "REFINE EXTRA_180G_BG",
+                        "id": 3511309,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006068",
+                        "maktx": "HARMONY EXTRA SX_600G_FR",
+                        "id": 3511310,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005897",
+                        "maktx": "HARMONY PLUS 50SX_250G_SE",
+                        "id": 3511311,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005942",
+                        "maktx": "REFINE EXTRA SX_250G_DE",
+                        "id": 3511312,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11016857",
+                        "maktx": " BOOST 2.0_486G_CA",
+                        "id": 3511313,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005528",
+                        "maktx": "REFINE EXTRA SX_1.5KG_DE",
+                        "id": 3511314,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005990",
+                        "maktx": "HARMONY PLUS 50SX_300G_SE",
+                        "id": 3511315,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006362",
+                        "maktx": "HARMONY EXTRA SX_100G_AT",
+                        "id": 3511316,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006258",
+                        "maktx": "BROADSIDE_121.5G_CA",
+                        "id": 3511317,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "12002112",
+                        "maktx": "REFINE 50SG CTN 486G BTL CA",
+                        "id": 3511318,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006159",
+                        "maktx": "RATIO 50SX_250G_FI",
+                        "id": 3511319,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "12001627",
+                        "maktx": "TIM 333 TBM 167SG_450KG_UF_ALL",
+                        "id": 3511320,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005115",
+                        "maktx": "MAROX SX_100G_IT_SUMITOMO",
+                        "id": 3511321,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006587",
+                        "maktx": "CALIBRE 50SX_300G_MUL",
+                        "id": 3511322,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005490",
+                        "maktx": "GRANSTAR EXTRA SG_150G_GR",
+                        "id": 3511323,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11015613",
+                        "maktx": "RETAIN A SG_486G_CA",
+                        "id": 3511324,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "12002190",
+                        "maktx": "TIM 333 - TBM 167SG_500KG_CA",
+                        "id": 3511325,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005921",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_48OZ_SG",
+                        "id": 3511326,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005594",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_480OZ_SG",
+                        "id": 3511327,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11006332",
+                        "maktx": "HARMONY PLUS 50SX_100G_NO",
+                        "id": 3511328,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11005927",
+                        "maktx": "REFINE EXTRA SX_150G_CH_LEU GYGAX",
+                        "id": 3511329,
+                        "reportDataId": 26789
+                    },
+                    {
+                        "matnr": "11009508",
+                        "maktx": "REFINE EXTRA 50SG_486G_CA",
+                        "id": 3511330,
                         "reportDataId": 26789
                     }
                 ],
