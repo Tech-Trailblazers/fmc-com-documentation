@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6053,
+        "totalCount": 6058,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,50 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001303_SDS_TH_EN.PDF",
-                "specificationid": "50001303",
-                "path": "\\\\172.18.22.6\\sds_external/50001303_SDS_TH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_TH",
-                "authorizedportal": "P3",
-                "productname": "Bestox\u00ae 100EC Insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "ACY 100 g/L EC (v5)",
-                "cmr": "",
-                "publishdate": "09/25/2024",
-                "iupac": "",
-                "incode": "VBL34",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "TH",
-                "validityareadescription": "Thailand",
-                "legacyspecid": "FO004314",
-                "legacysdsid": "",
-                "revisiondate": "09/25/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005149",
-                        "maktx": "BESTOX 10EC_1L_TH",
-                        "id": 1936005,
-                        "reportDataId": 26618
-                    },
-                    {
-                        "matnr": "12001392",
-                        "maktx": "ACY 100EC_UG_BILA",
-                        "id": 1936006,
-                        "reportDataId": 26618
-                    }
-                ],
-                "id": 26618
-            },
             {
                 "pdfname": "50000669_SDS_DK_6N.PDF",
                 "specificationid": "50000669",
@@ -223860,16 +223816,16 @@
                 "casnumber": "",
                 "commercialnames": "FBN FLUROXYPYR 333 EC(3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "09/15/2025",
+                "publishdate": "09/22/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "09/15/2025",
+                "revisiondate": "09/22/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -223891,16 +223847,16 @@
                 "casnumber": "",
                 "commercialnames": "FBN FLUROXYPYR 333 EC(3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "09/15/2025",
+                "publishdate": "09/22/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "09/15/2025",
+                "revisiondate": "09/22/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -229032,6 +228988,664 @@
                     }
                 ],
                 "id": 27701
+            },
+            {
+                "pdfname": "50000100_SDS_CH_DE.PDF",
+                "specificationid": "50000100",
+                "path": "\\\\172.18.22.6\\sds_external/50000100_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "OMNERA\u00ae LQM\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AVALETTA LQM (M)",
+                "casnumber": "",
+                "commercialnames": "FRX + MEM + TIM (135 + 5 + 30) g/l OD",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "SGE27",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "Q-1669",
+                "legacysdsid": "130000107576",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014020",
+                        "maktx": "PROVALIA_5L_RO",
+                        "id": 3512987,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3512988,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12000679",
+                        "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
+                        "id": 3512989,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3512990,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3512991,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3512992,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3512993,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3512994,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3512995,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3512996,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12006410",
+                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
+                        "id": 3512997,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 3512998,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 3512999,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3513000,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 3513001,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3513002,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 3513003,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11002145",
+                        "maktx": "CONSTAR_5L_CH_STAHLER",
+                        "id": 3513004,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3513005,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013765",
+                        "maktx": "OMNERA LQM_5L_IT",
+                        "id": 3513006,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 3513007,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 3513008,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013435",
+                        "maktx": "OMNERA_5L_MD",
+                        "id": 3513009,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11014165",
+                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
+                        "id": 3513010,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 3513011,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3513012,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 3513013,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 3513014,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 3513015,
+                        "reportDataId": 27702
+                    }
+                ],
+                "id": 27702
+            },
+            {
+                "pdfname": "50000785_SDS_GB_6N.PDF",
+                "specificationid": "50000785",
+                "path": "\\\\172.18.22.6\\sds_external/50000785_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "FREEZE\u00ae NT",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "STIFF NT",
+                "casnumber": "",
+                "commercialnames": "TPE 250 g/L EC (v2)",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "JLY44",
+                "ehsversionno": "2.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "FO004089",
+                "legacysdsid": "",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001602",
+                        "maktx": "COUNTDOWN NT_5L_MUL",
+                        "id": 3513016,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "12000481",
+                        "maktx": "TPE 250EC_TC_RO_YN",
+                        "id": 3513017,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001466",
+                        "maktx": "CUADRO NT_5L_LT_AGROK",
+                        "id": 3513018,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11009044",
+                        "maktx": "COUNTDOWN NT_1L_DE",
+                        "id": 3513019,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001591",
+                        "maktx": "COUNTDOWN NT_5L_DE",
+                        "id": 3513020,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001348",
+                        "maktx": "CUADRO NT_5L_CZ",
+                        "id": 3513021,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11002981",
+                        "maktx": "CUADRO NT 250EC_5L_PL",
+                        "id": 3513022,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11005461",
+                        "maktx": "COUNTDOWN NT_1L_AT",
+                        "id": 3513023,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11006000",
+                        "maktx": "FREEZE NT_3L_IE",
+                        "id": 3513024,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "12000457",
+                        "maktx": "TPE 250EC_1000L_RO_HF",
+                        "id": 3513025,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001431",
+                        "maktx": "CUADRO NT_5L_DK",
+                        "id": 3513026,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11009302",
+                        "maktx": "CUADRO NT 250EC_1L_PL",
+                        "id": 3513027,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11002403",
+                        "maktx": "CUADRO NT_5L_SE",
+                        "id": 3513028,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001522",
+                        "maktx": "FREEZE NT_1L_GB",
+                        "id": 3513029,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001585",
+                        "maktx": "CUADRO NT 250EC_10L_PL",
+                        "id": 3513030,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001614",
+                        "maktx": "FREEZE NT_1L_IE",
+                        "id": 3513031,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11005459",
+                        "maktx": "COUNTDOWN NT_5L_AT",
+                        "id": 3513032,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11002633",
+                        "maktx": "CUADRO NT_5L_FR",
+                        "id": 3513033,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001341",
+                        "maktx": "FREEZE NT_1L_GB",
+                        "id": 3513034,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "12000437",
+                        "maktx": "TPE 250EC_TC_DE DK_RO_HF",
+                        "id": 3513035,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "12006274",
+                        "maktx": "TPE 250EC_1000L_RO_YN",
+                        "id": 3513036,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001465",
+                        "maktx": "CUADRO NT_5L_LV_AUGU",
+                        "id": 3513037,
+                        "reportDataId": 27703
+                    },
+                    {
+                        "matnr": "11001584",
+                        "maktx": "CUADRO NT_5L_SK",
+                        "id": 3513038,
+                        "reportDataId": 27703
+                    }
+                ],
+                "id": 27703
+            },
+            {
+                "pdfname": "50001819_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001819",
+                "path": "\\\\172.18.22.6\\sds_external/50001819_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "SEIZE\u2122 NT",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "TPE 250 g/L EC (v2) (CHILD)",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "JLY44",
+                "ehsversionno": "2.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "FO004089",
+                "legacysdsid": "8830-02 (88C)-A",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009324",
+                        "maktx": "RIGID NT 250EC_1L_PL",
+                        "id": 3513039,
+                        "reportDataId": 27704
+                    },
+                    {
+                        "matnr": "11009306",
+                        "maktx": "RIGID NT 250EC_10L_PL",
+                        "id": 3513040,
+                        "reportDataId": 27704
+                    },
+                    {
+                        "matnr": "11004457",
+                        "maktx": "SEIZE NT_3L_GB",
+                        "id": 3513041,
+                        "reportDataId": 27704
+                    },
+                    {
+                        "matnr": "11009305",
+                        "maktx": "RIGID NT 250EC_5L_PL",
+                        "id": 3513042,
+                        "reportDataId": 27704
+                    },
+                    {
+                        "matnr": "11002389",
+                        "maktx": "CUADRO NT_5L_LV EE",
+                        "id": 3513043,
+                        "reportDataId": 27704
+                    }
+                ],
+                "id": 27704
+            },
+            {
+                "pdfname": "50003104_SDS_CA_EN.PDF",
+                "specificationid": "50003104",
+                "path": "\\\\172.18.22.6\\sds_external/50003104_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Avoda PRO Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "RAXIL\u00ae PRO FUNGICIDE (BAYER)",
+                "casnumber": "",
+                "commercialnames": "AVODA PRO SEED TREATMENT (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27705
+            },
+            {
+                "pdfname": "50003104_SDS_CA_3F.PDF",
+                "specificationid": "50003104",
+                "path": "\\\\172.18.22.6\\sds_external/50003104_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Avoda PRO Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "AVODA PRO SEED TREATMENT (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27706
+            },
+            {
+                "pdfname": "50000021_SDS_CH_DE.PDF",
+                "specificationid": "50000021",
+                "path": "\\\\172.18.22.6\\sds_external/50000021_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "BIPLAY\u00ae SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALLIE STAR SX (M)",
+                "casnumber": "",
+                "commercialnames": "CDQ73 33.3 SG Blend",
+                "cmr": "",
+                "publishdate": "09/22/2025",
+                "iupac": "",
+                "incode": "CDQ73",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "A-06.7",
+                "legacysdsid": "130000000397",
+                "revisiondate": "09/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013606",
+                        "maktx": "CDQ SX_200G_MUL",
+                        "id": 3513069,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11007445",
+                        "maktx": "BIPLAY SX_600G_SK",
+                        "id": 3513070,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "12001600",
+                        "maktx": "TBM 222 MEM 111SG_450KG_UF_ALL",
+                        "id": 3513071,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11007580",
+                        "maktx": "CDQ SX_250G_MUL",
+                        "id": 3513072,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11007460",
+                        "maktx": "DP911 SX_225G_GB",
+                        "id": 3513073,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11005808",
+                        "maktx": "BIPLAY SX_135G_IE",
+                        "id": 3513074,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006464",
+                        "maktx": "BIPLAY SX_600G_CZ",
+                        "id": 3513075,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11005992",
+                        "maktx": "CDQ SX_250G_SE",
+                        "id": 3513076,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006110",
+                        "maktx": "BIPLAY SX_150G_FR",
+                        "id": 3513077,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006006",
+                        "maktx": "TRATON SX_250G_NL",
+                        "id": 3513078,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006090",
+                        "maktx": "EXPRESS GOLD 33SX_100G_DK",
+                        "id": 3513079,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11016357",
+                        "maktx": "TRATON SX_225G_ES_KENOGARD",
+                        "id": 3513080,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006197",
+                        "maktx": "CDQ SX_100G_NO",
+                        "id": 3513081,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11005860",
+                        "maktx": "BIPLAY SX_750G_FR",
+                        "id": 3513082,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "12001539",
+                        "maktx": "TBM 222 MEM 111SG_50KG_UF_ALL",
+                        "id": 3513083,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11007521",
+                        "maktx": "EXPRESS GOLD SX_250G_NO",
+                        "id": 3513084,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11005889",
+                        "maktx": "TRIMMER TRIO_105G_HU_ADAMA",
+                        "id": 3513085,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11009014",
+                        "maktx": "TRATON SX_600G_SK_MV SERVIS",
+                        "id": 3513086,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11006379",
+                        "maktx": "TRATON SX_70G_IT",
+                        "id": 3513087,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11000058",
+                        "maktx": "BIPLAY 33SX_225G_ES",
+                        "id": 3513088,
+                        "reportDataId": 27707
+                    },
+                    {
+                        "matnr": "11005003",
+                        "maktx": "CDQ SX_250G_FI",
+                        "id": 3513089,
+                        "reportDataId": 27707
+                    }
+                ],
+                "id": 27707
             }
         ],
         "isExportToExcel": false
