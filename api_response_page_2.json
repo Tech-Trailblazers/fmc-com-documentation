@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6058,
+        "totalCount": 6062,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,262 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000669_SDS_DK_6N.PDF",
-                "specificationid": "50000669",
-                "path": "\\\\172.18.22.6\\sds_external/50000669_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "TEBUCONAZOLE 225 g/l + FLUTRIAFOL 75 g/l SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "IMPACT SUPER",
-                "casnumber": "",
-                "commercialnames": "FLT + TEB (225 + 75) g/L DC",
-                "cmr": "",
-                "publishdate": "09/26/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO002170",
-                "legacysdsid": "",
-                "revisiondate": "09/26/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001849",
-                        "maktx": "IMPACT SUPER_5L_MUL",
-                        "id": 1936398,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12006393",
-                        "maktx": "FLT 75 + TEB 225SC_PHY_RO",
-                        "id": 1936399,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11002503",
-                        "maktx": "TOPGUARD 30SC_200L_PK_SWAT",
-                        "id": 1936400,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11009435",
-                        "maktx": "IMPACT T_1L_TR",
-                        "id": 1936401,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11001850",
-                        "maktx": "IMPACT T SC_5L_UA",
-                        "id": 1936402,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12000395",
-                        "maktx": "FLT 75-TEB 225SC_RU UA_ST_CALA 7C",
-                        "id": 1936403,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12000561",
-                        "maktx": "FLT 75-TEB 225SC_UA_ST_7C 7C",
-                        "id": 1936404,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12000574",
-                        "maktx": "FLT 75-TEB 225SC_RU BY_ST_7C 7C",
-                        "id": 1936405,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11001897",
-                        "maktx": "TEBU 225 FLUTRIA 75_200L_DE",
-                        "id": 1936406,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12005630",
-                        "maktx": "FLT 75 + TEB 225SC_RU UA_ST_RO",
-                        "id": 1936407,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11009320",
-                        "maktx": "RIZA GOLD 300SC_10L_ZA",
-                        "id": 1936408,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11015728",
-                        "maktx": "POINTER DUO_200L_TN_AGROSYSTEMES",
-                        "id": 1936409,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11013955",
-                        "maktx": "RIZA GOLD 300SC_5L_ZA",
-                        "id": 1936410,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11013929",
-                        "maktx": "IMPACT SUPER SC_10L_MUL",
-                        "id": 1936411,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "11015065",
-                        "maktx": "IMPACT T_10L_UA",
-                        "id": 1936412,
-                        "reportDataId": 26619
-                    },
-                    {
-                        "matnr": "12001949",
-                        "maktx": "FLT 75-TEB 225SC_ST_CALA 7C",
-                        "id": 1936413,
-                        "reportDataId": 26619
-                    }
-                ],
-                "id": 26619
-            },
-            {
-                "pdfname": "50000669_SDS_FR_FR.PDF",
-                "specificationid": "50000669",
-                "path": "\\\\172.18.22.6\\sds_external/50000669_SDS_FR_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "SDS_FR",
-                "authorizedportal": "P3",
-                "productname": "TEBUCONAZOLE 225 g/l + FLUTRIAFOL 75 g/l SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "IMPACT SUPER",
-                "casnumber": "",
-                "commercialnames": "FLT + TEB (225 + 75) g/L DC",
-                "cmr": "",
-                "publishdate": "09/26/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "FR",
-                "validityareadescription": "France",
-                "legacyspecid": "FO002170",
-                "legacysdsid": "",
-                "revisiondate": "09/26/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001849",
-                        "maktx": "IMPACT SUPER_5L_MUL",
-                        "id": 1936430,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12006393",
-                        "maktx": "FLT 75 + TEB 225SC_PHY_RO",
-                        "id": 1936431,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11002503",
-                        "maktx": "TOPGUARD 30SC_200L_PK_SWAT",
-                        "id": 1936432,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11009435",
-                        "maktx": "IMPACT T_1L_TR",
-                        "id": 1936433,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11001850",
-                        "maktx": "IMPACT T SC_5L_UA",
-                        "id": 1936434,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12000395",
-                        "maktx": "FLT 75-TEB 225SC_RU UA_ST_CALA 7C",
-                        "id": 1936435,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12000561",
-                        "maktx": "FLT 75-TEB 225SC_UA_ST_7C 7C",
-                        "id": 1936436,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12000574",
-                        "maktx": "FLT 75-TEB 225SC_RU BY_ST_7C 7C",
-                        "id": 1936437,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11001897",
-                        "maktx": "TEBU 225 FLUTRIA 75_200L_DE",
-                        "id": 1936438,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12005630",
-                        "maktx": "FLT 75 + TEB 225SC_RU UA_ST_RO",
-                        "id": 1936439,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11009320",
-                        "maktx": "RIZA GOLD 300SC_10L_ZA",
-                        "id": 1936440,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11015728",
-                        "maktx": "POINTER DUO_200L_TN_AGROSYSTEMES",
-                        "id": 1936441,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11013955",
-                        "maktx": "RIZA GOLD 300SC_5L_ZA",
-                        "id": 1936442,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11013929",
-                        "maktx": "IMPACT SUPER SC_10L_MUL",
-                        "id": 1936443,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "11015065",
-                        "maktx": "IMPACT T_10L_UA",
-                        "id": 1936444,
-                        "reportDataId": 26620
-                    },
-                    {
-                        "matnr": "12001949",
-                        "maktx": "FLT 75-TEB 225SC_ST_CALA 7C",
-                        "id": 1936445,
-                        "reportDataId": 26620
-                    }
-                ],
-                "id": 26620
-            },
             {
                 "pdfname": "50001303_SDS_ID_EN.PDF",
                 "specificationid": "50001303",
@@ -23995,42 +23739,42 @@
                 "casnumber": "",
                 "commercialnames": "CLZ (HP) 360 g/L CS (CHILD)",
                 "cmr": "",
-                "publishdate": "11/12/2024",
+                "publishdate": "09/23/2025",
                 "iupac": "",
                 "incode": "U8R42",
-                "ehsversionno": "1.2",
+                "ehsversionno": "1.3",
                 "fileformat": "PDF",
                 "validityarea": "FR",
                 "validityareadescription": "France",
                 "legacyspecid": "FO004149",
                 "legacysdsid": "",
-                "revisiondate": "11/12/2024",
+                "revisiondate": "09/23/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 3513493,
+                        "reportDataId": 26768
+                    },
+                    {
                         "matnr": "11016244",
                         "maktx": "LIMPO 36CS_5L_FR",
-                        "id": 2709085,
+                        "id": 3513494,
                         "reportDataId": 26768
                     },
                     {
                         "matnr": "11002704",
                         "maktx": "GAMIT 36CS_1L_CZ_SUMIAGRO",
-                        "id": 2709086,
-                        "reportDataId": 26768
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 2709087,
+                        "id": 3513495,
                         "reportDataId": 26768
                     },
                     {
                         "matnr": "11001020",
                         "maktx": "CETUS 360CS_1L_IT_SUMITO",
-                        "id": 2709088,
+                        "id": 3513496,
                         "reportDataId": 26768
                     }
                 ],
@@ -224482,7 +224226,7 @@
                 "casnumber": "",
                 "commercialnames": "",
                 "cmr": "",
-                "publishdate": "09/17/2025",
+                "publishdate": "09/23/2025",
                 "iupac": "",
                 "incode": "",
                 "ehsversionno": "1.0",
@@ -224491,7 +224235,7 @@
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "09/16/2025",
+                "revisiondate": "09/23/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -224499,7 +224243,7 @@
                     {
                         "matnr": "22024855",
                         "maktx": "MSC_STRETCH_WRAP",
-                        "id": 3511515,
+                        "id": 3513497,
                         "reportDataId": 27694
                     }
                 ],
@@ -224520,7 +224264,7 @@
                 "casnumber": "",
                 "commercialnames": "",
                 "cmr": "",
-                "publishdate": "09/17/2025",
+                "publishdate": "09/23/2025",
                 "iupac": "",
                 "incode": "",
                 "ehsversionno": "1.0",
@@ -224529,7 +224273,7 @@
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "09/16/2025",
+                "revisiondate": "09/23/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -224537,7 +224281,7 @@
                     {
                         "matnr": "22024855",
                         "maktx": "MSC_STRETCH_WRAP",
-                        "id": 3511514,
+                        "id": 3513498,
                         "reportDataId": 27695
                     }
                 ],
@@ -229646,6 +229390,316 @@
                     }
                 ],
                 "id": 27707
+            },
+            {
+                "pdfname": "50000458_SDS_NO_NO.PDF",
+                "specificationid": "50000458",
+                "path": "\\\\172.18.22.6\\sds_external/50000458_SDS_NO_NO.PDF",
+                "reptype": "MSDS",
+                "language": "NO",
+                "genvariant": "SDS_NO",
+                "authorizedportal": "P3",
+                "productname": "DP-KLEBEMIDDEL",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DP ADHESIVE",
+                "casnumber": "",
+                "commercialnames": "TREND 90 WITH ANTIFOAM (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "KG691",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "NO",
+                "validityareadescription": "Norway",
+                "legacyspecid": "FO004321",
+                "legacysdsid": "130000148737",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000187",
+                        "maktx": "DP-KLEBEMIDDEL_1L_NO",
+                        "id": 3513254,
+                        "reportDataId": 27708
+                    },
+                    {
+                        "matnr": "11007591",
+                        "maktx": "TREND AMESURF_1000L_HU",
+                        "id": 3513255,
+                        "reportDataId": 27708
+                    }
+                ],
+                "id": 27708
+            },
+            {
+                "pdfname": "50000458_SDS_NO_6N.PDF",
+                "specificationid": "50000458",
+                "path": "\\\\172.18.22.6\\sds_external/50000458_SDS_NO_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_NO",
+                "authorizedportal": "P3",
+                "productname": "DP-KLEBEMIDDEL",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DP ADHESIVE",
+                "casnumber": "",
+                "commercialnames": "TREND 90 WITH ANTIFOAM (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "KG691",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "NO",
+                "validityareadescription": "Norway",
+                "legacyspecid": "FO004321",
+                "legacysdsid": "130000148737",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000187",
+                        "maktx": "DP-KLEBEMIDDEL_1L_NO",
+                        "id": 3513256,
+                        "reportDataId": 27709
+                    },
+                    {
+                        "matnr": "11007591",
+                        "maktx": "TREND AMESURF_1000L_HU",
+                        "id": 3513257,
+                        "reportDataId": 27709
+                    }
+                ],
+                "id": 27709
+            },
+            {
+                "pdfname": "50001820_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001820",
+                "path": "\\\\172.18.22.6\\sds_external/50001820_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "CONFINE\u2122 NT",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "STIFF NT",
+                "casnumber": "",
+                "commercialnames": "TPE 250 g/L EC (v2) (CHILD)",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "JLY44",
+                "ehsversionno": "2.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "FO004089",
+                "legacysdsid": "8830-02 (88C)-CH-A",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009118",
+                        "maktx": "STIFF NT_5L_SK",
+                        "id": 3513258,
+                        "reportDataId": 27710
+                    },
+                    {
+                        "matnr": "11009304",
+                        "maktx": "STIFF NT 250EC_5L_PL",
+                        "id": 3513259,
+                        "reportDataId": 27710
+                    },
+                    {
+                        "matnr": "11009303",
+                        "maktx": "STIFF NT 250EC_10L_PL",
+                        "id": 3513260,
+                        "reportDataId": 27710
+                    },
+                    {
+                        "matnr": "11009323",
+                        "maktx": "STIFF NT 250EC_1L_PL",
+                        "id": 3513261,
+                        "reportDataId": 27710
+                    }
+                ],
+                "id": 27710
+            },
+            {
+                "pdfname": "50001164_SDS_FR_6N.PDF",
+                "specificationid": "50001164",
+                "path": "\\\\172.18.22.6\\sds_external/50001164_SDS_FR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "RAPSIM",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0086",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "NP-0086",
+                "legacysdsid": "NP-0086",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000190",
+                        "maktx": "RAPSIMS 10L_CZ",
+                        "id": 3513499,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "12000257",
+                        "maktx": "S 16-MN 9-ZN 7-B 5-N 8.2-MO 0.4SC_FL_ALL",
+                        "id": 3513500,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11002237",
+                        "maktx": "MULTIMIX SC_5L_MA_SIPP",
+                        "id": 3513501,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11000358",
+                        "maktx": "RAPSIM_10L_FR",
+                        "id": 3513502,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11001969",
+                        "maktx": "ZOOM ZINC_1000L_HU",
+                        "id": 3513503,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11002545",
+                        "maktx": "RAPSIMS_1L_CN",
+                        "id": 3513504,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11015031",
+                        "maktx": "HANLANHELECHANG_1000L_CN",
+                        "id": 3513505,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11002357",
+                        "maktx": "RAPSIMS_5L_GB",
+                        "id": 3513506,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11001741",
+                        "maktx": "RAPSIMS RAPSAMS N_5L_LV LT",
+                        "id": 3513507,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11014354",
+                        "maktx": "RAPSAMS_5L_LT_AGROKONCERNAS",
+                        "id": 3513508,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "12005571",
+                        "maktx": "S16+MN9+ZN7+B5+N8.2+MO0.4SC_1000L_FL_ALL",
+                        "id": 3513509,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11016692",
+                        "maktx": "HANLANHELECHANG_100ML_CN",
+                        "id": 3513510,
+                        "reportDataId": 27711
+                    }
+                ],
+                "id": 27711
+            },
+            {
+                "pdfname": "50003101_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50003101",
+                "path": "\\\\172.18.22.6\\sds_external/50003101_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "GAMIT\u00ae STAR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ 800 g/L EC",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27712
+            },
+            {
+                "pdfname": "50003101_EXT_SDS_BR_PT.PDF",
+                "specificationid": "50003101",
+                "path": "\\\\172.18.22.6\\sds_external/50003101_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "GAMIT\u00ae STAR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ 800 g/L EC",
+                "cmr": "",
+                "publishdate": "09/23/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "09/23/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27713
             }
         ],
         "isExportToExcel": false
