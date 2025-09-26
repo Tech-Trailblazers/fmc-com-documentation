@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6064,
+        "totalCount": 6063,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,126 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001303_SDS_ID_ID.PDF",
-                "specificationid": "50001303",
-                "path": "\\\\172.18.22.6\\sds_external/50001303_SDS_ID_ID.PDF",
-                "reptype": "MSDS",
-                "language": "ID",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "Bestox\u00ae 100EC Insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "ACY 100 g/L EC (v5)",
-                "cmr": "",
-                "publishdate": "09/27/2024",
-                "iupac": "",
-                "incode": "VBL34",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO004314",
-                "legacysdsid": "",
-                "revisiondate": "09/27/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005149",
-                        "maktx": "BESTOX 10EC_1L_TH",
-                        "id": 1957797,
-                        "reportDataId": 26624
-                    },
-                    {
-                        "matnr": "12001392",
-                        "maktx": "ACY 100EC_UG_BILA",
-                        "id": 1957798,
-                        "reportDataId": 26624
-                    }
-                ],
-                "id": 26624
-            },
-            {
-                "pdfname": "50002758_EXT_SDS_PL_PL.PDF",
-                "specificationid": "50002758",
-                "path": "\\\\172.18.22.6\\sds_external/50002758_EXT_SDS_PL_PL.PDF",
-                "reptype": "MSDS",
-                "language": "PL",
-                "genvariant": "EXT_SDS_PL",
-                "authorizedportal": "P3",
-                "productname": "DUAL NEXT",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CONAN 600 EC",
-                "casnumber": "",
-                "commercialnames": "PXA 600 g/L EC (CHILD)",
-                "cmr": "",
-                "publishdate": "09/30/2024",
-                "iupac": "",
-                "incode": "45263",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PL",
-                "validityareadescription": "Poland",
-                "legacyspecid": "FO002146",
-                "legacysdsid": "",
-                "revisiondate": "02/19/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016124",
-                        "maktx": "DUAL NEXT_5L_PL_SYNGENTA",
-                        "id": 1957799,
-                        "reportDataId": 26625
-                    }
-                ],
-                "id": 26625
-            },
-            {
-                "pdfname": "50003007_EXT_SDS_PL_PL.PDF",
-                "specificationid": "50003007",
-                "path": "\\\\172.18.22.6\\sds_external/50003007_EXT_SDS_PL_PL.PDF",
-                "reptype": "MSDS",
-                "language": "PL",
-                "genvariant": "EXT_SDS_PL",
-                "authorizedportal": "P3",
-                "productname": "LISERE\u2122 600 EC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "PXA 600 g/L EC (CHILD)",
-                "cmr": "",
-                "publishdate": "01/31/2025",
-                "iupac": "",
-                "incode": "45263",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "PL",
-                "validityareadescription": "Poland",
-                "legacyspecid": "FO002146",
-                "legacysdsid": "",
-                "revisiondate": "01/31/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016445",
-                        "maktx": "LISERE 600EC_5L_PL_AGROSIMEX",
-                        "id": 2443538,
-                        "reportDataId": 26626
-                    }
-                ],
-                "id": 26626
-            },
             {
                 "pdfname": "50002622_EXT_SDS_IT_IT.PDF",
                 "specificationid": "50002622",
@@ -229974,120 +229854,120 @@
                 "casnumber": "",
                 "commercialnames": "NP-0050",
                 "cmr": "",
-                "publishdate": "09/24/2025",
+                "publishdate": "09/25/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.8",
+                "ehsversionno": "1.9",
                 "fileformat": "PDF",
                 "validityarea": "FR",
                 "validityareadescription": "France",
                 "legacyspecid": "NP-0050",
                 "legacysdsid": "NP-0050",
-                "revisiondate": "09/24/2025",
+                "revisiondate": "09/25/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11015857",
+                        "maktx": "VYTEGRIS COPPER_5L_BE",
+                        "id": 3554886,
+                        "reportDataId": 27715
+                    },
+                    {
                         "matnr": "11002097",
                         "maktx": "COPPER 435_5L_ES",
-                        "id": 3554513,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11001957",
-                        "maktx": "COPPER_1000L_GB",
-                        "id": 3554514,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11004557",
-                        "maktx": "MID_10L_UA_SPEC AG",
-                        "id": 3554515,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11001954",
-                        "maktx": "COPPER_5L_GB",
-                        "id": 3554516,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11014255",
-                        "maktx": "THYPAAN COPPER 435_1L_TR",
-                        "id": 3554517,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11014746",
-                        "maktx": "COPPER_5L_IE",
-                        "id": 3554518,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11001955",
-                        "maktx": "COPPER_600L_GB",
-                        "id": 3554519,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11001763",
-                        "maktx": "KOPER FL_10L_NL_AGVI",
-                        "id": 3554520,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11002085",
-                        "maktx": "COPPER 435_5L_TZ KE_TRI-HYG",
-                        "id": 3554521,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11002666",
-                        "maktx": "FOLY COPPER 435_1L_TR",
-                        "id": 3554522,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "12000219",
-                        "maktx": "COX 435SC_FL",
-                        "id": 3554523,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11009290",
-                        "maktx": "CUIVRE 435_10L_FR",
-                        "id": 3554524,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11002233",
-                        "maktx": "COPPER_10L_BG",
-                        "id": 3554525,
-                        "reportDataId": 27715
-                    },
-                    {
-                        "matnr": "11002385",
-                        "maktx": "PHYTOGREEN-CU256_1000L_DE",
-                        "id": 3554526,
+                        "id": 3554887,
                         "reportDataId": 27715
                     },
                     {
                         "matnr": "11016495",
                         "maktx": "COPPER_5L_PL",
-                        "id": 3554527,
+                        "id": 3554888,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11002385",
+                        "maktx": "PHYTOGREEN-CU256_1000L_DE",
+                        "id": 3554889,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11002233",
+                        "maktx": "COPPER_10L_BG",
+                        "id": 3554890,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11009290",
+                        "maktx": "CUIVRE 435_10L_FR",
+                        "id": 3554891,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "12000219",
+                        "maktx": "COX 435SC_FL",
+                        "id": 3554892,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11002666",
+                        "maktx": "FOLY COPPER 435_1L_TR",
+                        "id": 3554893,
                         "reportDataId": 27715
                     },
                     {
                         "matnr": "11015647",
                         "maktx": "KOPER FMC_10L_NL",
-                        "id": 3554528,
+                        "id": 3554894,
                         "reportDataId": 27715
                     },
                     {
-                        "matnr": "11015857",
-                        "maktx": "VYTEGRIS COPPER_5L_BE",
-                        "id": 3554529,
+                        "matnr": "11001955",
+                        "maktx": "COPPER_600L_GB",
+                        "id": 3554895,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11014746",
+                        "maktx": "COPPER_5L_IE",
+                        "id": 3554896,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11014255",
+                        "maktx": "THYPAAN COPPER 435_1L_TR",
+                        "id": 3554897,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11001954",
+                        "maktx": "COPPER_5L_GB",
+                        "id": 3554898,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11004557",
+                        "maktx": "MID_10L_UA_SPEC AG",
+                        "id": 3554899,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11001957",
+                        "maktx": "COPPER_1000L_GB",
+                        "id": 3554900,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11001763",
+                        "maktx": "KOPER FL_10L_NL_AGVI",
+                        "id": 3554901,
+                        "reportDataId": 27715
+                    },
+                    {
+                        "matnr": "11002085",
+                        "maktx": "COPPER 435_5L_TZ KE_TRI-HYG",
+                        "id": 3554902,
                         "reportDataId": 27715
                     }
                 ],
@@ -230142,6 +230022,412 @@
                     }
                 ],
                 "id": 27716
+            },
+            {
+                "pdfname": "50000117_SDS_CH_6N.PDF",
+                "specificationid": "50000117",
+                "path": "\\\\172.18.22.6\\sds_external/50000117_SDS_CH_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "VERIMARK\u00ae 2.0",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE)",
+                "cmr": "",
+                "publishdate": "09/25/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Switzerland",
+                "legacyspecid": "Q-1945",
+                "legacysdsid": "130000145292",
+                "revisiondate": "09/25/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006822",
+                        "maktx": "VERIMARK 20SC_100ML_JP_KUMIAI",
+                        "id": 3554755,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12005925",
+                        "maktx": "CZP 200SC_BR_UB_ALL",
+                        "id": 3554756,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006592",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_JI",
+                        "id": 3554757,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11016646",
+                        "maktx": "VERIMARK_1L_AT",
+                        "id": 3554758,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015657",
+                        "maktx": "VERIMARK 20SC_250ML_TW",
+                        "id": 3554759,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007055",
+                        "maktx": "VERIMARK 20SC_100ML_JP_MBC",
+                        "id": 3554760,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007280",
+                        "maktx": "VERIMARK 20SC_100ML_JP_NISSO",
+                        "id": 3554761,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11013503",
+                        "maktx": "DAHEZAN_200L_CN",
+                        "id": 3554762,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11016730",
+                        "maktx": "CIRCADEN 200SC_50ML_ZW_POLACHEM",
+                        "id": 3554763,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015920",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 3554764,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11013150",
+                        "maktx": "VERIMARK 200SC_50ML_CN_DHZ",
+                        "id": 3554765,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015087",
+                        "maktx": "VERIMARK_20L_BR",
+                        "id": 3554766,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006565",
+                        "maktx": "CZP 200SC_200L_JP_ST_JI",
+                        "id": 3554767,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12005771",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_MO",
+                        "id": 3554768,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015899",
+                        "maktx": "VERIMARK_500ML_MX",
+                        "id": 3554769,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007537",
+                        "maktx": "VERIMARK 200SC_100ML_ID",
+                        "id": 3554770,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11016275",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 3554771,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015097",
+                        "maktx": "VERIMARK_200ML_BR",
+                        "id": 3554772,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11009438",
+                        "maktx": "VERIMARK_1L_RU KZ",
+                        "id": 3554773,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11016169",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 3554774,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006505",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_JI",
+                        "id": 3554775,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006310",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_MO",
+                        "id": 3554776,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11009437",
+                        "maktx": "VERIMARK_375ML_RU KZ",
+                        "id": 3554777,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12000749",
+                        "maktx": "CZP 200SC_200L_VN_JI",
+                        "id": 3554778,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006596",
+                        "maktx": "CZP 200SC_200L_VN_ST_JI",
+                        "id": 3554779,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11013141",
+                        "maktx": "VERIMARK 200SC_10ML_CN_DHZ",
+                        "id": 3554780,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11000031",
+                        "maktx": "VERIMARK 200SC_100ML_MY",
+                        "id": 3554781,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11006923",
+                        "maktx": "BENEVIA 200SC_100ML_VN",
+                        "id": 3554782,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007021",
+                        "maktx": "CIRCADEN 200SC_50ML_TR",
+                        "id": 3554783,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007218",
+                        "maktx": "VERIMARK 20SC_100ML_PH",
+                        "id": 3554784,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015898",
+                        "maktx": "VERIMARK_1L_MX",
+                        "id": 3554785,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11013221",
+                        "maktx": "VERIMARK 20SC_100ML_KH",
+                        "id": 3554786,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015086",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 3554787,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12005822",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_MO",
+                        "id": 3554788,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12000736",
+                        "maktx": "CZP 200SC_200L_JP",
+                        "id": 3554789,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007123",
+                        "maktx": "VERIMARK 200SC_50ML_CN",
+                        "id": 3554790,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006232",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MX_MI_MO",
+                        "id": 3554791,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006634",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_JI",
+                        "id": 3554792,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007219",
+                        "maktx": "VERIMARK (ACTICIDE) 200SC_100ML_TH",
+                        "id": 3554793,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11015618",
+                        "maktx": "OKINA_40ML_TN_SSCC",
+                        "id": 3554794,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11016687",
+                        "maktx": "VERIMARK_1000L_BR",
+                        "id": 3554795,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12002277",
+                        "maktx": "CZP 200SC_200L_MUL_JI",
+                        "id": 3554796,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006182",
+                        "maktx": "CZP 200SC CITRIC ACID_MI_MO",
+                        "id": 3554797,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "12006194",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MI_MO",
+                        "id": 3554798,
+                        "reportDataId": 27717
+                    },
+                    {
+                        "matnr": "11007367",
+                        "maktx": "VERIMARK_100ML_UA",
+                        "id": 3554799,
+                        "reportDataId": 27717
+                    }
+                ],
+                "id": 27717
+            },
+            {
+                "pdfname": "50000937_SDS_CH_DE.PDF",
+                "specificationid": "50000937",
+                "path": "\\\\172.18.22.6\\sds_external/50000937_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "EXPRESS\u00ae MAX SX",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALLIE MAX (M)",
+                "casnumber": "",
+                "commercialnames": "LDY15 28.6 SG Blend",
+                "cmr": "",
+                "publishdate": "09/25/2025",
+                "iupac": "",
+                "incode": "LDY15",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "A-44",
+                "legacysdsid": "130000015715",
+                "revisiondate": "09/25/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005816",
+                        "maktx": "ALLY MAX SX_84G_IE",
+                        "id": 3554800,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11005875",
+                        "maktx": "ALLY MAX_105G_BG",
+                        "id": 3554801,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "12001549",
+                        "maktx": "TBM 143 MEM 143WG_50KG_UF_ALL",
+                        "id": 3554802,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11006136",
+                        "maktx": "ALLY MAX_42G_PK_SYNGENTA",
+                        "id": 3554803,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11000075",
+                        "maktx": "ALLY MAX SX_100G_HU",
+                        "id": 3554804,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11005553",
+                        "maktx": "ALLY MAX SX_168G_GB",
+                        "id": 3554805,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11006496",
+                        "maktx": "ALLY MAX SX_112G_HU",
+                        "id": 3554806,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11006035",
+                        "maktx": "EXPRESS MAX SX_105G_CH_SYNGENTA",
+                        "id": 3554807,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "12002151",
+                        "maktx": "TBM 143 + MEM 143WG_453KG_UF_ALL",
+                        "id": 3554808,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11005939",
+                        "maktx": "ALLY MAX SX_84G_HU",
+                        "id": 3554809,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11005782",
+                        "maktx": "ALLIE MAX SX_125G_FR",
+                        "id": 3554810,
+                        "reportDataId": 27718
+                    },
+                    {
+                        "matnr": "11005858",
+                        "maktx": "ALLIE MAX SX_625G_FR",
+                        "id": 3554811,
+                        "reportDataId": 27718
+                    }
+                ],
+                "id": 27718
             }
         ],
         "isExportToExcel": false
