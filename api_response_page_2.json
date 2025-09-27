@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6063,
+        "totalCount": 6064,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -41411,84 +41411,84 @@
                 "casnumber": "",
                 "commercialnames": "TBM 50 SG (CHILD)",
                 "cmr": "",
-                "publishdate": "01/21/2025",
+                "publishdate": "09/26/2025",
                 "iupac": "",
                 "incode": "L5300",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CH",
                 "validityareadescription": "Schweiz",
                 "legacyspecid": "H-15.1",
                 "legacysdsid": "130000036167",
-                "revisiondate": "11/05/2024",
+                "revisiondate": "09/26/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11004898",
-                        "maktx": "FLUENCE 50SG_100G_AT_SYN",
-                        "id": 3253271,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11006312",
-                        "maktx": "EXPRESS_100G_IT",
-                        "id": 3253272,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11016421",
-                        "maktx": "TAXI SX_100G_CH_OMYA",
-                        "id": 3253273,
-                        "reportDataId": 26898
-                    },
-                    {
                         "matnr": "11013282",
                         "maktx": "FLUENCE SX_150G_BG_SYNGENTA",
-                        "id": 3253274,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11004431",
-                        "maktx": "FLUENCE SX_100G_BG_SYNGENTA",
-                        "id": 3253275,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11005284",
-                        "maktx": "FLUENCE 50SG_750G_AT_SYN",
-                        "id": 3253276,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11005970",
-                        "maktx": "GRANSTAR 50SX_100G_HU",
-                        "id": 3253277,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11013427",
-                        "maktx": "GRANSTAR SX_100G_NO",
-                        "id": 3253278,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11006310",
-                        "maktx": "GRANSTAR 50SX_400G_SK_MV SERVIS",
-                        "id": 3253279,
-                        "reportDataId": 26898
-                    },
-                    {
-                        "matnr": "11005659",
-                        "maktx": "TAXI_120G_GB",
-                        "id": 3253280,
+                        "id": 3554985,
                         "reportDataId": 26898
                     },
                     {
                         "matnr": "11009659",
                         "maktx": "EXPRESS 50SX 10X150G JAR ES-SF-SYN",
-                        "id": 3253281,
+                        "id": 3554986,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11004431",
+                        "maktx": "FLUENCE SX_100G_BG_SYNGENTA",
+                        "id": 3554987,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11006312",
+                        "maktx": "EXPRESS_100G_IT",
+                        "id": 3554988,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11005284",
+                        "maktx": "FLUENCE 50SG_750G_AT_SYN",
+                        "id": 3554989,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11013427",
+                        "maktx": "GRANSTAR SX_100G_NO",
+                        "id": 3554990,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11006310",
+                        "maktx": "GRANSTAR 50SX_400G_SK_MV SERVIS",
+                        "id": 3554991,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11005970",
+                        "maktx": "GRANSTAR 50SX_100G_HU",
+                        "id": 3554992,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11004898",
+                        "maktx": "FLUENCE 50SG_100G_AT_SYN",
+                        "id": 3554993,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11016421",
+                        "maktx": "TAXI SX_100G_CH_OMYA",
+                        "id": 3554994,
+                        "reportDataId": 26898
+                    },
+                    {
+                        "matnr": "11005659",
+                        "maktx": "TAXI_120G_GB",
+                        "id": 3554995,
                         "reportDataId": 26898
                     }
                 ],
@@ -43493,156 +43493,156 @@
                 "casnumber": "",
                 "commercialnames": "FRX + TIM (150 + 30) g/l OD",
                 "cmr": "",
-                "publishdate": "01/22/2025",
+                "publishdate": "09/26/2025",
                 "iupac": "",
                 "incode": "R7U12",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "CH",
                 "validityareadescription": "Schweiz",
                 "legacyspecid": "",
                 "legacysdsid": "130000121320",
-                "revisiondate": "01/22/2025",
+                "revisiondate": "09/26/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015479",
-                        "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 2756054,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 2756055,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016365",
-                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 2756056,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12001620",
-                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 2756057,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 2756058,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 2756059,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 2756060,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 2756061,
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 3555040,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11016364",
                         "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 2756062,
+                        "id": 3555041,
                         "reportDataId": 26902
                     },
                     {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 2756063,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 2756064,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 2756065,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 2756066,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 2756067,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010184",
-                        "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 2756068,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12002111",
-                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 2756069,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12000735",
-                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 2756070,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 2756071,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010186",
-                        "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 2756072,
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3555042,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11010179",
                         "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 2756073,
+                        "id": 3555043,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010184",
+                        "maktx": "SENTRALLAS LQM_5L_FI",
+                        "id": 3555044,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11015463",
                         "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 2756074,
+                        "id": 3555045,
                         "reportDataId": 26902
                     },
                     {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 2756075,
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3555046,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11000579",
                         "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 2756076,
+                        "id": 3555047,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3555048,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3555049,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3555050,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3555051,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3555052,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3555053,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3555054,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 3555055,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12000735",
+                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
+                        "id": 3555056,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12001620",
+                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
+                        "id": 3555057,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015479",
+                        "maktx": "SENTRALLAS LQM_5L_AT",
+                        "id": 3555058,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3555059,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 3555060,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3555061,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3555062,
                         "reportDataId": 26902
                     }
                 ],
@@ -153767,25 +153767,31 @@
                     {
                         "matnr": "12000979",
                         "maktx": "SFZ 325-PYR 178SC_?_?_?",
-                        "id": 3086357,
+                        "id": 3555094,
+                        "reportDataId": 27302
+                    },
+                    {
+                        "matnr": "11016804",
+                        "maktx": "ARTERIO PRIME_120GAL_US",
+                        "id": 3555095,
                         "reportDataId": 27302
                     },
                     {
                         "matnr": "11010287",
                         "maktx": "AUTHORITY EDGE_120GAL_US",
-                        "id": 3086358,
-                        "reportDataId": 27302
-                    },
-                    {
-                        "matnr": "11016286",
-                        "maktx": "ARTERIO PRIME_2.5GAL_US",
-                        "id": 3086359,
+                        "id": 3555096,
                         "reportDataId": 27302
                     },
                     {
                         "matnr": "11010303",
                         "maktx": "AUTHORITY EDGE_2.5GAL_US",
-                        "id": 3086360,
+                        "id": 3555097,
+                        "reportDataId": 27302
+                    },
+                    {
+                        "matnr": "11016286",
+                        "maktx": "ARTERIO PRIME_2.5GAL_US",
+                        "id": 3555098,
                         "reportDataId": 27302
                     }
                 ],
@@ -153823,25 +153829,31 @@
                     {
                         "matnr": "12000979",
                         "maktx": "SFZ 325-PYR 178SC_?_?_?",
-                        "id": 3086361,
+                        "id": 3555089,
+                        "reportDataId": 27303
+                    },
+                    {
+                        "matnr": "11016804",
+                        "maktx": "ARTERIO PRIME_120GAL_US",
+                        "id": 3555090,
                         "reportDataId": 27303
                     },
                     {
                         "matnr": "11010287",
                         "maktx": "AUTHORITY EDGE_120GAL_US",
-                        "id": 3086362,
-                        "reportDataId": 27303
-                    },
-                    {
-                        "matnr": "11016286",
-                        "maktx": "ARTERIO PRIME_2.5GAL_US",
-                        "id": 3086363,
+                        "id": 3555091,
                         "reportDataId": 27303
                     },
                     {
                         "matnr": "11010303",
                         "maktx": "AUTHORITY EDGE_2.5GAL_US",
-                        "id": 3086364,
+                        "id": 3555092,
+                        "reportDataId": 27303
+                    },
+                    {
+                        "matnr": "11016286",
+                        "maktx": "ARTERIO PRIME_2.5GAL_US",
+                        "id": 3555093,
                         "reportDataId": 27303
                     }
                 ],
@@ -153875,14 +153887,7 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000979",
-                        "maktx": "SFZ 325-PYR 178SC_?_?_?",
-                        "id": 3086371,
-                        "reportDataId": 27304
-                    }
-                ],
+                "materials": [],
                 "id": 27304
             },
             {
@@ -153913,14 +153918,7 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000979",
-                        "maktx": "SFZ 325-PYR 178SC_?_?_?",
-                        "id": 3086372,
-                        "reportDataId": 27305
-                    }
-                ],
+                "materials": [],
                 "id": 27305
             },
             {
@@ -170366,96 +170364,96 @@
                 "casnumber": "",
                 "commercialnames": "ALL CLEAR EXTRA (3PP REPACK)",
                 "cmr": "",
-                "publishdate": "06/13/2025",
+                "publishdate": "09/26/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "CH",
                 "validityareadescription": "Schweiz",
                 "legacyspecid": "FO004322",
                 "legacysdsid": "130000000547",
-                "revisiondate": "06/13/2025",
+                "revisiondate": "09/26/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009384",
-                        "maktx": "ALL CLEAR EXTRA_5L_FI",
-                        "id": 3123924,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009395",
-                        "maktx": "ALL CLEAR EXTRA NF_5L_FR",
-                        "id": 3123925,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009390",
-                        "maktx": "ALL CLEAR EXTRA_5L_SE",
-                        "id": 3123926,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11007013",
-                        "maktx": "ALL CLEAR EXTRA_5L_IL_GADOT",
-                        "id": 3123927,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009391",
-                        "maktx": "ALL CLEAR EXTRA_5L_NO",
-                        "id": 3123928,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009394",
-                        "maktx": "ALL CLEAR EXTRA_5L_CH_STAHLER",
-                        "id": 3123929,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009385",
-                        "maktx": "ALL CLEAR EXTRA_5L_DE",
-                        "id": 3123930,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009393",
-                        "maktx": "ALL CLEAR EXTRA_5L_BE NL",
-                        "id": 3123931,
+                        "matnr": "11009399",
+                        "maktx": "ALL CLEAR EXTRA_5L_PL",
+                        "id": 3555076,
                         "reportDataId": 27401
                     },
                     {
                         "matnr": "11009383",
                         "maktx": "ALL CLEAR EXTRA_5L_GB",
-                        "id": 3123932,
+                        "id": 3555077,
                         "reportDataId": 27401
                     },
                     {
-                        "matnr": "11009399",
-                        "maktx": "ALL CLEAR EXTRA_5L_PL",
-                        "id": 3123933,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11009400",
-                        "maktx": "ALL CLEAR EXTRA_5L_MUL",
-                        "id": 3123934,
-                        "reportDataId": 27401
-                    },
-                    {
-                        "matnr": "11007124",
-                        "maktx": "ALL CLEAR EXTRA_5L_UA",
-                        "id": 3123935,
+                        "matnr": "11009385",
+                        "maktx": "ALL CLEAR EXTRA_5L_DE",
+                        "id": 3555078,
                         "reportDataId": 27401
                     },
                     {
                         "matnr": "11009392",
                         "maktx": "ALL CLEAR EXTRA_5L_DK",
-                        "id": 3123936,
+                        "id": 3555079,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009395",
+                        "maktx": "ALL CLEAR EXTRA NF_5L_FR",
+                        "id": 3555080,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009393",
+                        "maktx": "ALL CLEAR EXTRA_5L_BE NL",
+                        "id": 3555081,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009394",
+                        "maktx": "ALL CLEAR EXTRA_5L_CH_STAHLER",
+                        "id": 3555082,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11007013",
+                        "maktx": "ALL CLEAR EXTRA_5L_IL_GADOT",
+                        "id": 3555083,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009390",
+                        "maktx": "ALL CLEAR EXTRA_5L_SE",
+                        "id": 3555084,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009384",
+                        "maktx": "ALL CLEAR EXTRA_5L_FI",
+                        "id": 3555085,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009391",
+                        "maktx": "ALL CLEAR EXTRA_5L_NO",
+                        "id": 3555086,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11007124",
+                        "maktx": "ALL CLEAR EXTRA_5L_UA",
+                        "id": 3555087,
+                        "reportDataId": 27401
+                    },
+                    {
+                        "matnr": "11009400",
+                        "maktx": "ALL CLEAR EXTRA_5L_MUL",
+                        "id": 3555088,
                         "reportDataId": 27401
                     }
                 ],
@@ -170476,96 +170474,96 @@
                 "casnumber": "",
                 "commercialnames": "ALL CLEAR EXTRA (3PP REPACK)",
                 "cmr": "",
-                "publishdate": "06/13/2025",
+                "publishdate": "09/26/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "CH",
                 "validityareadescription": "Switzerland",
                 "legacyspecid": "FO004322",
                 "legacysdsid": "130000000547",
-                "revisiondate": "06/13/2025",
+                "revisiondate": "09/26/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009384",
-                        "maktx": "ALL CLEAR EXTRA_5L_FI",
-                        "id": 3123937,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009395",
-                        "maktx": "ALL CLEAR EXTRA NF_5L_FR",
-                        "id": 3123938,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009390",
-                        "maktx": "ALL CLEAR EXTRA_5L_SE",
-                        "id": 3123939,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11007013",
-                        "maktx": "ALL CLEAR EXTRA_5L_IL_GADOT",
-                        "id": 3123940,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009391",
-                        "maktx": "ALL CLEAR EXTRA_5L_NO",
-                        "id": 3123941,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009394",
-                        "maktx": "ALL CLEAR EXTRA_5L_CH_STAHLER",
-                        "id": 3123942,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009385",
-                        "maktx": "ALL CLEAR EXTRA_5L_DE",
-                        "id": 3123943,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009393",
-                        "maktx": "ALL CLEAR EXTRA_5L_BE NL",
-                        "id": 3123944,
+                        "matnr": "11009399",
+                        "maktx": "ALL CLEAR EXTRA_5L_PL",
+                        "id": 3555063,
                         "reportDataId": 27402
                     },
                     {
                         "matnr": "11009383",
                         "maktx": "ALL CLEAR EXTRA_5L_GB",
-                        "id": 3123945,
+                        "id": 3555064,
                         "reportDataId": 27402
                     },
                     {
-                        "matnr": "11009399",
-                        "maktx": "ALL CLEAR EXTRA_5L_PL",
-                        "id": 3123946,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11009400",
-                        "maktx": "ALL CLEAR EXTRA_5L_MUL",
-                        "id": 3123947,
-                        "reportDataId": 27402
-                    },
-                    {
-                        "matnr": "11007124",
-                        "maktx": "ALL CLEAR EXTRA_5L_UA",
-                        "id": 3123948,
+                        "matnr": "11009385",
+                        "maktx": "ALL CLEAR EXTRA_5L_DE",
+                        "id": 3555065,
                         "reportDataId": 27402
                     },
                     {
                         "matnr": "11009392",
                         "maktx": "ALL CLEAR EXTRA_5L_DK",
-                        "id": 3123949,
+                        "id": 3555066,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009395",
+                        "maktx": "ALL CLEAR EXTRA NF_5L_FR",
+                        "id": 3555067,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009393",
+                        "maktx": "ALL CLEAR EXTRA_5L_BE NL",
+                        "id": 3555068,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009394",
+                        "maktx": "ALL CLEAR EXTRA_5L_CH_STAHLER",
+                        "id": 3555069,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11007013",
+                        "maktx": "ALL CLEAR EXTRA_5L_IL_GADOT",
+                        "id": 3555070,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009390",
+                        "maktx": "ALL CLEAR EXTRA_5L_SE",
+                        "id": 3555071,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009384",
+                        "maktx": "ALL CLEAR EXTRA_5L_FI",
+                        "id": 3555072,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009391",
+                        "maktx": "ALL CLEAR EXTRA_5L_NO",
+                        "id": 3555073,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11007124",
+                        "maktx": "ALL CLEAR EXTRA_5L_UA",
+                        "id": 3555074,
+                        "reportDataId": 27402
+                    },
+                    {
+                        "matnr": "11009400",
+                        "maktx": "ALL CLEAR EXTRA_5L_MUL",
+                        "id": 3555075,
                         "reportDataId": 27402
                     }
                 ],
@@ -211822,42 +211820,42 @@
                 "casnumber": "",
                 "commercialnames": "TBM 50 SG (CHILD)",
                 "cmr": "",
-                "publishdate": "08/26/2025",
+                "publishdate": "09/26/2025",
                 "iupac": "",
                 "incode": "L5300",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CH",
                 "validityareadescription": "Schweiz",
                 "legacyspecid": "H-15.1",
                 "legacysdsid": "130000036168",
-                "revisiondate": "11/05/2024",
+                "revisiondate": "09/26/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009013",
-                        "maktx": "CAMEO SX_150G_ES",
-                        "id": 3429592,
+                        "matnr": "11001130",
+                        "maktx": "CAMEO SX_750G_DE",
+                        "id": 3554996,
                         "reportDataId": 27651
                     },
                     {
-                        "matnr": "11001130",
-                        "maktx": "CAMEO SX_750G_DE",
-                        "id": 3429593,
+                        "matnr": "11009013",
+                        "maktx": "CAMEO SX_150G_ES",
+                        "id": 3554997,
                         "reportDataId": 27651
                     },
                     {
                         "matnr": "11013861",
                         "maktx": "QUANTUM SX_120G_GB",
-                        "id": 3429594,
+                        "id": 3554998,
                         "reportDataId": 27651
                     },
                     {
                         "matnr": "11000975",
                         "maktx": "CAMEO SX_250G_DE",
-                        "id": 3429595,
+                        "id": 3554999,
                         "reportDataId": 27651
                     }
                 ],
@@ -230428,6 +230426,98 @@
                     }
                 ],
                 "id": 27718
+            },
+            {
+                "pdfname": "50001075_EXT_SDS_CH_DE.PDF",
+                "specificationid": "50001075",
+                "path": "\\\\172.18.22.6\\sds_external/50001075_EXT_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "EXT_SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "POINTER\u00ae SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "TBM 50 SG (CHILD)",
+                "cmr": "",
+                "publishdate": "09/26/2025",
+                "iupac": "",
+                "incode": "L5300",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "H-15.1",
+                "legacysdsid": "130000050399",
+                "revisiondate": "09/26/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014967",
+                        "maktx": "TRIAD SX_50G_GB",
+                        "id": 3555000,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11005909",
+                        "maktx": "TRIMMER SX_20G_IT_ADAMA",
+                        "id": 3555001,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11006027",
+                        "maktx": "TRIMMER SX_250G_DE_ADAMA",
+                        "id": 3555002,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11006029",
+                        "maktx": "TRIMMER 50SG_1.5KG_MUL_ADAMA",
+                        "id": 3555003,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11006028",
+                        "maktx": "TRIMMER 50SG_150G_MUL_ADAMA",
+                        "id": 3555004,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11000270",
+                        "maktx": "TRIMMER 50SG_100G_NO_ADAMA",
+                        "id": 3555005,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11005653",
+                        "maktx": "GRANSTAR PREMIA 50SX_1.5KG_MUL",
+                        "id": 3555006,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11006306",
+                        "maktx": "TRIMMER SG_100G_DK_ADAMA",
+                        "id": 3555007,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11005588",
+                        "maktx": "GRANSTAR 50SX_150G_PT_ASCENZA AGRO",
+                        "id": 3555008,
+                        "reportDataId": 27719
+                    },
+                    {
+                        "matnr": "11014983",
+                        "maktx": "TRIAD SX_120G_GB",
+                        "id": 3555009,
+                        "reportDataId": 27719
+                    }
+                ],
+                "id": 27719
             }
         ],
         "isExportToExcel": false
