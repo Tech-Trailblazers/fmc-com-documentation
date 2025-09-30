@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6064,
+        "totalCount": 6071,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -138802,336 +138802,336 @@
                 "casnumber": "",
                 "commercialnames": "FZI 500 g/L SC",
                 "cmr": "",
-                "publishdate": "05/06/2025",
+                "publishdate": "09/29/2025",
                 "iupac": "",
                 "incode": "YE653",
-                "ehsversionno": "4.0",
+                "ehsversionno": "4.1",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "FO002228",
                 "legacysdsid": "FMC0036-BR-A",
-                "revisiondate": "05/06/2025",
+                "revisiondate": "09/29/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016618",
-                        "maktx": "ZIGNAL_5L_IT",
-                        "id": 3432346,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11014166",
-                        "maktx": "ZIGNAL 500SC_5L_CZ_AGNOVACHEM",
-                        "id": 3432347,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11015562",
-                        "maktx": "BRAVE_1L_TR",
-                        "id": 3432348,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12005860",
-                        "maktx": "FZI 500SC_BR_PHY_TAIZ",
-                        "id": 3432349,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11014543",
-                        "maktx": "TIZCA_200L_MA_AMAROC",
-                        "id": 3432350,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001158",
-                        "maktx": "TIZCA_10L_GB_AGRII",
-                        "id": 3432351,
+                        "matnr": "11015203",
+                        "maktx": "ZIGNAL_1L_MX",
+                        "id": 3555276,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "12000132",
                         "maktx": "FZI 500SC_BR_ST_RO",
-                        "id": 3432352,
+                        "id": 3555277,
                         "reportDataId": 27245
                     },
                     {
-                        "matnr": "11008713",
-                        "maktx": "FLUAZINAM 500SC_5L_MUL",
-                        "id": 3432353,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11009321",
-                        "maktx": "TIZCA 500SC_5L_ZA",
-                        "id": 3432354,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12001104",
-                        "maktx": "FZI 500SC_DE_ST_CROP",
-                        "id": 3432355,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11000983",
-                        "maktx": "TIZCA_4L_IE",
-                        "id": 3432356,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12006153",
-                        "maktx": "FZI 500SC_1000L_TR_ST_RO",
-                        "id": 3432357,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11000278",
-                        "maktx": "ZIGNAL 500SC_5L_BR",
-                        "id": 3432358,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001086",
-                        "maktx": "TIZCA_5L_FR",
-                        "id": 3432359,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12005021",
-                        "maktx": "ZIGNAL 500SC_1000L_BR",
-                        "id": 3432360,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11006156",
-                        "maktx": "TIZCA_5L_GB",
-                        "id": 3432361,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11015203",
-                        "maktx": "ZIGNAL_1L_MX",
-                        "id": 3432362,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013986",
-                        "maktx": "ZIGNAL_10L_BR",
-                        "id": 3432363,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11015664",
-                        "maktx": "ZIGNAL 50SC_400ML_GR",
-                        "id": 3432364,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11015330",
-                        "maktx": "ZIGNAL 500SC_1L_EG_EL SAFA",
-                        "id": 3432365,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001146",
-                        "maktx": "FLUAZINAM_500ML_TW",
-                        "id": 3432366,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013597",
-                        "maktx": "TERMINUS_1L_RO",
-                        "id": 3432367,
+                        "matnr": "11014543",
+                        "maktx": "TIZCA_200L_MA_AMAROC",
+                        "id": 3555278,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11001244",
                         "maktx": "ZIGNAL 500SC_5L_CZ",
-                        "id": 3432368,
+                        "id": 3555279,
                         "reportDataId": 27245
                     },
                     {
-                        "matnr": "11001166",
-                        "maktx": "ZUMMER SC_5L_MUL",
-                        "id": 3432369,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11005979",
-                        "maktx": "ZIGNAL_5L_SE",
-                        "id": 3432370,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001551",
-                        "maktx": "FLUAZINAM 500SC_1000L_MUL",
-                        "id": 3432371,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013443",
-                        "maktx": "ZIGNAL 500SC_1L_FI",
-                        "id": 3432372,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11000982",
-                        "maktx": "TIZCA_4L_GB",
-                        "id": 3432373,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12001170",
-                        "maktx": "FZI 500SC_ST_RO",
-                        "id": 3432374,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013213",
-                        "maktx": "ZIGNAL 500SC_1L_BR",
-                        "id": 3432375,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001382",
-                        "maktx": "PINNACLE_10L_NZ_LONZ",
-                        "id": 3432376,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12006484",
-                        "maktx": "FZI 500SC_PHY_RO",
-                        "id": 3432377,
+                        "matnr": "11009321",
+                        "maktx": "TIZCA 500SC_5L_ZA",
+                        "id": 3555280,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11001102",
                         "maktx": "TERMINUS_5L_DE",
-                        "id": 3432378,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11004745",
-                        "maktx": "ZIGNAL_1L_BR",
-                        "id": 3432379,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001132",
-                        "maktx": "ZIGNAL_1L_IT",
-                        "id": 3432380,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013572",
-                        "maktx": "ZIGNAL_1L_SE",
-                        "id": 3432381,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11005985",
-                        "maktx": "TIZCA_5L_BE",
-                        "id": 3432382,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11000315",
-                        "maktx": "ZIGNAL 500SC_1L_BR",
-                        "id": 3432383,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11004744",
-                        "maktx": "ZIGNAL_5L_BR",
-                        "id": 3432384,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001383",
-                        "maktx": "BRAVE_500ML_TR",
-                        "id": 3432385,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12005780",
-                        "maktx": "FZI 500SC_BR_ST_TAIZ",
-                        "id": 3432386,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11009177",
-                        "maktx": "FLUAZINAM 500SC_200L_PE",
-                        "id": 3432387,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11003042",
-                        "maktx": "FLUAZINAM 500SC_200L_TW",
-                        "id": 3432388,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11001113",
-                        "maktx": "TIZCA_1L_ES",
-                        "id": 3432389,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11004468",
-                        "maktx": "TIZCA_100ML _CO",
-                        "id": 3432390,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11013341",
-                        "maktx": "ZIGNAL_5L_CH_STAHLER",
-                        "id": 3432391,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "12006335",
-                        "maktx": "FZI 500SC_1000L_ST_RO",
-                        "id": 3432392,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11000156",
-                        "maktx": "TIZCA 5810  12X1Lt cx CO",
-                        "id": 3432393,
-                        "reportDataId": 27245
-                    },
-                    {
-                        "matnr": "11015512",
-                        "maktx": "TIZCA_500ML_PH",
-                        "id": 3432394,
+                        "id": 3555281,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11001252",
                         "maktx": "TIZCA_5L_BE",
-                        "id": 3432395,
+                        "id": 3555282,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001166",
+                        "maktx": "ZUMMER SC_5L_MUL",
+                        "id": 3555283,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12006153",
+                        "maktx": "FZI 500SC_1000L_TR_ST_RO",
+                        "id": 3555284,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11015512",
+                        "maktx": "TIZCA_500ML_PH",
+                        "id": 3555285,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11015562",
+                        "maktx": "BRAVE_1L_TR",
+                        "id": 3555286,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013341",
+                        "maktx": "ZIGNAL_5L_CH_STAHLER",
+                        "id": 3555287,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11014166",
+                        "maktx": "ZIGNAL 500SC_5L_CZ_AGNOVACHEM",
+                        "id": 3555288,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11000278",
+                        "maktx": "ZIGNAL 500SC_5L_BR",
+                        "id": 3555289,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11006156",
+                        "maktx": "TIZCA_5L_GB",
+                        "id": 3555290,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11015664",
+                        "maktx": "ZIGNAL 50SC_400ML_GR",
+                        "id": 3555291,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12005780",
+                        "maktx": "FZI 500SC_BR_ST_TAIZ",
+                        "id": 3555292,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001158",
+                        "maktx": "TIZCA_10L_GB_AGRII",
+                        "id": 3555293,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11000315",
+                        "maktx": "ZIGNAL 500SC_1L_BR",
+                        "id": 3555294,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12001104",
+                        "maktx": "FZI 500SC_DE_ST_CROP",
+                        "id": 3555295,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001146",
+                        "maktx": "FLUAZINAM_500ML_TW",
+                        "id": 3555296,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11005979",
+                        "maktx": "ZIGNAL_5L_SE",
+                        "id": 3555297,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001132",
+                        "maktx": "ZIGNAL_1L_IT",
+                        "id": 3555298,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001383",
+                        "maktx": "BRAVE_500ML_TR",
+                        "id": 3555299,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12006484",
+                        "maktx": "FZI 500SC_PHY_RO",
+                        "id": 3555300,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11004744",
+                        "maktx": "ZIGNAL_5L_BR",
+                        "id": 3555301,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013443",
+                        "maktx": "ZIGNAL 500SC_1L_FI",
+                        "id": 3555302,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013213",
+                        "maktx": "ZIGNAL 500SC_1L_BR",
+                        "id": 3555303,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013572",
+                        "maktx": "ZIGNAL_1L_SE",
+                        "id": 3555304,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11015330",
+                        "maktx": "ZIGNAL 500SC_1L_EG_EL SAFA",
+                        "id": 3555305,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001551",
+                        "maktx": "FLUAZINAM 500SC_1000L_MUL",
+                        "id": 3555306,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11000983",
+                        "maktx": "TIZCA_4L_IE",
+                        "id": 3555307,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11004745",
+                        "maktx": "ZIGNAL_1L_BR",
+                        "id": 3555308,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11003059",
                         "maktx": "TIZCA_1L_DZ_CASAP",
-                        "id": 3432396,
+                        "id": 3555309,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001382",
+                        "maktx": "PINNACLE_10L_NZ_LONZ",
+                        "id": 3555310,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11000982",
+                        "maktx": "TIZCA_4L_GB",
+                        "id": 3555311,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11003042",
+                        "maktx": "FLUAZINAM 500SC_200L_TW",
+                        "id": 3555312,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12001170",
+                        "maktx": "FZI 500SC_ST_RO",
+                        "id": 3555313,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11004577",
                         "maktx": "ZIGNAL 500SC_5L_BR",
-                        "id": 3432397,
+                        "id": 3555314,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001086",
+                        "maktx": "TIZCA_5L_FR",
+                        "id": 3555315,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12005021",
+                        "maktx": "ZIGNAL 500SC_1000L_BR",
+                        "id": 3555316,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11009177",
+                        "maktx": "FLUAZINAM 500SC_200L_PE",
+                        "id": 3555317,
                         "reportDataId": 27245
                     },
                     {
                         "matnr": "11004125",
                         "maktx": "TIZCA_1L_CO",
-                        "id": 3432398,
+                        "id": 3555318,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12006335",
+                        "maktx": "FZI 500SC_1000L_ST_RO",
+                        "id": 3555319,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11016618",
+                        "maktx": "ZIGNAL_5L_IT",
+                        "id": 3555320,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11005985",
+                        "maktx": "TIZCA_5L_BE",
+                        "id": 3555321,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11004468",
+                        "maktx": "TIZCA_100ML _CO",
+                        "id": 3555322,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013986",
+                        "maktx": "ZIGNAL_10L_BR",
+                        "id": 3555323,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11013597",
+                        "maktx": "TERMINUS_1L_RO",
+                        "id": 3555324,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11000156",
+                        "maktx": "TIZCA 5810  12X1Lt cx CO",
+                        "id": 3555325,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11008713",
+                        "maktx": "FLUAZINAM 500SC_5L_MUL",
+                        "id": 3555326,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "11001113",
+                        "maktx": "TIZCA_1L_ES",
+                        "id": 3555327,
+                        "reportDataId": 27245
+                    },
+                    {
+                        "matnr": "12005860",
+                        "maktx": "FZI 500SC_BR_PHY_TAIZ",
+                        "id": 3555328,
                         "reportDataId": 27245
                     }
                 ],
@@ -175613,70 +175613,70 @@
                 "productname": "Capture\u00ae 400 EC",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "Brigada\u00ae 400 EC",
+                "tradename": "Bistar\u00ae 400",
                 "casnumber": "",
                 "commercialnames": "BIF 400 g/l EC (NPE-FREE)",
                 "cmr": "",
-                "publishdate": "06/23/2025",
+                "publishdate": "09/29/2025",
                 "iupac": "",
                 "incode": "VKM29",
-                "ehsversionno": "4.0",
+                "ehsversionno": "4.1",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "06/23/2025",
+                "revisiondate": "09/29/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12005134",
-                        "maktx": "BIF 400EC_UB_ALL",
-                        "id": 3138324,
+                        "matnr": "11015372",
+                        "maktx": "BRIGADE 400_5L_BR",
+                        "id": 3555268,
                         "reportDataId": 27434
                     },
                     {
                         "matnr": "11014535",
                         "maktx": "BRIGADA 400EC_200L_PE_DROKASA",
-                        "id": 3138325,
+                        "id": 3555269,
                         "reportDataId": 27434
                     },
                     {
                         "matnr": "11013301",
                         "maktx": "CAPTURE 400 EC_1L_BR",
-                        "id": 3138326,
-                        "reportDataId": 27434
-                    },
-                    {
-                        "matnr": "11015374",
-                        "maktx": "BISTAR 400_5L_BR",
-                        "id": 3138327,
-                        "reportDataId": 27434
-                    },
-                    {
-                        "matnr": "11016135",
-                        "maktx": "TALSTAR 400_1L_BR",
-                        "id": 3138328,
-                        "reportDataId": 27434
-                    },
-                    {
-                        "matnr": "11015372",
-                        "maktx": "BRIGADE 400_5L_BR",
-                        "id": 3138329,
-                        "reportDataId": 27434
-                    },
-                    {
-                        "matnr": "11013280",
-                        "maktx": "CAPTURE 400 EC_5L_BR",
-                        "id": 3138330,
+                        "id": 3555270,
                         "reportDataId": 27434
                     },
                     {
                         "matnr": "11015373",
                         "maktx": "TALSTAR 400_5L_BR",
-                        "id": 3138331,
+                        "id": 3555271,
+                        "reportDataId": 27434
+                    },
+                    {
+                        "matnr": "12005134",
+                        "maktx": "BIF 400EC_UB_ALL",
+                        "id": 3555272,
+                        "reportDataId": 27434
+                    },
+                    {
+                        "matnr": "11016135",
+                        "maktx": "TALSTAR 400_1L_BR",
+                        "id": 3555273,
+                        "reportDataId": 27434
+                    },
+                    {
+                        "matnr": "11015374",
+                        "maktx": "BISTAR 400_5L_BR",
+                        "id": 3555274,
+                        "reportDataId": 27434
+                    },
+                    {
+                        "matnr": "11013280",
+                        "maktx": "CAPTURE 400 EC_5L_BR",
+                        "id": 3555275,
                         "reportDataId": 27434
                     }
                 ],
@@ -230518,6 +230518,1118 @@
                     }
                 ],
                 "id": 27719
+            },
+            {
+                "pdfname": "50000019_SDS_CH_DE.PDF",
+                "specificationid": "50000019",
+                "path": "\\\\172.18.22.6\\sds_external/50000019_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "ALLY\u00ae SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALIAS SX (M)",
+                "casnumber": "",
+                "commercialnames": "MEM 20 SG",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "T6376",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "A-05.3",
+                "legacysdsid": "130000014054",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001533",
+                        "maktx": "MEM 200SG_1000KG_UF_ALL",
+                        "id": 3555136,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006901",
+                        "maktx": "ALLY SX_60G_CH_STAHLER",
+                        "id": 3555137,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11015965",
+                        "maktx": "ALLY 20 SX_100G_DK",
+                        "id": 3555138,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11005756",
+                        "maktx": "LAREN PRO 20SG_150G_RO",
+                        "id": 3555139,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "12002108",
+                        "maktx": "MEM 200SG_50KG_UF_ALL",
+                        "id": 3555140,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006417",
+                        "maktx": "ALLY 20SX_100G_NO",
+                        "id": 3555141,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11005704",
+                        "maktx": "ALLIE_100G_BE",
+                        "id": 3555142,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11015250",
+                        "maktx": "ALLY 20SX_100G_SE",
+                        "id": 3555143,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006241",
+                        "maktx": "ALIAS SX_100G_GB",
+                        "id": 3555144,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016624",
+                        "maktx": "ABUTO ONE_100G_FR",
+                        "id": 3555145,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "12001122",
+                        "maktx": "ALLY 20SX 60G JAR NEUTRAL",
+                        "id": 3555146,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11014612",
+                        "maktx": "GROPPER SX_60G_CZ",
+                        "id": 3555147,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016746",
+                        "maktx": "ARKEM ONE_500G_FR",
+                        "id": 3555148,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016625",
+                        "maktx": "ABUTO ONE_500G_FR",
+                        "id": 3555149,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006131",
+                        "maktx": "ALLIE SX_60G_FR",
+                        "id": 3555150,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016612",
+                        "maktx": "SIMPLON ONE_100G_FR",
+                        "id": 3555151,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "12002150",
+                        "maktx": "MEM 200SG_500KG_UF_ALL",
+                        "id": 3555152,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016613",
+                        "maktx": "SIMTRAL ONE_100G_FR",
+                        "id": 3555153,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11007331",
+                        "maktx": "GAIO SX_20G_IT",
+                        "id": 3555154,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11014745",
+                        "maktx": "GAIO SX_20G_IT",
+                        "id": 3555155,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016623",
+                        "maktx": "ARKEM ONE_100G_FR",
+                        "id": 3555156,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11015187",
+                        "maktx": "GROPPER SX_60G_SK",
+                        "id": 3555157,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016737",
+                        "maktx": "SIMPLON ONE_500G_FR",
+                        "id": 3555158,
+                        "reportDataId": 27720
+                    }
+                ],
+                "id": 27720
+            },
+            {
+                "pdfname": "50000036_SDS_CH_DE.PDF",
+                "specificationid": "50000036",
+                "path": "\\\\172.18.22.6\\sds_external/50000036_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "CONCERT\u00ae SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CONCERT SX (M)",
+                "casnumber": "",
+                "commercialnames": "E8698 44 SG Blend",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "E8698",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "H-08.1",
+                "legacysdsid": "130000025456",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005531",
+                        "maktx": "CONCERT SX_100G_DE",
+                        "id": 3555122,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11006420",
+                        "maktx": "CONCERT SX_4.5KG_DE_CERTIS",
+                        "id": 3555123,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005743",
+                        "maktx": "CONCERT SX_1KG_DE",
+                        "id": 3555124,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11006419",
+                        "maktx": "CONCERT SX_200G_DE_CERTIS",
+                        "id": 3555125,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005984",
+                        "maktx": "CONCERT SX_1KG_DE_CERTIS",
+                        "id": 3555126,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11006358",
+                        "maktx": "HARMONY M SX_1KG_FR",
+                        "id": 3555127,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005560",
+                        "maktx": "CONCERT SX_200G_AT_KWIZDA",
+                        "id": 3555128,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "12001582",
+                        "maktx": "E8698 44SX VAR WT KG DRM BULK",
+                        "id": 3555129,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005717",
+                        "maktx": "HARMONY M SX_400G_GB",
+                        "id": 3555130,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11003117",
+                        "maktx": "CONCERT SX_4.5KG_DE",
+                        "id": 3555131,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005584",
+                        "maktx": "CONCERT SX_900G_AT_KWIZDA",
+                        "id": 3555132,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11005543",
+                        "maktx": "HARMONY M SX_200G_IE",
+                        "id": 3555133,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11007377",
+                        "maktx": "EMPIRE SUPREME_200G_IE_CROPLINK",
+                        "id": 3555134,
+                        "reportDataId": 27721
+                    },
+                    {
+                        "matnr": "11006357",
+                        "maktx": "HARMONY M SX_250G_FR",
+                        "id": 3555135,
+                        "reportDataId": 27721
+                    }
+                ],
+                "id": 27721
+            },
+            {
+                "pdfname": "50000142_SDS_CH_DE.PDF",
+                "specificationid": "50000142",
+                "path": "\\\\172.18.22.6\\sds_external/50000142_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "HARMONY\u00ae SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AFFINITY 1 50SG (M)",
+                "casnumber": "",
+                "commercialnames": "TIM 50 SG",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "M6316",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "S-12.2",
+                "legacysdsid": "130000000398",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000023",
+                        "maktx": "HARMONY SX_45G_CH_STAHLER",
+                        "id": 3555159,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "12002124",
+                        "maktx": "TIM 500SG_50KG_UF_ALL",
+                        "id": 3555160,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "12001504",
+                        "maktx": "HARMONY 50SX KG BULK",
+                        "id": 3555161,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006366",
+                        "maktx": "HARMONY 50SX_100G_SE",
+                        "id": 3555162,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11016460",
+                        "maktx": "HARMONY 50SX_100G_IT",
+                        "id": 3555163,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "12002109",
+                        "maktx": "TIM 500SG_50KG_UF_ALL",
+                        "id": 3555164,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006466",
+                        "maktx": "HARMONY 50SX_45G_SI_PICOUNT",
+                        "id": 3555165,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006451",
+                        "maktx": "HARMONY 50SX_10G_IT",
+                        "id": 3555166,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11005566",
+                        "maktx": "HARMONY PASTURE_100G_BE LU",
+                        "id": 3555167,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11014691",
+                        "maktx": "HARMONY 50SX_10G_ES",
+                        "id": 3555168,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006198",
+                        "maktx": "HARMONY 50SX_100G_FI",
+                        "id": 3555169,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006230",
+                        "maktx": "HARMONY SX_90G_FR",
+                        "id": 3555170,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11009410",
+                        "maktx": "HARMONY SG W-TOT SOL_540LB_US",
+                        "id": 3555171,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11000070",
+                        "maktx": "HARMONY 50SX_100G_ES",
+                        "id": 3555172,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006020",
+                        "maktx": "HARMONY SX_45G_AT",
+                        "id": 3555173,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11005801",
+                        "maktx": "HARMONY SX_90G_DE",
+                        "id": 3555174,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006452",
+                        "maktx": "HARMONY 50SX_20G_IT",
+                        "id": 3555175,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006144",
+                        "maktx": "REFINE 50SX_100G_HU",
+                        "id": 3555176,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11000629",
+                        "maktx": "HARMONY 50SX_50KG_CA",
+                        "id": 3555177,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11009403",
+                        "maktx": "HARMONY SG W-TOT SOL_35LB_US",
+                        "id": 3555178,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006397",
+                        "maktx": "HARMONY SX_45G_HR_AGROCHEM MAKS",
+                        "id": 3555179,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "12001065",
+                        "maktx": "TIM 500SG_500KG_CA_UF_ALL",
+                        "id": 3555180,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "12002121",
+                        "maktx": "TIM 500SG_500KG_UF_ALL",
+                        "id": 3555181,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006154",
+                        "maktx": "HARMONY SG W-TOTALSOL SOL_5OZ_US",
+                        "id": 3555182,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11015491",
+                        "maktx": "PINNACLE SG_240G_CA",
+                        "id": 3555183,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11009636",
+                        "maktx": "REFINE SX_30G_IT_BASF",
+                        "id": 3555184,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006563",
+                        "maktx": "REFINE 50SX_90G_CZ",
+                        "id": 3555185,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11014682",
+                        "maktx": "HARMONY 50SX_10G_IT",
+                        "id": 3555186,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006365",
+                        "maktx": "HARMONY 50SX_100G_DK",
+                        "id": 3555187,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11016361",
+                        "maktx": "HARMONY 50SG_100G_MD",
+                        "id": 3555188,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11007369",
+                        "maktx": "HARMONY 50SX_10G_IT",
+                        "id": 3555189,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006367",
+                        "maktx": "HARMONY 50SX_100G_NO",
+                        "id": 3555190,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11005564",
+                        "maktx": "HARMONY 50SG_150G_NZ",
+                        "id": 3555191,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11003463",
+                        "maktx": "HARMONY SG W/TOTAL 200LB_US",
+                        "id": 3555192,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006194",
+                        "maktx": "REFINE 50SX_90G_SK",
+                        "id": 3555193,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11015622",
+                        "maktx": "REFINE SX_10G_IT_CORTEVA",
+                        "id": 3555194,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006406",
+                        "maktx": "HARMONY SX_100G_NL",
+                        "id": 3555195,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11005876",
+                        "maktx": "HARMONY 50SX_15G_ES",
+                        "id": 3555196,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11006361",
+                        "maktx": "HARMONY SX_90G_AT",
+                        "id": 3555197,
+                        "reportDataId": 27722
+                    },
+                    {
+                        "matnr": "11005807",
+                        "maktx": "HARMONY 50SG_100G_RO",
+                        "id": 3555198,
+                        "reportDataId": 27722
+                    }
+                ],
+                "id": 27722
+            },
+            {
+                "pdfname": "50000090_SDS_CH_DE.PDF",
+                "specificationid": "50000090",
+                "path": "\\\\172.18.22.6\\sds_external/50000090_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "POINTER\u00ae PLUS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALLY POWER (M)",
+                "casnumber": "",
+                "commercialnames": "RXR49 27.1 WG Blend",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "RXR49",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "Q-1581",
+                "legacysdsid": "130000117719",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 3555199,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013091",
+                        "maktx": "TRIPALI_250G_CZ",
+                        "id": 3555200,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 3555201,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 3555202,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 3555203,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 3555204,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 3555205,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 3555206,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 3555207,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 3555208,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 3555209,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 3555210,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 3555211,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11002801",
+                        "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
+                        "id": 3555212,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 3555213,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 3555214,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 3555215,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 3555216,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006617",
+                        "maktx": "TRIPALI_250G_SK",
+                        "id": 3555217,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 3555218,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006620",
+                        "maktx": "GRANSTAR TRIO_250G_IT",
+                        "id": 3555219,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013815",
+                        "maktx": "CELEXIUM_200G_RO",
+                        "id": 3555220,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 3555221,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 3555222,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 3555223,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 3555224,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11000260",
+                        "maktx": "SYNOPSIS_1KG_FR",
+                        "id": 3555225,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 3555226,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11007318",
+                        "maktx": "GRANSTAR TRIO_50G_IT",
+                        "id": 3555227,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 3555228,
+                        "reportDataId": 27723
+                    }
+                ],
+                "id": 27723
+            },
+            {
+                "pdfname": "50000040_SDS_CH_DE.PDF",
+                "specificationid": "50000040",
+                "path": "\\\\172.18.22.6\\sds_external/50000040_SDS_CH_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_CH",
+                "authorizedportal": "P3",
+                "productname": "REFINE\u00ae EXTRA SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AMADEUS SX",
+                "casnumber": "",
+                "commercialnames": "R9674 50 SG Blend",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "R9674",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CH",
+                "validityareadescription": "Schweiz",
+                "legacyspecid": "H-18",
+                "legacysdsid": "130000012163",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006082",
+                        "maktx": "POSTA SX_150G_ES_BAYER",
+                        "id": 3555229,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12001627",
+                        "maktx": "TIM 333 TBM 167SG_450KG_UF_ALL",
+                        "id": 3555230,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006067",
+                        "maktx": "HARMONY EXTRA SX_180G_FR",
+                        "id": 3555231,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12001579",
+                        "maktx": "TIM 333 TBM 167SG_435KG_UF_ALL",
+                        "id": 3555232,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11015613",
+                        "maktx": "RETAIN A SG_486G_CA",
+                        "id": 3555233,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006159",
+                        "maktx": "RATIO 50SX_250G_FI",
+                        "id": 3555234,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005990",
+                        "maktx": "HARMONY PLUS 50SX_300G_SE",
+                        "id": 3555235,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006363",
+                        "maktx": "HARMONY EXTRA SX_600G_AT",
+                        "id": 3555236,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11015487",
+                        "maktx": "REFINE SG_486G_CA",
+                        "id": 3555237,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005927",
+                        "maktx": "REFINE EXTRA SX_150G_CH_LEU GYGAX",
+                        "id": 3555238,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006447",
+                        "maktx": "REFINE EXTRA_180G_BG",
+                        "id": 3555239,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005897",
+                        "maktx": "HARMONY PLUS 50SX_250G_SE",
+                        "id": 3555240,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006258",
+                        "maktx": "BROADSIDE_121.5G_CA",
+                        "id": 3555241,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006026",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_15OZ_ SG",
+                        "id": 3555242,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11009508",
+                        "maktx": "REFINE EXTRA 50SG_486G_CA",
+                        "id": 3555243,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005490",
+                        "maktx": "GRANSTAR EXTRA SG_150G_GR",
+                        "id": 3555244,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006587",
+                        "maktx": "CALIBRE 50SX_300G_MUL",
+                        "id": 3555245,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006068",
+                        "maktx": "HARMONY EXTRA SX_600G_FR",
+                        "id": 3555246,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11007452",
+                        "maktx": "CALIBRE SX_220G_MUL",
+                        "id": 3555247,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005921",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_48OZ_SG",
+                        "id": 3555248,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005528",
+                        "maktx": "REFINE EXTRA SX_1.5KG_DE",
+                        "id": 3555249,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005115",
+                        "maktx": "MAROX SX_100G_IT_SUMITOMO",
+                        "id": 3555250,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006362",
+                        "maktx": "HARMONY EXTRA SX_100G_AT",
+                        "id": 3555251,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12005252",
+                        "maktx": "TIM 333 TBM 167SG_450KG_CA_UF_ALL",
+                        "id": 3555252,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005942",
+                        "maktx": "REFINE EXTRA SX_250G_DE",
+                        "id": 3555253,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12001506",
+                        "maktx": "TIM 333 TBM 167SG_50KG_UF_ALL",
+                        "id": 3555254,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12002112",
+                        "maktx": "REFINE 50SG CTN 486G BTL CA",
+                        "id": 3555255,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11006332",
+                        "maktx": "HARMONY PLUS 50SX_100G_NO",
+                        "id": 3555256,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "12002190",
+                        "maktx": "TIM 333 - TBM 167SG_500KG_CA",
+                        "id": 3555257,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11016857",
+                        "maktx": " BOOST 2.0_486G_CA",
+                        "id": 3555258,
+                        "reportDataId": 27724
+                    },
+                    {
+                        "matnr": "11005594",
+                        "maktx": "HARMONY EXTRA W-TOTALSOL_480OZ_SG",
+                        "id": 3555259,
+                        "reportDataId": 27724
+                    }
+                ],
+                "id": 27724
+            },
+            {
+                "pdfname": "50002111_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50002111",
+                "path": "\\\\172.18.22.6\\sds_external/50002111_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "CONTROLLER\u00ae F-500 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLT 500 g/L SC (EQUINOX) (CHILD)",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO000673",
+                "legacysdsid": "6681-1-MX-A",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002966",
+                        "maktx": "ASPEN 50SC_1L_SV",
+                        "id": 3555387,
+                        "reportDataId": 27725
+                    },
+                    {
+                        "matnr": "11003013",
+                        "maktx": "ASPEN 50SC_1L_NI",
+                        "id": 3555388,
+                        "reportDataId": 27725
+                    },
+                    {
+                        "matnr": "11004426",
+                        "maktx": "ASPEN 50SC_1L_HN",
+                        "id": 3555389,
+                        "reportDataId": 27725
+                    },
+                    {
+                        "matnr": "11009068",
+                        "maktx": "ASPEN 50SC_1L_DO",
+                        "id": 3555390,
+                        "reportDataId": 27725
+                    },
+                    {
+                        "matnr": "11002244",
+                        "maktx": "ASPEN 50SC_1L_GT",
+                        "id": 3555391,
+                        "reportDataId": 27725
+                    }
+                ],
+                "id": 27725
+            },
+            {
+                "pdfname": "50002111_EXT_SDS_PA_EN.PDF",
+                "specificationid": "50002111",
+                "path": "\\\\172.18.22.6\\sds_external/50002111_EXT_SDS_PA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_PA",
+                "authorizedportal": "P3",
+                "productname": "ASPEN\u00ae 50 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLT 500 g/L SC (EQUINOX) (CHILD)",
+                "cmr": "",
+                "publishdate": "09/29/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "PA",
+                "validityareadescription": "Panama",
+                "legacyspecid": "FO000673",
+                "legacysdsid": "6681-1-MX-A",
+                "revisiondate": "09/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002966",
+                        "maktx": "ASPEN 50SC_1L_SV",
+                        "id": 3555392,
+                        "reportDataId": 27726
+                    },
+                    {
+                        "matnr": "11003013",
+                        "maktx": "ASPEN 50SC_1L_NI",
+                        "id": 3555393,
+                        "reportDataId": 27726
+                    },
+                    {
+                        "matnr": "11004426",
+                        "maktx": "ASPEN 50SC_1L_HN",
+                        "id": 3555394,
+                        "reportDataId": 27726
+                    },
+                    {
+                        "matnr": "11009068",
+                        "maktx": "ASPEN 50SC_1L_DO",
+                        "id": 3555395,
+                        "reportDataId": 27726
+                    },
+                    {
+                        "matnr": "11002244",
+                        "maktx": "ASPEN 50SC_1L_GT",
+                        "id": 3555396,
+                        "reportDataId": 27726
+                    }
+                ],
+                "id": 27726
             }
         ],
         "isExportToExcel": false
