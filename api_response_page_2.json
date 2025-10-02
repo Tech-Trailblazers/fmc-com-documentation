@@ -58,182 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000153_EXT_SDS_BR_PT.PDF",
-                "specificationid": "50000153",
-                "path": "\\\\172.18.22.6\\sds_external/50000153_EXT_SDS_BR_PT.PDF",
-                "reptype": "MSDS",
-                "language": "PT",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "REVESCAR\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "REVESCAR\u00ae",
-                "casnumber": "",
-                "commercialnames": "BIF + RYX (159 + 106) G/L SC",
-                "cmr": "",
-                "publishdate": "09/30/2024",
-                "iupac": "",
-                "incode": "VKM32",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "FO004339",
-                "legacysdsid": "",
-                "revisiondate": "09/30/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015750",
-                        "maktx": "PRESIPEL_1L_CO",
-                        "id": 2759932,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016414",
-                        "maktx": "REVECSAR_5L_BR",
-                        "id": 2759933,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11014506",
-                        "maktx": "ELEVEST_100ML_PK",
-                        "id": 2759934,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11015118",
-                        "maktx": "JALENTRA SC_1L_UA",
-                        "id": 2759935,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12006333",
-                        "maktx": "RYX 105 + BIF 165SC_1000L_IT_MI_MO YN",
-                        "id": 2759936,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11013170",
-                        "maktx": "ELEVEST_2.5GAL_US",
-                        "id": 2759937,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016402",
-                        "maktx": "REVECSAR_20L_BR",
-                        "id": 2759938,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12005960",
-                        "maktx": "RYX 105 + BIF 165SC_200L_CI_MI_MO YN",
-                        "id": 2759939,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12006320",
-                        "maktx": "RYX 105 + BIF 165SC_1000L_MI_MO YN",
-                        "id": 2759940,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12005682",
-                        "maktx": "RYX 105 + BIF 165SC_200L_PK_MI_MO",
-                        "id": 2759941,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12005590",
-                        "maktx": "RYX 105 + BIF 165SC_1000L_PK_MI_MO",
-                        "id": 2759942,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016170",
-                        "maktx": "TURAZI XTREME_2.5GAL_US",
-                        "id": 2759943,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016415",
-                        "maktx": "REVECSAR_10L_BR",
-                        "id": 2759944,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11014695",
-                        "maktx": "JALENTRA_1L_KZ",
-                        "id": 2759945,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016413",
-                        "maktx": "REVECSAR_1L_BR",
-                        "id": 2759946,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12006123",
-                        "maktx": "RYX 105 + BIF 165SC_53GAL_CO_MI_MO YN",
-                        "id": 2759947,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12006095",
-                        "maktx": "RYX 105 + BIF 165SC_53GAL_MI_MO YN",
-                        "id": 2759948,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11013372",
-                        "maktx": "ELEVEST_110GAL_US",
-                        "id": 2759949,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12006157",
-                        "maktx": "RYX 105 + BIF 165SC_200L_IT_MI_MO YN",
-                        "id": 2759950,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11014994",
-                        "maktx": "JALENTRA SC_5L_UA",
-                        "id": 2759951,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11015760",
-                        "maktx": "PRESIPEL_200ML_CO",
-                        "id": 2759952,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016552",
-                        "maktx": "PRESIPEL_200L_EC",
-                        "id": 2759953,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "12005060",
-                        "maktx": "RYX 105-BIF 165SC_MI_MO YN",
-                        "id": 2759954,
-                        "reportDataId": 26630
-                    },
-                    {
-                        "matnr": "11016522",
-                        "maktx": "PRESIPEL_200L_PE",
-                        "id": 2759955,
-                        "reportDataId": 26630
-                    }
-                ],
-                "id": 26630
-            },
-            {
                 "pdfname": "50000610_SDS_HR_HR.PDF",
                 "specificationid": "50000610",
                 "path": "\\\\172.18.22.6\\sds_external/50000610_SDS_HR_HR.PDF",
@@ -232225,6 +232049,152 @@
                     }
                 ],
                 "id": 27733
+            },
+            {
+                "pdfname": "50002561_SDS_NZ_6N.PDF",
+                "specificationid": "50002561",
+                "path": "\\\\172.18.22.6\\sds_external/50002561_SDS_NZ_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_NZ",
+                "authorizedportal": "P3",
+                "productname": "Altacor\u00ae X-Force Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 70 WG",
+                "cmr": "",
+                "publishdate": "10/01/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "NZ",
+                "validityareadescription": "New Zealand",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015700",
+                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
+                        "id": 3558903,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014605",
+                        "maktx": "ALTACOR MAX_510G_CA",
+                        "id": 3558904,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006272",
+                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
+                        "id": 3558905,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015619",
+                        "maktx": "VISICOR 70WG_240G_TR",
+                        "id": 3558906,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12005604",
+                        "maktx": "RYX 700WG_50KG_GOWA_MO",
+                        "id": 3558907,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015768",
+                        "maktx": "ALTACOR EVO_400LB_US",
+                        "id": 3558908,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014570",
+                        "maktx": "ALTACOR X-FORCE_2KG_AU",
+                        "id": 3558909,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014510",
+                        "maktx": "ALTACOR EVO_18OZ_US",
+                        "id": 3558910,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014575",
+                        "maktx": "ALTACOR X-FORCE_90G_AU",
+                        "id": 3558911,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016892",
+                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
+                        "id": 3558912,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12005495",
+                        "maktx": "RYX 700WG_MO_SYT",
+                        "id": 3558913,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016128",
+                        "maktx": "KUANXI_500G_CN",
+                        "id": 3558914,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016127",
+                        "maktx": "KUANXI_100G_CN",
+                        "id": 3558915,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015674",
+                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
+                        "id": 3558916,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015689",
+                        "maktx": "INECOR 700WG_2KG_AU",
+                        "id": 3558917,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015742",
+                        "maktx": "SOLACE 700WG_2KG_AU",
+                        "id": 3558918,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006116",
+                        "maktx": "RYX 700WG_50KG_TR",
+                        "id": 3558919,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015627",
+                        "maktx": "VISICOR 70WG_60G_TR",
+                        "id": 3558920,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016901",
+                        "maktx": "ALTACOR X-FORCE_360G_NZ",
+                        "id": 3558921,
+                        "reportDataId": 27734
+                    }
+                ],
+                "id": 27734
             }
         ],
         "isExportToExcel": false
