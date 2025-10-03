@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6075,
+        "totalCount": 6076,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,1108 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000610_SDS_HR_HR.PDF",
-                "specificationid": "50000610",
-                "path": "\\\\172.18.22.6\\sds_external/50000610_SDS_HR_HR.PDF",
-                "reptype": "MSDS",
-                "language": "HR",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "FOXTROT\u00ae 69 EW",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "FENOVA",
-                "casnumber": "",
-                "commercialnames": "CME + FPE (35 + 69) g/l EW",
-                "cmr": "",
-                "publishdate": "10/01/2024",
-                "iupac": "",
-                "incode": "VCP92",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO002027",
-                "legacysdsid": "",
-                "revisiondate": "10/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 2984152,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 2984153,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 2984154,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 2984155,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 2984156,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 2984157,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 2984158,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 2984159,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 2984160,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 2984161,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 2984162,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 2984163,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 2984164,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 2984165,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 2984166,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 2984167,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 2984168,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 2984169,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 2984170,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 2984171,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 2984172,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 2984173,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 2984174,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 2984175,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 2984176,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 2984177,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 2984178,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 2984179,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 2984180,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 2984181,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11015133",
-                        "maktx": "FOXTROT EW_5L_GB",
-                        "id": 2984182,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001272",
-                        "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 2984183,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 2984184,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 2984185,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 2984186,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11010286",
-                        "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 2984187,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 2984188,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11002176",
-                        "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 2984189,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 2984190,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 2984191,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 2984192,
-                        "reportDataId": 26631
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 2984193,
-                        "reportDataId": 26631
-                    }
-                ],
-                "id": 26631
-            },
-            {
-                "pdfname": "50000610_SDS_HR_6N.PDF",
-                "specificationid": "50000610",
-                "path": "\\\\172.18.22.6\\sds_external/50000610_SDS_HR_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "FOXTROT\u00ae 69 EW",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "FENOVA",
-                "casnumber": "",
-                "commercialnames": "CME + FPE (35 + 69) g/l EW",
-                "cmr": "",
-                "publishdate": "10/01/2024",
-                "iupac": "",
-                "incode": "VCP92",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO002027",
-                "legacysdsid": "",
-                "revisiondate": "10/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 2984194,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 2984195,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 2984196,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 2984197,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 2984198,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 2984199,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 2984200,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 2984201,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 2984202,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 2984203,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 2984204,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 2984205,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 2984206,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 2984207,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 2984208,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 2984209,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 2984210,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 2984211,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11015133",
-                        "maktx": "FOXTROT EW_5L_GB",
-                        "id": 2984212,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 2984213,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 2984214,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 2984215,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 2984216,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 2984217,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 2984218,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 2984219,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 2984220,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 2984221,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 2984222,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 2984223,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 2984224,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 2984225,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 2984226,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001272",
-                        "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 2984227,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 2984228,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11010286",
-                        "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 2984229,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 2984230,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11002176",
-                        "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 2984231,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 2984232,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 2984233,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 2984234,
-                        "reportDataId": 26632
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 2984235,
-                        "reportDataId": 26632
-                    }
-                ],
-                "id": 26632
-            },
-            {
-                "pdfname": "50000803_SDS_HR_HR.PDF",
-                "specificationid": "50000803",
-                "path": "\\\\172.18.22.6\\sds_external/50000803_SDS_HR_HR.PDF",
-                "reptype": "MSDS",
-                "language": "HR",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "FUGA DELTA",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "NAVIGATE",
-                "casnumber": "",
-                "commercialnames": "DFF + FFC (200 + 400) g/L SC",
-                "cmr": "",
-                "publishdate": "10/01/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO004112",
-                "legacysdsid": "",
-                "revisiondate": "10/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003959",
-                        "maktx": "BATTLE DELTA_5L_NL",
-                        "id": 3245159,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11015573",
-                        "maktx": "BATTLE DELTA 600SC_5L_LT EE",
-                        "id": 3245160,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12006440",
-                        "maktx": "FFC 400 + DFF 200SC_1000L_ST_BYER ADAM",
-                        "id": 3245161,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11014669",
-                        "maktx": "BATTLE DELTA_1L_ES",
-                        "id": 3245162,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002979",
-                        "maktx": "BATTLE DELTA_5L_ES",
-                        "id": 3245163,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002886",
-                        "maktx": "BATTLE DELTA_5L_FR",
-                        "id": 3245164,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11014911",
-                        "maktx": "BATTLE DELTA_5L_CZ SK",
-                        "id": 3245165,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11014559",
-                        "maktx": "BATTLE DELTA_1L_BG",
-                        "id": 3245166,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11014504",
-                        "maktx": "NUCLEUS_5L_BE",
-                        "id": 3245167,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002543",
-                        "maktx": "BATTLE DELTA_5L_SK",
-                        "id": 3245168,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11014306",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245169,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002429",
-                        "maktx": "BATTLE DELTA_1L",
-                        "id": 3245170,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11016121",
-                        "maktx": "BATTLE DELTA MAX_VP5L 100G_HU",
-                        "id": 3245171,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11015197",
-                        "maktx": "NUCLEUS_5L_BG",
-                        "id": 3245172,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11013715",
-                        "maktx": "BATTLE DELTA 600SC_3L_PL",
-                        "id": 3245173,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11004461",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245174,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12000946",
-                        "maktx": "FFC 400-DFF 200SC_ST_CRTI HF",
-                        "id": 3245175,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11000337",
-                        "maktx": "BATTLE DELTA_3L_AT",
-                        "id": 3245176,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11013732",
-                        "maktx": "BATTLE DELTA_5L_BG",
-                        "id": 3245177,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002246",
-                        "maktx": "BATTLE DELTA 600SC_500ML_PL",
-                        "id": 3245178,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11010878",
-                        "maktx": "BATTLE DELTA_5L_AT",
-                        "id": 3245179,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12006200",
-                        "maktx": "FFC 400 + DFF 200SC_ST_BYER ADAM",
-                        "id": 3245180,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12000934",
-                        "maktx": "FFC 400 + DFF 200SC_5L_ST_ALL",
-                        "id": 3245181,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002435",
-                        "maktx": "NAVIGATE_3L_GB",
-                        "id": 3245182,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12000464",
-                        "maktx": "FFC 400-DFF 200SC_ST_BYER HF",
-                        "id": 3245183,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002472",
-                        "maktx": "BATTLE DELTA 600SC_5L_PL",
-                        "id": 3245184,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11005651",
-                        "maktx": "BATTLE DELTA_1L_DE",
-                        "id": 3245185,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11000313",
-                        "maktx": "FUGA DELTA_0.5L_HR_CHROM",
-                        "id": 3245186,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "12000686",
-                        "maktx": "FFC 400 - DFF 200SC_ST_BYER ZICC",
-                        "id": 3245187,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002944",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245188,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11002118",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245189,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11015489",
-                        "maktx": "NUCLEUS_1L_IT",
-                        "id": 3245190,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11000290",
-                        "maktx": "BATTLE DELTA_1L_RO",
-                        "id": 3245191,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11006153",
-                        "maktx": "DEPHEND_20L_FR",
-                        "id": 3245192,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11003320",
-                        "maktx": "BATTLE DELTA_5L_HU",
-                        "id": 3245193,
-                        "reportDataId": 26633
-                    },
-                    {
-                        "matnr": "11000292",
-                        "maktx": "BATTLE DELTA_5L_CZ",
-                        "id": 3245194,
-                        "reportDataId": 26633
-                    }
-                ],
-                "id": 26633
-            },
-            {
-                "pdfname": "50000803_SDS_HR_6N.PDF",
-                "specificationid": "50000803",
-                "path": "\\\\172.18.22.6\\sds_external/50000803_SDS_HR_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "FUGA DELTA",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "NAVIGATE",
-                "casnumber": "",
-                "commercialnames": "DFF + FFC (200 + 400) g/L SC",
-                "cmr": "",
-                "publishdate": "10/01/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO004112",
-                "legacysdsid": "",
-                "revisiondate": "10/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003959",
-                        "maktx": "BATTLE DELTA_5L_NL",
-                        "id": 3245195,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11014559",
-                        "maktx": "BATTLE DELTA_1L_BG",
-                        "id": 3245196,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12006440",
-                        "maktx": "FFC 400 + DFF 200SC_1000L_ST_BYER ADAM",
-                        "id": 3245197,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11014669",
-                        "maktx": "BATTLE DELTA_1L_ES",
-                        "id": 3245198,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002979",
-                        "maktx": "BATTLE DELTA_5L_ES",
-                        "id": 3245199,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002886",
-                        "maktx": "BATTLE DELTA_5L_FR",
-                        "id": 3245200,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11014911",
-                        "maktx": "BATTLE DELTA_5L_CZ SK",
-                        "id": 3245201,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11015573",
-                        "maktx": "BATTLE DELTA 600SC_5L_LT EE",
-                        "id": 3245202,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11014504",
-                        "maktx": "NUCLEUS_5L_BE",
-                        "id": 3245203,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002543",
-                        "maktx": "BATTLE DELTA_5L_SK",
-                        "id": 3245204,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11014306",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245205,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002429",
-                        "maktx": "BATTLE DELTA_1L",
-                        "id": 3245206,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11016121",
-                        "maktx": "BATTLE DELTA MAX_VP5L 100G_HU",
-                        "id": 3245207,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11015197",
-                        "maktx": "NUCLEUS_5L_BG",
-                        "id": 3245208,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11013715",
-                        "maktx": "BATTLE DELTA 600SC_3L_PL",
-                        "id": 3245209,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11004461",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245210,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12000946",
-                        "maktx": "FFC 400-DFF 200SC_ST_CRTI HF",
-                        "id": 3245211,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11000337",
-                        "maktx": "BATTLE DELTA_3L_AT",
-                        "id": 3245212,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11013732",
-                        "maktx": "BATTLE DELTA_5L_BG",
-                        "id": 3245213,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002246",
-                        "maktx": "BATTLE DELTA 600SC_500ML_PL",
-                        "id": 3245214,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11010878",
-                        "maktx": "BATTLE DELTA_5L_AT",
-                        "id": 3245215,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12006200",
-                        "maktx": "FFC 400 + DFF 200SC_ST_BYER ADAM",
-                        "id": 3245216,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12000934",
-                        "maktx": "FFC 400 + DFF 200SC_5L_ST_ALL",
-                        "id": 3245217,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002435",
-                        "maktx": "NAVIGATE_3L_GB",
-                        "id": 3245218,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12000464",
-                        "maktx": "FFC 400-DFF 200SC_ST_BYER HF",
-                        "id": 3245219,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002472",
-                        "maktx": "BATTLE DELTA 600SC_5L_PL",
-                        "id": 3245220,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11005651",
-                        "maktx": "BATTLE DELTA_1L_DE",
-                        "id": 3245221,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11000313",
-                        "maktx": "FUGA DELTA_0.5L_HR_CHROM",
-                        "id": 3245222,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "12000686",
-                        "maktx": "FFC 400 - DFF 200SC_ST_BYER ZICC",
-                        "id": 3245223,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002944",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245224,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11002118",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245225,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11015489",
-                        "maktx": "NUCLEUS_1L_IT",
-                        "id": 3245226,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11000290",
-                        "maktx": "BATTLE DELTA_1L_RO",
-                        "id": 3245227,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11006153",
-                        "maktx": "DEPHEND_20L_FR",
-                        "id": 3245228,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11003320",
-                        "maktx": "BATTLE DELTA_5L_HU",
-                        "id": 3245229,
-                        "reportDataId": 26634
-                    },
-                    {
-                        "matnr": "11000292",
-                        "maktx": "BATTLE DELTA_5L_CZ",
-                        "id": 3245230,
-                        "reportDataId": 26634
-                    }
-                ],
-                "id": 26634
-            },
-            {
-                "pdfname": "50003008_EXT_SDS_ES_ES.PDF",
-                "specificationid": "50003008",
-                "path": "\\\\172.18.22.6\\sds_external/50003008_EXT_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "FENGRESS",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "RAMBLA (3PP BUY SELL) (CHILD)",
-                "cmr": "",
-                "publishdate": "10/01/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "10/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016040",
-                        "maktx": "FENGRESS_10KG_ES",
-                        "id": 2437267,
-                        "reportDataId": 26635
-                    }
-                ],
-                "id": 26635
-            },
             {
                 "pdfname": "50002997_EXT_SDS_ES_ES.PDF",
                 "specificationid": "50002997",
@@ -232195,6 +231093,598 @@
                     }
                 ],
                 "id": 27734
+            },
+            {
+                "pdfname": "50000661_SDS_FR_6N.PDF",
+                "specificationid": "50000661",
+                "path": "\\\\172.18.22.6\\sds_external/50000661_SDS_FR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "SUCCESSOR\u00ae 600",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "JUAN",
+                "casnumber": "",
+                "commercialnames": "PXA 600 g/L EC",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "45263",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "FO002146",
+                "legacysdsid": "",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015342",
+                        "maktx": "SUCCESSOR EC_5L_UA",
+                        "id": 3558922,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "12006587",
+                        "maktx": "PXA 600EC_1000L_FR_RO_RO",
+                        "id": 3558923,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "12006635",
+                        "maktx": "PXA 600EC_TC_MUL_RO_CAFF",
+                        "id": 3558924,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "12000355",
+                        "maktx": "PXA 600EC_TC_RO_RO",
+                        "id": 3558925,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001178",
+                        "maktx": "SUCCESSOR 600_5L_FR_BASF",
+                        "id": 3558926,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001269",
+                        "maktx": "SUCCESSOR 600EC_5L_PL",
+                        "id": 3558927,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11016057",
+                        "maktx": "DUAL NEXT_5L_DE_SYNGENTA",
+                        "id": 3558928,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015980",
+                        "maktx": "KOBAN_1L_IT",
+                        "id": 3558929,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015774",
+                        "maktx": "DEBASCO_1L_TR",
+                        "id": 3558930,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001238",
+                        "maktx": "SUCCESSOR 600EC_5L_FR",
+                        "id": 3558931,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "12006650",
+                        "maktx": "PXA 600EC_1000L_MUL_RO_CAFF",
+                        "id": 3558932,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11014468",
+                        "maktx": "SUCCESSOR 600_5L_FR",
+                        "id": 3558933,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11003848",
+                        "maktx": "SUCCESSOR 600_5L_BE LU",
+                        "id": 3558934,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001372",
+                        "maktx": "QUANTUM EVO_5L_ES",
+                        "id": 3558935,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "12000360",
+                        "maktx": "PXA 600EC_CZ_ST_RO",
+                        "id": 3558936,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015932",
+                        "maktx": "SUCCESSOR_5L_RS",
+                        "id": 3558937,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11014424",
+                        "maktx": "SUCCESSOR 600_5L_SI_KARSIA",
+                        "id": 3558938,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001237",
+                        "maktx": "SUCCESSOR 600_5L_CZ_AGROPROTEC",
+                        "id": 3558939,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015651",
+                        "maktx": "SUCCESSOR 600_4L_AT",
+                        "id": 3558940,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015584",
+                        "maktx": "MOJANG 600_4L_IT",
+                        "id": 3558941,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11016089",
+                        "maktx": "DUAL NEXT_4L_DE_SYNGENTA",
+                        "id": 3558942,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015119",
+                        "maktx": "SUCCESSOR 600_5L_DE",
+                        "id": 3558943,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015983",
+                        "maktx": "DUAL NEXT_5L_IT_SYNGENTA",
+                        "id": 3558944,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001319",
+                        "maktx": "QUANTUM_6L_DE",
+                        "id": 3558945,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001257",
+                        "maktx": "QUANTUM_10L_DE",
+                        "id": 3558946,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11003646",
+                        "maktx": "SUCCESSOR 600_5L_IT",
+                        "id": 3558947,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015999",
+                        "maktx": "KOBAN_5L_IT",
+                        "id": 3558948,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001093",
+                        "maktx": "SUCCESSOR 600_1L_SI",
+                        "id": 3558949,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001588",
+                        "maktx": "PETHOXAMIDE_1000L_MUL",
+                        "id": 3558950,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11016031",
+                        "maktx": "DUAL NEXT_5L_HU_SYNGENTA",
+                        "id": 3558951,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11010308",
+                        "maktx": "SUCCESSOR PRO_5L_RO",
+                        "id": 3558952,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015931",
+                        "maktx": "MOJANG_5L_HR_AGROCHEM MAKS",
+                        "id": 3558953,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001217",
+                        "maktx": "SUCCESSOR 600_5L_ES",
+                        "id": 3558954,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015748",
+                        "maktx": "SUCCESSOR EC_10L_UA",
+                        "id": 3558955,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015069",
+                        "maktx": "MOJANG_5L_BE",
+                        "id": 3558956,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001235",
+                        "maktx": "SUCCESSOR 600_5L_BE",
+                        "id": 3558957,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001537",
+                        "maktx": "FORMAX_5L_BE_PROTEX",
+                        "id": 3558958,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001094",
+                        "maktx": "SUCCESSOR 600_1L_CH_STAHL",
+                        "id": 3558959,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11001239",
+                        "maktx": "SUCCESSOR 600_5L_HU",
+                        "id": 3558960,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11009035",
+                        "maktx": "MOJANG 600_5L_IT",
+                        "id": 3558961,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015851",
+                        "maktx": "MOJANG 600_1L_IT",
+                        "id": 3558962,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11016005",
+                        "maktx": "DUAL NEXT_5L_CZ_SYNGENTA",
+                        "id": 3558963,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015772",
+                        "maktx": "INDAVIUS_5L_PT_SYN",
+                        "id": 3558964,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11014569",
+                        "maktx": "ROMIN_5L_ES_ADAMA",
+                        "id": 3558965,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11000366",
+                        "maktx": "SUCCESSOR 600_5L_AT",
+                        "id": 3558966,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11015140",
+                        "maktx": "SUCCESSOR 600_10L_DE",
+                        "id": 3558967,
+                        "reportDataId": 27735
+                    },
+                    {
+                        "matnr": "11013660",
+                        "maktx": "DEBASCO_5L_TR",
+                        "id": 3558968,
+                        "reportDataId": 27735
+                    }
+                ],
+                "id": 27735
+            },
+            {
+                "pdfname": "50001219_SDS_FR_6N.PDF",
+                "specificationid": "50001219",
+                "path": "\\\\172.18.22.6\\sds_external/50001219_SDS_FR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "RHIZOMAGIC\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0247",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "NP-0247",
+                "legacysdsid": "NP-0247",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013931",
+                        "maktx": "RHIZOMAGIC_10L_BG",
+                        "id": 3558969,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11001581",
+                        "maktx": "RHIZO MAGIC_1000L_CR",
+                        "id": 3558970,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11015572",
+                        "maktx": "SEAMAC RHIZO_10L_RO",
+                        "id": 3558971,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11016752",
+                        "maktx": "NUVOLA RHIZO_1L_DZ_AGROSEMILLAS",
+                        "id": 3558972,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11016735",
+                        "maktx": "NUVOLA RHIZO_5L_TN_SSCC",
+                        "id": 3558973,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11016530",
+                        "maktx": "NUVOLA RHIZO_5L_DZ_AGROSEED",
+                        "id": 3558974,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11015431",
+                        "maktx": "RHIZOMAGIC_1000L_MM",
+                        "id": 3558975,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11015852",
+                        "maktx": "RHIZOMAGIC_10L_CL",
+                        "id": 3558976,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11016817",
+                        "maktx": "NUVOLA RHIZO_5L_DZ_AGROSEMILLAS",
+                        "id": 3558977,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11006170",
+                        "maktx": "RHIZOMAGIC 10L_HU",
+                        "id": 3558978,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11013990",
+                        "maktx": "RHIZOMAGIC_1L_MUL",
+                        "id": 3558979,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11008929",
+                        "maktx": "RHIZOMAGIC_1L_TR",
+                        "id": 3558980,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11002768",
+                        "maktx": "STYMULUS R AL_1L_MX",
+                        "id": 3558981,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11013959",
+                        "maktx": "RHIZOMAGIC_5L_TR",
+                        "id": 3558982,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11015833",
+                        "maktx": "RHIZOMAGIC_5L_MM_Y AGRO SOLUTION",
+                        "id": 3558983,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11005610",
+                        "maktx": "RHIZOMAGIC_?",
+                        "id": 3558984,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11014430",
+                        "maktx": "RHIZOMAGIC_1000L_MX",
+                        "id": 3558985,
+                        "reportDataId": 27736
+                    },
+                    {
+                        "matnr": "11016363",
+                        "maktx": "RHIZOMAGIC_1000L_ID",
+                        "id": 3558986,
+                        "reportDataId": 27736
+                    }
+                ],
+                "id": 27736
+            },
+            {
+                "pdfname": "50001901_EXT_SDS_NL_NL.PDF",
+                "specificationid": "50001901",
+                "path": "\\\\172.18.22.6\\sds_external/50001901_EXT_SDS_NL_NL.PDF",
+                "reptype": "MSDS",
+                "language": "NL",
+                "genvariant": "EXT_SDS_NL",
+                "authorizedportal": "P3",
+                "productname": "KOPER 435",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0050 (CHILD)",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.3",
+                "fileformat": "PDF",
+                "validityarea": "NL",
+                "validityareadescription": "Netherlands",
+                "legacyspecid": "NP-0050",
+                "legacysdsid": "NP-0050-2-A",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001967",
+                        "maktx": "KOPER 435_10L_NL_HOLL FYTO",
+                        "id": 3558990,
+                        "reportDataId": 27737
+                    }
+                ],
+                "id": 27737
+            },
+            {
+                "pdfname": "50001901_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001901",
+                "path": "\\\\172.18.22.6\\sds_external/50001901_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "KOPER 435",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0050 (CHILD)",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "NP-0050",
+                "legacysdsid": "NP-0050-2-A",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001967",
+                        "maktx": "KOPER 435_10L_NL_HOLL FYTO",
+                        "id": 3558991,
+                        "reportDataId": 27738
+                    }
+                ],
+                "id": 27738
+            },
+            {
+                "pdfname": "50001902_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001902",
+                "path": "\\\\172.18.22.6\\sds_external/50001902_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "PhytoGreen Cu256",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0050 (CHILD)",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "NP-0050",
+                "legacysdsid": "NP-0050-4-A",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27739
+            },
+            {
+                "pdfname": "50001902_EXT_SDS_BG_BG.PDF",
+                "specificationid": "50001902",
+                "path": "\\\\172.18.22.6\\sds_external/50001902_EXT_SDS_BG_BG.PDF",
+                "reptype": "MSDS",
+                "language": "BG",
+                "genvariant": "EXT_SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "Headland Copper (\u0421\u042f\u0420\u0410 \u0425\u0415\u0414\u041b\u0410\u041d\u0414 )",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0050 (CHILD)",
+                "cmr": "",
+                "publishdate": "10/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "NP-0050",
+                "legacysdsid": "NP-0050-4-A",
+                "revisiondate": "10/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27740
             }
         ],
         "isExportToExcel": false
