@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6076,
+        "totalCount": 6077,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -232051,6 +232051,86 @@
                     }
                 ],
                 "id": 27741
+            },
+            {
+                "pdfname": "50000101_SDS_LT_LT.PDF",
+                "specificationid": "50000101",
+                "path": "\\\\172.18.22.6\\sds_external/50000101_SDS_LT_LT.PDF",
+                "reptype": "MSDS",
+                "language": "LT",
+                "genvariant": "SDS_LT",
+                "authorizedportal": "P3",
+                "productname": "TRAVALLAS\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DPX-STD71 183 OD (M)",
+                "casnumber": "",
+                "commercialnames": "FRX + MEM + TIM (150 + 3 + 30) g/l OD",
+                "cmr": "",
+                "publishdate": "10/09/2025",
+                "iupac": "",
+                "incode": "STD71",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "LT",
+                "validityareadescription": "Lithuania",
+                "legacyspecid": "Q-1670",
+                "legacysdsid": "130000115902",
+                "revisiondate": "10/09/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006453",
+                        "maktx": "TIM30+ MEM3+ FRX 150OD_200L_CA_ALMX_ALL",
+                        "id": 3563077,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "12002195",
+                        "maktx": "TIM 30 MEM 3 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3563078,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "11009532",
+                        "maktx": "TRAVALLAS_8L_CA",
+                        "id": 3563079,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "12005491",
+                        "maktx": "TIM 30 MEM 3 FRX 150OD_5L_SWF_ALL",
+                        "id": 3563080,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "11009009",
+                        "maktx": "TRAVALLAS_4L_CA",
+                        "id": 3563081,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "11001314",
+                        "maktx": "TRAVALLAS_2.5GAL_?",
+                        "id": 3563082,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "12006395",
+                        "maktx": "TIM 30 + MEM 3 + FRX 150OD_ALMX_MA_DWDP",
+                        "id": 3563083,
+                        "reportDataId": 27742
+                    },
+                    {
+                        "matnr": "12001618",
+                        "maktx": "DPX-STD71 183 OD LIQUID L BULK",
+                        "id": 3563084,
+                        "reportDataId": 27742
+                    }
+                ],
+                "id": 27742
             }
         ],
         "isExportToExcel": false
