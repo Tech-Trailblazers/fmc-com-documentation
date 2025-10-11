@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6077,
+        "totalCount": 6079,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,754 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000098_SDS_ID_EN.PDF",
-                "specificationid": "50000098",
-                "path": "\\\\172.18.22.6\\sds_external/50000098_SDS_ID_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "Exirel\u00ae 100 SE Insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "EXIREL",
-                "casnumber": "",
-                "commercialnames": "CZP 100 g/L SE (ACTICIDE)",
-                "cmr": "",
-                "publishdate": "10/02/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "Q-1661",
-                "legacysdsid": "130000133497",
-                "revisiondate": "10/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000203",
-                        "maktx": "EXIREL 10SE_1LT_CL",
-                        "id": 3126793,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12001126",
-                        "maktx": "DPX HGW86 (ACTICIDE) 100SE_200L_US",
-                        "id": 3126794,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11015437",
-                        "maktx": "EXIREL 100SE_250ML_IQ_ARD",
-                        "id": 3126795,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11009540",
-                        "maktx": "EXIREL_3.79L_CA",
-                        "id": 3126796,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014158",
-                        "maktx": "EXIREL 100SE_1L_TR",
-                        "id": 3126797,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007642",
-                        "maktx": "EXIREL 100SE_200ML_CN",
-                        "id": 3126798,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014674",
-                        "maktx": "EXIREL_250ML_MK_HEMOMAK",
-                        "id": 3126799,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11013899",
-                        "maktx": "EXIREL 10SE_250ML_LB_UNIFERT",
-                        "id": 3126800,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007299",
-                        "maktx": "EXIREL_250ML_UA",
-                        "id": 3126801,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11004440",
-                        "maktx": "EXIREL_250ML_RO",
-                        "id": 3126802,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000607",
-                        "maktx": "EXIREL 100SE_200L_JP",
-                        "id": 3126803,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12005550",
-                        "maktx": "CZP 100SE ACTICIDE_ST_MO",
-                        "id": 3126804,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11013904",
-                        "maktx": "EXIREL 10SE_250ML_JO_EL ATAA",
-                        "id": 3126805,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11006941",
-                        "maktx": "EXIREL_250ML_MA_AMAROC",
-                        "id": 3126806,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12005555",
-                        "maktx": "CZP 100SE ACTICIDE_1000L_ST_MO",
-                        "id": 3126807,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12001640",
-                        "maktx": "EXIREL 100SE BULK SG",
-                        "id": 3126808,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12001930",
-                        "maktx": "EXIREL (ACTICIDE) WIP BULK FORMULATION",
-                        "id": 3126809,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11006971",
-                        "maktx": "EXIREL 10SE_100ML_TW",
-                        "id": 3126810,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006511",
-                        "maktx": "CZP 100SE ACTICIDE_MUL_ST_JI",
-                        "id": 3126811,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11009026",
-                        "maktx": "EXIREL 100SE_200L_CN",
-                        "id": 3126812,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11015692",
-                        "maktx": "EXIREL_500ML_UZ",
-                        "id": 3126813,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014352",
-                        "maktx": "EXIREL 100SE_250ML_LB_UNIFERT",
-                        "id": 3126814,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11015430",
-                        "maktx": "EXIREL 100SE_250ML_AE_MUBARAK",
-                        "id": 3126815,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006581",
-                        "maktx": "CZP 100SE_1000L_ST_JI",
-                        "id": 3126816,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12002153",
-                        "maktx": "CZP 100SE ACTICIDE_200L_?",
-                        "id": 3126817,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006632",
-                        "maktx": "CZP 100SE ACTICIDE_1L_ST_JI",
-                        "id": 3126818,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000135",
-                        "maktx": "EXIREL 10SE_1L_AR",
-                        "id": 3126819,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006582",
-                        "maktx": "CZP 200SC_1000L_ST_JI",
-                        "id": 3126820,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007641",
-                        "maktx": "EXIREL 100SE_20ML_CN",
-                        "id": 3126821,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11004443",
-                        "maktx": "EXIREL_1L_RO",
-                        "id": 3126822,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014022",
-                        "maktx": "EXIREL SE_1L_GE AM",
-                        "id": 3126823,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11013140",
-                        "maktx": "EXIREL 10SE_12X250ML_TW",
-                        "id": 3126824,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006602",
-                        "maktx": "CZP 100SE ACTICIDE_1000L_ST_JI",
-                        "id": 3126825,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12002819",
-                        "maktx": "CZP 100SE Acticide_200L_MUL_JI",
-                        "id": 3126826,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11002461",
-                        "maktx": "EXIREL_250ML_PS_MAKALDE",
-                        "id": 3126827,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11015173",
-                        "maktx": "EXIREL_1L_AU",
-                        "id": 3126828,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11013693",
-                        "maktx": "EXIREL SE_250ML_GE AM",
-                        "id": 3126829,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000136",
-                        "maktx": "EXIREL_1GAL_US",
-                        "id": 3126830,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007240",
-                        "maktx": "EXIREL_250ML_IL_GADOT",
-                        "id": 3126831,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11009660",
-                        "maktx": "EXIREL 10%SE_250ML_EG",
-                        "id": 3126832,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12005330",
-                        "maktx": "CZP 100SE_1000L_MUL_TU_JI",
-                        "id": 3126833,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007669",
-                        "maktx": "EXIREL_30GAL_US",
-                        "id": 3126834,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000088",
-                        "maktx": "EXIREL 100SE_1L_ZA",
-                        "id": 3126835,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11016167",
-                        "maktx": "KRADAN_1GAL_US",
-                        "id": 3126836,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11015960",
-                        "maktx": "EXIREL_200L_PE_FARMEX",
-                        "id": 3126837,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000171",
-                        "maktx": "EXIREL_1L_IL_GADOT",
-                        "id": 3126838,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11013522",
-                        "maktx": "WODUONONG_1000L_CN",
-                        "id": 3126839,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000114",
-                        "maktx": "EXIREL_1L_FR",
-                        "id": 3126840,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12006334",
-                        "maktx": "CZP 100SE ACTICIDE_53GAL_MI_MO",
-                        "id": 3126841,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014422",
-                        "maktx": "EXIREL SE_250ML_AZ GE",
-                        "id": 3126842,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11014465",
-                        "maktx": "EXIREL_500ML_TW",
-                        "id": 3126843,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11007223",
-                        "maktx": "EXIREL_250ML_RS_AGROMARKET",
-                        "id": 3126844,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11000131",
-                        "maktx": "EXIREL_1L_UA",
-                        "id": 3126845,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11006813",
-                        "maktx": "EXIREL_10L_AU",
-                        "id": 3126846,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12001313",
-                        "maktx": "CZP 100SE_200L_AR",
-                        "id": 3126847,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "12005605",
-                        "maktx": "CZP 100SE ACTICIDE_1L_ST_MO",
-                        "id": 3126848,
-                        "reportDataId": 26637
-                    },
-                    {
-                        "matnr": "11006826",
-                        "maktx": "EXIREL 100SE_250ML_TR",
-                        "id": 3126849,
-                        "reportDataId": 26637
-                    }
-                ],
-                "id": 26637
-            },
-            {
-                "pdfname": "50000098_SDS_NZ_6N.PDF",
-                "specificationid": "50000098",
-                "path": "\\\\172.18.22.6\\sds_external/50000098_SDS_NZ_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_NZ",
-                "authorizedportal": "P3",
-                "productname": "Exirel\u00ae Insect Control",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 100 g/L SE (ACTICIDE)",
-                "cmr": "",
-                "publishdate": "10/02/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "NZ",
-                "validityareadescription": "New Zealand",
-                "legacyspecid": "Q-1661",
-                "legacysdsid": "130000133497",
-                "revisiondate": "10/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015437",
-                        "maktx": "EXIREL 100SE_250ML_IQ_ARD",
-                        "id": 3126850,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11009540",
-                        "maktx": "EXIREL_3.79L_CA",
-                        "id": 3126851,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014158",
-                        "maktx": "EXIREL 100SE_1L_TR",
-                        "id": 3126852,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007642",
-                        "maktx": "EXIREL 100SE_200ML_CN",
-                        "id": 3126853,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014674",
-                        "maktx": "EXIREL_250ML_MK_HEMOMAK",
-                        "id": 3126854,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11013899",
-                        "maktx": "EXIREL 10SE_250ML_LB_UNIFERT",
-                        "id": 3126855,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007299",
-                        "maktx": "EXIREL_250ML_UA",
-                        "id": 3126856,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11004440",
-                        "maktx": "EXIREL_250ML_RO",
-                        "id": 3126857,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000607",
-                        "maktx": "EXIREL 100SE_200L_JP",
-                        "id": 3126858,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12005550",
-                        "maktx": "CZP 100SE ACTICIDE_ST_MO",
-                        "id": 3126859,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11013904",
-                        "maktx": "EXIREL 10SE_250ML_JO_EL ATAA",
-                        "id": 3126860,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11006941",
-                        "maktx": "EXIREL_250ML_MA_AMAROC",
-                        "id": 3126861,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12001126",
-                        "maktx": "DPX HGW86 (ACTICIDE) 100SE_200L_US",
-                        "id": 3126862,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12005555",
-                        "maktx": "CZP 100SE ACTICIDE_1000L_ST_MO",
-                        "id": 3126863,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12001930",
-                        "maktx": "EXIREL (ACTICIDE) WIP BULK FORMULATION",
-                        "id": 3126864,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11006971",
-                        "maktx": "EXIREL 10SE_100ML_TW",
-                        "id": 3126865,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006511",
-                        "maktx": "CZP 100SE ACTICIDE_MUL_ST_JI",
-                        "id": 3126866,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11009026",
-                        "maktx": "EXIREL 100SE_200L_CN",
-                        "id": 3126867,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11015692",
-                        "maktx": "EXIREL_500ML_UZ",
-                        "id": 3126868,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014352",
-                        "maktx": "EXIREL 100SE_250ML_LB_UNIFERT",
-                        "id": 3126869,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11015430",
-                        "maktx": "EXIREL 100SE_250ML_AE_MUBARAK",
-                        "id": 3126870,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006581",
-                        "maktx": "CZP 100SE_1000L_ST_JI",
-                        "id": 3126871,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12002153",
-                        "maktx": "CZP 100SE ACTICIDE_200L_?",
-                        "id": 3126872,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006632",
-                        "maktx": "CZP 100SE ACTICIDE_1L_ST_JI",
-                        "id": 3126873,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006582",
-                        "maktx": "CZP 200SC_1000L_ST_JI",
-                        "id": 3126874,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11006826",
-                        "maktx": "EXIREL 100SE_250ML_TR",
-                        "id": 3126875,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12001640",
-                        "maktx": "EXIREL 100SE BULK SG",
-                        "id": 3126876,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000203",
-                        "maktx": "EXIREL 10SE_1LT_CL",
-                        "id": 3126877,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000135",
-                        "maktx": "EXIREL 10SE_1L_AR",
-                        "id": 3126878,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12005605",
-                        "maktx": "CZP 100SE ACTICIDE_1L_ST_MO",
-                        "id": 3126879,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014022",
-                        "maktx": "EXIREL SE_1L_GE AM",
-                        "id": 3126880,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11013140",
-                        "maktx": "EXIREL 10SE_12X250ML_TW",
-                        "id": 3126881,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006602",
-                        "maktx": "CZP 100SE ACTICIDE_1000L_ST_JI",
-                        "id": 3126882,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12002819",
-                        "maktx": "CZP 100SE Acticide_200L_MUL_JI",
-                        "id": 3126883,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11002461",
-                        "maktx": "EXIREL_250ML_PS_MAKALDE",
-                        "id": 3126884,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11015173",
-                        "maktx": "EXIREL_1L_AU",
-                        "id": 3126885,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11013693",
-                        "maktx": "EXIREL SE_250ML_GE AM",
-                        "id": 3126886,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000136",
-                        "maktx": "EXIREL_1GAL_US",
-                        "id": 3126887,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007240",
-                        "maktx": "EXIREL_250ML_IL_GADOT",
-                        "id": 3126888,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11009660",
-                        "maktx": "EXIREL 10%SE_250ML_EG",
-                        "id": 3126889,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12005330",
-                        "maktx": "CZP 100SE_1000L_MUL_TU_JI",
-                        "id": 3126890,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007669",
-                        "maktx": "EXIREL_30GAL_US",
-                        "id": 3126891,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007641",
-                        "maktx": "EXIREL 100SE_20ML_CN",
-                        "id": 3126892,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000088",
-                        "maktx": "EXIREL 100SE_1L_ZA",
-                        "id": 3126893,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11015960",
-                        "maktx": "EXIREL_200L_PE_FARMEX",
-                        "id": 3126894,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000171",
-                        "maktx": "EXIREL_1L_IL_GADOT",
-                        "id": 3126895,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11013522",
-                        "maktx": "WODUONONG_1000L_CN",
-                        "id": 3126896,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000114",
-                        "maktx": "EXIREL_1L_FR",
-                        "id": 3126897,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12006334",
-                        "maktx": "CZP 100SE ACTICIDE_53GAL_MI_MO",
-                        "id": 3126898,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014422",
-                        "maktx": "EXIREL SE_250ML_AZ GE",
-                        "id": 3126899,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11014465",
-                        "maktx": "EXIREL_500ML_TW",
-                        "id": 3126900,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11007223",
-                        "maktx": "EXIREL_250ML_RS_AGROMARKET",
-                        "id": 3126901,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11000131",
-                        "maktx": "EXIREL_1L_UA",
-                        "id": 3126902,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11006813",
-                        "maktx": "EXIREL_10L_AU",
-                        "id": 3126903,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "12001313",
-                        "maktx": "CZP 100SE_200L_AR",
-                        "id": 3126904,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11004443",
-                        "maktx": "EXIREL_1L_RO",
-                        "id": 3126905,
-                        "reportDataId": 26638
-                    },
-                    {
-                        "matnr": "11016167",
-                        "maktx": "KRADAN_1GAL_US",
-                        "id": 3126906,
-                        "reportDataId": 26638
-                    }
-                ],
-                "id": 26638
-            },
             {
                 "pdfname": "50000406_SDS_US_1X.PDF",
                 "specificationid": "50000406",
@@ -232131,6 +231383,1766 @@
                     }
                 ],
                 "id": 27742
+            },
+            {
+                "pdfname": "50000505_SDS_CY_EL.PDF",
+                "specificationid": "50000505",
+                "path": "\\\\172.18.22.6\\sds_external/50000505_SDS_CY_EL.PDF",
+                "reptype": "MSDS",
+                "language": "EL",
+                "genvariant": "SDS_CY",
+                "authorizedportal": "P3",
+                "productname": "AFFINITY\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SHARK",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/L ME",
+                "cmr": "",
+                "publishdate": "10/10/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CY",
+                "validityareadescription": "Cyprus",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "10/10/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014427",
+                        "maktx": "SPOTLIGHT PLUS_5L_TN_SSCC",
+                        "id": 3563085,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014565",
+                        "maktx": "SPOTLIGHT PLUS_5L_BG",
+                        "id": 3563086,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11004846",
+                        "maktx": "SPOTLIGHT_1L_AT",
+                        "id": 3563087,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015186",
+                        "maktx": "SPOTLIGHT PLUS_15L_BE",
+                        "id": 3563088,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11016736",
+                        "maktx": "AFFINITY PLUS_10L_NL",
+                        "id": 3563089,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001010",
+                        "maktx": "SPOTLIGHT PLUS_1L_ES",
+                        "id": 3563090,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11003035",
+                        "maktx": "SPOTLIGHT PLUS_5L_NL",
+                        "id": 3563091,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001311",
+                        "maktx": "SPOTLIGHT PLUS_5L_GB",
+                        "id": 3563092,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001011",
+                        "maktx": "SPOTLIGHT PLUS_5L_ES",
+                        "id": 3563093,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001474",
+                        "maktx": "SPOTLIGHT PLUS_5L_IE",
+                        "id": 3563094,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12001345",
+                        "maktx": "CFZ 60EW_TC_RO_JB JL",
+                        "id": 3563095,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001344",
+                        "maktx": "SPOTLIGHT PLUS_1L_IT",
+                        "id": 3563096,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015566",
+                        "maktx": "SPOTLIGHT PLUS_5L_MD",
+                        "id": 3563097,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11013644",
+                        "maktx": "EGNIT_5L_TR",
+                        "id": 3563098,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000884",
+                        "maktx": "SPOTLIGHT PLUS_5L_AU",
+                        "id": 3563099,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11005405",
+                        "maktx": "SPOTLIGHT PLUS_10L_MUL",
+                        "id": 3563100,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014438",
+                        "maktx": "SPOTLIGHT PLUS_1L_TN_SSCC",
+                        "id": 3563101,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015408",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_AGROMARKET",
+                        "id": 3563102,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000948",
+                        "maktx": "SPOTLIGHT PLUS 060EO_1L_PL",
+                        "id": 3563103,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11005511",
+                        "maktx": "AFFINITY PLUS_1L_RS",
+                        "id": 3563104,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11005392",
+                        "maktx": "SPOTLIGHT PLUS_5L_DK_NORDISK ALKALI",
+                        "id": 3563105,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015792",
+                        "maktx": "AFFINITY_5L_ES_GOWAN",
+                        "id": 3563106,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11004363",
+                        "maktx": "SPOTLIGHT PLUS_5L_MUL",
+                        "id": 3563107,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11004357",
+                        "maktx": "SPOTLIGHT PLUS_5L_NO",
+                        "id": 3563108,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001568",
+                        "maktx": "SPOTLIGHT PLUS_1L_FR",
+                        "id": 3563109,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12006240",
+                        "maktx": "CFZ 60EW_ST_JL",
+                        "id": 3563110,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001579",
+                        "maktx": "SPOTLIGHT PLUS_15L_FR",
+                        "id": 3563111,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014453",
+                        "maktx": "SPOTLIGHT PLUS_1L_MA_AMAROC",
+                        "id": 3563112,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015803",
+                        "maktx": "RIVET PLUS_1L_IT_GOWAN",
+                        "id": 3563113,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000471",
+                        "maktx": "TOBOOGI_500ML_KR",
+                        "id": 3563114,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11004826",
+                        "maktx": "SPOTLIGHT PLUS,60EO,15L,F#MO GB",
+                        "id": 3563115,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12005620",
+                        "maktx": "CFZ 60EW_1000L_RO_JB JL",
+                        "id": 3563116,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015264",
+                        "maktx": "SPOTLIGHT NEXT_5L_HU",
+                        "id": 3563117,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12006381",
+                        "maktx": "CFZ 60EW_SC_JB",
+                        "id": 3563118,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12006185",
+                        "maktx": "CFZ 60EW_RO_JB",
+                        "id": 3563119,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014064",
+                        "maktx": "EGNIT_1L_TR",
+                        "id": 3563120,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11013573",
+                        "maktx": "SPOTLIGHT PLUS ME_5L_RU",
+                        "id": 3563121,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015804",
+                        "maktx": "RIVET PLUS_5L_IT_GOWAN",
+                        "id": 3563122,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015582",
+                        "maktx": "EGNIT_250ML_TR",
+                        "id": 3563123,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001024",
+                        "maktx": "SPOTLIGHT PLUS 060EO_5L_PL",
+                        "id": 3563124,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11013584",
+                        "maktx": "SPOTLIGHT PLUS_5L_CZ",
+                        "id": 3563125,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001023",
+                        "maktx": "SPOTLIGHT PLUS_5L_PT_BELCHIM",
+                        "id": 3563126,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000999",
+                        "maktx": "SPOTLIGHT PLUS_5L_HU",
+                        "id": 3563127,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001529",
+                        "maktx": "SPOTLIGHT PLUS_5L_SE",
+                        "id": 3563128,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001276",
+                        "maktx": "CARFENTRAZONE 60EW_1000L_MUL",
+                        "id": 3563129,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000914",
+                        "maktx": "SPOTLIGHT PLUS_1L_CH_SYT",
+                        "id": 3563130,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11013954",
+                        "maktx": "SPOTLIGHT PLUS_500ML_IT",
+                        "id": 3563131,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12006195",
+                        "maktx": "CFZ 60EW_1000L_SC_JL",
+                        "id": 3563132,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015337",
+                        "maktx": "SPOTLIGHT_5L_AT",
+                        "id": 3563133,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014436",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_RADOMAK",
+                        "id": 3563134,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001561",
+                        "maktx": "SPOTLIGHT PLUS_5L_FR",
+                        "id": 3563135,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11016210",
+                        "maktx": "SPOTLIGHT PLUS_1L_DZ_RIVALE",
+                        "id": 3563136,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11008695",
+                        "maktx": "SPOTLIGHT PLUS_5L_BE",
+                        "id": 3563137,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12001662",
+                        "maktx": "CFZ 60EW_JB JL",
+                        "id": 3563138,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11004195",
+                        "maktx": "AFFINITY_1L_GR",
+                        "id": 3563139,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014437",
+                        "maktx": "AFFINITY PLUS_1L_RS_AGROMARKET",
+                        "id": 3563140,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000915",
+                        "maktx": "SPOTLIGHT_200L_IL_LUXE",
+                        "id": 3563141,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11014139",
+                        "maktx": "SPOTLIGHT PLUS_5L_SK",
+                        "id": 3563142,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11008177",
+                        "maktx": "SPOTLIGHT PLUS_1000L_GB",
+                        "id": 3563143,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000630",
+                        "maktx": "SPOTLIGHT PLUS_15L_ES",
+                        "id": 3563144,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "12006113",
+                        "maktx": "CFZ 60EW_SC_JL",
+                        "id": 3563145,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001343",
+                        "maktx": "SPOTLIGHT PLUS_5L_IT",
+                        "id": 3563146,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11000946",
+                        "maktx": "SPOTLIGHT PLUS_0.1L_ES",
+                        "id": 3563147,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001586",
+                        "maktx": "SPOTLIGHT PLUS_5L_FI",
+                        "id": 3563148,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11015642",
+                        "maktx": "SPOTLIGHT PLUS_1L_AM",
+                        "id": 3563149,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11001335",
+                        "maktx": "SPOTLIGHT PLUS_1L_SK",
+                        "id": 3563150,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11009063",
+                        "maktx": "SPOTLIGHT PLUS_5L_CH_SYT",
+                        "id": 3563151,
+                        "reportDataId": 27743
+                    },
+                    {
+                        "matnr": "11016180",
+                        "maktx": "PLATFORM PLUS_1L_IT_GOWAN",
+                        "id": 3563152,
+                        "reportDataId": 27743
+                    }
+                ],
+                "id": 27743
+            },
+            {
+                "pdfname": "50000505_SDS_CY_6N.PDF",
+                "specificationid": "50000505",
+                "path": "\\\\172.18.22.6\\sds_external/50000505_SDS_CY_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_CY",
+                "authorizedportal": "P3",
+                "productname": "AFFINITY\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SHARK",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/L ME",
+                "cmr": "",
+                "publishdate": "10/10/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CY",
+                "validityareadescription": "Cyprus",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "10/10/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014427",
+                        "maktx": "SPOTLIGHT PLUS_5L_TN_SSCC",
+                        "id": 3563153,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014565",
+                        "maktx": "SPOTLIGHT PLUS_5L_BG",
+                        "id": 3563154,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11004846",
+                        "maktx": "SPOTLIGHT_1L_AT",
+                        "id": 3563155,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015186",
+                        "maktx": "SPOTLIGHT PLUS_15L_BE",
+                        "id": 3563156,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11016736",
+                        "maktx": "AFFINITY PLUS_10L_NL",
+                        "id": 3563157,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001010",
+                        "maktx": "SPOTLIGHT PLUS_1L_ES",
+                        "id": 3563158,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11003035",
+                        "maktx": "SPOTLIGHT PLUS_5L_NL",
+                        "id": 3563159,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001311",
+                        "maktx": "SPOTLIGHT PLUS_5L_GB",
+                        "id": 3563160,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001011",
+                        "maktx": "SPOTLIGHT PLUS_5L_ES",
+                        "id": 3563161,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001474",
+                        "maktx": "SPOTLIGHT PLUS_5L_IE",
+                        "id": 3563162,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12001345",
+                        "maktx": "CFZ 60EW_TC_RO_JB JL",
+                        "id": 3563163,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001344",
+                        "maktx": "SPOTLIGHT PLUS_1L_IT",
+                        "id": 3563164,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015566",
+                        "maktx": "SPOTLIGHT PLUS_5L_MD",
+                        "id": 3563165,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11013644",
+                        "maktx": "EGNIT_5L_TR",
+                        "id": 3563166,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000884",
+                        "maktx": "SPOTLIGHT PLUS_5L_AU",
+                        "id": 3563167,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11005405",
+                        "maktx": "SPOTLIGHT PLUS_10L_MUL",
+                        "id": 3563168,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014438",
+                        "maktx": "SPOTLIGHT PLUS_1L_TN_SSCC",
+                        "id": 3563169,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015408",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_AGROMARKET",
+                        "id": 3563170,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000948",
+                        "maktx": "SPOTLIGHT PLUS 060EO_1L_PL",
+                        "id": 3563171,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11005511",
+                        "maktx": "AFFINITY PLUS_1L_RS",
+                        "id": 3563172,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11005392",
+                        "maktx": "SPOTLIGHT PLUS_5L_DK_NORDISK ALKALI",
+                        "id": 3563173,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015792",
+                        "maktx": "AFFINITY_5L_ES_GOWAN",
+                        "id": 3563174,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11004363",
+                        "maktx": "SPOTLIGHT PLUS_5L_MUL",
+                        "id": 3563175,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11004357",
+                        "maktx": "SPOTLIGHT PLUS_5L_NO",
+                        "id": 3563176,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001568",
+                        "maktx": "SPOTLIGHT PLUS_1L_FR",
+                        "id": 3563177,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12006240",
+                        "maktx": "CFZ 60EW_ST_JL",
+                        "id": 3563178,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001579",
+                        "maktx": "SPOTLIGHT PLUS_15L_FR",
+                        "id": 3563179,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014453",
+                        "maktx": "SPOTLIGHT PLUS_1L_MA_AMAROC",
+                        "id": 3563180,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015803",
+                        "maktx": "RIVET PLUS_1L_IT_GOWAN",
+                        "id": 3563181,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000471",
+                        "maktx": "TOBOOGI_500ML_KR",
+                        "id": 3563182,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11004826",
+                        "maktx": "SPOTLIGHT PLUS,60EO,15L,F#MO GB",
+                        "id": 3563183,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12005620",
+                        "maktx": "CFZ 60EW_1000L_RO_JB JL",
+                        "id": 3563184,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015264",
+                        "maktx": "SPOTLIGHT NEXT_5L_HU",
+                        "id": 3563185,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12006381",
+                        "maktx": "CFZ 60EW_SC_JB",
+                        "id": 3563186,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12006185",
+                        "maktx": "CFZ 60EW_RO_JB",
+                        "id": 3563187,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014064",
+                        "maktx": "EGNIT_1L_TR",
+                        "id": 3563188,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11013573",
+                        "maktx": "SPOTLIGHT PLUS ME_5L_RU",
+                        "id": 3563189,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015804",
+                        "maktx": "RIVET PLUS_5L_IT_GOWAN",
+                        "id": 3563190,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015582",
+                        "maktx": "EGNIT_250ML_TR",
+                        "id": 3563191,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001024",
+                        "maktx": "SPOTLIGHT PLUS 060EO_5L_PL",
+                        "id": 3563192,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11013584",
+                        "maktx": "SPOTLIGHT PLUS_5L_CZ",
+                        "id": 3563193,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001023",
+                        "maktx": "SPOTLIGHT PLUS_5L_PT_BELCHIM",
+                        "id": 3563194,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000999",
+                        "maktx": "SPOTLIGHT PLUS_5L_HU",
+                        "id": 3563195,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001529",
+                        "maktx": "SPOTLIGHT PLUS_5L_SE",
+                        "id": 3563196,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001276",
+                        "maktx": "CARFENTRAZONE 60EW_1000L_MUL",
+                        "id": 3563197,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000914",
+                        "maktx": "SPOTLIGHT PLUS_1L_CH_SYT",
+                        "id": 3563198,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11013954",
+                        "maktx": "SPOTLIGHT PLUS_500ML_IT",
+                        "id": 3563199,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12006195",
+                        "maktx": "CFZ 60EW_1000L_SC_JL",
+                        "id": 3563200,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015337",
+                        "maktx": "SPOTLIGHT_5L_AT",
+                        "id": 3563201,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014436",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_RADOMAK",
+                        "id": 3563202,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001561",
+                        "maktx": "SPOTLIGHT PLUS_5L_FR",
+                        "id": 3563203,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11016210",
+                        "maktx": "SPOTLIGHT PLUS_1L_DZ_RIVALE",
+                        "id": 3563204,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11008695",
+                        "maktx": "SPOTLIGHT PLUS_5L_BE",
+                        "id": 3563205,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12001662",
+                        "maktx": "CFZ 60EW_JB JL",
+                        "id": 3563206,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11004195",
+                        "maktx": "AFFINITY_1L_GR",
+                        "id": 3563207,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014437",
+                        "maktx": "AFFINITY PLUS_1L_RS_AGROMARKET",
+                        "id": 3563208,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000915",
+                        "maktx": "SPOTLIGHT_200L_IL_LUXE",
+                        "id": 3563209,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11014139",
+                        "maktx": "SPOTLIGHT PLUS_5L_SK",
+                        "id": 3563210,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11008177",
+                        "maktx": "SPOTLIGHT PLUS_1000L_GB",
+                        "id": 3563211,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000630",
+                        "maktx": "SPOTLIGHT PLUS_15L_ES",
+                        "id": 3563212,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "12006113",
+                        "maktx": "CFZ 60EW_SC_JL",
+                        "id": 3563213,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001343",
+                        "maktx": "SPOTLIGHT PLUS_5L_IT",
+                        "id": 3563214,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11000946",
+                        "maktx": "SPOTLIGHT PLUS_0.1L_ES",
+                        "id": 3563215,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001586",
+                        "maktx": "SPOTLIGHT PLUS_5L_FI",
+                        "id": 3563216,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11015642",
+                        "maktx": "SPOTLIGHT PLUS_1L_AM",
+                        "id": 3563217,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11001335",
+                        "maktx": "SPOTLIGHT PLUS_1L_SK",
+                        "id": 3563218,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11009063",
+                        "maktx": "SPOTLIGHT PLUS_5L_CH_SYT",
+                        "id": 3563219,
+                        "reportDataId": 27744
+                    },
+                    {
+                        "matnr": "11016180",
+                        "maktx": "PLATFORM PLUS_1L_IT_GOWAN",
+                        "id": 3563220,
+                        "reportDataId": 27744
+                    }
+                ],
+                "id": 27744
+            },
+            {
+                "pdfname": "50000505_SDS_BG_BG.PDF",
+                "specificationid": "50000505",
+                "path": "\\\\172.18.22.6\\sds_external/50000505_SDS_BG_BG.PDF",
+                "reptype": "MSDS",
+                "language": "BG",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "SPOTLIGHT\u00ae PLUS (\u0421\u043f\u043e\u0442\u043b\u0430\u0439\u0442\u2122  \u041f\u043b\u044e\u0441)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SHARK",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/L ME",
+                "cmr": "",
+                "publishdate": "10/10/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "10/10/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014427",
+                        "maktx": "SPOTLIGHT PLUS_5L_TN_SSCC",
+                        "id": 3563221,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014565",
+                        "maktx": "SPOTLIGHT PLUS_5L_BG",
+                        "id": 3563222,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11004846",
+                        "maktx": "SPOTLIGHT_1L_AT",
+                        "id": 3563223,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015186",
+                        "maktx": "SPOTLIGHT PLUS_15L_BE",
+                        "id": 3563224,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11016736",
+                        "maktx": "AFFINITY PLUS_10L_NL",
+                        "id": 3563225,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001010",
+                        "maktx": "SPOTLIGHT PLUS_1L_ES",
+                        "id": 3563226,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11003035",
+                        "maktx": "SPOTLIGHT PLUS_5L_NL",
+                        "id": 3563227,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001311",
+                        "maktx": "SPOTLIGHT PLUS_5L_GB",
+                        "id": 3563228,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001011",
+                        "maktx": "SPOTLIGHT PLUS_5L_ES",
+                        "id": 3563229,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001474",
+                        "maktx": "SPOTLIGHT PLUS_5L_IE",
+                        "id": 3563230,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12001345",
+                        "maktx": "CFZ 60EW_TC_RO_JB JL",
+                        "id": 3563231,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001344",
+                        "maktx": "SPOTLIGHT PLUS_1L_IT",
+                        "id": 3563232,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015566",
+                        "maktx": "SPOTLIGHT PLUS_5L_MD",
+                        "id": 3563233,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11013644",
+                        "maktx": "EGNIT_5L_TR",
+                        "id": 3563234,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000884",
+                        "maktx": "SPOTLIGHT PLUS_5L_AU",
+                        "id": 3563235,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11005405",
+                        "maktx": "SPOTLIGHT PLUS_10L_MUL",
+                        "id": 3563236,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014438",
+                        "maktx": "SPOTLIGHT PLUS_1L_TN_SSCC",
+                        "id": 3563237,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015408",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_AGROMARKET",
+                        "id": 3563238,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000948",
+                        "maktx": "SPOTLIGHT PLUS 060EO_1L_PL",
+                        "id": 3563239,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11005511",
+                        "maktx": "AFFINITY PLUS_1L_RS",
+                        "id": 3563240,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11005392",
+                        "maktx": "SPOTLIGHT PLUS_5L_DK_NORDISK ALKALI",
+                        "id": 3563241,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015792",
+                        "maktx": "AFFINITY_5L_ES_GOWAN",
+                        "id": 3563242,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11004363",
+                        "maktx": "SPOTLIGHT PLUS_5L_MUL",
+                        "id": 3563243,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11004357",
+                        "maktx": "SPOTLIGHT PLUS_5L_NO",
+                        "id": 3563244,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001568",
+                        "maktx": "SPOTLIGHT PLUS_1L_FR",
+                        "id": 3563245,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12006240",
+                        "maktx": "CFZ 60EW_ST_JL",
+                        "id": 3563246,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001579",
+                        "maktx": "SPOTLIGHT PLUS_15L_FR",
+                        "id": 3563247,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014453",
+                        "maktx": "SPOTLIGHT PLUS_1L_MA_AMAROC",
+                        "id": 3563248,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015803",
+                        "maktx": "RIVET PLUS_1L_IT_GOWAN",
+                        "id": 3563249,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000471",
+                        "maktx": "TOBOOGI_500ML_KR",
+                        "id": 3563250,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11004826",
+                        "maktx": "SPOTLIGHT PLUS,60EO,15L,F#MO GB",
+                        "id": 3563251,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12005620",
+                        "maktx": "CFZ 60EW_1000L_RO_JB JL",
+                        "id": 3563252,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015264",
+                        "maktx": "SPOTLIGHT NEXT_5L_HU",
+                        "id": 3563253,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12006381",
+                        "maktx": "CFZ 60EW_SC_JB",
+                        "id": 3563254,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12006185",
+                        "maktx": "CFZ 60EW_RO_JB",
+                        "id": 3563255,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014064",
+                        "maktx": "EGNIT_1L_TR",
+                        "id": 3563256,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11013573",
+                        "maktx": "SPOTLIGHT PLUS ME_5L_RU",
+                        "id": 3563257,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015804",
+                        "maktx": "RIVET PLUS_5L_IT_GOWAN",
+                        "id": 3563258,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015582",
+                        "maktx": "EGNIT_250ML_TR",
+                        "id": 3563259,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001024",
+                        "maktx": "SPOTLIGHT PLUS 060EO_5L_PL",
+                        "id": 3563260,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11013584",
+                        "maktx": "SPOTLIGHT PLUS_5L_CZ",
+                        "id": 3563261,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001023",
+                        "maktx": "SPOTLIGHT PLUS_5L_PT_BELCHIM",
+                        "id": 3563262,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000999",
+                        "maktx": "SPOTLIGHT PLUS_5L_HU",
+                        "id": 3563263,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001529",
+                        "maktx": "SPOTLIGHT PLUS_5L_SE",
+                        "id": 3563264,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001276",
+                        "maktx": "CARFENTRAZONE 60EW_1000L_MUL",
+                        "id": 3563265,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000914",
+                        "maktx": "SPOTLIGHT PLUS_1L_CH_SYT",
+                        "id": 3563266,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11013954",
+                        "maktx": "SPOTLIGHT PLUS_500ML_IT",
+                        "id": 3563267,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12006195",
+                        "maktx": "CFZ 60EW_1000L_SC_JL",
+                        "id": 3563268,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015337",
+                        "maktx": "SPOTLIGHT_5L_AT",
+                        "id": 3563269,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014436",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_RADOMAK",
+                        "id": 3563270,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001561",
+                        "maktx": "SPOTLIGHT PLUS_5L_FR",
+                        "id": 3563271,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11016210",
+                        "maktx": "SPOTLIGHT PLUS_1L_DZ_RIVALE",
+                        "id": 3563272,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11008695",
+                        "maktx": "SPOTLIGHT PLUS_5L_BE",
+                        "id": 3563273,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12001662",
+                        "maktx": "CFZ 60EW_JB JL",
+                        "id": 3563274,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11004195",
+                        "maktx": "AFFINITY_1L_GR",
+                        "id": 3563275,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014437",
+                        "maktx": "AFFINITY PLUS_1L_RS_AGROMARKET",
+                        "id": 3563276,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000915",
+                        "maktx": "SPOTLIGHT_200L_IL_LUXE",
+                        "id": 3563277,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11014139",
+                        "maktx": "SPOTLIGHT PLUS_5L_SK",
+                        "id": 3563278,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11008177",
+                        "maktx": "SPOTLIGHT PLUS_1000L_GB",
+                        "id": 3563279,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000630",
+                        "maktx": "SPOTLIGHT PLUS_15L_ES",
+                        "id": 3563280,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "12006113",
+                        "maktx": "CFZ 60EW_SC_JL",
+                        "id": 3563281,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001343",
+                        "maktx": "SPOTLIGHT PLUS_5L_IT",
+                        "id": 3563282,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11000946",
+                        "maktx": "SPOTLIGHT PLUS_0.1L_ES",
+                        "id": 3563283,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001586",
+                        "maktx": "SPOTLIGHT PLUS_5L_FI",
+                        "id": 3563284,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11015642",
+                        "maktx": "SPOTLIGHT PLUS_1L_AM",
+                        "id": 3563285,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11001335",
+                        "maktx": "SPOTLIGHT PLUS_1L_SK",
+                        "id": 3563286,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11009063",
+                        "maktx": "SPOTLIGHT PLUS_5L_CH_SYT",
+                        "id": 3563287,
+                        "reportDataId": 27745
+                    },
+                    {
+                        "matnr": "11016180",
+                        "maktx": "PLATFORM PLUS_1L_IT_GOWAN",
+                        "id": 3563288,
+                        "reportDataId": 27745
+                    }
+                ],
+                "id": 27745
+            },
+            {
+                "pdfname": "50000505_SDS_BG_6N.PDF",
+                "specificationid": "50000505",
+                "path": "\\\\172.18.22.6\\sds_external/50000505_SDS_BG_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "SPOTLIGHT\u00ae PLUS (\u0421\u043f\u043e\u0442\u043b\u0430\u0439\u0442\u2122  \u041f\u043b\u044e\u0441)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SHARK",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/L ME",
+                "cmr": "",
+                "publishdate": "10/10/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "10/10/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014427",
+                        "maktx": "SPOTLIGHT PLUS_5L_TN_SSCC",
+                        "id": 3563289,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014565",
+                        "maktx": "SPOTLIGHT PLUS_5L_BG",
+                        "id": 3563290,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11004846",
+                        "maktx": "SPOTLIGHT_1L_AT",
+                        "id": 3563291,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015186",
+                        "maktx": "SPOTLIGHT PLUS_15L_BE",
+                        "id": 3563292,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11016736",
+                        "maktx": "AFFINITY PLUS_10L_NL",
+                        "id": 3563293,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001010",
+                        "maktx": "SPOTLIGHT PLUS_1L_ES",
+                        "id": 3563294,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11003035",
+                        "maktx": "SPOTLIGHT PLUS_5L_NL",
+                        "id": 3563295,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001311",
+                        "maktx": "SPOTLIGHT PLUS_5L_GB",
+                        "id": 3563296,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001011",
+                        "maktx": "SPOTLIGHT PLUS_5L_ES",
+                        "id": 3563297,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001474",
+                        "maktx": "SPOTLIGHT PLUS_5L_IE",
+                        "id": 3563298,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12001345",
+                        "maktx": "CFZ 60EW_TC_RO_JB JL",
+                        "id": 3563299,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001344",
+                        "maktx": "SPOTLIGHT PLUS_1L_IT",
+                        "id": 3563300,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015566",
+                        "maktx": "SPOTLIGHT PLUS_5L_MD",
+                        "id": 3563301,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11013644",
+                        "maktx": "EGNIT_5L_TR",
+                        "id": 3563302,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000884",
+                        "maktx": "SPOTLIGHT PLUS_5L_AU",
+                        "id": 3563303,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11005405",
+                        "maktx": "SPOTLIGHT PLUS_10L_MUL",
+                        "id": 3563304,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014438",
+                        "maktx": "SPOTLIGHT PLUS_1L_TN_SSCC",
+                        "id": 3563305,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015408",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_AGROMARKET",
+                        "id": 3563306,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000948",
+                        "maktx": "SPOTLIGHT PLUS 060EO_1L_PL",
+                        "id": 3563307,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11005511",
+                        "maktx": "AFFINITY PLUS_1L_RS",
+                        "id": 3563308,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11005392",
+                        "maktx": "SPOTLIGHT PLUS_5L_DK_NORDISK ALKALI",
+                        "id": 3563309,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015792",
+                        "maktx": "AFFINITY_5L_ES_GOWAN",
+                        "id": 3563310,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11004363",
+                        "maktx": "SPOTLIGHT PLUS_5L_MUL",
+                        "id": 3563311,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11004357",
+                        "maktx": "SPOTLIGHT PLUS_5L_NO",
+                        "id": 3563312,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001568",
+                        "maktx": "SPOTLIGHT PLUS_1L_FR",
+                        "id": 3563313,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12006240",
+                        "maktx": "CFZ 60EW_ST_JL",
+                        "id": 3563314,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001579",
+                        "maktx": "SPOTLIGHT PLUS_15L_FR",
+                        "id": 3563315,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014453",
+                        "maktx": "SPOTLIGHT PLUS_1L_MA_AMAROC",
+                        "id": 3563316,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015803",
+                        "maktx": "RIVET PLUS_1L_IT_GOWAN",
+                        "id": 3563317,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000471",
+                        "maktx": "TOBOOGI_500ML_KR",
+                        "id": 3563318,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11004826",
+                        "maktx": "SPOTLIGHT PLUS,60EO,15L,F#MO GB",
+                        "id": 3563319,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12005620",
+                        "maktx": "CFZ 60EW_1000L_RO_JB JL",
+                        "id": 3563320,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015264",
+                        "maktx": "SPOTLIGHT NEXT_5L_HU",
+                        "id": 3563321,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12006381",
+                        "maktx": "CFZ 60EW_SC_JB",
+                        "id": 3563322,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12006185",
+                        "maktx": "CFZ 60EW_RO_JB",
+                        "id": 3563323,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014064",
+                        "maktx": "EGNIT_1L_TR",
+                        "id": 3563324,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11013573",
+                        "maktx": "SPOTLIGHT PLUS ME_5L_RU",
+                        "id": 3563325,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015804",
+                        "maktx": "RIVET PLUS_5L_IT_GOWAN",
+                        "id": 3563326,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015582",
+                        "maktx": "EGNIT_250ML_TR",
+                        "id": 3563327,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001024",
+                        "maktx": "SPOTLIGHT PLUS 060EO_5L_PL",
+                        "id": 3563328,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11013584",
+                        "maktx": "SPOTLIGHT PLUS_5L_CZ",
+                        "id": 3563329,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001023",
+                        "maktx": "SPOTLIGHT PLUS_5L_PT_BELCHIM",
+                        "id": 3563330,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000999",
+                        "maktx": "SPOTLIGHT PLUS_5L_HU",
+                        "id": 3563331,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001529",
+                        "maktx": "SPOTLIGHT PLUS_5L_SE",
+                        "id": 3563332,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001276",
+                        "maktx": "CARFENTRAZONE 60EW_1000L_MUL",
+                        "id": 3563333,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000914",
+                        "maktx": "SPOTLIGHT PLUS_1L_CH_SYT",
+                        "id": 3563334,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11013954",
+                        "maktx": "SPOTLIGHT PLUS_500ML_IT",
+                        "id": 3563335,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12006195",
+                        "maktx": "CFZ 60EW_1000L_SC_JL",
+                        "id": 3563336,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015337",
+                        "maktx": "SPOTLIGHT_5L_AT",
+                        "id": 3563337,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014436",
+                        "maktx": "SPOTLIGHT PLUS_1L_MK_RADOMAK",
+                        "id": 3563338,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001561",
+                        "maktx": "SPOTLIGHT PLUS_5L_FR",
+                        "id": 3563339,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11016210",
+                        "maktx": "SPOTLIGHT PLUS_1L_DZ_RIVALE",
+                        "id": 3563340,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11008695",
+                        "maktx": "SPOTLIGHT PLUS_5L_BE",
+                        "id": 3563341,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12001662",
+                        "maktx": "CFZ 60EW_JB JL",
+                        "id": 3563342,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11004195",
+                        "maktx": "AFFINITY_1L_GR",
+                        "id": 3563343,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014437",
+                        "maktx": "AFFINITY PLUS_1L_RS_AGROMARKET",
+                        "id": 3563344,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000915",
+                        "maktx": "SPOTLIGHT_200L_IL_LUXE",
+                        "id": 3563345,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11014139",
+                        "maktx": "SPOTLIGHT PLUS_5L_SK",
+                        "id": 3563346,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11008177",
+                        "maktx": "SPOTLIGHT PLUS_1000L_GB",
+                        "id": 3563347,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000630",
+                        "maktx": "SPOTLIGHT PLUS_15L_ES",
+                        "id": 3563348,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "12006113",
+                        "maktx": "CFZ 60EW_SC_JL",
+                        "id": 3563349,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001343",
+                        "maktx": "SPOTLIGHT PLUS_5L_IT",
+                        "id": 3563350,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11000946",
+                        "maktx": "SPOTLIGHT PLUS_0.1L_ES",
+                        "id": 3563351,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001586",
+                        "maktx": "SPOTLIGHT PLUS_5L_FI",
+                        "id": 3563352,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11015642",
+                        "maktx": "SPOTLIGHT PLUS_1L_AM",
+                        "id": 3563353,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11001335",
+                        "maktx": "SPOTLIGHT PLUS_1L_SK",
+                        "id": 3563354,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11009063",
+                        "maktx": "SPOTLIGHT PLUS_5L_CH_SYT",
+                        "id": 3563355,
+                        "reportDataId": 27746
+                    },
+                    {
+                        "matnr": "11016180",
+                        "maktx": "PLATFORM PLUS_1L_IT_GOWAN",
+                        "id": 3563356,
+                        "reportDataId": 27746
+                    }
+                ],
+                "id": 27746
             }
         ],
         "isExportToExcel": false
