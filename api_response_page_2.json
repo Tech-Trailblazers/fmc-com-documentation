@@ -58,62 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000406_SDS_US_1X.PDF",
-                "specificationid": "50000406",
-                "path": "\\\\172.18.22.6\\sds_external/50000406_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "SDS_US",
-                "authorizedportal": "P3",
-                "productname": "CADET\u2122 HERBICIDE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CADET 10 EC",
-                "casnumber": "",
-                "commercialnames": "FTM 109 g/L EC",
-                "cmr": "",
-                "publishdate": "10/04/2024",
-                "iupac": "",
-                "incode": "VCQ14",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO000559",
-                "legacysdsid": "",
-                "revisiondate": "10/04/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001916",
-                        "maktx": "FTM 110EC_?_?",
-                        "id": 1976187,
-                        "reportDataId": 26639
-                    },
-                    {
-                        "matnr": "11009491",
-                        "maktx": "GALAXY_CP50ML 500ML_IN",
-                        "id": 1976188,
-                        "reportDataId": 26639
-                    },
-                    {
-                        "matnr": "11008467",
-                        "maktx": "CADET_1QT_US",
-                        "id": 1976189,
-                        "reportDataId": 26639
-                    },
-                    {
-                        "matnr": "12000820",
-                        "maktx": "FTM 110EC_5000L_RAVI_JL",
-                        "id": 1976190,
-                        "reportDataId": 26639
-                    }
-                ],
-                "id": 26639
-            },
-            {
                 "pdfname": "50003004_EXT_SDS_ES_ES.PDF",
                 "specificationid": "50003004",
                 "path": "\\\\172.18.22.6\\sds_external/50003004_EXT_SDS_ES_ES.PDF",
@@ -2682,128 +2626,6 @@
                     }
                 ],
                 "id": 26661
-            },
-            {
-                "pdfname": "50002363_SDS_PH_EN.PDF",
-                "specificationid": "50002363",
-                "path": "\\\\172.18.22.6\\sds_external/50002363_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "TREMISIA\u2122 fungicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FLP + FLT (240 + 240) g/L SC",
-                "cmr": "",
-                "publishdate": "10/08/2024",
-                "iupac": "",
-                "incode": "VJR84",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "FO004332",
-                "legacysdsid": "",
-                "revisiondate": "10/08/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016049",
-                        "maktx": "TREMISIA_150ML_PH",
-                        "id": 2759728,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11015858",
-                        "maktx": "KALIDA_200L_KR",
-                        "id": 2759729,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016525",
-                        "maktx": "TREMISIA_200ML_IN",
-                        "id": 2759730,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016512",
-                        "maktx": "TREMISIA_500ML_IN",
-                        "id": 2759731,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016048",
-                        "maktx": "TREMISIA_300ML_PH",
-                        "id": 2759732,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016524",
-                        "maktx": "TREMISIA_100ML_IN",
-                        "id": 2759733,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "12006260",
-                        "maktx": "FLP 240 + FLT 240SC_SV_ALL",
-                        "id": 2759734,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "12006300",
-                        "maktx": "FLP 240 + FLT 240SC_1000L_SV_ALL",
-                        "id": 2759735,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11005444",
-                        "maktx": "KALIDA_32OZ_US",
-                        "id": 2759736,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016341",
-                        "maktx": "TREMISIA_5L_UA",
-                        "id": 2759737,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "12001025",
-                        "maktx": "FLP 240 + FLT 240SC",
-                        "id": 2759738,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11013671",
-                        "maktx": "KALIDA_64OZ_US",
-                        "id": 2759739,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "12005380",
-                        "maktx": "FLP 240 - FLT 240SC_CJB_PA_CALA",
-                        "id": 2759740,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "11016545",
-                        "maktx": "TREMISIA_1L_IN",
-                        "id": 2759741,
-                        "reportDataId": 26662
-                    },
-                    {
-                        "matnr": "12000917",
-                        "maktx": "FLP 240 - FLT 240SC_CJB_7C",
-                        "id": 2759742,
-                        "reportDataId": 26662
-                    }
-                ],
-                "id": 26662
             },
             {
                 "pdfname": "50000142_SDS_HR_HR.PDF",
@@ -36451,98 +36273,6 @@
                     }
                 ],
                 "id": 26881
-            },
-            {
-                "pdfname": "50002726_SDS_PH_EN.PDF",
-                "specificationid": "50002726",
-                "path": "\\\\172.18.22.6\\sds_external/50002726_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "Cyazypyr\u00ae 300 OD insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "Prodigy\u00ae insecticide",
-                "casnumber": "",
-                "commercialnames": "CZP 300 g/L OD",
-                "cmr": "",
-                "publishdate": "01/13/2025",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "01/13/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016656",
-                        "maktx": "HUIQING_200ML_CN",
-                        "id": 3264559,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "12006567",
-                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
-                        "id": 3264560,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "12006595",
-                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
-                        "id": 3264561,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "11016655",
-                        "maktx": "HUIQING_35ML_CN",
-                        "id": 3264562,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "11016733",
-                        "maktx": "BENEVIA EVO_1L_PH",
-                        "id": 3264563,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "11016520",
-                        "maktx": "BENEVIA EVO_1L_MX",
-                        "id": 3264564,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "12006705",
-                        "maktx": "CYZ 300OD_SV_ALL",
-                        "id": 3264565,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "12006553",
-                        "maktx": "CZP 300OD_MUL_ST_JI",
-                        "id": 3264566,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "11016685",
-                        "maktx": "BENEVIA EVO_150ML_PH",
-                        "id": 3264567,
-                        "reportDataId": 26882
-                    },
-                    {
-                        "matnr": "11016684",
-                        "maktx": "BENEVIA EVO_300ML_PH",
-                        "id": 3264568,
-                        "reportDataId": 26882
-                    }
-                ],
-                "id": 26882
             },
             {
                 "pdfname": "50000016_SDS_SG_EN.PDF",
@@ -110136,7 +109866,7 @@
                 "commonname": "",
                 "tradename": "AVTAR",
                 "casnumber": "",
-                "commercialnames": "",
+                "commercialnames": "AVTAR(3PP BUY-SELL)",
                 "cmr": "",
                 "publishdate": "03/13/2025",
                 "iupac": "",
@@ -110153,45 +109883,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016771",
-                        "maktx": "AVTAR_5L_CZ SK",
-                        "id": 3230047,
-                        "reportDataId": 27089
-                    },
-                    {
                         "matnr": "11016765",
                         "maktx": "AVTAR_5L_BG",
-                        "id": 3230048,
-                        "reportDataId": 27089
-                    },
-                    {
-                        "matnr": "11016772",
-                        "maktx": "AVTAR_5L_FR",
-                        "id": 3230049,
-                        "reportDataId": 27089
-                    },
-                    {
-                        "matnr": "11016410",
-                        "maktx": "AVTAR_5L_PL",
-                        "id": 3230050,
-                        "reportDataId": 27089
-                    },
-                    {
-                        "matnr": "11016761",
-                        "maktx": "AVTAR_5L_IT",
-                        "id": 3230051,
-                        "reportDataId": 27089
-                    },
-                    {
-                        "matnr": "11016760",
-                        "maktx": "AVTAR_5L_ES",
-                        "id": 3230052,
+                        "id": 3566745,
                         "reportDataId": 27089
                     },
                     {
                         "matnr": "11016770",
                         "maktx": "AVTAR_5L_HU",
-                        "id": 3230053,
+                        "id": 3566746,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016897",
+                        "maktx": "AVTAR_1L_PL",
+                        "id": 3566747,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016410",
+                        "maktx": "AVTAR_5L_PL",
+                        "id": 3566748,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016771",
+                        "maktx": "AVTAR_5L_CZ SK",
+                        "id": 3566749,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016761",
+                        "maktx": "AVTAR_5L_IT",
+                        "id": 3566750,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016911",
+                        "maktx": "DIVAPAN_5L_PL",
+                        "id": 3566751,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016760",
+                        "maktx": "AVTAR_5L_ES",
+                        "id": 3566752,
+                        "reportDataId": 27089
+                    },
+                    {
+                        "matnr": "11016772",
+                        "maktx": "AVTAR_5L_FR",
+                        "id": 3566753,
                         "reportDataId": 27089
                     }
                 ],
@@ -180593,62 +180335,6 @@
                 "id": 27469
             },
             {
-                "pdfname": "50001719_SDS_PH_EN.PDF",
-                "specificationid": "50001719",
-                "path": "\\\\172.18.22.6\\sds_external/50001719_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "AUTHORITY\u00ae 480 HERBICIDE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "SFZ 480 g/L SC (CHILD)",
-                "cmr": "",
-                "publishdate": "07/07/2025",
-                "iupac": "",
-                "incode": "QY998",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "FO000242",
-                "legacysdsid": "1466-8-A",
-                "revisiondate": "07/07/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000738",
-                        "maktx": "AUTHORITY 480SC_5L_KE_JUANCO",
-                        "id": 3243267,
-                        "reportDataId": 27470
-                    },
-                    {
-                        "matnr": "11008298",
-                        "maktx": "AUTHORITY 48SC_250ML_TH",
-                        "id": 3243268,
-                        "reportDataId": 27470
-                    },
-                    {
-                        "matnr": "11001717",
-                        "maktx": "AUTHORITY 48SC_1L_PH",
-                        "id": 3243269,
-                        "reportDataId": 27470
-                    },
-                    {
-                        "matnr": "11003098",
-                        "maktx": "AUTHORITY 48SC_1L_TH",
-                        "id": 3243270,
-                        "reportDataId": 27470
-                    }
-                ],
-                "id": 27470
-            },
-            {
                 "pdfname": "50000460_SDS_RO_RO.PDF",
                 "specificationid": "50000460",
                 "path": "\\\\172.18.22.6\\sds_external/50000460_SDS_RO_RO.PDF",
@@ -186768,44 +186454,6 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 27505
-            },
-            {
-                "pdfname": "50003094_SDS_PH_EN.PDF",
-                "specificationid": "50003094",
-                "path": "\\\\172.18.22.6\\sds_external/50003094_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "GEZEKO 75WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "TEBUCONAZOLE + TRIFLOXYSTROBIN (50+25) %W/W WG",
-                "casnumber": "",
-                "commercialnames": "GEZEKO WG75(3PP BUY-SELL)",
-                "cmr": "",
-                "publishdate": "07/22/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "07/22/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000140",
-                        "maktx": "GEZEKO 75WG_12G_PH",
-                        "id": 3254013,
-                        "reportDataId": 27506
-                    }
-                ],
-                "id": 27506
             },
             {
                 "pdfname": "50001135_SDS_TR_TR.PDF",
@@ -233239,6 +232887,351 @@
                     }
                 ],
                 "id": 27746
+            },
+            {
+                "pdfname": "50002363_SDS_PH_EN.PDF",
+                "specificationid": "50002363",
+                "path": "\\\\172.18.22.6\\sds_external/50002363_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "TREMISIA\u2122 fungicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (240 + 240) g/L SC",
+                "cmr": "",
+                "publishdate": "10/14/2025",
+                "iupac": "",
+                "incode": "VJR84",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO004332",
+                "legacysdsid": "",
+                "revisiondate": "10/14/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006300",
+                        "maktx": "FLP 240 + FLT 240SC_1000L_SV_ALL",
+                        "id": 3566754,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016048",
+                        "maktx": "TREMISIA_300ML_PH",
+                        "id": 3566755,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11015858",
+                        "maktx": "KALIDA_200L_KR",
+                        "id": 3566756,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "12001025",
+                        "maktx": "FLP 240 + FLT 240SC",
+                        "id": 3566757,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016341",
+                        "maktx": "TREMISIA_5L_UA",
+                        "id": 3566758,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016525",
+                        "maktx": "TREMISIA_200ML_IN",
+                        "id": 3566759,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11005444",
+                        "maktx": "KALIDA_32OZ_US",
+                        "id": 3566760,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016545",
+                        "maktx": "TREMISIA_1L_IN",
+                        "id": 3566761,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016049",
+                        "maktx": "TREMISIA_150ML_PH",
+                        "id": 3566762,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11013671",
+                        "maktx": "KALIDA_64OZ_US",
+                        "id": 3566763,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016767",
+                        "maktx": "TREMISIA_400ML_PH",
+                        "id": 3566764,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016524",
+                        "maktx": "TREMISIA_100ML_IN",
+                        "id": 3566765,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "12005380",
+                        "maktx": "FLP 240 - FLT 240SC_CJB_PA_CALA",
+                        "id": 3566766,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "12006260",
+                        "maktx": "FLP 240 + FLT 240SC_SV_ALL",
+                        "id": 3566767,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "12000917",
+                        "maktx": "FLP 240 - FLT 240SC_CJB_7C",
+                        "id": 3566768,
+                        "reportDataId": 27747
+                    },
+                    {
+                        "matnr": "11016512",
+                        "maktx": "TREMISIA_500ML_IN",
+                        "id": 3566769,
+                        "reportDataId": 27747
+                    }
+                ],
+                "id": 27747
+            },
+            {
+                "pdfname": "50002726_SDS_PH_EN.PDF",
+                "specificationid": "50002726",
+                "path": "\\\\172.18.22.6\\sds_external/50002726_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Cyazypyr\u00ae 300 OD insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Prodigy\u00ae insecticide",
+                "casnumber": "",
+                "commercialnames": "CZP 300 g/L OD",
+                "cmr": "",
+                "publishdate": "10/14/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/14/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006595",
+                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
+                        "id": 3566770,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "12006567",
+                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
+                        "id": 3566771,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016685",
+                        "maktx": "BENEVIA EVO_150ML_PH",
+                        "id": 3566772,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016655",
+                        "maktx": "HUIQING_35ML_CN",
+                        "id": 3566773,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 3566774,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016656",
+                        "maktx": "HUIQING_200ML_CN",
+                        "id": 3566775,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 3566776,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 3566777,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 3566778,
+                        "reportDataId": 27748
+                    },
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 3566779,
+                        "reportDataId": 27748
+                    }
+                ],
+                "id": 27748
+            },
+            {
+                "pdfname": "50001719_SDS_PH_EN.PDF",
+                "specificationid": "50001719",
+                "path": "\\\\172.18.22.6\\sds_external/50001719_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "AUTHORITY\u00ae 480 HERBICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "SFZ 480 g/L SC (CHILD)",
+                "cmr": "",
+                "publishdate": "10/14/2025",
+                "iupac": "",
+                "incode": "QY998",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000242",
+                "legacysdsid": "1466-8-A",
+                "revisiondate": "10/14/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008298",
+                        "maktx": "AUTHORITY 48SC_250ML_TH",
+                        "id": 3566780,
+                        "reportDataId": 27749
+                    },
+                    {
+                        "matnr": "11003098",
+                        "maktx": "AUTHORITY 48SC_1L_TH",
+                        "id": 3566781,
+                        "reportDataId": 27749
+                    },
+                    {
+                        "matnr": "11000738",
+                        "maktx": "AUTHORITY 480SC_5L_KE_JUANCO",
+                        "id": 3566782,
+                        "reportDataId": 27749
+                    },
+                    {
+                        "matnr": "11001717",
+                        "maktx": "AUTHORITY 48SC_1L_PH",
+                        "id": 3566783,
+                        "reportDataId": 27749
+                    }
+                ],
+                "id": 27749
+            },
+            {
+                "pdfname": "50002543_SDS_PH_EN.PDF",
+                "specificationid": "50002543",
+                "path": "\\\\172.18.22.6\\sds_external/50002543_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Fluindapyr 24% w/v+Azoxystrobin 24% w/v SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "AZO + FLP (240 + 240) g/L SC",
+                "cmr": "",
+                "publishdate": "10/14/2025",
+                "iupac": "",
+                "incode": "X4Q56",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/14/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27750
+            },
+            {
+                "pdfname": "50003094_SDS_PH_EN.PDF",
+                "specificationid": "50003094",
+                "path": "\\\\172.18.22.6\\sds_external/50003094_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "GEZEKO 75WG",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "TEBUCONAZOLE + TRIFLOXYSTROBIN (50+25) %W/W WG",
+                "casnumber": "",
+                "commercialnames": "GEZEKO WG75(3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "10/14/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/14/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000140",
+                        "maktx": "GEZEKO 75WG_12G_PH",
+                        "id": 3566784,
+                        "reportDataId": 27751
+                    }
+                ],
+                "id": 27751
             }
         ],
         "isExportToExcel": false
