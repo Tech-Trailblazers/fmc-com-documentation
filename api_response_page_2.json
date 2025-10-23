@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6086,
+        "totalCount": 6094,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -11597,169 +11597,151 @@
                     {
                         "matnr": "11016264",
                         "maktx": "SEAMAC OR_5L_PL",
-                        "id": 3708288,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11015505",
-                        "maktx": "NUVOLA OR_5L_FI",
-                        "id": 3708289,
+                        "id": 3736503,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11014516",
                         "maktx": "SEAMAC OR_5L_DE",
-                        "id": 3708290,
+                        "id": 3736504,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015514",
                         "maktx": "NUVOLA OR_5L_DK",
-                        "id": 3708291,
+                        "id": 3736505,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11014847",
                         "maktx": "SEAMAC OR_1L_GR",
-                        "id": 3708292,
+                        "id": 3736506,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015507",
                         "maktx": "SEAMAC OR_5L_LT",
-                        "id": 3708293,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11015525",
-                        "maktx": "NUVOLA AMIN_5L_MA_AGRIMATCO",
-                        "id": 3708294,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11014846",
-                        "maktx": "SEAMAC OR_5L_BG",
-                        "id": 3708295,
+                        "id": 3736507,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015959",
                         "maktx": "NUVOLA OR_1L_ZA",
-                        "id": 3708296,
+                        "id": 3736508,
                         "reportDataId": 26708
                     },
                     {
-                        "matnr": "11015560",
-                        "maktx": "NUVOLA AMIN_5L_BG",
-                        "id": 3708297,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11015446",
-                        "maktx": "SEAMAC OR_5L_MA_AGRIMATCO",
-                        "id": 3708298,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11014844",
-                        "maktx": "SEAMAC OR_1L_ES",
-                        "id": 3708299,
+                        "matnr": "11014846",
+                        "maktx": "SEAMAC OR_5L_BG",
+                        "id": 3736509,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016621",
                         "maktx": "AMALISTO_1L_UA",
-                        "id": 3708300,
+                        "id": 3736510,
+                        "reportDataId": 26708
+                    },
+                    {
+                        "matnr": "11015446",
+                        "maktx": "SEAMAC OR_5L_MA_AGRIMATCO",
+                        "id": 3736511,
+                        "reportDataId": 26708
+                    },
+                    {
+                        "matnr": "11014844",
+                        "maktx": "SEAMAC OR_1L_ES",
+                        "id": 3736512,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015506",
                         "maktx": "SEAMAC OR_5L_EE",
-                        "id": 3708301,
+                        "id": 3736513,
+                        "reportDataId": 26708
+                    },
+                    {
+                        "matnr": "11015505",
+                        "maktx": "NUVOLA OR_5L_FI",
+                        "id": 3736514,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015515",
                         "maktx": "NUVOLA OR_5L_SE",
-                        "id": 3708302,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11016819",
-                        "maktx": "NUVOLA OR_1L_DZ_AGROSEMILLAS",
-                        "id": 3708303,
+                        "id": 3736515,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015504",
                         "maktx": "NUVOLA OR_1L_TN_SSCC",
-                        "id": 3708304,
+                        "id": 3736516,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016216",
                         "maktx": "SEAMAC OR_1L_PL",
-                        "id": 3708305,
+                        "id": 3736517,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015733",
                         "maktx": "NUVOLA OR_5L_HU",
-                        "id": 3708306,
+                        "id": 3736518,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11014863",
                         "maktx": "SEAMAC OR_1L_IT",
-                        "id": 3708307,
+                        "id": 3736519,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015113",
                         "maktx": "SEAMAC OR_5L_HU",
-                        "id": 3708308,
+                        "id": 3736520,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016622",
                         "maktx": "AMALISTO_5L_UA",
-                        "id": 3708309,
+                        "id": 3736521,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016535",
                         "maktx": "NUVOLA OR_1L_DZ_AGROSEED",
-                        "id": 3708310,
+                        "id": 3736522,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016265",
                         "maktx": "SEAMAC OR_5L_FR",
-                        "id": 3708311,
+                        "id": 3736523,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11016588",
                         "maktx": "SEAMAC OR_5L_IT",
-                        "id": 3708312,
+                        "id": 3736524,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11015508",
                         "maktx": "SEAMAC OR_5L_LV",
-                        "id": 3708313,
+                        "id": 3736525,
+                        "reportDataId": 26708
+                    },
+                    {
+                        "matnr": "11016819",
+                        "maktx": "NUVOLA OR_1L_DZ_AGROSEMILLAS",
+                        "id": 3736526,
                         "reportDataId": 26708
                     },
                     {
                         "matnr": "11014517",
                         "maktx": "SEAMAC OR_1L_DE",
-                        "id": 3708314,
-                        "reportDataId": 26708
-                    },
-                    {
-                        "matnr": "11016915",
-                        "maktx": "NUVOLA AMIN_5L_HU",
-                        "id": 3708315,
+                        "id": 3736527,
                         "reportDataId": 26708
                     }
                 ],
@@ -36985,566 +36967,6 @@
                 "id": 26885
             },
             {
-                "pdfname": "50000012_SDS_PH_EN.PDF",
-                "specificationid": "50000012",
-                "path": "\\\\172.18.22.6\\sds_external/50000012_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "Certacor\u00ae 35 WG insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "RYX 35 WG (PASTE EXTRUDED)",
-                "cmr": "",
-                "publishdate": "01/14/2025",
-                "iupac": "",
-                "incode": "E2Y45",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "Q-1131",
-                "legacysdsid": "130000026706",
-                "revisiondate": "01/14/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006270",
-                        "maktx": "ALTACOR 35WG_300G_ES",
-                        "id": 3650738,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006504",
-                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
-                        "id": 3650739,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11003271",
-                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
-                        "id": 3650740,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015859",
-                        "maktx": "SOLECOR_5KG_BR",
-                        "id": 3650741,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007374",
-                        "maktx": "ALTACOR 35WG_3G_CN",
-                        "id": 3650742,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006543",
-                        "maktx": "ALTACOR 35WG_100G_ES",
-                        "id": 3650743,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007484",
-                        "maktx": "ALTACOR 35WG_100G_CN",
-                        "id": 3650744,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014919",
-                        "maktx": "ALTACOR 35WG_300G_BG",
-                        "id": 3650745,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005894",
-                        "maktx": "ALTACOR_500G_ZA",
-                        "id": 3650746,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12000623",
-                        "maktx": "PREVATHON 35WG_50KG_VN",
-                        "id": 3650747,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006071",
-                        "maktx": "ALTACOR_300G_IT",
-                        "id": 3650748,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006083",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 3650749,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007142",
-                        "maktx": "ALTACOR 35WG CTN 4X25X30G BTL KANGDAN CN",
-                        "id": 3650750,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006542",
-                        "maktx": "ALTACOR 35WG_50G_TR",
-                        "id": 3650751,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006559",
-                        "maktx": "ALTACOR_500G_BE",
-                        "id": 3650752,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007194",
-                        "maktx": "ALTACOR 35WG_100G_CN_KANGDAN",
-                        "id": 3650753,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11000271",
-                        "maktx": "ALTACOR_500G_UZ",
-                        "id": 3650754,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006182",
-                        "maktx": "ALTACOR_100G_PT_BAYER",
-                        "id": 3650755,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015418",
-                        "maktx": "ALTACOR_100G_TW",
-                        "id": 3650756,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007704",
-                        "maktx": "ALTACOR_450G_BR",
-                        "id": 3650757,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006226",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
-                        "id": 3650758,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014103",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 3650759,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006315",
-                        "maktx": "ALTACOR_500G_NL",
-                        "id": 3650760,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006304",
-                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
-                        "id": 3650761,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007483",
-                        "maktx": "ALTACOR 35WG_30G_CN",
-                        "id": 3650762,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014815",
-                        "maktx": "CERTACOR_8.5G_PH",
-                        "id": 3650763,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006183",
-                        "maktx": "ALTACOR_100G_IT",
-                        "id": 3650764,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016695",
-                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
-                        "id": 3650765,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014400",
-                        "maktx": "ALTACOR 35WG_100G_TR",
-                        "id": 3650766,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007511",
-                        "maktx": "PREVATHON 35WG_3.5G_VN_SCH",
-                        "id": 3650767,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005957",
-                        "maktx": "ALTACOR_454G_CA",
-                        "id": 3650768,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015705",
-                        "maktx": "ALTACOR 35WG_50G_BG",
-                        "id": 3650769,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11000553",
-                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
-                        "id": 3650770,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016310",
-                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
-                        "id": 3650771,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006180",
-                        "maktx": "ALTACOR 35WG_50G_GR CY",
-                        "id": 3650772,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014229",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 3650773,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11013758",
-                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
-                        "id": 3650774,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11000052",
-                        "maktx": "ALTACOR_16OZ_US",
-                        "id": 3650775,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12006251",
-                        "maktx": " RYX 350WG_SARA_UPL",
-                        "id": 3650776,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015480",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 3650777,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006134",
-                        "maktx": "ALTACOR COTTON_5KG_AU",
-                        "id": 3650778,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015615",
-                        "maktx": "ALTACOR_50KG_IL",
-                        "id": 3650779,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006087",
-                        "maktx": "ALTACOR 35WG_300G_GR",
-                        "id": 3650780,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005404",
-                        "maktx": "VALACOR 35WG_50G_ID",
-                        "id": 3650781,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016155",
-                        "maktx": "ALTACOR_50G_AZ",
-                        "id": 3650782,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12001292",
-                        "maktx": "ALTACOR_50KG_AR",
-                        "id": 3650783,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005987",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 3650784,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006324",
-                        "maktx": "ALTACOR 35WG_20G_TW",
-                        "id": 3650785,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014471",
-                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
-                        "id": 3650786,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11009448",
-                        "maktx": "ALTACOR_50G_UZ",
-                        "id": 3650787,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007575",
-                        "maktx": "ALTACOR 35WG_50KG_CN",
-                        "id": 3650788,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007469",
-                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
-                        "id": 3650789,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016328",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 3650790,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015537",
-                        "maktx": "ALTACOR 35WG_2G_ES",
-                        "id": 3650791,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016238",
-                        "maktx": "SELIXIA_50G_TH",
-                        "id": 3650792,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016571",
-                        "maktx": "VALACOR_100G_IT_CORTEVA",
-                        "id": 3650793,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007590",
-                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
-                        "id": 3650794,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12006501",
-                        "maktx": "RYX 350WG_300G_GOWA_MO",
-                        "id": 3650795,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016329",
-                        "maktx": "ALTACOR 35WG_50G_RS_AGROMARKET",
-                        "id": 3650796,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12001643",
-                        "maktx": "RYX 350WG_25KG",
-                        "id": 3650797,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014462",
-                        "maktx": "ALTACOR EVO_45OZ_US",
-                        "id": 3650798,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12005370",
-                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
-                        "id": 3650799,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006503",
-                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
-                        "id": 3650800,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11014104",
-                        "maktx": "CORPRIMA_17G_IN",
-                        "id": 3650801,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006181",
-                        "maktx": "ALTACOR 35WG_50G_CY",
-                        "id": 3650802,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015273",
-                        "maktx": "DAUNTLESS_2LB 8OZ_US",
-                        "id": 3650803,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006341",
-                        "maktx": "ALTACOR 35WG_50G_TH",
-                        "id": 3650804,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11009517",
-                        "maktx": "ALTACOR 35WG_750G_AR",
-                        "id": 3650805,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015666",
-                        "maktx": "TURAZI_2LB 8OZ_US",
-                        "id": 3650806,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005797",
-                        "maktx": "ALTACOR_300G_FR",
-                        "id": 3650807,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015933",
-                        "maktx": "ALTACOR_2G_IT",
-                        "id": 3650808,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12002274",
-                        "maktx": "ALTACOR PX_50KG_US",
-                        "id": 3650809,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005906",
-                        "maktx": "ALTACOR_40OZ_US",
-                        "id": 3650810,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11007712",
-                        "maktx": "ALTACOR_5KG_BR",
-                        "id": 3650811,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016237",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
-                        "id": 3650812,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015862",
-                        "maktx": "ALTACOR_85G_DZ_CASAP",
-                        "id": 3650813,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016120",
-                        "maktx": "ALTACOR_30G_CN",
-                        "id": 3650814,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016316",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 3650815,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11015096",
-                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
-                        "id": 3650816,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016580",
-                        "maktx": "VALACOR_300G_IT_CORTEVA",
-                        "id": 3650817,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11006491",
-                        "maktx": "ALTACOR 35WG_500G_ES",
-                        "id": 3650818,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016138",
-                        "maktx": "ALTACOR_100G_CN",
-                        "id": 3650819,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12006720",
-                        "maktx": "RYX 350WG_STIS_JI",
-                        "id": 3650820,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016327",
-                        "maktx": "CORPRIMA_17G_IN",
-                        "id": 3650821,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "12006193",
-                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
-                        "id": 3650822,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005449",
-                        "maktx": "VALACOR 35WG_100G_ID",
-                        "id": 3650823,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11005986",
-                        "maktx": "ALTACOR 35WG_180G_AU",
-                        "id": 3650824,
-                        "reportDataId": 26886
-                    },
-                    {
-                        "matnr": "11016913",
-                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
-                        "id": 3650825,
-                        "reportDataId": 26886
-                    }
-                ],
-                "id": 26886
-            },
-            {
                 "pdfname": "50000873_SDS_US_1X.PDF",
                 "specificationid": "50000873",
                 "path": "\\\\172.18.22.6\\sds_external/50000873_SDS_US_1X.PDF",
@@ -40708,141 +40130,147 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12002111",
-                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 3555040,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 3555041,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 3555042,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010179",
-                        "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 3555043,
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 3736979,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11010184",
                         "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 3555044,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 3555045,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 3555046,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11000579",
-                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 3555047,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 3555048,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 3555049,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 3555050,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 3555051,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 3555052,
+                        "id": 3736980,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11005357",
                         "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 3555053,
+                        "id": 3736981,
                         "reportDataId": 26902
                     },
                     {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 3555054,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010186",
-                        "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 3555055,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12000735",
-                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 3555056,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12001620",
-                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 3555057,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015479",
-                        "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 3555058,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 3555059,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016365",
-                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 3555060,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 3555061,
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3736982,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11010183",
                         "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 3555062,
+                        "id": 3736983,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3736984,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3736985,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3736986,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3736987,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 3736988,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3736989,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3736990,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12000735",
+                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
+                        "id": 3736991,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3736992,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 3736993,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010179",
+                        "maktx": "SENTRALLAS (2X8L) JUG CA",
+                        "id": 3736994,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3736995,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11000579",
+                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
+                        "id": 3736996,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3736997,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3736998,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3736999,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015479",
+                        "maktx": "SENTRALLAS LQM_5L_AT",
+                        "id": 3737000,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12001620",
+                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
+                        "id": 3737001,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016940",
+                        "maktx": "AMPATO LQM_5L_RO_BAYER",
+                        "id": 3737002,
                         "reportDataId": 26902
                     }
                 ],
@@ -53921,141 +53349,147 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 2756100,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 2756101,
-                        "reportDataId": 26962
-                    },
-                    {
                         "matnr": "11016365",
                         "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 2756102,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12001620",
-                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 2756103,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 2756104,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 2756105,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 2756106,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 2756107,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 2756108,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 2756109,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 2756110,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 2756111,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 2756112,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015479",
-                        "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 2756113,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 2756114,
+                        "id": 3736955,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "11010184",
                         "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 2756115,
+                        "id": 3736956,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3736957,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3736958,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3736959,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3736960,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3736961,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3736962,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3736963,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "12002111",
                         "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 2756116,
+                        "id": 3736964,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3736965,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3736966,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "12000735",
                         "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 2756117,
+                        "id": 3736967,
                         "reportDataId": 26962
                     },
                     {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 2756118,
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3736968,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "11010186",
                         "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 2756119,
+                        "id": 3736969,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "11010179",
                         "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 2756120,
+                        "id": 3736970,
                         "reportDataId": 26962
                     },
                     {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 2756121,
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3736971,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "11000579",
                         "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 2756122,
+                        "id": 3736972,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3736973,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3736974,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3736975,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11015479",
+                        "maktx": "SENTRALLAS LQM_5L_AT",
+                        "id": 3736976,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12001620",
+                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
+                        "id": 3736977,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016940",
+                        "maktx": "AMPATO LQM_5L_RO_BAYER",
+                        "id": 3736978,
                         "reportDataId": 26962
                     }
                 ],
@@ -54091,141 +53525,147 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 2756077,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 2756078,
-                        "reportDataId": 26963
-                    },
-                    {
                         "matnr": "11016365",
                         "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 2756079,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12001620",
-                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 2756080,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 2756081,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 2756082,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 2756083,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 2756084,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 2756085,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 2756086,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 2756087,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 2756088,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 2756089,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015479",
-                        "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 2756090,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 2756091,
+                        "id": 3736931,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "11010184",
                         "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 2756092,
+                        "id": 3736932,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3736933,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3736934,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3736935,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3736936,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3736937,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3736938,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3736939,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "12002111",
                         "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 2756093,
+                        "id": 3736940,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3736941,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3736942,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "12000735",
                         "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 2756094,
+                        "id": 3736943,
                         "reportDataId": 26963
                     },
                     {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 2756095,
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3736944,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "11010186",
                         "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 2756096,
+                        "id": 3736945,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "11010179",
                         "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 2756097,
+                        "id": 3736946,
                         "reportDataId": 26963
                     },
                     {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 2756098,
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3736947,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "11000579",
                         "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 2756099,
+                        "id": 3736948,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3736949,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3736950,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3736951,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11015479",
+                        "maktx": "SENTRALLAS LQM_5L_AT",
+                        "id": 3736952,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12001620",
+                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
+                        "id": 3736953,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016940",
+                        "maktx": "AMPATO LQM_5L_RO_BAYER",
+                        "id": 3736954,
                         "reportDataId": 26963
                     }
                 ],
@@ -172208,169 +171648,151 @@
                     {
                         "matnr": "11016264",
                         "maktx": "SEAMAC OR_5L_PL",
-                        "id": 3708316,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11015505",
-                        "maktx": "NUVOLA OR_5L_FI",
-                        "id": 3708317,
+                        "id": 3736535,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11014516",
                         "maktx": "SEAMAC OR_5L_DE",
-                        "id": 3708318,
+                        "id": 3736536,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015514",
                         "maktx": "NUVOLA OR_5L_DK",
-                        "id": 3708319,
+                        "id": 3736537,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11014847",
                         "maktx": "SEAMAC OR_1L_GR",
-                        "id": 3708320,
+                        "id": 3736538,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015507",
                         "maktx": "SEAMAC OR_5L_LT",
-                        "id": 3708321,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11015525",
-                        "maktx": "NUVOLA AMIN_5L_MA_AGRIMATCO",
-                        "id": 3708322,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11014846",
-                        "maktx": "SEAMAC OR_5L_BG",
-                        "id": 3708323,
+                        "id": 3736539,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015959",
                         "maktx": "NUVOLA OR_1L_ZA",
-                        "id": 3708324,
+                        "id": 3736540,
                         "reportDataId": 27433
                     },
                     {
-                        "matnr": "11015560",
-                        "maktx": "NUVOLA AMIN_5L_BG",
-                        "id": 3708325,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11015446",
-                        "maktx": "SEAMAC OR_5L_MA_AGRIMATCO",
-                        "id": 3708326,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11014844",
-                        "maktx": "SEAMAC OR_1L_ES",
-                        "id": 3708327,
+                        "matnr": "11014846",
+                        "maktx": "SEAMAC OR_5L_BG",
+                        "id": 3736541,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016621",
                         "maktx": "AMALISTO_1L_UA",
-                        "id": 3708328,
+                        "id": 3736542,
+                        "reportDataId": 27433
+                    },
+                    {
+                        "matnr": "11015446",
+                        "maktx": "SEAMAC OR_5L_MA_AGRIMATCO",
+                        "id": 3736543,
+                        "reportDataId": 27433
+                    },
+                    {
+                        "matnr": "11014844",
+                        "maktx": "SEAMAC OR_1L_ES",
+                        "id": 3736544,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015506",
                         "maktx": "SEAMAC OR_5L_EE",
-                        "id": 3708329,
+                        "id": 3736545,
+                        "reportDataId": 27433
+                    },
+                    {
+                        "matnr": "11015505",
+                        "maktx": "NUVOLA OR_5L_FI",
+                        "id": 3736546,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015515",
                         "maktx": "NUVOLA OR_5L_SE",
-                        "id": 3708330,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11016819",
-                        "maktx": "NUVOLA OR_1L_DZ_AGROSEMILLAS",
-                        "id": 3708331,
+                        "id": 3736547,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015504",
                         "maktx": "NUVOLA OR_1L_TN_SSCC",
-                        "id": 3708332,
+                        "id": 3736548,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016216",
                         "maktx": "SEAMAC OR_1L_PL",
-                        "id": 3708333,
+                        "id": 3736549,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015733",
                         "maktx": "NUVOLA OR_5L_HU",
-                        "id": 3708334,
+                        "id": 3736550,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11014863",
                         "maktx": "SEAMAC OR_1L_IT",
-                        "id": 3708335,
+                        "id": 3736551,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015113",
                         "maktx": "SEAMAC OR_5L_HU",
-                        "id": 3708336,
+                        "id": 3736552,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016622",
                         "maktx": "AMALISTO_5L_UA",
-                        "id": 3708337,
+                        "id": 3736553,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016535",
                         "maktx": "NUVOLA OR_1L_DZ_AGROSEED",
-                        "id": 3708338,
+                        "id": 3736554,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016265",
                         "maktx": "SEAMAC OR_5L_FR",
-                        "id": 3708339,
+                        "id": 3736555,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11016588",
                         "maktx": "SEAMAC OR_5L_IT",
-                        "id": 3708340,
+                        "id": 3736556,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11015508",
                         "maktx": "SEAMAC OR_5L_LV",
-                        "id": 3708341,
+                        "id": 3736557,
+                        "reportDataId": 27433
+                    },
+                    {
+                        "matnr": "11016819",
+                        "maktx": "NUVOLA OR_1L_DZ_AGROSEMILLAS",
+                        "id": 3736558,
                         "reportDataId": 27433
                     },
                     {
                         "matnr": "11014517",
                         "maktx": "SEAMAC OR_1L_DE",
-                        "id": 3708342,
-                        "reportDataId": 27433
-                    },
-                    {
-                        "matnr": "11016915",
-                        "maktx": "NUVOLA AMIN_5L_HU",
-                        "id": 3708343,
+                        "id": 3736559,
                         "reportDataId": 27433
                     }
                 ],
@@ -236566,6 +235988,1242 @@
                     }
                 ],
                 "id": 27763
+            },
+            {
+                "pdfname": "50002726_SDS_UA_UK.PDF",
+                "specificationid": "50002726",
+                "path": "\\\\172.18.22.6\\sds_external/50002726_SDS_UA_UK.PDF",
+                "reptype": "MSDS",
+                "language": "UK",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "ZEDELIS\u2122, OD(\u0426\u0415\u0414\u0415\u041b\u0406\u0421\u2122, \u041c\u0414)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Prodigy\u00ae insecticide",
+                "casnumber": "",
+                "commercialnames": "CZP 300 g/L OD",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 3736585,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 3736586,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 3736587,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "11016685",
+                        "maktx": "BENEVIA EVO_150ML_PH",
+                        "id": 3736588,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "11016656",
+                        "maktx": "HUIQING_200ML_CN",
+                        "id": 3736589,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "12006567",
+                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
+                        "id": 3736590,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "12006595",
+                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
+                        "id": 3736591,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "11016655",
+                        "maktx": "HUIQING_35ML_CN",
+                        "id": 3736592,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 3736593,
+                        "reportDataId": 27764
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 3736594,
+                        "reportDataId": 27764
+                    }
+                ],
+                "id": 27764
+            },
+            {
+                "pdfname": "50002726_SDS_UA_6N.PDF",
+                "specificationid": "50002726",
+                "path": "\\\\172.18.22.6\\sds_external/50002726_SDS_UA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "ZEDELIS\u2122, OD(\u0426\u0415\u0414\u0415\u041b\u0406\u0421\u2122, \u041c\u0414)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Prodigy\u00ae insecticide",
+                "casnumber": "",
+                "commercialnames": "CZP 300 g/L OD",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 3736595,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 3736596,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 3736597,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "11016685",
+                        "maktx": "BENEVIA EVO_150ML_PH",
+                        "id": 3736598,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "11016656",
+                        "maktx": "HUIQING_200ML_CN",
+                        "id": 3736599,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "12006567",
+                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
+                        "id": 3736600,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "12006595",
+                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
+                        "id": 3736601,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "11016655",
+                        "maktx": "HUIQING_35ML_CN",
+                        "id": 3736602,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 3736603,
+                        "reportDataId": 27765
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 3736604,
+                        "reportDataId": 27765
+                    }
+                ],
+                "id": 27765
+            },
+            {
+                "pdfname": "50003097_SDS_BG_BG.PDF",
+                "specificationid": "50003097",
+                "path": "\\\\172.18.22.6\\sds_external/50003097_SDS_BG_BG.PDF",
+                "reptype": "MSDS",
+                "language": "BG",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "DIVAM SC (\u0414\u0418\u0412\u0410\u041c \u0421\u041a)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "METEOR",
+                "casnumber": "",
+                "commercialnames": "DIVAM SC (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016894",
+                        "maktx": "DIVAM SC_5L_BG",
+                        "id": 3736605,
+                        "reportDataId": 27766
+                    }
+                ],
+                "id": 27766
+            },
+            {
+                "pdfname": "50003097_SDS_BG_6N.PDF",
+                "specificationid": "50003097",
+                "path": "\\\\172.18.22.6\\sds_external/50003097_SDS_BG_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "DIVAM SC (\u0414\u0418\u0412\u0410\u041c \u0421\u041a)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "METEOR",
+                "casnumber": "",
+                "commercialnames": "DIVAM SC (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016894",
+                        "maktx": "DIVAM SC_5L_BG",
+                        "id": 3736606,
+                        "reportDataId": 27767
+                    }
+                ],
+                "id": 27767
+            },
+            {
+                "pdfname": "50000675_SDS_UA_UK.PDF",
+                "specificationid": "50000675",
+                "path": "\\\\172.18.22.6\\sds_external/50000675_SDS_UA_UK.PDF",
+                "reptype": "MSDS",
+                "language": "UK",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "SUCCESSOR \u00ae T, SE (\u0421\u0410\u041a\u0421\u0415\u0421\u0421\u041e\u0420\u00ae \u0422, \u0415\u0421)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "PRADO",
+                "casnumber": "",
+                "commercialnames": "PXA + TTZ (300 + 187.5) g/L SE (2729)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "FO002188",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001251",
+                        "maktx": "SUCCESSOR T_10L_DE",
+                        "id": 3736607,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11013589",
+                        "maktx": "SUCCESSOR T_15L_DE_BELCHIM",
+                        "id": 3736608,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002143",
+                        "maktx": "SUCCESSOR T_10L_HU",
+                        "id": 3736609,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11001640",
+                        "maktx": "SUCCESSOR T_5L_DE_BLCM",
+                        "id": 3736610,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002100",
+                        "maktx": "SUCCESSOR T_10L_DE",
+                        "id": 3736611,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002114",
+                        "maktx": "SUCCESSOR T_5L_AT",
+                        "id": 3736612,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002101",
+                        "maktx": "SUCCESSOR T_5L_CH_STAHL",
+                        "id": 3736613,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002281",
+                        "maktx": "SUCCESSOR T_12.5L_DE",
+                        "id": 3736614,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002407",
+                        "maktx": "SUCCESSOR T_5L_HU",
+                        "id": 3736615,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "12006590",
+                        "maktx": "PXA 300 + TER 188SE_DE_PHY_ALL SIPC",
+                        "id": 3736616,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11005380",
+                        "maktx": "PRADO_5L_CH_LEU GYGAX",
+                        "id": 3736617,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11011077",
+                        "maktx": "DINIRO GOLD_VP2.4KG 10L_HU",
+                        "id": 3736618,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002516",
+                        "maktx": "SUCCESSOR T_5L_DE_SYT",
+                        "id": 3736619,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11016273",
+                        "maktx": "SAVORA_10L_TR",
+                        "id": 3736620,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11004331",
+                        "maktx": "SUCCESSOR T_5L_DE",
+                        "id": 3736621,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "12000369",
+                        "maktx": "PXA 300-TER 188SE_DE_ST_ALL SIPC",
+                        "id": 3736622,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11002142",
+                        "maktx": "SUCCESSOR T_10L_DE_CORTE",
+                        "id": 3736623,
+                        "reportDataId": 27768
+                    },
+                    {
+                        "matnr": "11001594",
+                        "maktx": "SUCCESSOR T_15L_DE_BLCM",
+                        "id": 3736624,
+                        "reportDataId": 27768
+                    }
+                ],
+                "id": 27768
+            },
+            {
+                "pdfname": "50000675_SDS_UA_6N.PDF",
+                "specificationid": "50000675",
+                "path": "\\\\172.18.22.6\\sds_external/50000675_SDS_UA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "SUCCESSOR \u00ae T, SE (\u0421\u0410\u041a\u0421\u0415\u0421\u0421\u041e\u0420\u00ae \u0422, \u0415\u0421)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "PRADO",
+                "casnumber": "",
+                "commercialnames": "PXA + TTZ (300 + 187.5) g/L SE (2729)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "FO002188",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001251",
+                        "maktx": "SUCCESSOR T_10L_DE",
+                        "id": 3736625,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11013589",
+                        "maktx": "SUCCESSOR T_15L_DE_BELCHIM",
+                        "id": 3736626,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002143",
+                        "maktx": "SUCCESSOR T_10L_HU",
+                        "id": 3736627,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11001640",
+                        "maktx": "SUCCESSOR T_5L_DE_BLCM",
+                        "id": 3736628,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002100",
+                        "maktx": "SUCCESSOR T_10L_DE",
+                        "id": 3736629,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002114",
+                        "maktx": "SUCCESSOR T_5L_AT",
+                        "id": 3736630,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002101",
+                        "maktx": "SUCCESSOR T_5L_CH_STAHL",
+                        "id": 3736631,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002281",
+                        "maktx": "SUCCESSOR T_12.5L_DE",
+                        "id": 3736632,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002407",
+                        "maktx": "SUCCESSOR T_5L_HU",
+                        "id": 3736633,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "12006590",
+                        "maktx": "PXA 300 + TER 188SE_DE_PHY_ALL SIPC",
+                        "id": 3736634,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11005380",
+                        "maktx": "PRADO_5L_CH_LEU GYGAX",
+                        "id": 3736635,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11011077",
+                        "maktx": "DINIRO GOLD_VP2.4KG 10L_HU",
+                        "id": 3736636,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002516",
+                        "maktx": "SUCCESSOR T_5L_DE_SYT",
+                        "id": 3736637,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11016273",
+                        "maktx": "SAVORA_10L_TR",
+                        "id": 3736638,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11004331",
+                        "maktx": "SUCCESSOR T_5L_DE",
+                        "id": 3736639,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "12000369",
+                        "maktx": "PXA 300-TER 188SE_DE_ST_ALL SIPC",
+                        "id": 3736640,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11002142",
+                        "maktx": "SUCCESSOR T_10L_DE_CORTE",
+                        "id": 3736641,
+                        "reportDataId": 27769
+                    },
+                    {
+                        "matnr": "11001594",
+                        "maktx": "SUCCESSOR T_15L_DE_BLCM",
+                        "id": 3736642,
+                        "reportDataId": 27769
+                    }
+                ],
+                "id": 27769
+            },
+            {
+                "pdfname": "50000696_SDS_UA_6N.PDF",
+                "specificationid": "50000696",
+                "path": "\\\\172.18.22.6\\sds_external/50000696_SDS_UA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "VINCIT\u00ae 050SC (\u0412\u0406\u041d\u0426\u0418\u0422\u00ae050SC, \u041a\u0421)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLT + TBZ (25 + 25) g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "FO002255",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009061",
+                        "maktx": "VINCIT-F_20L_TN_AGPROTEC",
+                        "id": 3737003,
+                        "reportDataId": 27770
+                    },
+                    {
+                        "matnr": "11004798",
+                        "maktx": "VINCIT SC_10L_MUL",
+                        "id": 3737004,
+                        "reportDataId": 27770
+                    },
+                    {
+                        "matnr": "12000402",
+                        "maktx": "FLT 25-TBZ 25SC_RU UA_ST_CALA SYT",
+                        "id": 3737005,
+                        "reportDataId": 27770
+                    },
+                    {
+                        "matnr": "12000571",
+                        "maktx": "FLT 25-TBZ 25SC_ST_7C SYT",
+                        "id": 3737006,
+                        "reportDataId": 27770
+                    },
+                    {
+                        "matnr": "11002278",
+                        "maktx": "FLUTRIAFOL_1000L_AT",
+                        "id": 3737007,
+                        "reportDataId": 27770
+                    },
+                    {
+                        "matnr": "11003813",
+                        "maktx": "VINCIT 050SC_10L_UA",
+                        "id": 3737008,
+                        "reportDataId": 27770
+                    }
+                ],
+                "id": 27770
+            },
+            {
+                "pdfname": "50000696_SDS_UA_UK.PDF",
+                "specificationid": "50000696",
+                "path": "\\\\172.18.22.6\\sds_external/50000696_SDS_UA_UK.PDF",
+                "reptype": "MSDS",
+                "language": "UK",
+                "genvariant": "SDS_UA",
+                "authorizedportal": "P3",
+                "productname": "VINCIT\u00ae 050SC (\u0412\u0406\u041d\u0426\u0418\u0422\u00ae050SC, \u041a\u0421)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLT + TBZ (25 + 25) g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "UA",
+                "validityareadescription": "Ukraine",
+                "legacyspecid": "FO002255",
+                "legacysdsid": "",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009061",
+                        "maktx": "VINCIT-F_20L_TN_AGPROTEC",
+                        "id": 3737009,
+                        "reportDataId": 27771
+                    },
+                    {
+                        "matnr": "11004798",
+                        "maktx": "VINCIT SC_10L_MUL",
+                        "id": 3737010,
+                        "reportDataId": 27771
+                    },
+                    {
+                        "matnr": "12000402",
+                        "maktx": "FLT 25-TBZ 25SC_RU UA_ST_CALA SYT",
+                        "id": 3737011,
+                        "reportDataId": 27771
+                    },
+                    {
+                        "matnr": "12000571",
+                        "maktx": "FLT 25-TBZ 25SC_ST_7C SYT",
+                        "id": 3737012,
+                        "reportDataId": 27771
+                    },
+                    {
+                        "matnr": "11002278",
+                        "maktx": "FLUTRIAFOL_1000L_AT",
+                        "id": 3737013,
+                        "reportDataId": 27771
+                    },
+                    {
+                        "matnr": "11003813",
+                        "maktx": "VINCIT 050SC_10L_UA",
+                        "id": 3737014,
+                        "reportDataId": 27771
+                    }
+                ],
+                "id": 27771
+            },
+            {
+                "pdfname": "50000012_SDS_PH_EN.PDF",
+                "specificationid": "50000012",
+                "path": "\\\\172.18.22.6\\sds_external/50000012_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Certacor\u00ae 35 WG insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 35 WG (PASTE EXTRUDED)",
+                "cmr": "",
+                "publishdate": "10/22/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "Q-1131",
+                "legacysdsid": "130000026706",
+                "revisiondate": "10/22/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015615",
+                        "maktx": "ALTACOR_50KG_IL",
+                        "id": 3737015,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014400",
+                        "maktx": "ALTACOR 35WG_100G_TR",
+                        "id": 3737016,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016327",
+                        "maktx": "CORPRIMA_17G_IN",
+                        "id": 3737017,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12001292",
+                        "maktx": "ALTACOR_50KG_AR",
+                        "id": 3737018,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016120",
+                        "maktx": "ALTACOR_30G_CN",
+                        "id": 3737019,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006182",
+                        "maktx": "ALTACOR_100G_PT_BAYER",
+                        "id": 3737020,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006491",
+                        "maktx": "ALTACOR 35WG_500G_ES",
+                        "id": 3737021,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015480",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 3737022,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12006501",
+                        "maktx": "RYX 350WG_300G_GOWA_MO",
+                        "id": 3737023,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006087",
+                        "maktx": "ALTACOR 35WG_300G_GR",
+                        "id": 3737024,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006180",
+                        "maktx": "ALTACOR 35WG_50G_GR CY",
+                        "id": 3737025,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 3737026,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007142",
+                        "maktx": "ALTACOR 35WG CTN 4X25X30G BTL KANGDAN CN",
+                        "id": 3737027,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016571",
+                        "maktx": "VALACOR_100G_IT_CORTEVA",
+                        "id": 3737028,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015666",
+                        "maktx": "TURAZI_2LB 8OZ_US",
+                        "id": 3737029,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12001643",
+                        "maktx": "RYX 350WG_25KG",
+                        "id": 3737030,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006226",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
+                        "id": 3737031,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014104",
+                        "maktx": "CORPRIMA_17G_IN",
+                        "id": 3737032,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007704",
+                        "maktx": "ALTACOR_450G_BR",
+                        "id": 3737033,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016329",
+                        "maktx": "ALTACOR 35WG_50G_RS_AGROMARKET",
+                        "id": 3737034,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015096",
+                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
+                        "id": 3737035,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014229",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 3737036,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005906",
+                        "maktx": "ALTACOR_40OZ_US",
+                        "id": 3737037,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007511",
+                        "maktx": "PREVATHON 35WG_3.5G_VN_SCH",
+                        "id": 3737038,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016316",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 3737039,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12000623",
+                        "maktx": "PREVATHON 35WG_50KG_VN",
+                        "id": 3737040,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006304",
+                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
+                        "id": 3737041,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006341",
+                        "maktx": "ALTACOR 35WG_50G_TH",
+                        "id": 3737042,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014919",
+                        "maktx": "ALTACOR 35WG_300G_BG",
+                        "id": 3737043,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005987",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 3737044,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007483",
+                        "maktx": "ALTACOR 35WG_30G_CN",
+                        "id": 3737045,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015705",
+                        "maktx": "ALTACOR 35WG_50G_BG",
+                        "id": 3737046,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006071",
+                        "maktx": "ALTACOR_300G_IT",
+                        "id": 3737047,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016138",
+                        "maktx": "ALTACOR_100G_CN",
+                        "id": 3737048,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12006193",
+                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
+                        "id": 3737049,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005449",
+                        "maktx": "VALACOR 35WG_100G_ID",
+                        "id": 3737050,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015862",
+                        "maktx": "ALTACOR_85G_DZ_CASAP",
+                        "id": 3737051,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007590",
+                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
+                        "id": 3737052,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016913",
+                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
+                        "id": 3737053,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007194",
+                        "maktx": "ALTACOR 35WG_100G_CN_KANGDAN",
+                        "id": 3737054,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005797",
+                        "maktx": "ALTACOR_300G_FR",
+                        "id": 3737055,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006503",
+                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
+                        "id": 3737056,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11000553",
+                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
+                        "id": 3737057,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006559",
+                        "maktx": "ALTACOR_500G_BE",
+                        "id": 3737058,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014471",
+                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
+                        "id": 3737059,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005894",
+                        "maktx": "ALTACOR_500G_ZA",
+                        "id": 3737060,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016695",
+                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
+                        "id": 3737061,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005957",
+                        "maktx": "ALTACOR_454G_CA",
+                        "id": 3737062,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12006251",
+                        "maktx": " RYX 350WG_SARA_UPL",
+                        "id": 3737063,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11009517",
+                        "maktx": "ALTACOR 35WG_750G_AR",
+                        "id": 3737064,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006315",
+                        "maktx": "ALTACOR_500G_NL",
+                        "id": 3737065,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006183",
+                        "maktx": "ALTACOR_100G_IT",
+                        "id": 3737066,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11000271",
+                        "maktx": "ALTACOR_500G_UZ",
+                        "id": 3737067,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015933",
+                        "maktx": "ALTACOR_2G_IT",
+                        "id": 3737068,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015537",
+                        "maktx": "ALTACOR 35WG_2G_ES",
+                        "id": 3737069,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015273",
+                        "maktx": "DAUNTLESS_2LB 8OZ_US",
+                        "id": 3737070,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006134",
+                        "maktx": "ALTACOR COTTON_5KG_AU",
+                        "id": 3737071,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016580",
+                        "maktx": "VALACOR_300G_IT_CORTEVA",
+                        "id": 3737072,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014103",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 3737073,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015418",
+                        "maktx": "ALTACOR_100G_TW",
+                        "id": 3737074,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11003271",
+                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
+                        "id": 3737075,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11009448",
+                        "maktx": "ALTACOR_50G_UZ",
+                        "id": 3737076,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006543",
+                        "maktx": "ALTACOR 35WG_100G_ES",
+                        "id": 3737077,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005404",
+                        "maktx": "VALACOR 35WG_50G_ID",
+                        "id": 3737078,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007469",
+                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
+                        "id": 3737079,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006542",
+                        "maktx": "ALTACOR 35WG_50G_TR",
+                        "id": 3737080,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006083",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 3737081,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006181",
+                        "maktx": "ALTACOR 35WG_50G_CY",
+                        "id": 3737082,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12002274",
+                        "maktx": "ALTACOR PX_50KG_US",
+                        "id": 3737083,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006270",
+                        "maktx": "ALTACOR 35WG_300G_ES",
+                        "id": 3737084,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11015859",
+                        "maktx": "SOLECOR_5KG_BR",
+                        "id": 3737085,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016328",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 3737086,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016238",
+                        "maktx": "SELIXIA_50G_TH",
+                        "id": 3737087,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12006720",
+                        "maktx": "RYX 350WG_STIS_JI",
+                        "id": 3737088,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006504",
+                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
+                        "id": 3737089,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007484",
+                        "maktx": "ALTACOR 35WG_100G_CN",
+                        "id": 3737090,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11006324",
+                        "maktx": "ALTACOR 35WG_20G_TW",
+                        "id": 3737091,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11005986",
+                        "maktx": "ALTACOR 35WG_180G_AU",
+                        "id": 3737092,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016310",
+                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
+                        "id": 3737093,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11000052",
+                        "maktx": "ALTACOR_16OZ_US",
+                        "id": 3737094,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016237",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
+                        "id": 3737095,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007712",
+                        "maktx": "ALTACOR_5KG_BR",
+                        "id": 3737096,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11014815",
+                        "maktx": "CERTACOR_8.5G_PH",
+                        "id": 3737097,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007575",
+                        "maktx": "ALTACOR 35WG_50KG_CN",
+                        "id": 3737098,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11016155",
+                        "maktx": "ALTACOR_50G_AZ",
+                        "id": 3737099,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11013758",
+                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
+                        "id": 3737100,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "12005370",
+                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
+                        "id": 3737101,
+                        "reportDataId": 27772
+                    },
+                    {
+                        "matnr": "11007374",
+                        "maktx": "ALTACOR 35WG_3G_CN",
+                        "id": 3737102,
+                        "reportDataId": 27772
+                    }
+                ],
+                "id": 27772
             }
         ],
         "isExportToExcel": false
