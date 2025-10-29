@@ -58,50 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50001998_EXT_SDS_DK_6N.PDF",
-                "specificationid": "50001998",
-                "path": "\\\\172.18.22.6\\sds_external/50001998_EXT_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "DANAFLOAT\u2122 371",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "",
-                "cmr": "",
-                "publishdate": "10/07/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "DANA371",
-                "legacysdsid": "",
-                "revisiondate": "10/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000633",
-                        "maktx": "DANAFLOAT 371_RO_RO",
-                        "id": 2013107,
-                        "reportDataId": 26653
-                    },
-                    {
-                        "matnr": "11004340",
-                        "maktx": "DANAFLOAT 371_1075KG_RO_RO",
-                        "id": 2013108,
-                        "reportDataId": 26653
-                    }
-                ],
-                "id": 26653
-            },
-            {
                 "pdfname": "50000104_SDS_VN_EN.PDF",
                 "specificationid": "50000104",
                 "path": "\\\\172.18.22.6\\sds_external/50000104_SDS_VN_EN.PDF",
@@ -235864,6 +235820,224 @@
                     }
                 ],
                 "id": 27777
+            },
+            {
+                "pdfname": "50000347_SDS_PH_EN.PDF",
+                "specificationid": "50000347",
+                "path": "\\\\172.18.22.6\\sds_external/50000347_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Nanok\u2122 fungicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "AZO + FLT (125 + 125) g/L SC",
+                "cmr": "",
+                "publishdate": "10/28/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO002269",
+                "legacysdsid": "",
+                "revisiondate": "10/28/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11003706",
+                        "maktx": "AUTHORITY 250SC_20L_CO",
+                        "id": 3792082,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11016652",
+                        "maktx": "NANOK 25SC_1L_NI",
+                        "id": 3792083,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004466",
+                        "maktx": "NANOK_1L_TR",
+                        "id": 3792084,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11002273",
+                        "maktx": "CONSUL SC_5L_RU BY",
+                        "id": 3792085,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11009740",
+                        "maktx": "SOLDIER 250SC_1L_MX",
+                        "id": 3792086,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11015320",
+                        "maktx": "IMPACT MAX_1L_TN_AGRIPROTEC",
+                        "id": 3792087,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11014770",
+                        "maktx": "AUTHORITY 250_200L_PE_FARMEX",
+                        "id": 3792088,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11002242",
+                        "maktx": "NANOK 25SC_900L_PK_SWAT",
+                        "id": 3792089,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12005660",
+                        "maktx": "FLT 125 + AZO 125SC_MUL_ST_RO SYT",
+                        "id": 3792090,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11009299",
+                        "maktx": "NANOK_900L_PK_SWAT",
+                        "id": 3792091,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11013864",
+                        "maktx": "NANOK_250ML_LB_UNIFERT",
+                        "id": 3792092,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004828",
+                        "maktx": "AUTHORITY 250SC_5L_BR",
+                        "id": 3792093,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12006400",
+                        "maktx": "FLT 125 + AZO 125SC_PHY_RO",
+                        "id": 3792094,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11003053",
+                        "maktx": "IMPACTMAX_200L_MA_MARBAR",
+                        "id": 3792095,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004738",
+                        "maktx": "AUTHORITY_10L_BR",
+                        "id": 3792096,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11003709",
+                        "maktx": "AUTHORITY 250SC_250ML_CO",
+                        "id": 3792097,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11016653",
+                        "maktx": "NANOK 25SC_250ML_NI",
+                        "id": 3792098,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004736",
+                        "maktx": "AUTHORITY_1L_BR",
+                        "id": 3792099,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11002103",
+                        "maktx": "CONSUL 125SC_5L_BY",
+                        "id": 3792100,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004805",
+                        "maktx": "AUTHORITY 250SC_20L_BR",
+                        "id": 3792101,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12001679",
+                        "maktx": "FLT 125-AZO 125SC_ST_CALA SYT",
+                        "id": 3792102,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12000446",
+                        "maktx": "FLT 125-AZO 125SC_ST_ALL",
+                        "id": 3792103,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11008873",
+                        "maktx": "AUTHORITY_250ML_EC",
+                        "id": 3792104,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11004737",
+                        "maktx": "AUTHORITY_20L_BR",
+                        "id": 3792105,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11014197",
+                        "maktx": "IMPACT GUARD 250SC_1L_KE_JUANCO",
+                        "id": 3792106,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11009119",
+                        "maktx": "SOLDIER 250SC_200L_MX",
+                        "id": 3792107,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11003708",
+                        "maktx": "AUTHORITY 250SC_1L_CO",
+                        "id": 3792108,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11008869",
+                        "maktx": "AUTHORITY_1L_EC",
+                        "id": 3792109,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "11008876",
+                        "maktx": "AUTHORITY_5L_EC",
+                        "id": 3792110,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12002177",
+                        "maktx": "AZO 125+FLT 125SC_BR",
+                        "id": 3792111,
+                        "reportDataId": 27778
+                    },
+                    {
+                        "matnr": "12005990",
+                        "maktx": "FLT 125-AZO 125SC_ST_7C SYT",
+                        "id": 3792112,
+                        "reportDataId": 27778
+                    }
+                ],
+                "id": 27778
             }
         ],
         "isExportToExcel": false
