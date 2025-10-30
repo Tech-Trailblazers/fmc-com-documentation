@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6091,
+        "totalCount": 6089,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,226 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000104_SDS_VN_EN.PDF",
-                "specificationid": "50000104",
-                "path": "\\\\172.18.22.6\\sds_external/50000104_SDS_VN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_VN",
-                "authorizedportal": "P3",
-                "productname": "Ammate\u00ae 30 WG insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IXC 30 WG (KN128)",
-                "cmr": "",
-                "publishdate": "10/07/2024",
-                "iupac": "",
-                "incode": "KN128",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "VN",
-                "validityareadescription": "Vietnam",
-                "legacyspecid": "Q-1687",
-                "legacysdsid": "130000050660",
-                "revisiondate": "10/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015261",
-                        "maktx": "AVAUNT EVO_400LB_US",
-                        "id": 2735766,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11013371",
-                        "maktx": "AVAUNT EVO_20KG_KR",
-                        "id": 2735767,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "12005362",
-                        "maktx": "IXC 300WG KN128_20KG_VN_XPOL_MO",
-                        "id": 2735768,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11013401",
-                        "maktx": "AVATAR EVO_500G_AU",
-                        "id": 2735769,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11013390",
-                        "maktx": "AVATAR EVO_500G_AU",
-                        "id": 2735770,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11016527",
-                        "maktx": "AVAUNT_100G_TH",
-                        "id": 2735771,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "12005070",
-                        "maktx": "IXC 300WG KN128_500G_AU_GOWA_MO",
-                        "id": 2735772,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11006446",
-                        "maktx": "KN128 30WG_?_US",
-                        "id": 2735773,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11015791",
-                        "maktx": "AVAUNT EVO_25LB_US",
-                        "id": 2735774,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "12005091",
-                        "maktx": "IXC 300WG KN128_20KG_TH_XPOL_MO",
-                        "id": 2735775,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "12005080",
-                        "maktx": "IXC 300WG KN128_20KG_US_GOWA_MO",
-                        "id": 2735776,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11006151",
-                        "maktx": "AVATAR 30WG_100G_TH",
-                        "id": 2735777,
-                        "reportDataId": 26654
-                    },
-                    {
-                        "matnr": "11007413",
-                        "maktx": "AVAUNT EVO 30WG_30OZ_US",
-                        "id": 2735778,
-                        "reportDataId": 26654
-                    }
-                ],
-                "id": 26654
-            },
-            {
-                "pdfname": "50000104_SDS_VN_VI.PDF",
-                "specificationid": "50000104",
-                "path": "\\\\172.18.22.6\\sds_external/50000104_SDS_VN_VI.PDF",
-                "reptype": "MSDS",
-                "language": "VI",
-                "genvariant": "SDS_VN",
-                "authorizedportal": "P3",
-                "productname": "Ammate\u00ae 30 WG insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IXC 30 WG (KN128)",
-                "cmr": "",
-                "publishdate": "10/07/2024",
-                "iupac": "",
-                "incode": "KN128",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "VN",
-                "validityareadescription": "Vietnam",
-                "legacyspecid": "Q-1687",
-                "legacysdsid": "130000050660",
-                "revisiondate": "10/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015261",
-                        "maktx": "AVAUNT EVO_400LB_US",
-                        "id": 2735779,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11013371",
-                        "maktx": "AVAUNT EVO_20KG_KR",
-                        "id": 2735780,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "12005362",
-                        "maktx": "IXC 300WG KN128_20KG_VN_XPOL_MO",
-                        "id": 2735781,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11013401",
-                        "maktx": "AVATAR EVO_500G_AU",
-                        "id": 2735782,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11013390",
-                        "maktx": "AVATAR EVO_500G_AU",
-                        "id": 2735783,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11016527",
-                        "maktx": "AVAUNT_100G_TH",
-                        "id": 2735784,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "12005070",
-                        "maktx": "IXC 300WG KN128_500G_AU_GOWA_MO",
-                        "id": 2735785,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11006446",
-                        "maktx": "KN128 30WG_?_US",
-                        "id": 2735786,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11015791",
-                        "maktx": "AVAUNT EVO_25LB_US",
-                        "id": 2735787,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "12005091",
-                        "maktx": "IXC 300WG KN128_20KG_TH_XPOL_MO",
-                        "id": 2735788,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "12005080",
-                        "maktx": "IXC 300WG KN128_20KG_US_GOWA_MO",
-                        "id": 2735789,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11006151",
-                        "maktx": "AVATAR 30WG_100G_TH",
-                        "id": 2735790,
-                        "reportDataId": 26655
-                    },
-                    {
-                        "matnr": "11007413",
-                        "maktx": "AVAUNT EVO 30WG_30OZ_US",
-                        "id": 2735791,
-                        "reportDataId": 26655
-                    }
-                ],
-                "id": 26655
-            },
             {
                 "pdfname": "50001289_SDS_DE_DE.PDF",
                 "specificationid": "50001289",
@@ -186755,37 +186535,6 @@
                 "id": 27521
             },
             {
-                "pdfname": "50003090_EXT_SDS_IT_IT.PDF",
-                "specificationid": "50003090",
-                "path": "\\\\172.18.22.6\\sds_external/50003090_EXT_SDS_IT_IT.PDF",
-                "reptype": "MSDS",
-                "language": "IT",
-                "genvariant": "EXT_SDS_IT",
-                "authorizedportal": "P3",
-                "productname": "EXIREL\u00ae BAIT",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 100 g/L SE (PROXEL) (CHILD)",
-                "cmr": "",
-                "publishdate": "07/24/2025",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IT",
-                "validityareadescription": "Italy",
-                "legacyspecid": "Q-1367",
-                "legacysdsid": "130000050443",
-                "revisiondate": "07/01/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 27522
-            },
-            {
                 "pdfname": "50001678_EXT_SDS_GB_6N.PDF",
                 "specificationid": "50001678",
                 "path": "\\\\172.18.22.6\\sds_external/50001678_EXT_SDS_GB_6N.PDF",
@@ -234264,16 +234013,16 @@
                 "casnumber": "",
                 "commercialnames": "GRIFON SC (3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "10/21/2025",
+                "publishdate": "10/29/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "AT",
                 "validityareadescription": "\u00d6sterreich",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "10/21/2025",
+                "revisiondate": "10/29/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -234281,7 +234030,7 @@
                     {
                         "matnr": "11014997",
                         "maktx": "GRIFON SC_5L_DE",
-                        "id": 3680687,
+                        "id": 3792304,
                         "reportDataId": 27763
                     }
                 ],
@@ -236038,6 +235787,44 @@
                     }
                 ],
                 "id": 27778
+            },
+            {
+                "pdfname": "50002750_SDS_DE_DE.PDF",
+                "specificationid": "50002750",
+                "path": "\\\\172.18.22.6\\sds_external/50002750_SDS_DE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "GRIFON SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "GRIFON SC (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "10/29/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Deutschland",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "10/29/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014997",
+                        "maktx": "GRIFON SC_5L_DE",
+                        "id": 3792303,
+                        "reportDataId": 27779
+                    }
+                ],
+                "id": 27779
             }
         ],
         "isExportToExcel": false
