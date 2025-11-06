@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6089,
+        "totalCount": 6091,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -10547,57 +10547,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015738",
-                        "maktx": "RIZA 200EC_5L_HU",
-                        "id": 2058534,
-                        "reportDataId": 26717
-                    },
-                    {
                         "matnr": "11002494",
                         "maktx": "SPARTA_5L_ES",
-                        "id": 2058535,
-                        "reportDataId": 26717
-                    },
-                    {
-                        "matnr": "12001957",
-                        "maktx": "TEB 200EC_RO_BYER",
-                        "id": 2058536,
-                        "reportDataId": 26717
-                    },
-                    {
-                        "matnr": "12000143",
-                        "maktx": "TEB 200EC_TC_RO_BYER",
-                        "id": 2058537,
-                        "reportDataId": 26717
-                    },
-                    {
-                        "matnr": "11000433",
-                        "maktx": "SPARTA 200EC_5L_SK",
-                        "id": 2058538,
+                        "id": 3850298,
                         "reportDataId": 26717
                     },
                     {
                         "matnr": "12000142",
                         "maktx": "TEB 200EC_1000L_RO_7C",
-                        "id": 2058539,
+                        "id": 3850299,
                         "reportDataId": 26717
                     },
                     {
                         "matnr": "12002245",
                         "maktx": "TEB 200EC_200L_RO_BYER",
-                        "id": 2058540,
+                        "id": 3850300,
                         "reportDataId": 26717
                     },
                     {
-                        "matnr": "11002582",
-                        "maktx": "RIZA EC_10L_BE",
-                        "id": 2058541,
+                        "matnr": "11000433",
+                        "maktx": "SPARTA 200EC_5L_SK",
+                        "id": 3850301,
+                        "reportDataId": 26717
+                    },
+                    {
+                        "matnr": "12001957",
+                        "maktx": "TEB 200EC_RO_BYER",
+                        "id": 3850302,
+                        "reportDataId": 26717
+                    },
+                    {
+                        "matnr": "12000143",
+                        "maktx": "TEB 200EC_TC_RO_BYER",
+                        "id": 3850303,
                         "reportDataId": 26717
                     },
                     {
                         "matnr": "11015153",
                         "maktx": "RIZA 200EC_5L_LV_AUGU",
-                        "id": 2058542,
+                        "id": 3850304,
+                        "reportDataId": 26717
+                    },
+                    {
+                        "matnr": "11002582",
+                        "maktx": "RIZA EC_10L_BE",
+                        "id": 3850305,
+                        "reportDataId": 26717
+                    },
+                    {
+                        "matnr": "11015738",
+                        "maktx": "RIZA 200EC_5L_HU",
+                        "id": 3850306,
                         "reportDataId": 26717
                     }
                 ],
@@ -10633,57 +10633,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015738",
-                        "maktx": "RIZA 200EC_5L_HU",
-                        "id": 2058543,
-                        "reportDataId": 26718
-                    },
-                    {
                         "matnr": "11002494",
                         "maktx": "SPARTA_5L_ES",
-                        "id": 2058544,
-                        "reportDataId": 26718
-                    },
-                    {
-                        "matnr": "12001957",
-                        "maktx": "TEB 200EC_RO_BYER",
-                        "id": 2058545,
-                        "reportDataId": 26718
-                    },
-                    {
-                        "matnr": "12000143",
-                        "maktx": "TEB 200EC_TC_RO_BYER",
-                        "id": 2058546,
-                        "reportDataId": 26718
-                    },
-                    {
-                        "matnr": "11000433",
-                        "maktx": "SPARTA 200EC_5L_SK",
-                        "id": 2058547,
+                        "id": 3850307,
                         "reportDataId": 26718
                     },
                     {
                         "matnr": "12000142",
                         "maktx": "TEB 200EC_1000L_RO_7C",
-                        "id": 2058548,
+                        "id": 3850308,
                         "reportDataId": 26718
                     },
                     {
                         "matnr": "12002245",
                         "maktx": "TEB 200EC_200L_RO_BYER",
-                        "id": 2058549,
+                        "id": 3850309,
                         "reportDataId": 26718
                     },
                     {
-                        "matnr": "11002582",
-                        "maktx": "RIZA EC_10L_BE",
-                        "id": 2058550,
+                        "matnr": "11000433",
+                        "maktx": "SPARTA 200EC_5L_SK",
+                        "id": 3850310,
+                        "reportDataId": 26718
+                    },
+                    {
+                        "matnr": "12001957",
+                        "maktx": "TEB 200EC_RO_BYER",
+                        "id": 3850311,
+                        "reportDataId": 26718
+                    },
+                    {
+                        "matnr": "12000143",
+                        "maktx": "TEB 200EC_TC_RO_BYER",
+                        "id": 3850312,
                         "reportDataId": 26718
                     },
                     {
                         "matnr": "11015153",
                         "maktx": "RIZA 200EC_5L_LV_AUGU",
-                        "id": 2058551,
+                        "id": 3850313,
+                        "reportDataId": 26718
+                    },
+                    {
+                        "matnr": "11002582",
+                        "maktx": "RIZA EC_10L_BE",
+                        "id": 3850314,
+                        "reportDataId": 26718
+                    },
+                    {
+                        "matnr": "11015738",
+                        "maktx": "RIZA 200EC_5L_HU",
+                        "id": 3850315,
                         "reportDataId": 26718
                     }
                 ],
@@ -33934,501 +33934,507 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006846",
-                        "maktx": "CORAGEN 18.5%SC_30ML_IN",
-                        "id": 3845019,
+                        "matnr": "11016955",
+                        "maktx": "CORAGEN_50ML_ZW_POLACHEM",
+                        "id": 3849897,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015313",
                         "maktx": "CORAGEN_10ML_IN",
-                        "id": 3845020,
+                        "id": 3849898,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016936",
                         "maktx": "SUVISIO_500ML_GR_CORTEVA",
-                        "id": 3845021,
+                        "id": 3849899,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007462",
                         "maktx": "COVER 18.5% SC 40X300ML BTL IN",
-                        "id": 3845022,
+                        "id": 3849900,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006934",
                         "maktx": "VESTICOR 18.5%SC_60ML_IN",
-                        "id": 3845023,
+                        "id": 3849901,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007653",
                         "maktx": "COSKO 18.5%SC_300ML_IN",
-                        "id": 3845024,
+                        "id": 3849902,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12002192",
                         "maktx": "RYX 200SC_200L_MUL",
-                        "id": 3845025,
+                        "id": 3849903,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12001152",
                         "maktx": "RYX 200SC_200L_CO BO_GRYL_MO",
-                        "id": 3845026,
+                        "id": 3849904,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015291",
                         "maktx": "ZYCOR_150ML_IN_CHEM",
-                        "id": 3845027,
+                        "id": 3849905,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006572",
                         "maktx": "RYX 200SC_5L_ST_JI",
-                        "id": 3845028,
+                        "id": 3849906,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006092",
                         "maktx": "RYX 200SC_1000L_BR_SV_JI_MO",
-                        "id": 3845029,
+                        "id": 3849907,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12001529",
                         "maktx": "RYX 200SC ACTICIDE_1000L_PHY_MO",
-                        "id": 3845030,
+                        "id": 3849908,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015523",
                         "maktx": "ENFUSE_150ML_IN_STANES",
-                        "id": 3845031,
+                        "id": 3849909,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006556",
                         "maktx": "RYX 200SC_1000L_MUL_ST_JI",
-                        "id": 3845032,
+                        "id": 3849910,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000071",
                         "maktx": "COSKO 18.5%SC_150ML_IN",
-                        "id": 3845033,
+                        "id": 3849911,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11014970",
                         "maktx": "CORAGEN_25ML_LK_SUNAGRO",
-                        "id": 3845034,
+                        "id": 3849912,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000214",
                         "maktx": "CORAGEN_300ML_IN_INST",
-                        "id": 3845035,
+                        "id": 3849913,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016466",
                         "maktx": "CORAGEN_200ML_CO",
-                        "id": 3845036,
+                        "id": 3849914,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015800",
                         "maktx": "ENFUSE_30ML_IN_STANES",
-                        "id": 3845037,
+                        "id": 3849915,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013791",
                         "maktx": "CERTACOR SC_150ML_IN_MAHI",
-                        "id": 3845038,
+                        "id": 3849916,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015290",
                         "maktx": "ZYCOR_60ML_IN_CHEM",
-                        "id": 3845039,
+                        "id": 3849917,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016725",
                         "maktx": "MIRAPRIN_100ML_EC",
-                        "id": 3845040,
+                        "id": 3849918,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000220",
                         "maktx": "CORAGEN_1L_CO",
-                        "id": 3845041,
+                        "id": 3849919,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015801",
                         "maktx": "ENFUSE_10ML_IN_STANES",
-                        "id": 3845042,
+                        "id": 3849920,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11001323",
                         "maktx": "FORNAX 18.5%SC_10ML_IN",
-                        "id": 3845043,
+                        "id": 3849921,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006849",
                         "maktx": "CORAGEN 18.5%SC_300ML_IN",
-                        "id": 3845044,
+                        "id": 3849922,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013634",
                         "maktx": "SHENZI_150ML_IN_UPL",
-                        "id": 3845045,
+                        "id": 3849923,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11014467",
                         "maktx": "CORAGEN_50ML_SL",
-                        "id": 3845046,
+                        "id": 3849924,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11014566",
                         "maktx": "SHENZI_1L_BO",
-                        "id": 3845047,
+                        "id": 3849925,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11010309",
                         "maktx": "CORAGEN_10ML_BD",
-                        "id": 3845048,
+                        "id": 3849926,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007130",
                         "maktx": "COVER 18.5% SC 40X150ML BTL IN",
-                        "id": 3845049,
+                        "id": 3849927,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12002998",
                         "maktx": "CORAGEN 20SC BULK DRM IN",
-                        "id": 3845050,
+                        "id": 3849928,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11009231",
                         "maktx": "VESTICOR 18.5% SC 300X10ML BTL IN",
-                        "id": 3845051,
+                        "id": 3849929,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11009345",
                         "maktx": "FORNAX 18.5%SC_300ML_IN",
-                        "id": 3845052,
+                        "id": 3849930,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007417",
                         "maktx": "PEVOTA 18.5%SC_150ML_IN",
-                        "id": 3845053,
+                        "id": 3849931,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11002510",
                         "maktx": "FORNAX_60ML_IN",
-                        "id": 3845054,
+                        "id": 3849932,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013212",
                         "maktx": "CORAGEN_80ML_IN",
-                        "id": 3845055,
+                        "id": 3849933,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006190",
                         "maktx": "RYX 200SC_1000L_SV_ALL",
-                        "id": 3845056,
+                        "id": 3849934,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006847",
                         "maktx": "CORAGEN 18.5%SC_60ML_IN",
-                        "id": 3845057,
+                        "id": 3849935,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016724",
                         "maktx": "PREMIO_100ML_EC",
-                        "id": 3845058,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006845",
-                        "maktx": "CORAGEN 18.5%SC_10ML_IN",
-                        "id": 3845059,
+                        "id": 3849936,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007128",
                         "maktx": "COVER 18.5% SC 200X30ML BTL IN",
-                        "id": 3845060,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013291",
-                        "maktx": "CORAGEN_4ML_BD",
-                        "id": 3845061,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006472",
-                        "maktx": "RYX 200SC_200L_CO_MI_MO",
-                        "id": 3845062,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013645",
-                        "maktx": "SHENZI_60ML_IN_UPL",
-                        "id": 3845063,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015315",
-                        "maktx": "CHLORANTRANILIPROLE 18.5%SC_200L_IN",
-                        "id": 3845064,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000150",
-                        "maktx": "CORAGEN_150ML_IN_INST",
-                        "id": 3845065,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006850",
-                        "maktx": "CORAGEN 18.5%SC_600ML_IN",
-                        "id": 3845066,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000066",
-                        "maktx": "COSKO 18.5%SC_60ML_IN",
-                        "id": 3845067,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013570",
-                        "maktx": "PEVOTA_10ML_IN_CHAMBAL",
-                        "id": 3845068,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007769",
-                        "maktx": "VESTICOR 18.5%SC_600ML_IN",
-                        "id": 3845069,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006857",
-                        "maktx": "CORAGEN_200ML_CO",
-                        "id": 3845070,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007416",
-                        "maktx": "PEVOTA 18.5%SC_60ML_IN",
-                        "id": 3845071,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12001567",
-                        "maktx": "CORAGEN GENERIC BULK DIOSA (PROXEL)",
-                        "id": 3845072,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006555",
-                        "maktx": "RYX 200SC_1000L_ID_ST_JI",
-                        "id": 3845073,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006568",
-                        "maktx": "RYX 200SC_1000L_ST_JI",
-                        "id": 3845074,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006848",
-                        "maktx": "CORAGEN 18.5%SC_150ML_IN",
-                        "id": 3845075,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11009519",
-                        "maktx": "CORAGEN_1L_BO",
-                        "id": 3845076,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007131",
-                        "maktx": "COVER 18.5% SC 300X10ML BTL IN",
-                        "id": 3845077,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007229",
-                        "maktx": "VESTICOR 18.5%SC_150ML_IN",
-                        "id": 3845078,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000555",
-                        "maktx": "CORAGEN CTN 1200X5ML SAH (IN) SL",
-                        "id": 3845079,
+                        "id": 3849937,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013790",
                         "maktx": "CERTACOR SC_60ML_IN_MAHI",
-                        "id": 3845080,
+                        "id": 3849938,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013291",
+                        "maktx": "CORAGEN_4ML_BD",
+                        "id": 3849939,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013645",
+                        "maktx": "SHENZI_60ML_IN_UPL",
+                        "id": 3849940,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015315",
+                        "maktx": "CHLORANTRANILIPROLE 18.5%SC_200L_IN",
+                        "id": 3849941,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000150",
+                        "maktx": "CORAGEN_150ML_IN_INST",
+                        "id": 3849942,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006850",
+                        "maktx": "CORAGEN 18.5%SC_600ML_IN",
+                        "id": 3849943,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000066",
+                        "maktx": "COSKO 18.5%SC_60ML_IN",
+                        "id": 3849944,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013570",
+                        "maktx": "PEVOTA_10ML_IN_CHAMBAL",
+                        "id": 3849945,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007769",
+                        "maktx": "VESTICOR 18.5%SC_600ML_IN",
+                        "id": 3849946,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006857",
+                        "maktx": "CORAGEN_200ML_CO",
+                        "id": 3849947,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007416",
+                        "maktx": "PEVOTA 18.5%SC_60ML_IN",
+                        "id": 3849948,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12001567",
+                        "maktx": "CORAGEN GENERIC BULK DIOSA (PROXEL)",
+                        "id": 3849949,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006555",
+                        "maktx": "RYX 200SC_1000L_ID_ST_JI",
+                        "id": 3849950,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006568",
+                        "maktx": "RYX 200SC_1000L_ST_JI",
+                        "id": 3849951,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006848",
+                        "maktx": "CORAGEN 18.5%SC_150ML_IN",
+                        "id": 3849952,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11009519",
+                        "maktx": "CORAGEN_1L_BO",
+                        "id": 3849953,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007131",
+                        "maktx": "COVER 18.5% SC 300X10ML BTL IN",
+                        "id": 3849954,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007229",
+                        "maktx": "VESTICOR 18.5%SC_150ML_IN",
+                        "id": 3849955,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006846",
+                        "maktx": "CORAGEN 18.5%SC_30ML_IN",
+                        "id": 3849956,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006472",
+                        "maktx": "RYX 200SC_200L_CO_MI_MO",
+                        "id": 3849957,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000555",
+                        "maktx": "CORAGEN CTN 1200X5ML SAH (IN) SL",
+                        "id": 3849958,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12002136",
                         "maktx": "RYX 200SC ACTICIDE_200L_?",
-                        "id": 3845081,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006933",
-                        "maktx": "VESTICOR 18.5%SC_30ML_IN",
-                        "id": 3845082,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007659",
-                        "maktx": "COSKO 18.5%SC_10ML_IN",
-                        "id": 3845083,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006231",
-                        "maktx": "RYX 200SC_1000L_SV_JI_MO",
-                        "id": 3845084,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015231",
-                        "maktx": "TECOREL 18.5SC_200L_BD_ACCL",
-                        "id": 3845085,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015531",
-                        "maktx": "ENFUSE_60ML_IN_STANES",
-                        "id": 3845086,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11001446",
-                        "maktx": "FORNAX 18.5%_SC_30ML_IN",
-                        "id": 3845087,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006301",
-                        "maktx": "RYX 200SC_GSS_MI_MO",
-                        "id": 3845088,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006569",
-                        "maktx": "RYX 200SC_1L_ST_JI",
-                        "id": 3845089,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11010268",
-                        "maktx": "FORNAX 18.5%SC_150ML_IN",
-                        "id": 3845090,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12005985",
-                        "maktx": "RYX 200SC_52.8GAL_MI_MO",
-                        "id": 3845091,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000065",
-                        "maktx": "COSKO 18.5%SC_30ML_IN",
-                        "id": 3845092,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015532",
-                        "maktx": "TREX_150ML_IN_SUMI",
-                        "id": 3845093,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11010326",
-                        "maktx": "CORAGEN_200L_IN",
-                        "id": 3845094,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006935",
-                        "maktx": "VESTICOR 18.5%SC_300ML_IN",
-                        "id": 3845095,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006371",
-                        "maktx": "RYX 200SC_9553L_LK_JI",
-                        "id": 3845096,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12005970",
-                        "maktx": "RYX 200SC_MI_MO",
-                        "id": 3845097,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013785",
-                        "maktx": "CERTACOR SC_30ML_IN_MAHI",
-                        "id": 3845098,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007129",
-                        "maktx": "COVER 18.5% SC 100X60ML BTL IN",
-                        "id": 3845099,
+                        "id": 3849959,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013250",
                         "maktx": "PEVOTA_30ML_IN_CHAMBAL",
-                        "id": 3845100,
+                        "id": 3849960,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007659",
+                        "maktx": "COSKO 18.5%SC_10ML_IN",
+                        "id": 3849961,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006231",
+                        "maktx": "RYX 200SC_1000L_SV_JI_MO",
+                        "id": 3849962,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015231",
+                        "maktx": "TECOREL 18.5SC_200L_BD_ACCL",
+                        "id": 3849963,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015531",
+                        "maktx": "ENFUSE_60ML_IN_STANES",
+                        "id": 3849964,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11001446",
+                        "maktx": "FORNAX 18.5%_SC_30ML_IN",
+                        "id": 3849965,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006301",
+                        "maktx": "RYX 200SC_GSS_MI_MO",
+                        "id": 3849966,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006569",
+                        "maktx": "RYX 200SC_1L_ST_JI",
+                        "id": 3849967,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11010268",
+                        "maktx": "FORNAX 18.5%SC_150ML_IN",
+                        "id": 3849968,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006845",
+                        "maktx": "CORAGEN 18.5%SC_10ML_IN",
+                        "id": 3849969,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12005985",
+                        "maktx": "RYX 200SC_52.8GAL_MI_MO",
+                        "id": 3849970,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015532",
+                        "maktx": "TREX_150ML_IN_SUMI",
+                        "id": 3849971,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11010326",
+                        "maktx": "CORAGEN_200L_IN",
+                        "id": 3849972,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006935",
+                        "maktx": "VESTICOR 18.5%SC_300ML_IN",
+                        "id": 3849973,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006371",
+                        "maktx": "RYX 200SC_9553L_LK_JI",
+                        "id": 3849974,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12005970",
+                        "maktx": "RYX 200SC_MI_MO",
+                        "id": 3849975,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013785",
+                        "maktx": "CERTACOR SC_30ML_IN_MAHI",
+                        "id": 3849976,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007129",
+                        "maktx": "COVER 18.5% SC 100X60ML BTL IN",
+                        "id": 3849977,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006933",
+                        "maktx": "VESTICOR 18.5%SC_30ML_IN",
+                        "id": 3849978,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000065",
+                        "maktx": "COSKO 18.5%SC_30ML_IN",
+                        "id": 3849979,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016917",
                         "maktx": "SUVISIO_200ML_GR_CORTEVA",
-                        "id": 3845101,
+                        "id": 3849980,
                         "reportDataId": 26883
                     }
                 ],
@@ -167886,255 +167892,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3248590,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3248591,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3248592,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001612",
-                        "maktx": "HI PHOS_10L_DE",
-                        "id": 3248593,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3248594,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3248595,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3248596,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3248597,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3248598,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3248599,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3248600,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3248601,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248602,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3248603,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3248604,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3248605,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3248606,
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 3849300,
                         "reportDataId": 27420
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3248607,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001204",
-                        "maktx": "HI PHOS_1000L_GB",
-                        "id": 3248608,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3248609,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11015974",
-                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3248610,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11014903",
-                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3248611,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3248612,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3248613,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3248614,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3248615,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3248616,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3248617,
+                        "id": 3849301,
                         "reportDataId": 27420
                     },
                     {
                         "matnr": "11001575",
                         "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3248618,
+                        "id": 3849302,
                         "reportDataId": 27420
                     },
                     {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3248619,
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849303,
                         "reportDataId": 27420
                     },
                     {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3248620,
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849304,
                         "reportDataId": 27420
                     },
                     {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248621,
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849305,
                         "reportDataId": 27420
                     },
                     {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3248622,
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849306,
                         "reportDataId": 27420
                     },
                     {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3248623,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3248624,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3248625,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3248626,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3248627,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3248628,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3248629,
-                        "reportDataId": 27420
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3248630,
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849307,
                         "reportDataId": 27420
                     },
                     {
                         "matnr": "11005473",
                         "maktx": "HI PHOS_10L_HU",
-                        "id": 3248631,
+                        "id": 3849308,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849309,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849310,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849311,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849312,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849313,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3849314,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849315,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849316,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849317,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3849318,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849319,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849320,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849321,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849322,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849323,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849324,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849325,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849326,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849327,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849328,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849329,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849330,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3849331,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849332,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849333,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849334,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849335,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849336,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849337,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849338,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849339,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849340,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849341,
+                        "reportDataId": 27420
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849342,
                         "reportDataId": 27420
                     }
                 ],
@@ -168170,255 +168182,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3248674,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3248675,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3248676,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001612",
-                        "maktx": "HI PHOS_10L_DE",
-                        "id": 3248677,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3248678,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3248679,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3248680,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3248681,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3248682,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3248683,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3248684,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3248685,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248686,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3248687,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3248688,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3248689,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3248690,
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 3849386,
                         "reportDataId": 27421
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3248691,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001204",
-                        "maktx": "HI PHOS_1000L_GB",
-                        "id": 3248692,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3248693,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11015974",
-                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3248694,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11014903",
-                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3248695,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3248696,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3248697,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3248698,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3248699,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3248700,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3248701,
+                        "id": 3849387,
                         "reportDataId": 27421
                     },
                     {
                         "matnr": "11001575",
                         "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3248702,
+                        "id": 3849388,
                         "reportDataId": 27421
                     },
                     {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3248703,
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849389,
                         "reportDataId": 27421
                     },
                     {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3248704,
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849390,
                         "reportDataId": 27421
                     },
                     {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248705,
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849391,
                         "reportDataId": 27421
                     },
                     {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3248706,
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849392,
                         "reportDataId": 27421
                     },
                     {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3248707,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3248708,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3248709,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3248710,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3248711,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3248712,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3248713,
-                        "reportDataId": 27421
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3248714,
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849393,
                         "reportDataId": 27421
                     },
                     {
                         "matnr": "11005473",
                         "maktx": "HI PHOS_10L_HU",
-                        "id": 3248715,
+                        "id": 3849394,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849395,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849396,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849397,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849398,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849399,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3849400,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849401,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849402,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849403,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3849404,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849405,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849406,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849407,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849408,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849409,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849410,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849411,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849412,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849413,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849414,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849415,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849416,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3849417,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849418,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849419,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849420,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849421,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849422,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849423,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849424,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849425,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849426,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849427,
+                        "reportDataId": 27421
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849428,
                         "reportDataId": 27421
                     }
                 ],
@@ -168454,255 +168472,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001204",
-                        "maktx": "HI PHOS_1000L_GB",
-                        "id": 3248716,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3248717,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3248718,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001612",
-                        "maktx": "HI PHOS_10L_DE",
-                        "id": 3248719,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3248720,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3248721,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3248722,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3248723,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3248724,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3248725,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3248726,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3248727,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248728,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3248729,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3248730,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3248731,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3248732,
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 3849429,
                         "reportDataId": 27422
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3248733,
+                        "id": 3849430,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3248734,
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3849431,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849432,
                         "reportDataId": 27422
                     },
                     {
                         "matnr": "11014903",
                         "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3248735,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3248736,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3248737,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3248738,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3248739,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3248740,
+                        "id": 3849433,
                         "reportDataId": 27422
                     },
                     {
                         "matnr": "11001303",
                         "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3248741,
+                        "id": 3849434,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "11015974",
-                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3248742,
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849435,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3248743,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3248744,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3248745,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3248746,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3248747,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3248748,
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849436,
                         "reportDataId": 27422
                     },
                     {
                         "matnr": "11001575",
                         "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3248749,
+                        "id": 3849437,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3248750,
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849438,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248751,
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849439,
                         "reportDataId": 27422
                     },
                     {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3248752,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3248753,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3248754,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3248755,
-                        "reportDataId": 27422
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3248756,
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849440,
                         "reportDataId": 27422
                     },
                     {
                         "matnr": "11005473",
                         "maktx": "HI PHOS_10L_HU",
-                        "id": 3248757,
+                        "id": 3849441,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849442,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849443,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849444,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849445,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849446,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849447,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849448,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849449,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849450,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849451,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3849452,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849453,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849454,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849455,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849456,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849457,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849458,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849459,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849460,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849461,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849462,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849463,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849464,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849465,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849466,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849467,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849468,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849469,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849470,
+                        "reportDataId": 27422
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849471,
                         "reportDataId": 27422
                     }
                 ],
@@ -174516,255 +174540,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3248758,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3248759,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3248760,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001612",
-                        "maktx": "HI PHOS_10L_DE",
-                        "id": 3248761,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3248762,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3248763,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3248764,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3248765,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3248766,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3248767,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3248768,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3248769,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248770,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3248771,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3248772,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3248773,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3248774,
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 3849472,
                         "reportDataId": 27463
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3248775,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001204",
-                        "maktx": "HI PHOS_1000L_GB",
-                        "id": 3248776,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3248777,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11015974",
-                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3248778,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11014903",
-                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3248779,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3248780,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3248781,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3248782,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3248783,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3248784,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3248785,
+                        "id": 3849473,
                         "reportDataId": 27463
                     },
                     {
                         "matnr": "11001575",
                         "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3248786,
+                        "id": 3849474,
                         "reportDataId": 27463
                     },
                     {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3248787,
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849475,
                         "reportDataId": 27463
                     },
                     {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3248788,
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849476,
                         "reportDataId": 27463
                     },
                     {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248789,
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849477,
                         "reportDataId": 27463
                     },
                     {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3248790,
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849478,
                         "reportDataId": 27463
                     },
                     {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3248791,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3248792,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3248793,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3248794,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3248795,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3248796,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3248797,
-                        "reportDataId": 27463
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3248798,
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849479,
                         "reportDataId": 27463
                     },
                     {
                         "matnr": "11005473",
                         "maktx": "HI PHOS_10L_HU",
-                        "id": 3248799,
+                        "id": 3849480,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849481,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849482,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849483,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849484,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849485,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3849486,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849487,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849488,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849489,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3849490,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849491,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849492,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849493,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849494,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849495,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849496,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849497,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849498,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849499,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849500,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849501,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849502,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3849503,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849504,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849505,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849506,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849507,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849508,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849509,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849510,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849511,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849512,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849513,
+                        "reportDataId": 27463
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849514,
                         "reportDataId": 27463
                     }
                 ],
@@ -179986,255 +180016,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11005473",
-                        "maktx": "HI PHOS_10L_HU",
-                        "id": 3248800,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3248801,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3248802,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3248803,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3248804,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248805,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3248806,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001575",
-                        "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3248807,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3248808,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3248809,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3248810,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3248811,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3248812,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3248813,
-                        "reportDataId": 27487
-                    },
-                    {
                         "matnr": "11015974",
                         "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3248814,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3248815,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3248816,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3248817,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3248818,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3248819,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11014903",
-                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3248820,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3248821,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3248822,
+                        "id": 3849515,
                         "reportDataId": 27487
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3248823,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3248824,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3248825,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3248826,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3248827,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3248828,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3248829,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3248830,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3248831,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3248832,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3248833,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3248834,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3248835,
-                        "reportDataId": 27487
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3248836,
+                        "id": 3849516,
                         "reportDataId": 27487
                     },
                     {
                         "matnr": "11001612",
                         "maktx": "HI PHOS_10L_DE",
-                        "id": 3248837,
+                        "id": 3849517,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849518,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3849519,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849520,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849521,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849522,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001575",
+                        "maktx": "HI PHOS_10L_EG_TIBA",
+                        "id": 3849523,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849524,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849525,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849526,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 3849527,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849528,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849529,
                         "reportDataId": 27487
                     },
                     {
                         "matnr": "11001413",
                         "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3248838,
+                        "id": 3849530,
                         "reportDataId": 27487
                     },
                     {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3248839,
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849531,
                         "reportDataId": 27487
                     },
                     {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3248840,
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849532,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849533,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849534,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849535,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849536,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849537,
                         "reportDataId": 27487
                     },
                     {
                         "matnr": "11001204",
                         "maktx": "HI PHOS_1000L_GB",
-                        "id": 3248841,
+                        "id": 3849538,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849539,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849540,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849541,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849542,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849543,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849544,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849545,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849546,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849547,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849548,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849549,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849550,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849551,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849552,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849553,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849554,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849555,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849556,
+                        "reportDataId": 27487
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849557,
                         "reportDataId": 27487
                     }
                 ],
@@ -200900,255 +200936,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3273114,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3273115,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3273116,
-                        "reportDataId": 27568
-                    },
-                    {
                         "matnr": "11015974",
                         "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3273117,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11003089",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3273118,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11005473",
-                        "maktx": "HI PHOS_10L_HU",
-                        "id": 3273119,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3273120,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3273121,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3273122,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3273123,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001430",
-                        "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3273124,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3273125,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3273126,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3273127,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3273128,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3273129,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3273130,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3273131,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001204",
-                        "maktx": "HI PHOS_1000L_GB",
-                        "id": 3273132,
+                        "id": 3849558,
                         "reportDataId": 27568
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3273133,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3273134,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3273135,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3273136,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3273137,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3273138,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3273139,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3273140,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3273141,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3273142,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3273143,
+                        "id": 3849559,
                         "reportDataId": 27568
                     },
                     {
                         "matnr": "11001612",
                         "maktx": "HI PHOS_10L_DE",
-                        "id": 3273144,
+                        "id": 3849560,
                         "reportDataId": 27568
                     },
                     {
-                        "matnr": "11001575",
-                        "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3273145,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3273146,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3273147,
-                        "reportDataId": 27568
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3273148,
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849561,
                         "reportDataId": 27568
                     },
                     {
                         "matnr": "11014903",
                         "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3273149,
+                        "id": 3849562,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849563,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849564,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849565,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001575",
+                        "maktx": "HI PHOS_10L_EG_TIBA",
+                        "id": 3849566,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849567,
                         "reportDataId": 27568
                     },
                     {
                         "matnr": "11014989",
                         "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3273150,
+                        "id": 3849568,
                         "reportDataId": 27568
                     },
                     {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3273151,
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849569,
                         "reportDataId": 27568
                     },
                     {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3273152,
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 3849570,
                         "reportDataId": 27568
                     },
                     {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3273153,
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849571,
                         "reportDataId": 27568
                     },
                     {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3273154,
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849572,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849573,
                         "reportDataId": 27568
                     },
                     {
                         "matnr": "11008742",
                         "maktx": "HI PHOS_20L_FR",
-                        "id": 3273155,
+                        "id": 3849574,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849575,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849576,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849577,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849578,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849579,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849580,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 3849581,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849582,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849583,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849584,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849585,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849586,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 3849587,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849588,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849589,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849590,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849591,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849592,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849593,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849594,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849595,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849596,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849597,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849598,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849599,
+                        "reportDataId": 27568
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849600,
                         "reportDataId": 27568
                     }
                 ],
@@ -205911,7 +205953,7 @@
                 "productname": "ERASE\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "TEBUCONAZOLE 200 G/L EC (NMP-FREE)",
+                "tradename": "ERASE",
                 "casnumber": "",
                 "commercialnames": "TEB 200 g/L EC (v2)",
                 "cmr": "",
@@ -205930,57 +205972,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015738",
-                        "maktx": "RIZA 200EC_5L_HU",
-                        "id": 3339623,
-                        "reportDataId": 27644
-                    },
-                    {
-                        "matnr": "11000433",
-                        "maktx": "SPARTA 200EC_5L_SK",
-                        "id": 3339624,
-                        "reportDataId": 27644
-                    },
-                    {
                         "matnr": "11002494",
                         "maktx": "SPARTA_5L_ES",
-                        "id": 3339625,
-                        "reportDataId": 27644
-                    },
-                    {
-                        "matnr": "12002245",
-                        "maktx": "TEB 200EC_200L_RO_BYER",
-                        "id": 3339626,
-                        "reportDataId": 27644
-                    },
-                    {
-                        "matnr": "11015153",
-                        "maktx": "RIZA 200EC_5L_LV_AUGU",
-                        "id": 3339627,
+                        "id": 3850316,
                         "reportDataId": 27644
                     },
                     {
                         "matnr": "12000142",
                         "maktx": "TEB 200EC_1000L_RO_7C",
-                        "id": 3339628,
+                        "id": 3850317,
                         "reportDataId": 27644
                     },
                     {
-                        "matnr": "12000143",
-                        "maktx": "TEB 200EC_TC_RO_BYER",
-                        "id": 3339629,
+                        "matnr": "12002245",
+                        "maktx": "TEB 200EC_200L_RO_BYER",
+                        "id": 3850318,
                         "reportDataId": 27644
                     },
                     {
-                        "matnr": "11002582",
-                        "maktx": "RIZA EC_10L_BE",
-                        "id": 3339630,
+                        "matnr": "11000433",
+                        "maktx": "SPARTA 200EC_5L_SK",
+                        "id": 3850319,
                         "reportDataId": 27644
                     },
                     {
                         "matnr": "12001957",
                         "maktx": "TEB 200EC_RO_BYER",
-                        "id": 3339631,
+                        "id": 3850320,
+                        "reportDataId": 27644
+                    },
+                    {
+                        "matnr": "12000143",
+                        "maktx": "TEB 200EC_TC_RO_BYER",
+                        "id": 3850321,
+                        "reportDataId": 27644
+                    },
+                    {
+                        "matnr": "11015153",
+                        "maktx": "RIZA 200EC_5L_LV_AUGU",
+                        "id": 3850322,
+                        "reportDataId": 27644
+                    },
+                    {
+                        "matnr": "11002582",
+                        "maktx": "RIZA EC_10L_BE",
+                        "id": 3850323,
+                        "reportDataId": 27644
+                    },
+                    {
+                        "matnr": "11015738",
+                        "maktx": "RIZA 200EC_5L_HU",
+                        "id": 3850324,
                         "reportDataId": 27644
                     }
                 ],
@@ -207438,255 +207480,261 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008880",
-                        "maktx": "HI PHOS EC_1L_EC",
-                        "id": 3433037,
-                        "reportDataId": 27664
-                    },
-                    {
                         "matnr": "11015974",
                         "maktx": "VYTEGRIS HI-PHOS_10L_IT",
-                        "id": 3433038,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001203",
-                        "maktx": "HI PHOS_10L_NL_AGVI",
-                        "id": 3433039,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11015989",
-                        "maktx": "HI PHOS_20L_DZ_CASAP",
-                        "id": 3433040,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11000771",
-                        "maktx": "HI PHOS_5L_GR",
-                        "id": 3433041,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001469",
-                        "maktx": "HI-PHOS_640L_FI_BERNER",
-                        "id": 3433042,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001205",
-                        "maktx": "HI-PHOS_10L_GB",
-                        "id": 3433043,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11014903",
-                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
-                        "id": 3433044,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001303",
-                        "maktx": "HI-PHOS_1000L_CR",
-                        "id": 3433045,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11014822",
-                        "maktx": "HI PHOS_10L_AT",
-                        "id": 3433046,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11016002",
-                        "maktx": "HI PHOS_1L_DZ_CASAP",
-                        "id": 3433047,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001202",
-                        "maktx": "HI PHOS_1L_IQ_REEF",
-                        "id": 3433048,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11003060",
-                        "maktx": "HI PHOS_1000L_TW",
-                        "id": 3433049,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11008881",
-                        "maktx": "HI PHOS EC_500CC_EC",
-                        "id": 3433050,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001413",
-                        "maktx": "HI PHOS_5L_DZ_AGSE",
-                        "id": 3433051,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001463",
-                        "maktx": "HI PHOS_10L_FR",
-                        "id": 3433052,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001486",
-                        "maktx": "HI PHOS_1000L_DE",
-                        "id": 3433053,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11007264",
-                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
-                        "id": 3433054,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001089",
-                        "maktx": "HI PHOS_10L_ES",
-                        "id": 3433055,
+                        "id": 3849601,
                         "reportDataId": 27664
                     },
                     {
                         "matnr": "11001604",
                         "maktx": "HI PHOS_5L_TN_AGDI",
-                        "id": 3433056,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11015988",
-                        "maktx": "HI PHOS_5L_DZ_CASAP",
-                        "id": 3433057,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001414",
-                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
-                        "id": 3433058,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11008742",
-                        "maktx": "HI PHOS_20L_FR",
-                        "id": 3433059,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001612",
-                        "maktx": "HI PHOS_10L_DE",
-                        "id": 3433060,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001206",
-                        "maktx": "HI PHOS_600L_GB",
-                        "id": 3433061,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11008892",
-                        "maktx": "HI PHOS EC_250CC_EC",
-                        "id": 3433062,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "12000248",
-                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
-                        "id": 3433063,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001289",
-                        "maktx": "HI PHOS_1000L_GR",
-                        "id": 3433064,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "12001165",
-                        "maktx": "0-44-7.4-TE SL_FL_ALL",
-                        "id": 3433065,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11014989",
-                        "maktx": "HI-PHOS_1000L_HU",
-                        "id": 3433066,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001478",
-                        "maktx": "HI PHOS_20L_DZ_AGSE",
-                        "id": 3433067,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001487",
-                        "maktx": "HI-PHOS_1000L_EC",
-                        "id": 3433068,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001233",
-                        "maktx": "HI-PHOS_1000L_PK_SWAT",
-                        "id": 3433069,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001255",
-                        "maktx": "HI PHOS_10L_PL",
-                        "id": 3433070,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11005473",
-                        "maktx": "HI PHOS_10L_HU",
-                        "id": 3433071,
+                        "id": 3849602,
                         "reportDataId": 27664
                     },
                     {
                         "matnr": "11001575",
                         "maktx": "HI PHOS_10L_EG_TIBA",
-                        "id": 3433072,
+                        "id": 3849603,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 3849604,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 3849605,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 3849606,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 3849607,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 3849608,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 3849609,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 3849610,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 3849611,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 3849612,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 3849613,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 3849614,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 3849615,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 3849616,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 3849617,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 3849618,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 3849619,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 3849620,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 3849621,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 3849622,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 3849623,
                         "reportDataId": 27664
                     },
                     {
                         "matnr": "11001430",
                         "maktx": "HI-PHOS_10L_FI_BERNER",
-                        "id": 3433073,
+                        "id": 3849624,
                         "reportDataId": 27664
                     },
                     {
-                        "matnr": "11001556",
-                        "maktx": "HI PHOS_1L_CN",
-                        "id": 3433074,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11001641",
-                        "maktx": "HI PHOS_1L_TN_AGDI",
-                        "id": 3433075,
-                        "reportDataId": 27664
-                    },
-                    {
-                        "matnr": "11009110",
-                        "maktx": "HI-PHOS_1L_TW",
-                        "id": 3433076,
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 3849625,
                         "reportDataId": 27664
                     },
                     {
                         "matnr": "11003089",
                         "maktx": "HI PHOS_1000L_DE",
-                        "id": 3433077,
+                        "id": 3849626,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 3849627,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 3849628,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 3849629,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 3849630,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 3849631,
                         "reportDataId": 27664
                     },
                     {
                         "matnr": "11001204",
                         "maktx": "HI PHOS_1000L_GB",
-                        "id": 3433078,
+                        "id": 3849632,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 3849633,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 3849634,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 3849635,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 3849636,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 3849637,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 3849638,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 3849639,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 3849640,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 3849641,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 3849642,
+                        "reportDataId": 27664
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 3849643,
                         "reportDataId": 27664
                     }
                 ],
@@ -237265,6 +237313,82 @@
                     }
                 ],
                 "id": 27785
+            },
+            {
+                "pdfname": "50003037_SDS_BG_6N.PDF",
+                "specificationid": "50003037",
+                "path": "\\\\172.18.22.6\\sds_external/50003037_SDS_BG_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "PROMINO XTRA (\u041f\u0420\u041e\u041c\u0418\u041d\u041e \u0415\u041a\u0421\u0422\u0420\u0410)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PROMINO XTRA (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "11/05/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/05/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016358",
+                        "maktx": "PROMINO XTRA_5L_RO",
+                        "id": 3849981,
+                        "reportDataId": 27786
+                    }
+                ],
+                "id": 27786
+            },
+            {
+                "pdfname": "50003037_SDS_BG_BG.PDF",
+                "specificationid": "50003037",
+                "path": "\\\\172.18.22.6\\sds_external/50003037_SDS_BG_BG.PDF",
+                "reptype": "MSDS",
+                "language": "BG",
+                "genvariant": "SDS_BG",
+                "authorizedportal": "P3",
+                "productname": "PROMINO XTRA (\u041f\u0420\u041e\u041c\u0418\u041d\u041e \u0415\u041a\u0421\u0422\u0420\u0410)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PROMINO XTRA (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "11/05/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BG",
+                "validityareadescription": "Bulgaria",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/05/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016358",
+                        "maktx": "PROMINO XTRA_5L_RO",
+                        "id": 3849982,
+                        "reportDataId": 27787
+                    }
+                ],
+                "id": 27787
             }
         ],
         "isExportToExcel": false
