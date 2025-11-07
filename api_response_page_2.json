@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6091,
+        "totalCount": 6094,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,316 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50002421_SDS_FR_FR.PDF",
-                "specificationid": "50002421",
-                "path": "\\\\172.18.22.6\\sds_external/50002421_SDS_FR_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "SDS_FR",
-                "authorizedportal": "P3",
-                "productname": "LM VERSION 1.2",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "",
-                "cmr": "",
-                "publishdate": "10/08/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "FR",
-                "validityareadescription": "France",
-                "legacyspecid": "LM v1.2",
-                "legacysdsid": "LM VERSION 1.2 DE-A",
-                "revisiondate": "10/08/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003567",
-                        "maktx": "LM VERSION 1.2_20KG_DE",
-                        "id": 2017008,
-                        "reportDataId": 26661
-                    }
-                ],
-                "id": 26661
-            },
-            {
-                "pdfname": "50000142_SDS_HR_HR.PDF",
-                "specificationid": "50000142",
-                "path": "\\\\172.18.22.6\\sds_external/50000142_SDS_HR_HR.PDF",
-                "reptype": "MSDS",
-                "language": "HR",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "HARMONY\u00ae SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AFFINITY 1 50SG (M)",
-                "casnumber": "",
-                "commercialnames": "TIM 50 SG",
-                "cmr": "",
-                "publishdate": "10/09/2024",
-                "iupac": "",
-                "incode": "M6316",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "S-12.2",
-                "legacysdsid": "130000000398",
-                "revisiondate": "10/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015491",
-                        "maktx": "PINNACLE SG_240G_CA",
-                        "id": 2446213,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "12002109",
-                        "maktx": "TIM 500SG_50KG_UF_ALL",
-                        "id": 2446214,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11009410",
-                        "maktx": "HARMONY SG W-TOT SOL_540LB_US",
-                        "id": 2446215,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11009403",
-                        "maktx": "HARMONY SG W-TOT SOL_35LB_US",
-                        "id": 2446216,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11000629",
-                        "maktx": "HARMONY 50SX_50KG_CA",
-                        "id": 2446217,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11014682",
-                        "maktx": "HARMONY 50SX_10G_IT",
-                        "id": 2446218,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11005564",
-                        "maktx": "HARMONY 50SG_150G_NZ",
-                        "id": 2446219,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11005807",
-                        "maktx": "HARMONY 50SG_100G_RO",
-                        "id": 2446220,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006020",
-                        "maktx": "HARMONY SX_45G_AT",
-                        "id": 2446221,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11005566",
-                        "maktx": "HARMONY PASTURE_100G_BE LU",
-                        "id": 2446222,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "12002121",
-                        "maktx": "TIM 500SG_500KG_UF_ALL",
-                        "id": 2446223,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006406",
-                        "maktx": "HARMONY SX_100G_NL",
-                        "id": 2446224,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11009636",
-                        "maktx": "REFINE SX_30G_IT_BASF",
-                        "id": 2446225,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "12001065",
-                        "maktx": "TIM 500SG_500KG_CA_UF_ALL",
-                        "id": 2446226,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11000070",
-                        "maktx": "HARMONY 50SX_100G_ES",
-                        "id": 2446227,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11007369",
-                        "maktx": "HARMONY 50SX_10G_IT",
-                        "id": 2446228,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11015622",
-                        "maktx": "REFINE SX_10G_IT_CORTEVA",
-                        "id": 2446229,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006230",
-                        "maktx": "HARMONY SX_90G_FR",
-                        "id": 2446230,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006365",
-                        "maktx": "HARMONY 50SX_100G_DK",
-                        "id": 2446231,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006366",
-                        "maktx": "HARMONY 50SX_100G_SE",
-                        "id": 2446232,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11005876",
-                        "maktx": "HARMONY 50SX_15G_ES",
-                        "id": 2446233,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11003463",
-                        "maktx": "HARMONY SG W/TOTAL 200LB_US",
-                        "id": 2446234,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006466",
-                        "maktx": "HARMONY 50SX_45G_SI_PICOUNT",
-                        "id": 2446235,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006452",
-                        "maktx": "HARMONY 50SX_20G_IT",
-                        "id": 2446236,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006154",
-                        "maktx": "HARMONY SG W-TOTALSOL SOL_5OZ_US",
-                        "id": 2446237,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006563",
-                        "maktx": "REFINE 50SX_90G_CZ",
-                        "id": 2446238,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "12002124",
-                        "maktx": "TIM 500SG_50KG_UF_ALL",
-                        "id": 2446239,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11000023",
-                        "maktx": "HARMONY SX_45G_CH_STAHLER",
-                        "id": 2446240,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006451",
-                        "maktx": "HARMONY 50SX_10G_IT",
-                        "id": 2446241,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11016361",
-                        "maktx": "HARMONY 50SG_100G_MD",
-                        "id": 2446242,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006367",
-                        "maktx": "HARMONY 50SX_100G_NO",
-                        "id": 2446243,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11005801",
-                        "maktx": "HARMONY SX_90G_DE",
-                        "id": 2446244,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11014691",
-                        "maktx": "HARMONY 50SX_10G_ES",
-                        "id": 2446245,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006144",
-                        "maktx": "REFINE 50SX_100G_HU",
-                        "id": 2446246,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006361",
-                        "maktx": "HARMONY SX_90G_AT",
-                        "id": 2446247,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006397",
-                        "maktx": "HARMONY SX_45G_HR_AGROCHEM MAKS",
-                        "id": 2446248,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "12001504",
-                        "maktx": "HARMONY 50SX KG BULK",
-                        "id": 2446249,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006198",
-                        "maktx": "HARMONY 50SX_100G_FI",
-                        "id": 2446250,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11006194",
-                        "maktx": "REFINE 50SX_90G_SK",
-                        "id": 2446251,
-                        "reportDataId": 26663
-                    },
-                    {
-                        "matnr": "11016460",
-                        "maktx": "HARMONY 50SX_100G_IT",
-                        "id": 2446252,
-                        "reportDataId": 26663
-                    }
-                ],
-                "id": 26663
-            },
             {
                 "pdfname": "50000142_SDS_HR_6N.PDF",
                 "specificationid": "50000142",
@@ -20692,117 +20382,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12000448",
-                        "maktx": "AZO 250SC_ST_PA",
-                        "id": 2195226,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002640",
-                        "maktx": "AZAKA_5L_CZ",
-                        "id": 2195227,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11005679",
-                        "maktx": "AZOXY 250SC_5L_MUL",
-                        "id": 2195228,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002668",
-                        "maktx": "AZAKA_1L_ES",
-                        "id": 2195229,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11008985",
-                        "maktx": "AZAKA_200L",
-                        "id": 2195230,
-                        "reportDataId": 26794
-                    },
-                    {
                         "matnr": "11001764",
                         "maktx": "IRIBIS_5L_CZ",
-                        "id": 2195231,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11001283",
-                        "maktx": "AZAKA_5L_BE_PROTEX",
-                        "id": 2195232,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "12001118",
-                        "maktx": "AZO 250SC_ST_SYT",
-                        "id": 2195233,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11001716",
-                        "maktx": "AZAKA_1L_RO",
-                        "id": 2195234,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002627",
-                        "maktx": "AZAKA_5L_ES",
-                        "id": 2195235,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002497",
-                        "maktx": "AZAKA_5L_SK",
-                        "id": 2195236,
+                        "id": 3851064,
                         "reportDataId": 26794
                     },
                     {
                         "matnr": "11002293",
                         "maktx": "AZAKA_5L_GB",
-                        "id": 2195237,
+                        "id": 3851065,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11014464",
+                        "maktx": "AZAKA_1000ML_TW",
+                        "id": 3851066,
                         "reportDataId": 26794
                     },
                     {
                         "matnr": "11002241",
                         "maktx": "AZAKA_1L_IT",
-                        "id": 2195238,
+                        "id": 3851067,
                         "reportDataId": 26794
                     },
                     {
-                        "matnr": "11000746",
-                        "maktx": "AZAKA_5L_HU",
-                        "id": 2195239,
+                        "matnr": "11014482",
+                        "maktx": "AZAKA_500ML_TW",
+                        "id": 3851068,
                         "reportDataId": 26794
                     },
                     {
-                        "matnr": "11002424",
-                        "maktx": "TORERO_5L_DE",
-                        "id": 2195240,
+                        "matnr": "11002497",
+                        "maktx": "AZAKA_5L_SK",
+                        "id": 3851069,
                         "reportDataId": 26794
                     },
                     {
-                        "matnr": "11004818",
-                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
-                        "id": 2195241,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11014214",
-                        "maktx": "AZAKA_5L_BG",
-                        "id": 2195242,
+                        "matnr": "11002668",
+                        "maktx": "AZAKA_1L_ES",
+                        "id": 3851070,
                         "reportDataId": 26794
                     },
                     {
                         "matnr": "11002626",
                         "maktx": "AZAKA_5L_PT",
-                        "id": 2195243,
+                        "id": 3851071,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11001716",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 3851072,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11014214",
+                        "maktx": "AZAKA_5L_BG",
+                        "id": 3851073,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11002627",
+                        "maktx": "AZAKA_5L_ES",
+                        "id": 3851074,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11005679",
+                        "maktx": "AZOXY 250SC_5L_MUL",
+                        "id": 3851075,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11002424",
+                        "maktx": "TORERO_5L_DE",
+                        "id": 3851076,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11004818",
+                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
+                        "id": 3851077,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "12000448",
+                        "maktx": "AZO 250SC_ST_PA",
+                        "id": 3851078,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "12001118",
+                        "maktx": "AZO 250SC_ST_SYT",
+                        "id": 3851079,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11001283",
+                        "maktx": "AZAKA_5L_BE_PROTEX",
+                        "id": 3851080,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11002640",
+                        "maktx": "AZAKA_5L_CZ",
+                        "id": 3851081,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11008985",
+                        "maktx": "AZAKA_200L",
+                        "id": 3851082,
                         "reportDataId": 26794
                     },
                     {
                         "matnr": "12006502",
                         "maktx": "AZO 250SC_PHY_SYT",
-                        "id": 2195244,
+                        "id": 3851083,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11010731",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 3851084,
+                        "reportDataId": 26794
+                    },
+                    {
+                        "matnr": "11000746",
+                        "maktx": "AZAKA_5L_HU",
+                        "id": 3851085,
                         "reportDataId": 26794
                     }
                 ],
@@ -150007,135 +149715,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001283",
-                        "maktx": "AZAKA_5L_BE_PROTEX",
-                        "id": 3114742,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11004818",
-                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
-                        "id": 3114743,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002497",
-                        "maktx": "AZAKA_5L_SK",
-                        "id": 3114744,
-                        "reportDataId": 27327
-                    },
-                    {
                         "matnr": "11001764",
                         "maktx": "IRIBIS_5L_CZ",
-                        "id": 3114745,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11001716",
-                        "maktx": "AZAKA_1L_RO",
-                        "id": 3114746,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11005679",
-                        "maktx": "AZOXY 250SC_5L_MUL",
-                        "id": 3114747,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002668",
-                        "maktx": "AZAKA_1L_ES",
-                        "id": 3114748,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "12006502",
-                        "maktx": "AZO 250SC_PHY_SYT",
-                        "id": 3114749,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002640",
-                        "maktx": "AZAKA_5L_CZ",
-                        "id": 3114750,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11014214",
-                        "maktx": "AZAKA_5L_BG",
-                        "id": 3114751,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "12000448",
-                        "maktx": "AZO 250SC_ST_PA",
-                        "id": 3114752,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002627",
-                        "maktx": "AZAKA_5L_ES",
-                        "id": 3114753,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002241",
-                        "maktx": "AZAKA_1L_IT",
-                        "id": 3114754,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11008985",
-                        "maktx": "AZAKA_200L",
-                        "id": 3114755,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002626",
-                        "maktx": "AZAKA_5L_PT",
-                        "id": 3114756,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11000746",
-                        "maktx": "AZAKA_5L_HU",
-                        "id": 3114757,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11002424",
-                        "maktx": "TORERO_5L_DE",
-                        "id": 3114758,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "11014482",
-                        "maktx": "AZAKA_500ML_TW",
-                        "id": 3114759,
-                        "reportDataId": 27327
-                    },
-                    {
-                        "matnr": "12001118",
-                        "maktx": "AZO 250SC_ST_SYT",
-                        "id": 3114760,
+                        "id": 3851086,
                         "reportDataId": 27327
                     },
                     {
                         "matnr": "11002293",
                         "maktx": "AZAKA_5L_GB",
-                        "id": 3114761,
+                        "id": 3851087,
                         "reportDataId": 27327
                     },
                     {
                         "matnr": "11014464",
                         "maktx": "AZAKA_1000ML_TW",
-                        "id": 3114762,
+                        "id": 3851088,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002241",
+                        "maktx": "AZAKA_1L_IT",
+                        "id": 3851089,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11014482",
+                        "maktx": "AZAKA_500ML_TW",
+                        "id": 3851090,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002497",
+                        "maktx": "AZAKA_5L_SK",
+                        "id": 3851091,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002668",
+                        "maktx": "AZAKA_1L_ES",
+                        "id": 3851092,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002626",
+                        "maktx": "AZAKA_5L_PT",
+                        "id": 3851093,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11001716",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 3851094,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11014214",
+                        "maktx": "AZAKA_5L_BG",
+                        "id": 3851095,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002627",
+                        "maktx": "AZAKA_5L_ES",
+                        "id": 3851096,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11005679",
+                        "maktx": "AZOXY 250SC_5L_MUL",
+                        "id": 3851097,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002424",
+                        "maktx": "TORERO_5L_DE",
+                        "id": 3851098,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11004818",
+                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
+                        "id": 3851099,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "12000448",
+                        "maktx": "AZO 250SC_ST_PA",
+                        "id": 3851100,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "12001118",
+                        "maktx": "AZO 250SC_ST_SYT",
+                        "id": 3851101,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11001283",
+                        "maktx": "AZAKA_5L_BE_PROTEX",
+                        "id": 3851102,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11002640",
+                        "maktx": "AZAKA_5L_CZ",
+                        "id": 3851103,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11008985",
+                        "maktx": "AZAKA_200L",
+                        "id": 3851104,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "12006502",
+                        "maktx": "AZO 250SC_PHY_SYT",
+                        "id": 3851105,
                         "reportDataId": 27327
                     },
                     {
                         "matnr": "11010731",
                         "maktx": "AZAKA_1L_RO",
-                        "id": 3114763,
+                        "id": 3851106,
+                        "reportDataId": 27327
+                    },
+                    {
+                        "matnr": "11000746",
+                        "maktx": "AZAKA_5L_HU",
+                        "id": 3851107,
                         "reportDataId": 27327
                     }
                 ],
@@ -237389,6 +237097,333 @@
                     }
                 ],
                 "id": 27787
+            },
+            {
+                "pdfname": "50002096_EXT_SDS_LT_LT.PDF",
+                "specificationid": "50002096",
+                "path": "\\\\172.18.22.6\\sds_external/50002096_EXT_SDS_LT_LT.PDF",
+                "reptype": "MSDS",
+                "language": "LT",
+                "genvariant": "EXT_SDS_LT",
+                "authorizedportal": "P3",
+                "productname": "TORERO\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "AZO 250 g/L SC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/06/2025",
+                "iupac": "",
+                "incode": "YH688",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "LT",
+                "validityareadescription": "Lithuania",
+                "legacyspecid": "FO002267",
+                "legacysdsid": "FO002267-A",
+                "revisiondate": "11/06/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27788
+            },
+            {
+                "pdfname": "50000813_SDS_LT_LT.PDF",
+                "specificationid": "50000813",
+                "path": "\\\\172.18.22.6\\sds_external/50000813_SDS_LT_LT.PDF",
+                "reptype": "MSDS",
+                "language": "LT",
+                "genvariant": "SDS_LT",
+                "authorizedportal": "P3",
+                "productname": "NOVITRON\u00ae DAM TEC\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "ACF + CLZ (50 + 3) WG",
+                "cmr": "",
+                "publishdate": "11/06/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "LT",
+                "validityareadescription": "Lithuania",
+                "legacyspecid": "FO004134",
+                "legacysdsid": "",
+                "revisiondate": "11/06/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005514",
+                        "maktx": "NOVITRON DAM TEC_12KG_NL",
+                        "id": 3851130,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11009875",
+                        "maktx": "NOVITRON DAM TEC_12KG_DE",
+                        "id": 3851131,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11016249",
+                        "maktx": "NOVITRON DAM TEC_10KG_NL",
+                        "id": 3851132,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11003595",
+                        "maktx": "TOUTATIS DAM TEC WG_5KG_BE",
+                        "id": 3851133,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11008008",
+                        "maktx": "NOVITRON_5KG_DK",
+                        "id": 3851134,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11000400",
+                        "maktx": "TOUTATIS DAMTEC_12KG_BE",
+                        "id": 3851135,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11003622",
+                        "maktx": "NOVITR DT 50WG_5KG_MUL",
+                        "id": 3851136,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11009876",
+                        "maktx": "NOVITRON DAMTEC_12KG_AT",
+                        "id": 3851137,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11000374",
+                        "maktx": "NOVITRON DAM TEC_12KG_BE",
+                        "id": 3851138,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11016203",
+                        "maktx": "TOUTATIS DAMTEC_10KG_BE",
+                        "id": 3851139,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11014932",
+                        "maktx": "TOUTATIS DAMTEC_12KG_CZ SK",
+                        "id": 3851140,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11014639",
+                        "maktx": "NOVITRON DAM TEC_12KG_MUL",
+                        "id": 3851141,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11008038",
+                        "maktx": "NOVITRON DAMTEC_5KG_AT",
+                        "id": 3851142,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11013532",
+                        "maktx": "TOUTATIS DAMTEC_12KG_LV_AUGU",
+                        "id": 3851143,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "12001664",
+                        "maktx": "CLZ-ACF MUP_MUL_EXW_JL BYER",
+                        "id": 3851144,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11013928",
+                        "maktx": "TOUTATIS DAMTEC_12KG_CZ",
+                        "id": 3851145,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11014012",
+                        "maktx": "TOUTATIS DAM TEC_12KG_SK",
+                        "id": 3851146,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11005409",
+                        "maktx": "NOVITRON DAM TEC_12KG_DK",
+                        "id": 3851147,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "12001019",
+                        "maktx": "CLZ - ACF MUP_EXW_CYND BASF",
+                        "id": 3851148,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "12006281",
+                        "maktx": "CLZ 30 + ACF 500WG _BE_EXW_JL BYER",
+                        "id": 3851149,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11007852",
+                        "maktx": "NOVITRON_5KG_BE_BCP",
+                        "id": 3851150,
+                        "reportDataId": 27789
+                    },
+                    {
+                        "matnr": "11007888",
+                        "maktx": "NOVITRON DAM TEC_12KG_LT EE",
+                        "id": 3851151,
+                        "reportDataId": 27789
+                    }
+                ],
+                "id": 27789
+            },
+            {
+                "pdfname": "50002759_EXT_SDS_LT_LT.PDF",
+                "specificationid": "50002759",
+                "path": "\\\\172.18.22.6\\sds_external/50002759_EXT_SDS_LT_LT.PDF",
+                "reptype": "MSDS",
+                "language": "LT",
+                "genvariant": "EXT_SDS_LT",
+                "authorizedportal": "P3",
+                "productname": "TOUTATIS\u00ae DAM TEC\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "ACF + CLZ (50 + 3) WG (CHILD)",
+                "cmr": "",
+                "publishdate": "11/06/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "LT",
+                "validityareadescription": "Lithuania",
+                "legacyspecid": "FO004134",
+                "legacysdsid": "",
+                "revisiondate": "11/06/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013532",
+                        "maktx": "TOUTATIS DAMTEC_12KG_LV_AUGU",
+                        "id": 3851152,
+                        "reportDataId": 27790
+                    },
+                    {
+                        "matnr": "11000400",
+                        "maktx": "TOUTATIS DAMTEC_12KG_BE",
+                        "id": 3851153,
+                        "reportDataId": 27790
+                    },
+                    {
+                        "matnr": "11003595",
+                        "maktx": "TOUTATIS DAM TEC WG_5KG_BE",
+                        "id": 3851154,
+                        "reportDataId": 27790
+                    }
+                ],
+                "id": 27790
+            },
+            {
+                "pdfname": "50000362_SDS_US_1X.PDF",
+                "specificationid": "50000362",
+                "path": "\\\\172.18.22.6\\sds_external/50000362_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Talstar\u00ae 20 g/L ULV",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "TALSTAR 20 G/L ULV",
+                "casnumber": "",
+                "commercialnames": "BIF 20 g/L UL",
+                "cmr": "",
+                "publishdate": "11/06/2025",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000046",
+                "legacysdsid": "",
+                "revisiondate": "11/06/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001904",
+                        "maktx": "BIF 20ULV_?_?_?",
+                        "id": 3851155,
+                        "reportDataId": 27791
+                    },
+                    {
+                        "matnr": "11007859",
+                        "maktx": "TALSTAR 20ULV_200L_ET_FS PLC",
+                        "id": 3851156,
+                        "reportDataId": 27791
+                    }
+                ],
+                "id": 27791
+            },
+            {
+                "pdfname": "50003115_SDS_ES_ES.PDF",
+                "specificationid": "50003115",
+                "path": "\\\\172.18.22.6\\sds_external/50003115_SDS_ES_ES.PDF",
+                "reptype": "MSDS",
+                "language": "ES",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "ZATO",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "ZATO (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "11/06/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Espa\u00f1a",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/06/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016721",
+                        "maktx": "ZATO_300G_ES",
+                        "id": 3851159,
+                        "reportDataId": 27792
+                    }
+                ],
+                "id": 27792
             }
         ],
         "isExportToExcel": false
