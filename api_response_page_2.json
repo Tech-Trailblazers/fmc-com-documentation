@@ -58,634 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000661_SDS_HR_HR.PDF",
-                "specificationid": "50000661",
-                "path": "\\\\172.18.22.6\\sds_external/50000661_SDS_HR_HR.PDF",
-                "reptype": "MSDS",
-                "language": "HR",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "KOBAN\u00ae 600",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "BE PROTEX",
-                "casnumber": "",
-                "commercialnames": "PXA 600 g/L EC",
-                "cmr": "",
-                "publishdate": "10/09/2024",
-                "iupac": "",
-                "incode": "45263",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO002146",
-                "legacysdsid": "",
-                "revisiondate": "10/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000360",
-                        "maktx": "PXA 600EC_CZ_ST_RO",
-                        "id": 3245695,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001537",
-                        "maktx": "FORMAX_5L_BE_PROTEX",
-                        "id": 3245696,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015772",
-                        "maktx": "INDAVIUS_5L_PT_SYN",
-                        "id": 3245697,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001588",
-                        "maktx": "PETHOXAMIDE_1000L_MUL",
-                        "id": 3245698,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001319",
-                        "maktx": "QUANTUM_6L_DE",
-                        "id": 3245699,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11014468",
-                        "maktx": "SUCCESSOR 600_5L_FR",
-                        "id": 3245700,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001217",
-                        "maktx": "SUCCESSOR 600_5L_ES",
-                        "id": 3245701,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015980",
-                        "maktx": "KOBAN_1L_IT",
-                        "id": 3245702,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015932",
-                        "maktx": "SUCCESSOR_5L_RS",
-                        "id": 3245703,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11003848",
-                        "maktx": "SUCCESSOR 600_5L_BE LU",
-                        "id": 3245704,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11000366",
-                        "maktx": "SUCCESSOR 600_5L_AT",
-                        "id": 3245705,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11014424",
-                        "maktx": "SUCCESSOR 600_5L_SI_KARSIA",
-                        "id": 3245706,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11013660",
-                        "maktx": "DEBASCO_5L_TR",
-                        "id": 3245707,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001238",
-                        "maktx": "SUCCESSOR 600EC_5L_FR",
-                        "id": 3245708,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001372",
-                        "maktx": "QUANTUM EVO_5L_ES",
-                        "id": 3245709,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11016031",
-                        "maktx": "DUAL NEXT_5L_HU_SYNGENTA",
-                        "id": 3245710,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11010308",
-                        "maktx": "SUCCESSOR PRO_5L_RO",
-                        "id": 3245711,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015748",
-                        "maktx": "SUCCESSOR EC_10L_UA",
-                        "id": 3245712,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001093",
-                        "maktx": "SUCCESSOR 600_1L_SI",
-                        "id": 3245713,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015983",
-                        "maktx": "DUAL NEXT_5L_IT_SYNGENTA",
-                        "id": 3245714,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001239",
-                        "maktx": "SUCCESSOR 600_5L_HU",
-                        "id": 3245715,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "12006587",
-                        "maktx": "PXA 600EC_1000L_FR_RO_RO",
-                        "id": 3245716,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001269",
-                        "maktx": "SUCCESSOR 600EC_5L_PL",
-                        "id": 3245717,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001178",
-                        "maktx": "SUCCESSOR 600_5L_FR_BASF",
-                        "id": 3245718,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "12006650",
-                        "maktx": "PXA 600EC_1000L_MUL_RO_CAFF",
-                        "id": 3245719,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015342",
-                        "maktx": "SUCCESSOR EC_5L_UA",
-                        "id": 3245720,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015851",
-                        "maktx": "MOJANG 600_1L_IT",
-                        "id": 3245721,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11016005",
-                        "maktx": "DUAL NEXT_5L_CZ_SYNGENTA",
-                        "id": 3245722,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015999",
-                        "maktx": "KOBAN_5L_IT",
-                        "id": 3245723,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "12006635",
-                        "maktx": "PXA 600EC_TC_MUL_RO_CAFF",
-                        "id": 3245724,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001235",
-                        "maktx": "SUCCESSOR 600_5L_BE",
-                        "id": 3245725,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001094",
-                        "maktx": "SUCCESSOR 600_1L_CH_STAHL",
-                        "id": 3245726,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001257",
-                        "maktx": "QUANTUM_10L_DE",
-                        "id": 3245727,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11016089",
-                        "maktx": "DUAL NEXT_4L_DE_SYNGENTA",
-                        "id": 3245728,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015069",
-                        "maktx": "MOJANG_5L_BE",
-                        "id": 3245729,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015931",
-                        "maktx": "MOJANG_5L_HR_AGROCHEM MAKS",
-                        "id": 3245730,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015584",
-                        "maktx": "MOJANG 600_4L_IT",
-                        "id": 3245731,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11009035",
-                        "maktx": "MOJANG 600_5L_IT",
-                        "id": 3245732,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11001237",
-                        "maktx": "SUCCESSOR 600_5L_CZ_AGROPROTEC",
-                        "id": 3245733,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015119",
-                        "maktx": "SUCCESSOR 600_5L_DE",
-                        "id": 3245734,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015651",
-                        "maktx": "SUCCESSOR 600_4L_AT",
-                        "id": 3245735,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015774",
-                        "maktx": "DEBASCO_1L_TR",
-                        "id": 3245736,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11003646",
-                        "maktx": "SUCCESSOR 600_5L_IT",
-                        "id": 3245737,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "12000355",
-                        "maktx": "PXA 600EC_TC_RO_RO",
-                        "id": 3245738,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11015140",
-                        "maktx": "SUCCESSOR 600_10L_DE",
-                        "id": 3245739,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11016057",
-                        "maktx": "DUAL NEXT_5L_DE_SYNGENTA",
-                        "id": 3245740,
-                        "reportDataId": 26667
-                    },
-                    {
-                        "matnr": "11014569",
-                        "maktx": "ROMIN_5L_ES_ADAMA",
-                        "id": 3245741,
-                        "reportDataId": 26667
-                    }
-                ],
-                "id": 26667
-            },
-            {
-                "pdfname": "50000661_SDS_HR_6N.PDF",
-                "specificationid": "50000661",
-                "path": "\\\\172.18.22.6\\sds_external/50000661_SDS_HR_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_HR",
-                "authorizedportal": "P3",
-                "productname": "KOBAN\u00ae 600",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "BE PROTEX",
-                "casnumber": "",
-                "commercialnames": "PXA 600 g/L EC",
-                "cmr": "",
-                "publishdate": "10/09/2024",
-                "iupac": "",
-                "incode": "45263",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "HR",
-                "validityareadescription": "Croatia",
-                "legacyspecid": "FO002146",
-                "legacysdsid": "",
-                "revisiondate": "10/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12006635",
-                        "maktx": "PXA 600EC_TC_MUL_RO_CAFF",
-                        "id": 3245742,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11000366",
-                        "maktx": "SUCCESSOR 600_5L_AT",
-                        "id": 3245743,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001537",
-                        "maktx": "FORMAX_5L_BE_PROTEX",
-                        "id": 3245744,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001588",
-                        "maktx": "PETHOXAMIDE_1000L_MUL",
-                        "id": 3245745,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001319",
-                        "maktx": "QUANTUM_6L_DE",
-                        "id": 3245746,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11014468",
-                        "maktx": "SUCCESSOR 600_5L_FR",
-                        "id": 3245747,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001217",
-                        "maktx": "SUCCESSOR 600_5L_ES",
-                        "id": 3245748,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015980",
-                        "maktx": "KOBAN_1L_IT",
-                        "id": 3245749,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015932",
-                        "maktx": "SUCCESSOR_5L_RS",
-                        "id": 3245750,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11003848",
-                        "maktx": "SUCCESSOR 600_5L_BE LU",
-                        "id": 3245751,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001178",
-                        "maktx": "SUCCESSOR 600_5L_FR_BASF",
-                        "id": 3245752,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11014424",
-                        "maktx": "SUCCESSOR 600_5L_SI_KARSIA",
-                        "id": 3245753,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11013660",
-                        "maktx": "DEBASCO_5L_TR",
-                        "id": 3245754,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001238",
-                        "maktx": "SUCCESSOR 600EC_5L_FR",
-                        "id": 3245755,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001372",
-                        "maktx": "QUANTUM EVO_5L_ES",
-                        "id": 3245756,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11016031",
-                        "maktx": "DUAL NEXT_5L_HU_SYNGENTA",
-                        "id": 3245757,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11010308",
-                        "maktx": "SUCCESSOR PRO_5L_RO",
-                        "id": 3245758,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015748",
-                        "maktx": "SUCCESSOR EC_10L_UA",
-                        "id": 3245759,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001093",
-                        "maktx": "SUCCESSOR 600_1L_SI",
-                        "id": 3245760,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015983",
-                        "maktx": "DUAL NEXT_5L_IT_SYNGENTA",
-                        "id": 3245761,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001239",
-                        "maktx": "SUCCESSOR 600_5L_HU",
-                        "id": 3245762,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "12006587",
-                        "maktx": "PXA 600EC_1000L_FR_RO_RO",
-                        "id": 3245763,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001269",
-                        "maktx": "SUCCESSOR 600EC_5L_PL",
-                        "id": 3245764,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015069",
-                        "maktx": "MOJANG_5L_BE",
-                        "id": 3245765,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015140",
-                        "maktx": "SUCCESSOR 600_10L_DE",
-                        "id": 3245766,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015999",
-                        "maktx": "KOBAN_5L_IT",
-                        "id": 3245767,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015584",
-                        "maktx": "MOJANG 600_4L_IT",
-                        "id": 3245768,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "12000360",
-                        "maktx": "PXA 600EC_CZ_ST_RO",
-                        "id": 3245769,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11016057",
-                        "maktx": "DUAL NEXT_5L_DE_SYNGENTA",
-                        "id": 3245770,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001094",
-                        "maktx": "SUCCESSOR 600_1L_CH_STAHL",
-                        "id": 3245771,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015342",
-                        "maktx": "SUCCESSOR EC_5L_UA",
-                        "id": 3245772,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015772",
-                        "maktx": "INDAVIUS_5L_PT_SYN",
-                        "id": 3245773,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015851",
-                        "maktx": "MOJANG 600_1L_IT",
-                        "id": 3245774,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11016005",
-                        "maktx": "DUAL NEXT_5L_CZ_SYNGENTA",
-                        "id": 3245775,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "12006650",
-                        "maktx": "PXA 600EC_1000L_MUL_RO_CAFF",
-                        "id": 3245776,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015119",
-                        "maktx": "SUCCESSOR 600_5L_DE",
-                        "id": 3245777,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001257",
-                        "maktx": "QUANTUM_10L_DE",
-                        "id": 3245778,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11016089",
-                        "maktx": "DUAL NEXT_4L_DE_SYNGENTA",
-                        "id": 3245779,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015931",
-                        "maktx": "MOJANG_5L_HR_AGROCHEM MAKS",
-                        "id": 3245780,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11009035",
-                        "maktx": "MOJANG 600_5L_IT",
-                        "id": 3245781,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001237",
-                        "maktx": "SUCCESSOR 600_5L_CZ_AGROPROTEC",
-                        "id": 3245782,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015651",
-                        "maktx": "SUCCESSOR 600_4L_AT",
-                        "id": 3245783,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11015774",
-                        "maktx": "DEBASCO_1L_TR",
-                        "id": 3245784,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11003646",
-                        "maktx": "SUCCESSOR 600_5L_IT",
-                        "id": 3245785,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "12000355",
-                        "maktx": "PXA 600EC_TC_RO_RO",
-                        "id": 3245786,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11001235",
-                        "maktx": "SUCCESSOR 600_5L_BE",
-                        "id": 3245787,
-                        "reportDataId": 26668
-                    },
-                    {
-                        "matnr": "11014569",
-                        "maktx": "ROMIN_5L_ES_ADAMA",
-                        "id": 3245788,
-                        "reportDataId": 26668
-                    }
-                ],
-                "id": 26668
-            },
-            {
                 "pdfname": "50001773_EXT_SDS_GB_6N.PDF",
                 "specificationid": "50001773",
                 "path": "\\\\172.18.22.6\\sds_external/50001773_EXT_SDS_GB_6N.PDF",
@@ -238806,6 +238178,490 @@
                     }
                 ],
                 "id": 27796
+            },
+            {
+                "pdfname": "50000493_SDS_PH_EN.PDF",
+                "specificationid": "50000493",
+                "path": "\\\\172.18.22.6\\sds_external/50000493_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Partner\u2122 40 DF",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ADDIT 40 WG",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG",
+                "cmr": "",
+                "publishdate": "11/11/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000401",
+                "legacysdsid": "",
+                "revisiondate": "11/11/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008065",
+                        "maktx": "AURORA_100G_DE",
+                        "id": 3851486,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11005360",
+                        "maktx": "TEZ 40DF_10G_PK",
+                        "id": 3851487,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11008054",
+                        "maktx": "AURORA 40WG_100G_HU",
+                        "id": 3851488,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11004539",
+                        "maktx": "AFFINITY 40DF_20G_IN",
+                        "id": 3851489,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11007924",
+                        "maktx": "AURORA 40WG_100KG_MUL",
+                        "id": 3851490,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 3851491,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11003291",
+                        "maktx": "AFFINITY 40DF_50KG_JP",
+                        "id": 3851492,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11003254",
+                        "maktx": "AIM 40WG_100G_TH",
+                        "id": 3851493,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11008017",
+                        "maktx": "AURORA 40WG_100G_SA_PHILAGRO",
+                        "id": 3851494,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11009141",
+                        "maktx": "AURORA 40WG_100G_ZA NA",
+                        "id": 3851495,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11014307",
+                        "maktx": "AIM 40WG_150G_AT",
+                        "id": 3851496,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "12001709",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 3851497,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11004756",
+                        "maktx": "AURORA_0.5KG_GB",
+                        "id": 3851498,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11007840",
+                        "maktx": "AURORA 40WG_400G_SK",
+                        "id": 3851499,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11008016",
+                        "maktx": "AURORA 40WG_0.400KG_UA",
+                        "id": 3851500,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11016133",
+                        "maktx": "AIM 40WG_50G_MY",
+                        "id": 3851501,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11008064",
+                        "maktx": "AURORA_500G_DE",
+                        "id": 3851502,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11007864",
+                        "maktx": "AURORA 40WG_100KG_MUL",
+                        "id": 3851503,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "12001880",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 3851504,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11005484",
+                        "maktx": "ADDIT 40DF_100KG_ID",
+                        "id": 3851505,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11004496",
+                        "maktx": "AIM 40DF_100KG_PK",
+                        "id": 3851506,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11004588",
+                        "maktx": "AFFINITY 40DF_25G_IN",
+                        "id": 3851507,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11007885",
+                        "maktx": "AURORA 40WG_400G_CZ",
+                        "id": 3851508,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11005006",
+                        "maktx": "AIM 40DF_20G_PK",
+                        "id": 3851509,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "12000730",
+                        "maktx": "AFFINITY_100KG_WY_JB",
+                        "id": 3851510,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11014048",
+                        "maktx": "AURORA 40WG_100G_RS",
+                        "id": 3851511,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "12001809",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 3851512,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11003200",
+                        "maktx": "NABOOD 40DF_20G_IN",
+                        "id": 3851513,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11007866",
+                        "maktx": "PLATFORM 40WG_100G_ES",
+                        "id": 3851514,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "12000974",
+                        "maktx": "CFZ 400WG_100KG_W_JB",
+                        "id": 3851515,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11010336",
+                        "maktx": "CARFENTRAZONE 40DF_100KG_MUL",
+                        "id": 3851516,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11006150",
+                        "maktx": "GULETTA 40DF_25G_IN",
+                        "id": 3851517,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11008052",
+                        "maktx": "AURORA 40WG_100G_FR",
+                        "id": 3851518,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11004720",
+                        "maktx": "AURORA_400G_RS",
+                        "id": 3851519,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11000255",
+                        "maktx": "CARFENTRAZONE 40WG_100KG_TW",
+                        "id": 3851520,
+                        "reportDataId": 27797
+                    },
+                    {
+                        "matnr": "11000455",
+                        "maktx": "CARFENTRAZONE 40WG_150G_AT",
+                        "id": 3851521,
+                        "reportDataId": 27797
+                    }
+                ],
+                "id": 27797
+            },
+            {
+                "pdfname": "50000797_SDS_PH_EN.PDF",
+                "specificationid": "50000797",
+                "path": "\\\\172.18.22.6\\sds_external/50000797_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "POINTER\u00ae 250 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLT 250 g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "11/11/2025",
+                "iupac": "",
+                "incode": "Y6981",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO004102",
+                "legacysdsid": "",
+                "revisiondate": "11/11/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010816",
+                        "maktx": "IMPACT 250SC_1L_IT",
+                        "id": 3851522,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11003894",
+                        "maktx": "POINTER 250SC_1L_CO",
+                        "id": 3851523,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11008986",
+                        "maktx": "POINTER 25SC_5L_PH",
+                        "id": 3851524,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11002807",
+                        "maktx": "POINTER 250SC_1L_MX",
+                        "id": 3851525,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12005653",
+                        "maktx": "FLT 250SC_ST_RO",
+                        "id": 3851526,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11003895",
+                        "maktx": "POINTER 250SC_20L_CO",
+                        "id": 3851527,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11016279",
+                        "maktx": "RHYME_250ML_IN",
+                        "id": 3851528,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006150",
+                        "maktx": "FLT 250SC_1000L_MUL_ST_7C",
+                        "id": 3851529,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12000267",
+                        "maktx": "FLT 250SC_PH RU_ST_CALA",
+                        "id": 3851530,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11001757",
+                        "maktx": "IMPACT 25SC_1L_MD",
+                        "id": 3851531,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11001925",
+                        "maktx": "IMPACT_5L_BY",
+                        "id": 3851532,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006442",
+                        "maktx": "FLT 250SC_1000L_SV_ALL",
+                        "id": 3851533,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11005215",
+                        "maktx": "IMPACT_500ML_MUL",
+                        "id": 3851534,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12005655",
+                        "maktx": "FLT 250SC_MUL_ST_RO",
+                        "id": 3851535,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006156",
+                        "maktx": "FLT 250SC_1000L_TR_ST_RO",
+                        "id": 3851536,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11016285",
+                        "maktx": "RHYME_100ML_IN",
+                        "id": 3851537,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11016291",
+                        "maktx": "RHYME_500ML_IN",
+                        "id": 3851538,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11000613",
+                        "maktx": "POINTER 25SC_200L_PH",
+                        "id": 3851539,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11001739",
+                        "maktx": "IMPACT SC_5L_MUL",
+                        "id": 3851540,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006370",
+                        "maktx": "FLT 250SC_1000L_IN_ALL",
+                        "id": 3851541,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11009319",
+                        "maktx": "IMPACT 250SC_5L_ZA NA",
+                        "id": 3851542,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006155",
+                        "maktx": "FLT 250SC_1000L_MUL_ST_RO",
+                        "id": 3851543,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11010277",
+                        "maktx": "POINTER 250SC_1L_MY_CROP",
+                        "id": 3851544,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11005524",
+                        "maktx": "FLUTRIAFOL_200L_MUL",
+                        "id": 3851545,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11016300",
+                        "maktx": "RHYME_1L_IN",
+                        "id": 3851546,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11001842",
+                        "maktx": "IMPACT SC_5L_UA",
+                        "id": 3851547,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11009294",
+                        "maktx": "CONCEPT 25%SC_200ML_EG_LOTUS",
+                        "id": 3851548,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12006143",
+                        "maktx": "FLT 250SC_1000L_TR_ST_7C",
+                        "id": 3851549,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11000175",
+                        "maktx": "POINTER 250SC_200L_CO",
+                        "id": 3851550,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "12000566",
+                        "maktx": "FLT 250SC_ST_7C",
+                        "id": 3851551,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11002016",
+                        "maktx": "IMPACT SC_5L_MUL",
+                        "id": 3851552,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11002953",
+                        "maktx": "IMPACT 250SC_1L_MX",
+                        "id": 3851553,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11013663",
+                        "maktx": "IMPACT_1L_DZ_AGROSEED",
+                        "id": 3851554,
+                        "reportDataId": 27798
+                    },
+                    {
+                        "matnr": "11009445",
+                        "maktx": "IMPACT 250SC_5L_PT_SERVAG",
+                        "id": 3851555,
+                        "reportDataId": 27798
+                    }
+                ],
+                "id": 27798
             }
         ],
         "isExportToExcel": false
