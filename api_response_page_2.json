@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6095,
+        "totalCount": 6097,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,308 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001773_EXT_SDS_GB_6N.PDF",
-                "specificationid": "50001773",
-                "path": "\\\\172.18.22.6\\sds_external/50001773_EXT_SDS_GB_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_GB",
-                "authorizedportal": "P3",
-                "productname": "SPOTLIGHT\u00ae 24 EC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CFZ 240 g/l EC (v4) (CHILD)",
-                "cmr": "",
-                "publishdate": "10/10/2024",
-                "iupac": "",
-                "incode": "PJ997",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "GB",
-                "validityareadescription": "Great Britain",
-                "legacyspecid": "FO000486",
-                "legacysdsid": "6245-NPF-CH-A",
-                "revisiondate": "10/10/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015239",
-                        "maktx": "SPOTLIGHT C 24EC_250ML_GR_BASF",
-                        "id": 2046754,
-                        "reportDataId": 26669
-                    }
-                ],
-                "id": 26669
-            },
-            {
-                "pdfname": "50003003_EXT_SDS_ES_ES.PDF",
-                "specificationid": "50003003",
-                "path": "\\\\172.18.22.6\\sds_external/50003003_EXT_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "INKA 70",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "INKA 70(3PP BUY-SELL)",
-                "cmr": "",
-                "publishdate": "10/11/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "10/11/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11009241",
-                        "maktx": "INKA 70_1.5KG_ES",
-                        "id": 2046772,
-                        "reportDataId": 26671
-                    }
-                ],
-                "id": 26671
-            },
-            {
-                "pdfname": "50000856_SDS_IN_EN.PDF",
-                "specificationid": "50000856",
-                "path": "\\\\172.18.22.6\\sds_external/50000856_SDS_IN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_IN",
-                "authorizedportal": "P3",
-                "productname": "TRIBENURON-METHYL 600 g/kg + FLORASULAM 200 g/kg WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FOM + TBM (20 + 60) WG (v2)",
-                "cmr": "",
-                "publishdate": "10/11/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IN",
-                "validityareadescription": "India",
-                "legacyspecid": "FO004191",
-                "legacysdsid": "",
-                "revisiondate": "10/11/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005865",
-                        "maktx": "FRAGMA MAX WG_250G_UA",
-                        "id": 2744744,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11000498",
-                        "maktx": "GOLASSO_0.25KG_IL_LUXEM INDUS",
-                        "id": 2744745,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11014579",
-                        "maktx": "GRANSTAR MAX_100G_TN_AGRIPROTEC",
-                        "id": 2744746,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11003917",
-                        "maktx": "TANDEM_250G_RU BY",
-                        "id": 2744747,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11016078",
-                        "maktx": "SARACEN MAX_25G_BA_AGRIMATCO",
-                        "id": 2744748,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11013878",
-                        "maktx": "GRANSTAR MAX_250G_TN_AGRIPROTEC",
-                        "id": 2744749,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11000504",
-                        "maktx": "SARACEN MAX 80WG_25G_MK",
-                        "id": 2744750,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "12000731",
-                        "maktx": "TBM 600 - FOM 200WG_PA",
-                        "id": 2744751,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11003528",
-                        "maktx": "SARACEN MAX_100G_RS",
-                        "id": 2744752,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11016205",
-                        "maktx": "GRANSTAR MAX_250G_MA_AGRIMATCO",
-                        "id": 2744753,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11015353",
-                        "maktx": "CYCLON_25G_MA_AGRIMATCO",
-                        "id": 2744754,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11014454",
-                        "maktx": "SARACEN MAX_25G_AL_AGROUNION",
-                        "id": 2744755,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11015475",
-                        "maktx": "GRANSTAR MAX_25G_MA_AGRIMATCO",
-                        "id": 2744756,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11005455",
-                        "maktx": "SARACEN MAX_25G_RS",
-                        "id": 2744757,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11005993",
-                        "maktx": "SARACEN MAX_25GR_XK",
-                        "id": 2744758,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11014463",
-                        "maktx": "SARACEN MAX_25G_MK_RADOMAK",
-                        "id": 2744759,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11005977",
-                        "maktx": "CAYMAN_0.1KG_TR",
-                        "id": 2744760,
-                        "reportDataId": 26672
-                    },
-                    {
-                        "matnr": "11016536",
-                        "maktx": "CAYMAN_250G_KZ",
-                        "id": 2744761,
-                        "reportDataId": 26672
-                    }
-                ],
-                "id": 26672
-            },
-            {
-                "pdfname": "50000924_EXT_SDS_GR_6N.PDF",
-                "specificationid": "50000924",
-                "path": "\\\\172.18.22.6\\sds_external/50000924_EXT_SDS_GR_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_GR",
-                "authorizedportal": "P3",
-                "productname": "EXIREL\u00ae 10 SE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 100 g/L SE (PROXEL) (CHILD)",
-                "cmr": "",
-                "publishdate": "10/14/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "GR",
-                "validityareadescription": "Greece",
-                "legacyspecid": "Q-1367",
-                "legacysdsid": "130000106290",
-                "revisiondate": "06/21/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014985",
-                        "maktx": "EXIREL BAIT 2023_150ML_IT",
-                        "id": 2519445,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11010191",
-                        "maktx": "EXIREL BAIT 2000_200ML_IT",
-                        "id": 2519446,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11014480",
-                        "maktx": "EXIREL BAIT 2022_150ML_IT",
-                        "id": 2519447,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11015280",
-                        "maktx": "EXIREL BAIT_200ML_IT",
-                        "id": 2519448,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11014353",
-                        "maktx": "EXIREL BAIT VISAREL_CP150ML 5L_IT",
-                        "id": 2519449,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11014491",
-                        "maktx": "EXIREL BAIT 2022_200ML_IT",
-                        "id": 2519450,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11015312",
-                        "maktx": "EXIREL BAIT_150ML_IT",
-                        "id": 2519451,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11013734",
-                        "maktx": "EXIREL BAIT 2021_150ML_IT",
-                        "id": 2519452,
-                        "reportDataId": 26673
-                    },
-                    {
-                        "matnr": "11015301",
-                        "maktx": "EXIREL BAIT 2023_200ML_IT",
-                        "id": 2519453,
-                        "reportDataId": 26673
-                    }
-                ],
-                "id": 26673
-            },
             {
                 "pdfname": "50000924_EXT_SDS_GR_EL.PDF",
                 "specificationid": "50000924",
@@ -238662,6 +238360,280 @@
                     }
                 ],
                 "id": 27798
+            },
+            {
+                "pdfname": "50001765_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50001765",
+                "path": "\\\\172.18.22.6\\sds_external/50001765_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "AIM\u00ae EC HERBICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.10",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 3851582,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 3851583,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008411",
+                        "maktx": "AIM EC_4.8L_CA",
+                        "id": 3851584,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 3851585,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 3851586,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008508",
+                        "maktx": "AIM EC_2L_CA",
+                        "id": 3851587,
+                        "reportDataId": 27799
+                    }
+                ],
+                "id": 27799
+            },
+            {
+                "pdfname": "50001765_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50001765",
+                "path": "\\\\172.18.22.6\\sds_external/50001765_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "AIM\u00ae EC HERBICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.10",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 3851588,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 3851589,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008411",
+                        "maktx": "AIM EC_4.8L_CA",
+                        "id": 3851590,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 3851591,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 3851592,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008508",
+                        "maktx": "AIM EC_2L_CA",
+                        "id": 3851593,
+                        "reportDataId": 27800
+                    }
+                ],
+                "id": 27800
+            },
+            {
+                "pdfname": "50001764_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50001764",
+                "path": "\\\\172.18.22.6\\sds_external/50001764_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Command\u00ae Charge B Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "VELOZ 2 CE",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-7-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010328",
+                        "maktx": "COMMAND CHARGE_1.2L_CA",
+                        "id": 3851594,
+                        "reportDataId": 27801
+                    }
+                ],
+                "id": 27801
+            },
+            {
+                "pdfname": "50001764_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50001764",
+                "path": "\\\\172.18.22.6\\sds_external/50001764_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Command\u00ae Charge B Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "VELOZ 2 CE",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-7-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010328",
+                        "maktx": "COMMAND CHARGE_1.2L_CA",
+                        "id": 3851595,
+                        "reportDataId": 27802
+                    }
+                ],
+                "id": 27802
+            },
+            {
+                "pdfname": "50001763_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50001763",
+                "path": "\\\\172.18.22.6\\sds_external/50001763_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Intruvix\u2122 B",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-6-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27803
+            },
+            {
+                "pdfname": "50001763_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50001763",
+                "path": "\\\\172.18.22.6\\sds_external/50001763_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Intruvix\u2122 B",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "11/12/2025",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-6-A",
+                "revisiondate": "11/12/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27804
             }
         ],
         "isExportToExcel": false
