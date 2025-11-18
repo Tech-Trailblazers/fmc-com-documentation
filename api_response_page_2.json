@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6100,
+        "totalCount": 6105,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,62 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001997_EXT_SDS_DK_6N.PDF",
-                "specificationid": "50001997",
-                "path": "\\\\172.18.22.6\\sds_external/50001997_EXT_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "DANAFLOAT\u2122 345",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "",
-                "cmr": "",
-                "publishdate": "10/15/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "DANA345",
-                "legacysdsid": "",
-                "revisiondate": "10/08/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000691",
-                        "maktx": "DANAFLOAT 345_TC_RO_RO",
-                        "id": 2052047,
-                        "reportDataId": 26677
-                    },
-                    {
-                        "matnr": "11005826",
-                        "maktx": "DANAFLOAT 345_1050KG_RO_RO",
-                        "id": 2052048,
-                        "reportDataId": 26677
-                    },
-                    {
-                        "matnr": "12000674",
-                        "maktx": "DANAFLOAT 345_RO_RO",
-                        "id": 2052049,
-                        "reportDataId": 26677
-                    },
-                    {
-                        "matnr": "12000807",
-                        "maktx": "DANAFLOAT 345_225KG_RO_RO",
-                        "id": 2052050,
-                        "reportDataId": 26677
-                    }
-                ],
-                "id": 26677
-            },
             {
                 "pdfname": "50000150_EXT_SDS_BR_PT.PDF",
                 "specificationid": "50000150",
@@ -11739,78 +11683,78 @@
                 "casnumber": "",
                 "commercialnames": "FOM 50 g/L SC (v2)",
                 "cmr": "",
-                "publishdate": "10/30/2024",
+                "publishdate": "11/17/2025",
                 "iupac": "",
                 "incode": "VA231",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "FO002216",
                 "legacysdsid": "",
-                "revisiondate": "10/30/2024",
+                "revisiondate": "11/17/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001399",
-                        "maktx": "SARACEN_0.5L_SK",
-                        "id": 3844471,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11015553",
-                        "maktx": "SPITFIRE 50SC_950L_CA",
-                        "id": 3844472,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001391",
-                        "maktx": "LECTOR_0.5L_GB",
-                        "id": 3844473,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "12006573",
-                        "maktx": "FOM 50SC_STIT_PA",
-                        "id": 3844474,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11008529",
-                        "maktx": "SOLSTICE SC_1G",
-                        "id": 3844475,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "12000538",
-                        "maktx": "FOM 50SC_ST_PA",
-                        "id": 3844476,
-                        "reportDataId": 26737
-                    },
-                    {
                         "matnr": "11001398",
                         "maktx": "PARAMOUNT_0.5L_GB",
-                        "id": 3844477,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001684",
-                        "maktx": "FLORASULAM SC_1000L_MUL",
-                        "id": 3844478,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001412",
-                        "maktx": "SARACEN 5350_5L_DE",
-                        "id": 3844479,
+                        "id": 3857275,
                         "reportDataId": 26737
                     },
                     {
                         "matnr": "11016949",
                         "maktx": "SPITFIRE_2.6L_CA",
-                        "id": 3844480,
+                        "id": 3857276,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "12000538",
+                        "maktx": "FOM 50SC_ST_PA",
+                        "id": 3857277,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11008529",
+                        "maktx": "SOLSTICE SC_1G",
+                        "id": 3857278,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "12006573",
+                        "maktx": "FOM 50SC_STIT_PA",
+                        "id": 3857279,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11015553",
+                        "maktx": "SPITFIRE 50SC_950L_CA",
+                        "id": 3857280,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11001391",
+                        "maktx": "LECTOR_0.5L_GB",
+                        "id": 3857281,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11001399",
+                        "maktx": "SARACEN_0.5L_SK",
+                        "id": 3857282,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11001684",
+                        "maktx": "FLORASULAM SC_1000L_MUL",
+                        "id": 3857283,
+                        "reportDataId": 26737
+                    },
+                    {
+                        "matnr": "11001412",
+                        "maktx": "SARACEN 5350_5L_DE",
+                        "id": 3857284,
                         "reportDataId": 26737
                     }
                 ],
@@ -35828,147 +35772,141 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016365",
-                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 3736979,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010184",
-                        "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 3736980,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 3736981,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 3736982,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 3736983,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 3736984,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 3736985,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 3736986,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 3736987,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12002111",
-                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 3736988,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 3736989,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 3736990,
-                        "reportDataId": 26902
-                    },
-                    {
                         "matnr": "12000735",
                         "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 3736991,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 3736992,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010186",
-                        "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 3736993,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010179",
-                        "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 3736994,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 3736995,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11000579",
-                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 3736996,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 3736997,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 3736998,
-                        "reportDataId": 26902
-                    },
-                    {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 3736999,
+                        "id": 3857222,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "11015479",
                         "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 3737000,
+                        "id": 3857223,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3857224,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3857225,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 3857226,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3857227,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010179",
+                        "maktx": "SENTRALLAS (2X8L) JUG CA",
+                        "id": 3857228,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3857229,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3857230,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010184",
+                        "maktx": "SENTRALLAS LQM_5L_FI",
+                        "id": 3857231,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3857232,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3857233,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11000579",
+                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
+                        "id": 3857234,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3857235,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3857236,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3857237,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3857238,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 3857239,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 3857240,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3857241,
+                        "reportDataId": 26902
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3857242,
                         "reportDataId": 26902
                     },
                     {
                         "matnr": "12001620",
                         "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 3737001,
+                        "id": 3857243,
                         "reportDataId": 26902
                     },
                     {
-                        "matnr": "11016940",
-                        "maktx": "AMPATO LQM_5L_RO_BAYER",
-                        "id": 3737002,
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3857244,
                         "reportDataId": 26902
                     }
                 ],
@@ -49047,147 +48985,141 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016365",
-                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 3736955,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010184",
-                        "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 3736956,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 3736957,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 3736958,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 3736959,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 3736960,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 3736961,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11009635",
-                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 3736962,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 3736963,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12002111",
-                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 3736964,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 3736965,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 3736966,
-                        "reportDataId": 26962
-                    },
-                    {
                         "matnr": "12000735",
                         "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 3736967,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 3736968,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010186",
-                        "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 3736969,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010179",
-                        "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 3736970,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 3736971,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11000579",
-                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 3736972,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 3736973,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 3736974,
-                        "reportDataId": 26962
-                    },
-                    {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 3736975,
+                        "id": 3857015,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "11015479",
                         "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 3736976,
+                        "id": 3857016,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3857017,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3857018,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 3857019,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3857020,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010179",
+                        "maktx": "SENTRALLAS (2X8L) JUG CA",
+                        "id": 3857021,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3857022,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3857023,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010184",
+                        "maktx": "SENTRALLAS LQM_5L_FI",
+                        "id": 3857024,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3857025,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3857026,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11000579",
+                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
+                        "id": 3857027,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3857028,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3857029,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3857030,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3857031,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 3857032,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 3857033,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3857034,
+                        "reportDataId": 26962
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 3857035,
                         "reportDataId": 26962
                     },
                     {
                         "matnr": "12001620",
                         "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 3736977,
+                        "id": 3857036,
                         "reportDataId": 26962
                     },
                     {
-                        "matnr": "11016940",
-                        "maktx": "AMPATO LQM_5L_RO_BAYER",
-                        "id": 3736978,
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3857037,
                         "reportDataId": 26962
                     }
                 ],
@@ -49223,147 +49155,141 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016365",
-                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
-                        "id": 3736931,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010184",
-                        "maktx": "SENTRALLAS LQM_5L_FI",
-                        "id": 3736932,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11005357",
-                        "maktx": "SENTRALLAS_120GAL_?",
-                        "id": 3736933,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12002200",
-                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
-                        "id": 3736934,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010183",
-                        "maktx": "SENTRALLAS LQM_5L_NO",
-                        "id": 3736935,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11013601",
-                        "maktx": "SENTRALLAS LQM_5L_SE",
-                        "id": 3736936,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015490",
-                        "maktx": "SENTRALLAS_1L_HU",
-                        "id": 3736937,
-                        "reportDataId": 26963
-                    },
-                    {
                         "matnr": "11009635",
                         "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
-                        "id": 3736938,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010189",
-                        "maktx": "SENTRALLAS LQM_5L_LT",
-                        "id": 3736939,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12002111",
-                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
-                        "id": 3736940,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010188",
-                        "maktx": "SENTRALLAS LQM_5L_LV",
-                        "id": 3736941,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12006420",
-                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
-                        "id": 3736942,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "12000735",
-                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
-                        "id": 3736943,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015463",
-                        "maktx": "SENTRALLAS LQM_5L_DE",
-                        "id": 3736944,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010186",
-                        "maktx": "SENTRALLAS LQM_5L_DK",
-                        "id": 3736945,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010179",
-                        "maktx": "SENTRALLAS (2X8L) JUG CA",
-                        "id": 3736946,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11015323",
-                        "maktx": "SENTRALLAS_5L_RO",
-                        "id": 3736947,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11000579",
-                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
-                        "id": 3736948,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11016364",
-                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
-                        "id": 3736949,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11010187",
-                        "maktx": "SENTRALLAS LQM_5L_EE",
-                        "id": 3736950,
-                        "reportDataId": 26963
-                    },
-                    {
-                        "matnr": "11016304",
-                        "maktx": "SENTRALLAS LQM_1L_PL",
-                        "id": 3736951,
+                        "id": 3856992,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "11015479",
                         "maktx": "SENTRALLAS LQM_5L_AT",
-                        "id": 3736952,
+                        "id": 3856993,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 3856994,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 3856995,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 3856996,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 3856997,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010179",
+                        "maktx": "SENTRALLAS (2X8L) JUG CA",
+                        "id": 3856998,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 3856999,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 3857000,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010184",
+                        "maktx": "SENTRALLAS LQM_5L_FI",
+                        "id": 3857001,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 3857002,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 3857003,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11000579",
+                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
+                        "id": 3857004,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 3857005,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 3857006,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 3857007,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "12000735",
+                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
+                        "id": 3857008,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 3857009,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 3857010,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 3857011,
+                        "reportDataId": 26963
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 3857012,
                         "reportDataId": 26963
                     },
                     {
                         "matnr": "12001620",
                         "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
-                        "id": 3736953,
+                        "id": 3857013,
                         "reportDataId": 26963
                     },
                     {
-                        "matnr": "11016940",
-                        "maktx": "AMPATO LQM_5L_RO_BAYER",
-                        "id": 3736954,
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 3857014,
                         "reportDataId": 26963
                     }
                 ],
@@ -238696,6 +238622,314 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 27810
+            },
+            {
+                "pdfname": "50001289_SDS_US_1X.PDF",
+                "specificationid": "50001289",
+                "path": "\\\\172.18.22.6\\sds_external/50001289_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Spitfire\u00ae 50 SC Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AXCLEAN",
+                "casnumber": "",
+                "commercialnames": "FOM 50 g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "VA231",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO002216",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001412",
+                        "maktx": "SARACEN 5350_5L_DE",
+                        "id": 3857245,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11001684",
+                        "maktx": "FLORASULAM SC_1000L_MUL",
+                        "id": 3857246,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11001399",
+                        "maktx": "SARACEN_0.5L_SK",
+                        "id": 3857247,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11001391",
+                        "maktx": "LECTOR_0.5L_GB",
+                        "id": 3857248,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11015553",
+                        "maktx": "SPITFIRE 50SC_950L_CA",
+                        "id": 3857249,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "12006573",
+                        "maktx": "FOM 50SC_STIT_PA",
+                        "id": 3857250,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11008529",
+                        "maktx": "SOLSTICE SC_1G",
+                        "id": 3857251,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "12000538",
+                        "maktx": "FOM 50SC_ST_PA",
+                        "id": 3857252,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11016949",
+                        "maktx": "SPITFIRE_2.6L_CA",
+                        "id": 3857253,
+                        "reportDataId": 27811
+                    },
+                    {
+                        "matnr": "11001398",
+                        "maktx": "PARAMOUNT_0.5L_GB",
+                        "id": 3857254,
+                        "reportDataId": 27811
+                    }
+                ],
+                "id": 27811
+            },
+            {
+                "pdfname": "50001289_SDS_US_EN.PDF",
+                "specificationid": "50001289",
+                "path": "\\\\172.18.22.6\\sds_external/50001289_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Spitfire\u00ae 50 SC Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AXCLEAN",
+                "casnumber": "",
+                "commercialnames": "FOM 50 g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "VA231",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO002216",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001412",
+                        "maktx": "SARACEN 5350_5L_DE",
+                        "id": 3857255,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11001684",
+                        "maktx": "FLORASULAM SC_1000L_MUL",
+                        "id": 3857256,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11001399",
+                        "maktx": "SARACEN_0.5L_SK",
+                        "id": 3857257,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11001391",
+                        "maktx": "LECTOR_0.5L_GB",
+                        "id": 3857258,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11015553",
+                        "maktx": "SPITFIRE 50SC_950L_CA",
+                        "id": 3857259,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "12006573",
+                        "maktx": "FOM 50SC_STIT_PA",
+                        "id": 3857260,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11008529",
+                        "maktx": "SOLSTICE SC_1G",
+                        "id": 3857261,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "12000538",
+                        "maktx": "FOM 50SC_ST_PA",
+                        "id": 3857262,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11016949",
+                        "maktx": "SPITFIRE_2.6L_CA",
+                        "id": 3857263,
+                        "reportDataId": 27812
+                    },
+                    {
+                        "matnr": "11001398",
+                        "maktx": "PARAMOUNT_0.5L_GB",
+                        "id": 3857264,
+                        "reportDataId": 27812
+                    }
+                ],
+                "id": 27812
+            },
+            {
+                "pdfname": "50003123_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50003123",
+                "path": "\\\\172.18.22.6\\sds_external/50003123_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Avireo\u2122 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27813
+            },
+            {
+                "pdfname": "50003123_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50003123",
+                "path": "\\\\172.18.22.6\\sds_external/50003123_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Avireo\u2122 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AVIREO CO-PACK (CFZ 240 EC + TOLPYRALATE 400 SC)",
+                "casnumber": "",
+                "commercialnames": "",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27814
+            },
+            {
+                "pdfname": "50003117_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50003117",
+                "path": "\\\\172.18.22.6\\sds_external/50003117_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Focus\u00ae NXT Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Focus\u00ae NXT (CO-PACK)",
+                "casnumber": "",
+                "commercialnames": "",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27815
+            },
+            {
+                "pdfname": "50003117_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50003117",
+                "path": "\\\\172.18.22.6\\sds_external/50003117_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "Focus\u00ae NXT Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Focus\u00ae NXT (CO-PACK)",
+                "casnumber": "",
+                "commercialnames": "",
+                "cmr": "",
+                "publishdate": "11/17/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/17/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27816
             }
         ],
         "isExportToExcel": false
