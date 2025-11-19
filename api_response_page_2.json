@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6105,
+        "totalCount": 6106,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,260 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000150_EXT_SDS_BR_PT.PDF",
-                "specificationid": "50000150",
-                "path": "\\\\172.18.22.6\\sds_external/50000150_EXT_SDS_BR_PT.PDF",
-                "reptype": "MSDS",
-                "language": "PT",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "ROVRAL\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IPD 50 WP",
-                "cmr": "",
-                "publishdate": "07/28/2025",
-                "iupac": "",
-                "incode": "B4835",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "FO000029",
-                "legacysdsid": "FO000029-A",
-                "revisiondate": "07/28/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001426",
-                        "maktx": "IPD 500WP_ISAG_SINN",
-                        "id": 3262725,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11013210",
-                        "maktx": "ROVRAL 50WP_500G_VN",
-                        "id": 3262726,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "12000878",
-                        "maktx": "IPD 500WP_UG_SINN",
-                        "id": 3262727,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11009845",
-                        "maktx": "ROVRAL 50WP_1KG_DO",
-                        "id": 3262728,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003251",
-                        "maktx": "ROVRAL 50WP_100G_ID",
-                        "id": 3262729,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11004362",
-                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
-                        "id": 3262730,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11008937",
-                        "maktx": "ROVRAL 50WP_20KG_MA",
-                        "id": 3262731,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003357",
-                        "maktx": "ROVRAL 50WP_50G_CN",
-                        "id": 3262732,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003585",
-                        "maktx": "ROVRAL 50WP_100G_CN",
-                        "id": 3262733,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003253",
-                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
-                        "id": 3262734,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003218",
-                        "maktx": "ROVRAL 50WP_100G_PH",
-                        "id": 3262735,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "12000626",
-                        "maktx": "IPD 500WP_SZ_ALL",
-                        "id": 3262736,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11000526",
-                        "maktx": "ROVRAL 50WP_250G_TW",
-                        "id": 3262737,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11004893",
-                        "maktx": "ROVRAL 50WP_1KG_AR",
-                        "id": 3262738,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003276",
-                        "maktx": "ROVRAL 50WP_1KG_CN",
-                        "id": 3262739,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003263",
-                        "maktx": "ROVRAL 50WP_18KG_BD",
-                        "id": 3262740,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003228",
-                        "maktx": "ROVRAL 50WP_500G_TH",
-                        "id": 3262741,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11013677",
-                        "maktx": "ROVRAL 50WP_100G_VN",
-                        "id": 3262742,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003252",
-                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
-                        "id": 3262743,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003250",
-                        "maktx": "ROVRAL 50WP_100G_MM",
-                        "id": 3262744,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11004892",
-                        "maktx": "ROVRAL 50WP_1KG_JO",
-                        "id": 3262745,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11013200",
-                        "maktx": "ROVRAL 50WP_25G_VN",
-                        "id": 3262746,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11004967",
-                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
-                        "id": 3262747,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003638",
-                        "maktx": "ROVRAL 50WP_25KG_VN",
-                        "id": 3262748,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11001864",
-                        "maktx": "ROVRAL 50PM_1KG_?",
-                        "id": 3262749,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11000277",
-                        "maktx": "ROVRAL_0.125KG_BR",
-                        "id": 3262750,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003270",
-                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
-                        "id": 3262751,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003314",
-                        "maktx": "ROVRAL 50WP_25KG_TW",
-                        "id": 3262752,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11005072",
-                        "maktx": "ROVRAL WP_1KG_RU",
-                        "id": 3262753,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "12000626",
-                        "maktx": "IPD 500WP_?_?_?",
-                        "id": 3262754,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11000261",
-                        "maktx": "ROVRAL 500WP_1KG_BR",
-                        "id": 3262755,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "12001536",
-                        "maktx": "IPD 500WP_MI_SINN",
-                        "id": 3262756,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11005677",
-                        "maktx": "ROVRAL 50WP_330KG_MX",
-                        "id": 3262757,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003350",
-                        "maktx": "ROVRAL 50WP_500G_CN",
-                        "id": 3262758,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "12006380",
-                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
-                        "id": 3262759,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11003284",
-                        "maktx": "ROVRAL 50WP_500G_MY",
-                        "id": 3262760,
-                        "reportDataId": 26678
-                    },
-                    {
-                        "matnr": "11014772",
-                        "maktx": "ROVRAL_500G_TW",
-                        "id": 3262761,
-                        "reportDataId": 26678
-                    }
-                ],
-                "id": 26678
-            },
             {
                 "pdfname": "50002765_EXT_SDS_ES_ES.PDF",
                 "specificationid": "50002765",
@@ -25074,177 +24820,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002145",
-                        "maktx": "CONSTAR_5L_CH_STAHLER",
-                        "id": 2745699,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "12000676",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
-                        "id": 2745700,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11015328",
-                        "maktx": "PROVALIA_200L_MX",
-                        "id": 2745701,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11013765",
-                        "maktx": "OMNERA LQM_5L_IT",
-                        "id": 2745702,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11015626",
-                        "maktx": "PROVALIA_1L_MX",
-                        "id": 2745703,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007063",
-                        "maktx": "OMNERA LQM_5L_DE",
-                        "id": 2745704,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11014805",
-                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
-                        "id": 2745705,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007322",
-                        "maktx": "OMNERA LQM_5L_HU",
-                        "id": 2745706,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007325",
-                        "maktx": "OMNERA_5L_RO",
-                        "id": 2745707,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11009218",
-                        "maktx": "OMNERA LQM_5L_ES",
-                        "id": 2745708,
-                        "reportDataId": 26842
-                    },
-                    {
                         "matnr": "11014165",
                         "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
-                        "id": 2745709,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007065",
-                        "maktx": "OMNERA LQM_5L_NL",
-                        "id": 2745710,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "12001590",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
-                        "id": 2745711,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007629",
-                        "maktx": "OMNERA LQM_5L_AT",
-                        "id": 2745712,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11014020",
-                        "maktx": "PROVALIA_5L_RO",
-                        "id": 2745713,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007326",
-                        "maktx": "OMNERA LQM_5L_BE",
-                        "id": 2745714,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11009219",
-                        "maktx": "OMNERA LQM_1L_PL",
-                        "id": 2745715,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "12002080",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
-                        "id": 2745716,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "12000005",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
-                        "id": 2745717,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "OMNERA OD_5L_BG",
-                        "id": 2745718,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11007321",
-                        "maktx": "OMNERA LQM_5L_FR",
-                        "id": 2745719,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11013287",
-                        "maktx": "OMNERA LQM_1L_MK",
-                        "id": 2745720,
+                        "id": 3857769,
                         "reportDataId": 26842
                     },
                     {
                         "matnr": "12000679",
                         "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
-                        "id": 2745721,
+                        "id": 3857770,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11013765",
+                        "maktx": "OMNERA LQM_5L_IT",
+                        "id": 3857771,
                         "reportDataId": 26842
                     },
                     {
                         "matnr": "11013311",
                         "maktx": "MILANO LQM_5L_ES_SIPCAM",
-                        "id": 2745722,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "12002801",
-                        "maktx": "DPX-SGE27 170OD_5L_AO",
-                        "id": 2745723,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11013435",
-                        "maktx": "OMNERA_5L_MD",
-                        "id": 2745724,
-                        "reportDataId": 26842
-                    },
-                    {
-                        "matnr": "11000211",
-                        "maktx": "OMNERA LQM_1L_IT",
-                        "id": 2745725,
+                        "id": 3857772,
                         "reportDataId": 26842
                     },
                     {
                         "matnr": "12006410",
                         "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
-                        "id": 2745726,
+                        "id": 3857773,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3857774,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 3857775,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3857776,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11002145",
+                        "maktx": "CONSTAR_5L_CH_STAHLER",
+                        "id": 3857777,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11013435",
+                        "maktx": "OMNERA_5L_MD",
+                        "id": 3857778,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 3857779,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 3857780,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 3857781,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3857782,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3857783,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3857784,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 3857785,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3857786,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 3857787,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3857788,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 3857789,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 3857790,
                         "reportDataId": 26842
                     },
                     {
                         "matnr": "11007323",
                         "maktx": "OMNERA LQM_5L_IE",
-                        "id": 2745727,
+                        "id": 3857791,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3857792,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3857793,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3857794,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3857795,
+                        "reportDataId": 26842
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3857796,
                         "reportDataId": 26842
                     }
                 ],
@@ -25261,7 +25001,7 @@
                 "productname": "PROVALIA\u00ae LQM\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "AVALETTA LQM (M)",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "FRX + MEM + TIM (135 + 5 + 30) g/l OD (CHILD)",
                 "cmr": "",
@@ -25280,21 +25020,27 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014038",
-                        "maktx": "TRIOFLEX LQM_5L_BG",
-                        "id": 2745231,
+                        "matnr": "11007064",
+                        "maktx": "PROVALIA LQM_5L_GB",
+                        "id": 3857946,
                         "reportDataId": 26843
                     },
                     {
-                        "matnr": "11007064",
-                        "maktx": "PROVALIA LQM_5L_GB",
-                        "id": 2745232,
+                        "matnr": "11014020",
+                        "maktx": "PROVALIA_5L_RO",
+                        "id": 3857947,
+                        "reportDataId": 26843
+                    },
+                    {
+                        "matnr": "11014038",
+                        "maktx": "TRIOFLEX LQM_5L_BG",
+                        "id": 3857948,
                         "reportDataId": 26843
                     },
                     {
                         "matnr": "11014880",
                         "maktx": "AVURNAV LQM_5L_FR",
-                        "id": 2745233,
+                        "id": 3857949,
                         "reportDataId": 26843
                     }
                 ],
@@ -118786,177 +118532,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001590",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
-                        "id": 2755381,
+                        "matnr": "11014165",
+                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
+                        "id": 3857797,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "12000679",
                         "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
-                        "id": 2755382,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007065",
-                        "maktx": "OMNERA LQM_5L_NL",
-                        "id": 2755383,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11002145",
-                        "maktx": "CONSTAR_5L_CH_STAHLER",
-                        "id": 2755384,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007629",
-                        "maktx": "OMNERA LQM_5L_AT",
-                        "id": 2755385,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007323",
-                        "maktx": "OMNERA LQM_5L_IE",
-                        "id": 2755386,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "OMNERA OD_5L_BG",
-                        "id": 2755387,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11009218",
-                        "maktx": "OMNERA LQM_5L_ES",
-                        "id": 2755388,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "12000676",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
-                        "id": 2755389,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11013311",
-                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
-                        "id": 2755390,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11014020",
-                        "maktx": "PROVALIA_5L_RO",
-                        "id": 2755391,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11014805",
-                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
-                        "id": 2755392,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11015328",
-                        "maktx": "PROVALIA_200L_MX",
-                        "id": 2755393,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "12000005",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
-                        "id": 2755394,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007063",
-                        "maktx": "OMNERA LQM_5L_DE",
-                        "id": 2755395,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "12002080",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
-                        "id": 2755396,
+                        "id": 3857798,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "11013765",
                         "maktx": "OMNERA LQM_5L_IT",
-                        "id": 2755397,
+                        "id": 3857799,
                         "reportDataId": 27159
                     },
                     {
-                        "matnr": "12002801",
-                        "maktx": "DPX-SGE27 170OD_5L_AO",
-                        "id": 2755398,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11015626",
-                        "maktx": "PROVALIA_1L_MX",
-                        "id": 2755399,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007325",
-                        "maktx": "OMNERA_5L_RO",
-                        "id": 2755400,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11000211",
-                        "maktx": "OMNERA LQM_1L_IT",
-                        "id": 2755401,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11007321",
-                        "maktx": "OMNERA LQM_5L_FR",
-                        "id": 2755402,
-                        "reportDataId": 27159
-                    },
-                    {
-                        "matnr": "11014165",
-                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
-                        "id": 2755403,
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 3857800,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "12006410",
                         "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
-                        "id": 2755404,
+                        "id": 3857801,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3857802,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "11007326",
                         "maktx": "OMNERA LQM_5L_BE",
-                        "id": 2755405,
+                        "id": 3857803,
                         "reportDataId": 27159
                     },
                     {
-                        "matnr": "11007322",
-                        "maktx": "OMNERA LQM_5L_HU",
-                        "id": 2755406,
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3857804,
                         "reportDataId": 27159
                     },
                     {
-                        "matnr": "11013287",
-                        "maktx": "OMNERA LQM_1L_MK",
-                        "id": 2755407,
+                        "matnr": "11002145",
+                        "maktx": "CONSTAR_5L_CH_STAHLER",
+                        "id": 3857805,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "11013435",
                         "maktx": "OMNERA_5L_MD",
-                        "id": 2755408,
+                        "id": 3857806,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 3857807,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 3857808,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 3857809,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3857810,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3857811,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3857812,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 3857813,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3857814,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 3857815,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3857816,
                         "reportDataId": 27159
                     },
                     {
                         "matnr": "11009219",
                         "maktx": "OMNERA LQM_1L_PL",
-                        "id": 2755409,
+                        "id": 3857817,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 3857818,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 3857819,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3857820,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3857821,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3857822,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3857823,
+                        "reportDataId": 27159
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3857824,
                         "reportDataId": 27159
                     }
                 ],
@@ -118973,7 +118713,7 @@
                 "productname": "PROVALIA\u00ae LQM\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "AVALETTA LQM (M)",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "FRX + MEM + TIM (135 + 5 + 30) g/l OD (CHILD)",
                 "cmr": "",
@@ -118992,21 +118732,27 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014038",
-                        "maktx": "TRIOFLEX LQM_5L_BG",
-                        "id": 2755410,
+                        "matnr": "11007064",
+                        "maktx": "PROVALIA LQM_5L_GB",
+                        "id": 3857950,
                         "reportDataId": 27160
                     },
                     {
-                        "matnr": "11007064",
-                        "maktx": "PROVALIA LQM_5L_GB",
-                        "id": 2755411,
+                        "matnr": "11014020",
+                        "maktx": "PROVALIA_5L_RO",
+                        "id": 3857951,
+                        "reportDataId": 27160
+                    },
+                    {
+                        "matnr": "11014038",
+                        "maktx": "TRIOFLEX LQM_5L_BG",
+                        "id": 3857952,
                         "reportDataId": 27160
                     },
                     {
                         "matnr": "11014880",
                         "maktx": "AVURNAV LQM_5L_FR",
-                        "id": 2755412,
+                        "id": 3857953,
                         "reportDataId": 27160
                     }
                 ],
@@ -183177,183 +182923,177 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001590",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
-                        "id": 3254281,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "12006410",
-                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
-                        "id": 3254282,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11014165",
-                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
-                        "id": 3254283,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11000211",
-                        "maktx": "OMNERA LQM_1L_IT",
-                        "id": 3254284,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11015328",
-                        "maktx": "PROVALIA_200L_MX",
-                        "id": 3254285,
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3857825,
                         "reportDataId": 27516
                     },
                     {
                         "matnr": "12000679",
                         "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
-                        "id": 3254286,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007063",
-                        "maktx": "OMNERA LQM_5L_DE",
-                        "id": 3254287,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007326",
-                        "maktx": "OMNERA LQM_5L_BE",
-                        "id": 3254288,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "12000005",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
-                        "id": 3254289,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "OMNERA OD_5L_BG",
-                        "id": 3254290,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007323",
-                        "maktx": "OMNERA LQM_5L_IE",
-                        "id": 3254291,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11013311",
-                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
-                        "id": 3254292,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007629",
-                        "maktx": "OMNERA LQM_5L_AT",
-                        "id": 3254293,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "\u041e\u041c\u041d\u0415\u0420\u0410 \u041e\u0414_5\u041b_BG",
-                        "id": 3254294,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007065",
-                        "maktx": "OMNERA LQM_5L_NL",
-                        "id": 3254295,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11014805",
-                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
-                        "id": 3254296,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11013287",
-                        "maktx": "OMNERA LQM_1L_MK",
-                        "id": 3254297,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11015626",
-                        "maktx": "PROVALIA_1L_MX",
-                        "id": 3254298,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007321",
-                        "maktx": "OMNERA LQM_5L_FR",
-                        "id": 3254299,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11009219",
-                        "maktx": "OMNERA LQM_1L_PL",
-                        "id": 3254300,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "11007325",
-                        "maktx": "OMNERA_5L_RO",
-                        "id": 3254301,
-                        "reportDataId": 27516
-                    },
-                    {
-                        "matnr": "12002801",
-                        "maktx": "DPX-SGE27 170OD_5L_AO",
-                        "id": 3254302,
+                        "id": 3857826,
                         "reportDataId": 27516
                     },
                     {
                         "matnr": "11013765",
                         "maktx": "OMNERA LQM_5L_IT",
-                        "id": 3254303,
+                        "id": 3857827,
                         "reportDataId": 27516
                     },
                     {
-                        "matnr": "12000676",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
-                        "id": 3254304,
+                        "matnr": "11007319",
+                        "maktx": "\u041e\u041c\u041d\u0415\u0420\u0410 \u041e\u0414_5\u041b_BG",
+                        "id": 3857828,
                         "reportDataId": 27516
                     },
                     {
-                        "matnr": "11009218",
-                        "maktx": "OMNERA LQM_5L_ES",
-                        "id": 3254305,
+                        "matnr": "12006410",
+                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
+                        "id": 3857829,
                         "reportDataId": 27516
                     },
                     {
-                        "matnr": "11007322",
-                        "maktx": "OMNERA LQM_5L_HU",
-                        "id": 3254306,
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3857830,
                         "reportDataId": 27516
                     },
                     {
-                        "matnr": "11013435",
-                        "maktx": "OMNERA_5L_MD",
-                        "id": 3254307,
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 3857831,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3857832,
                         "reportDataId": 27516
                     },
                     {
                         "matnr": "11002145",
                         "maktx": "CONSTAR_5L_CH_STAHLER",
-                        "id": 3254308,
+                        "id": 3857833,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11013435",
+                        "maktx": "OMNERA_5L_MD",
+                        "id": 3857834,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 3857835,
                         "reportDataId": 27516
                     },
                     {
                         "matnr": "12002080",
                         "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
-                        "id": 3254309,
+                        "id": 3857836,
                         "reportDataId": 27516
                     },
                     {
-                        "matnr": "11014020",
-                        "maktx": "PROVALIA_5L_RO",
-                        "id": 3254310,
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 3857837,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 3857838,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3857839,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3857840,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3857841,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 3857842,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3857843,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 3857844,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3857845,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 3857846,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 3857847,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 3857848,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3857849,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3857850,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11014165",
+                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
+                        "id": 3857851,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3857852,
+                        "reportDataId": 27516
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3857853,
                         "reportDataId": 27516
                     }
                 ],
@@ -183389,177 +183129,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001590",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
-                        "id": 3254311,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "12002080",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
-                        "id": 3254312,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "12006410",
-                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
-                        "id": 3254313,
-                        "reportDataId": 27517
-                    },
-                    {
                         "matnr": "11014165",
                         "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
-                        "id": 3254314,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11000211",
-                        "maktx": "OMNERA LQM_1L_IT",
-                        "id": 3254315,
+                        "id": 3857854,
                         "reportDataId": 27517
                     },
                     {
                         "matnr": "12000679",
                         "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
-                        "id": 3254316,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007063",
-                        "maktx": "OMNERA LQM_5L_DE",
-                        "id": 3254317,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007326",
-                        "maktx": "OMNERA LQM_5L_BE",
-                        "id": 3254318,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "12000005",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
-                        "id": 3254319,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "OMNERA OD_5L_BG",
-                        "id": 3254320,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007323",
-                        "maktx": "OMNERA LQM_5L_IE",
-                        "id": 3254321,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11013311",
-                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
-                        "id": 3254322,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007629",
-                        "maktx": "OMNERA LQM_5L_AT",
-                        "id": 3254323,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11014020",
-                        "maktx": "PROVALIA_5L_RO",
-                        "id": 3254324,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007065",
-                        "maktx": "OMNERA LQM_5L_NL",
-                        "id": 3254325,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11015626",
-                        "maktx": "PROVALIA_1L_MX",
-                        "id": 3254326,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11013287",
-                        "maktx": "OMNERA LQM_1L_MK",
-                        "id": 3254327,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007321",
-                        "maktx": "OMNERA LQM_5L_FR",
-                        "id": 3254328,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11009219",
-                        "maktx": "OMNERA LQM_1L_PL",
-                        "id": 3254329,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "11007325",
-                        "maktx": "OMNERA_5L_RO",
-                        "id": 3254330,
-                        "reportDataId": 27517
-                    },
-                    {
-                        "matnr": "12002801",
-                        "maktx": "DPX-SGE27 170OD_5L_AO",
-                        "id": 3254331,
+                        "id": 3857855,
                         "reportDataId": 27517
                     },
                     {
                         "matnr": "11013765",
                         "maktx": "OMNERA LQM_5L_IT",
-                        "id": 3254332,
+                        "id": 3857856,
                         "reportDataId": 27517
                     },
                     {
-                        "matnr": "12000676",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
-                        "id": 3254333,
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 3857857,
                         "reportDataId": 27517
                     },
                     {
-                        "matnr": "11009218",
-                        "maktx": "OMNERA LQM_5L_ES",
-                        "id": 3254334,
+                        "matnr": "12006410",
+                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
+                        "id": 3857858,
                         "reportDataId": 27517
                     },
                     {
-                        "matnr": "11007322",
-                        "maktx": "OMNERA LQM_5L_HU",
-                        "id": 3254335,
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3857859,
                         "reportDataId": 27517
                     },
                     {
-                        "matnr": "11013435",
-                        "maktx": "OMNERA_5L_MD",
-                        "id": 3254336,
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 3857860,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3857861,
                         "reportDataId": 27517
                     },
                     {
                         "matnr": "11002145",
                         "maktx": "CONSTAR_5L_CH_STAHLER",
-                        "id": 3254337,
+                        "id": 3857862,
                         "reportDataId": 27517
                     },
                     {
-                        "matnr": "11014805",
-                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
-                        "id": 3254338,
+                        "matnr": "11013435",
+                        "maktx": "OMNERA_5L_MD",
+                        "id": 3857863,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 3857864,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 3857865,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 3857866,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3857867,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3857868,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3857869,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 3857870,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3857871,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 3857872,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3857873,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 3857874,
                         "reportDataId": 27517
                     },
                     {
                         "matnr": "11015328",
                         "maktx": "PROVALIA_200L_MX",
-                        "id": 3254339,
+                        "id": 3857875,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 3857876,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3857877,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3857878,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3857879,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3857880,
+                        "reportDataId": 27517
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3857881,
                         "reportDataId": 27517
                     }
                 ],
@@ -183595,21 +183329,27 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11007064",
+                        "maktx": "PROVALIA LQM_5L_GB",
+                        "id": 3857954,
+                        "reportDataId": 27518
+                    },
+                    {
+                        "matnr": "11014020",
+                        "maktx": "PROVALIA_5L_RO",
+                        "id": 3857955,
+                        "reportDataId": 27518
+                    },
+                    {
                         "matnr": "11014038",
                         "maktx": "TRIOFLEX LQM_5L_BG",
-                        "id": 3254340,
+                        "id": 3857956,
                         "reportDataId": 27518
                     },
                     {
                         "matnr": "11014880",
                         "maktx": "AVURNAV LQM_5L_FR",
-                        "id": 3254341,
-                        "reportDataId": 27518
-                    },
-                    {
-                        "matnr": "11007064",
-                        "maktx": "PROVALIA LQM_5L_GB",
-                        "id": 3254342,
+                        "id": 3857957,
                         "reportDataId": 27518
                     }
                 ],
@@ -221362,177 +221102,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014020",
-                        "maktx": "PROVALIA_5L_RO",
-                        "id": 3512987,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "12001590",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
-                        "id": 3512988,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "12000679",
-                        "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
-                        "id": 3512989,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11015626",
-                        "maktx": "PROVALIA_1L_MX",
-                        "id": 3512990,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007322",
-                        "maktx": "OMNERA LQM_5L_HU",
-                        "id": 3512991,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007321",
-                        "maktx": "OMNERA LQM_5L_FR",
-                        "id": 3512992,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007319",
-                        "maktx": "OMNERA OD_5L_BG",
-                        "id": 3512993,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "12000005",
-                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
-                        "id": 3512994,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11014805",
-                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
-                        "id": 3512995,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11009218",
-                        "maktx": "OMNERA LQM_5L_ES",
-                        "id": 3512996,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "12006410",
-                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
-                        "id": 3512997,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11015328",
-                        "maktx": "PROVALIA_200L_MX",
-                        "id": 3512998,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11013311",
-                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
-                        "id": 3512999,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007063",
-                        "maktx": "OMNERA LQM_5L_DE",
-                        "id": 3513000,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007326",
-                        "maktx": "OMNERA LQM_5L_BE",
-                        "id": 3513001,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007325",
-                        "maktx": "OMNERA_5L_RO",
-                        "id": 3513002,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "12002080",
-                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
-                        "id": 3513003,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11002145",
-                        "maktx": "CONSTAR_5L_CH_STAHLER",
-                        "id": 3513004,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11013287",
-                        "maktx": "OMNERA LQM_1L_MK",
-                        "id": 3513005,
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 3857882,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "11013765",
                         "maktx": "OMNERA LQM_5L_IT",
-                        "id": 3513006,
+                        "id": 3857883,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12006410",
+                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
+                        "id": 3857884,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 3857885,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 3857886,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11002145",
+                        "maktx": "CONSTAR_5L_CH_STAHLER",
+                        "id": 3857887,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "12000676",
                         "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
-                        "id": 3513007,
+                        "id": 3857888,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 3857889,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 3857890,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 3857891,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "11000211",
                         "maktx": "OMNERA LQM_1L_IT",
-                        "id": 3513008,
+                        "id": 3857892,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 3857893,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "11013435",
                         "maktx": "OMNERA_5L_MD",
-                        "id": 3513009,
+                        "id": 3857894,
                         "reportDataId": 27702
                     },
                     {
-                        "matnr": "11014165",
-                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
-                        "id": 3513010,
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 3857895,
                         "reportDataId": 27702
                     },
                     {
-                        "matnr": "11009219",
-                        "maktx": "OMNERA LQM_1L_PL",
-                        "id": 3513011,
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 3857896,
                         "reportDataId": 27702
                     },
                     {
-                        "matnr": "11007629",
-                        "maktx": "OMNERA LQM_5L_AT",
-                        "id": 3513012,
-                        "reportDataId": 27702
-                    },
-                    {
-                        "matnr": "11007323",
-                        "maktx": "OMNERA LQM_5L_IE",
-                        "id": 3513013,
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 3857897,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "12002801",
                         "maktx": "DPX-SGE27 170OD_5L_AO",
-                        "id": 3513014,
+                        "id": 3857898,
                         "reportDataId": 27702
                     },
                     {
                         "matnr": "11007065",
                         "maktx": "OMNERA LQM_5L_NL",
-                        "id": 3513015,
+                        "id": 3857899,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 3857900,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 3857901,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 3857902,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 3857903,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 3857904,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 3857905,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 3857906,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11014165",
+                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
+                        "id": 3857907,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "12000679",
+                        "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
+                        "id": 3857908,
+                        "reportDataId": 27702
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 3857909,
                         "reportDataId": 27702
                     }
                 ],
@@ -238930,6 +238664,364 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 27816
+            },
+            {
+                "pdfname": "50000117_SDS_GR_6N.PDF",
+                "specificationid": "50000117",
+                "path": "\\\\172.18.22.6\\sds_external/50000117_SDS_GR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GR",
+                "authorizedportal": "P3",
+                "productname": "VERIMARK\u00ae 20 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE)",
+                "cmr": "",
+                "publishdate": "11/18/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GR",
+                "validityareadescription": "Greece",
+                "legacyspecid": "Q-1945",
+                "legacysdsid": "130000145292",
+                "revisiondate": "11/18/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12000749",
+                        "maktx": "CZP 200SC_200L_VN_JI",
+                        "id": 3857285,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11016687",
+                        "maktx": "VERIMARK_1000L_BR",
+                        "id": 3857286,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006310",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_MO",
+                        "id": 3857287,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12000736",
+                        "maktx": "CZP 200SC_200L_JP",
+                        "id": 3857288,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11016646",
+                        "maktx": "VERIMARK_1L_AT",
+                        "id": 3857289,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11000031",
+                        "maktx": "VERIMARK 200SC_100ML_MY",
+                        "id": 3857290,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006182",
+                        "maktx": "CZP 200SC CITRIC ACID_MI_MO",
+                        "id": 3857291,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006232",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MX_MI_MO",
+                        "id": 3857292,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007537",
+                        "maktx": "VERIMARK 200SC_100ML_ID",
+                        "id": 3857293,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006194",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MI_MO",
+                        "id": 3857294,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11013503",
+                        "maktx": "DAHEZAN_200L_CN",
+                        "id": 3857295,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11009438",
+                        "maktx": "VERIMARK_1L_RU KZ",
+                        "id": 3857296,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12005925",
+                        "maktx": "CZP 200SC_BR_UB_ALL",
+                        "id": 3857297,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12005822",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_MO",
+                        "id": 3857298,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11013141",
+                        "maktx": "VERIMARK 200SC_10ML_CN_DHZ",
+                        "id": 3857299,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11013150",
+                        "maktx": "VERIMARK 200SC_50ML_CN_DHZ",
+                        "id": 3857300,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007218",
+                        "maktx": "VERIMARK 20SC_100ML_PH",
+                        "id": 3857301,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006505",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_JI",
+                        "id": 3857302,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015087",
+                        "maktx": "VERIMARK_20L_BR",
+                        "id": 3857303,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12005771",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_MO",
+                        "id": 3857304,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11006923",
+                        "maktx": "BENEVIA 200SC_100ML_VN",
+                        "id": 3857305,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006592",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_JI",
+                        "id": 3857306,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11013221",
+                        "maktx": "VERIMARK 20SC_100ML_KH",
+                        "id": 3857307,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11016169",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 3857308,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015899",
+                        "maktx": "VERIMARK_500ML_MX",
+                        "id": 3857309,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006634",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_JI",
+                        "id": 3857310,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11006822",
+                        "maktx": "VERIMARK 20SC_100ML_JP_KUMIAI",
+                        "id": 3857311,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007280",
+                        "maktx": "VERIMARK 20SC_100ML_JP_NISSO",
+                        "id": 3857312,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015898",
+                        "maktx": "VERIMARK_1L_MX",
+                        "id": 3857313,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015086",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 3857314,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006596",
+                        "maktx": "CZP 200SC_200L_VN_ST_JI",
+                        "id": 3857315,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015657",
+                        "maktx": "VERIMARK 20SC_250ML_TW",
+                        "id": 3857316,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007021",
+                        "maktx": "CIRCADEN 200SC_50ML_TR",
+                        "id": 3857317,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11016730",
+                        "maktx": "CIRCADEN 200SC_50ML_ZW_POLACHEM",
+                        "id": 3857318,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015618",
+                        "maktx": "OKINA_40ML_TN_SSCC",
+                        "id": 3857319,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015920",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 3857320,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12002277",
+                        "maktx": "CZP 200SC_200L_MUL_JI",
+                        "id": 3857321,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007367",
+                        "maktx": "VERIMARK_100ML_UA",
+                        "id": 3857322,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007055",
+                        "maktx": "VERIMARK 20SC_100ML_JP_MBC",
+                        "id": 3857323,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11009437",
+                        "maktx": "VERIMARK_375ML_RU KZ",
+                        "id": 3857324,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11013123",
+                        "maktx": "VERIMARK 20 SC_200 L_GT",
+                        "id": 3857325,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11016275",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 3857326,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007123",
+                        "maktx": "VERIMARK 200SC_50ML_CN",
+                        "id": 3857327,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11015097",
+                        "maktx": "VERIMARK_200ML_BR",
+                        "id": 3857328,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "12006565",
+                        "maktx": "CZP 200SC_200L_JP_ST_JI",
+                        "id": 3857329,
+                        "reportDataId": 27817
+                    },
+                    {
+                        "matnr": "11007219",
+                        "maktx": "VERIMARK (ACTICIDE) 200SC_100ML_TH",
+                        "id": 3857330,
+                        "reportDataId": 27817
+                    }
+                ],
+                "id": 27817
+            },
+            {
+                "pdfname": "50000422_SDS_US_1X.PDF",
+                "specificationid": "50000422",
+                "path": "\\\\172.18.22.6\\sds_external/50000422_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Rovral\u00ae Brand 4 Flowable Fungicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "IPRODIONE SC 480 G X-US",
+                "casnumber": "",
+                "commercialnames": "IPD 480 g/L SC",
+                "cmr": "",
+                "publishdate": "11/18/2025",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000729",
+                "legacysdsid": "",
+                "revisiondate": "11/18/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001899",
+                        "maktx": "IPD 480SC_?_?_?",
+                        "id": 3857962,
+                        "reportDataId": 27818
+                    },
+                    {
+                        "matnr": "11008511",
+                        "maktx": "ROVRAL 480SC_2.5GAL_US",
+                        "id": 3857963,
+                        "reportDataId": 27818
+                    },
+                    {
+                        "matnr": "11008355",
+                        "maktx": "ROVRAL 480SC_250GAL_US",
+                        "id": 3857964,
+                        "reportDataId": 27818
+                    }
+                ],
+                "id": 27818
             }
         ],
         "isExportToExcel": false
