@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6109,
+        "totalCount": 6118,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -240312,6 +240312,577 @@
                     }
                 ],
                 "id": 27821
+            },
+            {
+                "pdfname": "50003129_EXT_SDS_BR_PT.PDF",
+                "specificationid": "50003129",
+                "path": "\\\\172.18.22.6\\sds_external/50003129_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "TROVATI\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ 500 g/L EC",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "4.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "FO000176",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27822
+            },
+            {
+                "pdfname": "50002627_EXT_SDS_CR_1X.PDF",
+                "specificationid": "50002627",
+                "path": "\\\\172.18.22.6\\sds_external/50002627_EXT_SDS_CR_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CR",
+                "authorizedportal": "P3",
+                "productname": "VHW30-R001",
+                "chemicalname": "",
+                "commonname": "Bacillus thuringiensis Strain RTI 545 SC",
+                "tradename": "VHW30-R001 (F4015-1)",
+                "casnumber": "",
+                "commercialnames": "BTH (RTI545)  110 g/L SC",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "VHW30-R001",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CR",
+                "validityareadescription": "Costa Rica",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016626",
+                        "maktx": "ROVISAR_5L_BR",
+                        "id": 4030908,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "11016584",
+                        "maktx": "AVIZON_1000L_BR",
+                        "id": 4030909,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "11016614",
+                        "maktx": "ROVISAR_1L_BR",
+                        "id": 4030910,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "11016627",
+                        "maktx": "ROVISAR_1000L_BR",
+                        "id": 4030911,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "12006571",
+                        "maktx": "BTH 108SC_ST_CHRH",
+                        "id": 4030912,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "12006603",
+                        "maktx": "BTH 108SC_1000L_BR_ST_CHRH",
+                        "id": 4030913,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "11016582",
+                        "maktx": "AVIZON_1L_BR",
+                        "id": 4030914,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "11016583",
+                        "maktx": "AVIZON_5L_BR",
+                        "id": 4030915,
+                        "reportDataId": 27823
+                    },
+                    {
+                        "matnr": "12006601",
+                        "maktx": "BTH 108SC_1000L_BR_ST_CHRH",
+                        "id": 4030916,
+                        "reportDataId": 27823
+                    }
+                ],
+                "id": 27823
+            },
+            {
+                "pdfname": "50001566_EXT_SDS_CL_1X.PDF",
+                "specificationid": "50001566",
+                "path": "\\\\172.18.22.6\\sds_external/50001566_EXT_SDS_CL_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "F4018",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AVODIGEN SC",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002) (41 + 47) g/L SC",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "XNZ74",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "FO004113",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005133",
+                        "maktx": "AVODIGEN 88SC_110GAL_US",
+                        "id": 4030917,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11004679",
+                        "maktx": "AVODIGEN 88SC_9.46L_CA",
+                        "id": 4030918,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11008852",
+                        "maktx": "NEMIX 6X_250G_EC",
+                        "id": 4030919,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11008850",
+                        "maktx": "NEMIX 6_1KG_EC",
+                        "id": 4030920,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11008853",
+                        "maktx": "NEMIX 6_100G_EC",
+                        "id": 4030921,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11008851",
+                        "maktx": "NEMIX 6X_500G_EC",
+                        "id": 4030922,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11004625",
+                        "maktx": "AVODIGEN 88SC_2.5GAL_US",
+                        "id": 4030923,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11010343",
+                        "maktx": "BLI 41 BSU 48_?",
+                        "id": 4030924,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11004859",
+                        "maktx": "Avodigen Bio Fun/Nem 88SC,3.78L,E,F#CAN",
+                        "id": 4030925,
+                        "reportDataId": 27824
+                    },
+                    {
+                        "matnr": "11016412",
+                        "maktx": "N GAGE ULTRA_2.5GAL_US",
+                        "id": 4030926,
+                        "reportDataId": 27824
+                    }
+                ],
+                "id": 27824
+            },
+            {
+                "pdfname": "50002627_EXT_SDS_CL_1X.PDF",
+                "specificationid": "50002627",
+                "path": "\\\\172.18.22.6\\sds_external/50002627_EXT_SDS_CL_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "VHW30-R001",
+                "chemicalname": "",
+                "commonname": "Bacillus thuringiensis Strain RTI 545 SC",
+                "tradename": "VHW30-R001 (F4015-1)",
+                "casnumber": "",
+                "commercialnames": "BTH (RTI545)  110 g/L SC",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "VHW30-R001",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016626",
+                        "maktx": "ROVISAR_5L_BR",
+                        "id": 4030927,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "11016584",
+                        "maktx": "AVIZON_1000L_BR",
+                        "id": 4030928,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "11016614",
+                        "maktx": "ROVISAR_1L_BR",
+                        "id": 4030929,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "11016627",
+                        "maktx": "ROVISAR_1000L_BR",
+                        "id": 4030930,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "12006571",
+                        "maktx": "BTH 108SC_ST_CHRH",
+                        "id": 4030931,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "12006603",
+                        "maktx": "BTH 108SC_1000L_BR_ST_CHRH",
+                        "id": 4030932,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "11016582",
+                        "maktx": "AVIZON_1L_BR",
+                        "id": 4030933,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "11016583",
+                        "maktx": "AVIZON_5L_BR",
+                        "id": 4030934,
+                        "reportDataId": 27825
+                    },
+                    {
+                        "matnr": "12006601",
+                        "maktx": "BTH 108SC_1000L_BR_ST_CHRH",
+                        "id": 4030935,
+                        "reportDataId": 27825
+                    }
+                ],
+                "id": 27825
+            },
+            {
+                "pdfname": "50003130_EXT_SDS_US_EN.PDF",
+                "specificationid": "50003130",
+                "path": "\\\\172.18.22.6\\sds_external/50003130_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Cedocor\u2122 Insecticide Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS (CHILD)",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27826
+            },
+            {
+                "pdfname": "50003130_EXT_SDS_US_1X.PDF",
+                "specificationid": "50003130",
+                "path": "\\\\172.18.22.6\\sds_external/50003130_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Cedocor\u2122 Insecticide Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS (CHILD)",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27827
+            },
+            {
+                "pdfname": "50003131_EXT_SDS_US_1X.PDF",
+                "specificationid": "50003131",
+                "path": "\\\\172.18.22.6\\sds_external/50003131_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Cedocor\u2122 CPL Insecticide Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS (CHILD)",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27828
+            },
+            {
+                "pdfname": "50003131_EXT_SDS_US_EN.PDF",
+                "specificationid": "50003131",
+                "path": "\\\\172.18.22.6\\sds_external/50003131_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Cedocor\u2122 CPL Insecticide Seed Treatment",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 600 g/L FS (CHILD)",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27829
+            },
+            {
+                "pdfname": "50000339_EXT_SDS_CL_EN.PDF",
+                "specificationid": "50000339",
+                "path": "\\\\172.18.22.6\\sds_external/50000339_EXT_SDS_CL_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "GAMIT\u00ae 360 CS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "COMMAND\u00ae 3 ME",
+                "casnumber": "",
+                "commercialnames": "CLZ 360 g/L CS",
+                "cmr": "",
+                "publishdate": "11/20/2025",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "FO000306",
+                "legacysdsid": "",
+                "revisiondate": "11/20/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008254",
+                        "maktx": "DIRECTOR_5L_NZ",
+                        "id": 4031018,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11007884",
+                        "maktx": "MAGISTER CS_1L_NZ",
+                        "id": 4031019,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "12001986",
+                        "maktx": "CLZ 360CS_?_?_?",
+                        "id": 4031020,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11009847",
+                        "maktx": "COMMAND 36CS_9.46L_NI",
+                        "id": 4031021,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11004983",
+                        "maktx": "COMMAND 360CS_35ML_CN",
+                        "id": 4031022,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11004680",
+                        "maktx": "GAMIT 360CS_1L_CL",
+                        "id": 4031023,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11014874",
+                        "maktx": "COMMAND 36ME_200L_DO",
+                        "id": 4031024,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "12001537",
+                        "maktx": "CLZ 360CS_MI_JB",
+                        "id": 4031025,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11009076",
+                        "maktx": "COMMAND 360CS_100ML_CN",
+                        "id": 4031026,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11007846",
+                        "maktx": "COMMAND 36CS_9.46L_?",
+                        "id": 4031027,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11015130",
+                        "maktx": "CLOMAZONE_500ML_CN",
+                        "id": 4031028,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11008112",
+                        "maktx": "MAGISTER CS_5L_NZ",
+                        "id": 4031029,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "12001942",
+                        "maktx": "CLZ 360CS_200L_MI_ALL",
+                        "id": 4031030,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11005199",
+                        "maktx": "DIRECTOR 360CS_1L_NZ",
+                        "id": 4031031,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11008145",
+                        "maktx": "COMMAND 360CS_200L_MUL",
+                        "id": 4031032,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11015847",
+                        "maktx": "COMMAND 36CS_9.46L_PA",
+                        "id": 4031033,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "12001528",
+                        "maktx": "CLZ 360CS_200L_MI_LF",
+                        "id": 4031034,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11007929",
+                        "maktx": "COMMAND 36CS_5L_AR",
+                        "id": 4031035,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "11015021",
+                        "maktx": "GUANGMIELING_200L_CN",
+                        "id": 4031036,
+                        "reportDataId": 27830
+                    },
+                    {
+                        "matnr": "12001943",
+                        "maktx": "CLZ 360CS_?_?_?",
+                        "id": 4031037,
+                        "reportDataId": 27830
+                    }
+                ],
+                "id": 27830
             }
         ],
         "isExportToExcel": false
