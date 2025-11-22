@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6118,
+        "totalCount": 6126,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,616 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50002765_EXT_SDS_ES_ES.PDF",
-                "specificationid": "50002765",
-                "path": "\\\\172.18.22.6\\sds_external/50002765_EXT_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "SELEBEL",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "RYX 5 SC (ACTICIDE) (CHILD)",
-                "cmr": "",
-                "publishdate": "11/06/2024",
-                "iupac": "",
-                "incode": "E2Y45",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "Q-1618",
-                "legacysdsid": "130000141068",
-                "revisiondate": "11/06/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016156",
-                        "maktx": "SELEBEL_1L_GR",
-                        "id": 2591381,
-                        "reportDataId": 26679
-                    },
-                    {
-                        "matnr": "11016532",
-                        "maktx": "SELEBEL_1L_IT",
-                        "id": 2591382,
-                        "reportDataId": 26679
-                    },
-                    {
-                        "matnr": "11000134",
-                        "maktx": "ELICOR 5SC_500ML_PH",
-                        "id": 2591383,
-                        "reportDataId": 26679
-                    },
-                    {
-                        "matnr": "11016176",
-                        "maktx": "SELEBEL_5L_IT_CORTEVA",
-                        "id": 2591384,
-                        "reportDataId": 26679
-                    },
-                    {
-                        "matnr": "11016531",
-                        "maktx": "PREVATHON_3L_BE",
-                        "id": 2591385,
-                        "reportDataId": 26679
-                    },
-                    {
-                        "matnr": "11000130",
-                        "maktx": "ELICOR 5SC_250ML_PH",
-                        "id": 2591386,
-                        "reportDataId": 26679
-                    }
-                ],
-                "id": 26679
-            },
-            {
-                "pdfname": "50000092_EXT_SDS_PT_1P.PDF",
-                "specificationid": "50000092",
-                "path": "\\\\172.18.22.6\\sds_external/50000092_EXT_SDS_PT_1P.PDF",
-                "reptype": "MSDS",
-                "language": "1P",
-                "genvariant": "EXT_SDS_PT",
-                "authorizedportal": "P3",
-                "productname": "TECORLA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "PREVATHON (ACTICIDE LA1209) (M)",
-                "casnumber": "",
-                "commercialnames": "RYX 5 SC (ACTICIDE)",
-                "cmr": "",
-                "publishdate": "10/15/2024",
-                "iupac": "",
-                "incode": "E2Y45",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "PT",
-                "validityareadescription": "Portugal",
-                "legacyspecid": "Q-1618",
-                "legacysdsid": "130000141068",
-                "revisiondate": "10/15/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015822",
-                        "maktx": "TECORLA_1L_GR",
-                        "id": 3269898,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11002799",
-                        "maktx": "PREVATHON 5SC_15ML_TH",
-                        "id": 3269899,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016511",
-                        "maktx": "SELEBEL_5L_IT",
-                        "id": 3269900,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006233",
-                        "maktx": "RYX 50SC ACTICIDE_ST_MO",
-                        "id": 3269901,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009663",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOFITEX",
-                        "id": 3269902,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006504",
-                        "maktx": "RYX 50SC ACTICIDE_ST_JI",
-                        "id": 3269903,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006780",
-                        "maktx": "PREVATHON 50SC_250ML_ID",
-                        "id": 3269904,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007373",
-                        "maktx": "PREVATHON 5SC_250ML_MM",
-                        "id": 3269905,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12002144",
-                        "maktx": "RYX 50SC_200L_FR_HU_JI",
-                        "id": 3269906,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12001608",
-                        "maktx": "PREVATHON 5SC (E2Y45 CN) L BULK LA1209",
-                        "id": 3269907,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015565",
-                        "maktx": "PREVATHON 5SC_200L_PH_TU_JI",
-                        "id": 3269908,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006792",
-                        "maktx": "PREVATHON 50SC_15ML_CN",
-                        "id": 3269909,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006843",
-                        "maktx": "PREVATHON 5SC_250ML_TH",
-                        "id": 3269910,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11001696",
-                        "maktx": "PREVATHON 5SC_1000L_CN",
-                        "id": 3269911,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12000723",
-                        "maktx": "Prevathon Acticide",
-                        "id": 3269912,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006738",
-                        "maktx": "PREVATHON_100ML_NZ",
-                        "id": 3269913,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006782",
-                        "maktx": "PREVATHON 5SC_250ML_PH",
-                        "id": 3269914,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016494",
-                        "maktx": "TECORLA_3L_BE",
-                        "id": 3269915,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006844",
-                        "maktx": "PREVATHON 50SC_200ML_CN",
-                        "id": 3269916,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016153",
-                        "maktx": "PREVATHON 5SC_250ML_VN",
-                        "id": 3269917,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015962",
-                        "maktx": "ELICOR 50SC_100ML_ID",
-                        "id": 3269918,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11013882",
-                        "maktx": "PREVATHON_20ML_TH",
-                        "id": 3269919,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007071",
-                        "maktx": "PREVATHON 5SC_500ML_ID",
-                        "id": 3269920,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12001791",
-                        "maktx": "RYX 50SC_?_?_?",
-                        "id": 3269921,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007166",
-                        "maktx": "PREVATHON 5SC_250ML_TH",
-                        "id": 3269922,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015677",
-                        "maktx": "COREGIS_500ML_MY",
-                        "id": 3269923,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11014106",
-                        "maktx": "STAMPEDE 5SC_250ML_PH_BASF",
-                        "id": 3269924,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12002170",
-                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_JI",
-                        "id": 3269925,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015580",
-                        "maktx": "ELICOR 50SC_250ML_ID",
-                        "id": 3269926,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007644",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-COIC",
-                        "id": 3269927,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11002800",
-                        "maktx": "PREVATHON 5SC_1L_TH",
-                        "id": 3269928,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016051",
-                        "maktx": "TECORLA_5L_IT",
-                        "id": 3269929,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007635",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-FASOCOTON",
-                        "id": 3269930,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006542",
-                        "maktx": "RYX 50SC_1L_ST_MO",
-                        "id": 3269931,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006550",
-                        "maktx": "RYX 50SC_5L_ST_MO",
-                        "id": 3269932,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006584",
-                        "maktx": "RYX 50SC_5L_ST_JI",
-                        "id": 3269933,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007646",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-CIDT",
-                        "id": 3269934,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016182",
-                        "maktx": "SELEBEL_5L_ES_BASF",
-                        "id": 3269935,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11014931",
-                        "maktx": "PREVATHON 5SC_15ML_VN_LOC",
-                        "id": 3269936,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000578",
-                        "maktx": "PREVATHON 5SC_200ML_MUL",
-                        "id": 3269937,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015581",
-                        "maktx": "PREVATHON 5SC_250ML_VN_LOC",
-                        "id": 3269938,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006284",
-                        "maktx": "RYX 50SC_1000L_ST_MO",
-                        "id": 3269939,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016228",
-                        "maktx": "TECORLA_1L_PT_FITOSISTEMA",
-                        "id": 3269940,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007661",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL BJ-FMC",
-                        "id": 3269941,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007145",
-                        "maktx": "PREVATHON 5SC_500ML_MUL_ULP",
-                        "id": 3269942,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007120",
-                        "maktx": "PREVATHON 5SC_100ML_KH",
-                        "id": 3269943,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006583",
-                        "maktx": "RYX 50SC_1000L_ST_JI",
-                        "id": 3269944,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000142",
-                        "maktx": "PREVATHON_2.5GAL_US",
-                        "id": 3269945,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007015",
-                        "maktx": "PREVATHON 5SC_200ML_CM_ARYSTA",
-                        "id": 3269946,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015686",
-                        "maktx": "ELICOR 50SC_500ML_ID",
-                        "id": 3269947,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000078",
-                        "maktx": "PREVATHON 5SC_15ML_VN_SCH",
-                        "id": 3269948,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007584",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOCOMA",
-                        "id": 3269949,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000123",
-                        "maktx": "INTOREL 5SC_250ML_PH",
-                        "id": 3269950,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007657",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL TG-FMC",
-                        "id": 3269951,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006779",
-                        "maktx": "PREVATHON 5SC_500ML_PH",
-                        "id": 3269952,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12002045",
-                        "maktx": "PREVATHON (ACTICIDE) WI BULK FORMULATION",
-                        "id": 3269953,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015545",
-                        "maktx": "FREECOR 50SC_250ML_ID",
-                        "id": 3269954,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006564",
-                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_ST_JI",
-                        "id": 3269955,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006785",
-                        "maktx": "PREVATHON 50SC_100ML_ID",
-                        "id": 3269956,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015856",
-                        "maktx": "TECORLA_5L_BE",
-                        "id": 3269957,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006737",
-                        "maktx": "PREVATHON 5SC_25ML_VN_SAH",
-                        "id": 3269958,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009662",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL SN-FMC",
-                        "id": 3269959,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000113",
-                        "maktx": "PREVATHON_110GAL_US",
-                        "id": 3269960,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11008999",
-                        "maktx": "PREVATHON 5SC_500ML_ID MY",
-                        "id": 3269961,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015842",
-                        "maktx": "TECORLA_1L_BG",
-                        "id": 3269962,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007180",
-                        "maktx": "PREVATHON 5SC_150ML_VN",
-                        "id": 3269963,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000108",
-                        "maktx": "PREVATHON TM 5SC_15ML_KH_SCH",
-                        "id": 3269964,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006855",
-                        "maktx": "PREVATHON 5SC_250ML_MY",
-                        "id": 3269965,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016305",
-                        "maktx": "TECORLA_1L_IT",
-                        "id": 3269966,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016628",
-                        "maktx": "PREVATHON_500ML_CN",
-                        "id": 3269967,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015745",
-                        "maktx": "PREVATHON_1000L_MA_AMAROC",
-                        "id": 3269968,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11013982",
-                        "maktx": "PREVATHON 5SC_1000L_MUL",
-                        "id": 3269969,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007067",
-                        "maktx": "PREVATHON 5SC_250ML_MY ID_SIPP",
-                        "id": 3269970,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009422",
-                        "maktx": "PREVATHON 50SC_20ML_CN_TIANFU",
-                        "id": 3269971,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11015690",
-                        "maktx": "COREGIS_250ML_MY",
-                        "id": 3269972,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "12006594",
-                        "maktx": "RYX 50SC_1L_ST_JI",
-                        "id": 3269973,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009414",
-                        "maktx": "PREVATHON 50SC_200ML_CN_TIANFU",
-                        "id": 3269974,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11016175",
-                        "maktx": "PREVATHON 200SC_7ML_VN",
-                        "id": 3269975,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007654",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-IVOIRE.C",
-                        "id": 3269976,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11006725",
-                        "maktx": "PREVATHON 5SC_500ML_TH",
-                        "id": 3269977,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009417",
-                        "maktx": "PREVATHON 50SC_500ML_CN_TIANFU",
-                        "id": 3269978,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11000152",
-                        "maktx": "PREVATHON 50SC_10ML_TH_SCH",
-                        "id": 3269979,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11007056",
-                        "maktx": "PREVATHON 50SC_500ML_CN",
-                        "id": 3269980,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11009652",
-                        "maktx": "PREVATHON 5SC 20X200ML BTL ML-FMC",
-                        "id": 3269981,
-                        "reportDataId": 26680
-                    },
-                    {
-                        "matnr": "11014830",
-                        "maktx": "PREVATHON_100ML_TH",
-                        "id": 3269982,
-                        "reportDataId": 26680
-                    }
-                ],
-                "id": 26680
-            },
             {
                 "pdfname": "50000012_SDS_BG_BG.PDF",
                 "specificationid": "50000012",
@@ -31586,525 +30976,531 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009345",
-                        "maktx": "FORNAX 18.5%SC_300ML_IN",
-                        "id": 3945245,
+                        "matnr": "11000065",
+                        "maktx": "COSKO 18.5%SC_30ML_IN",
+                        "id": 4031307,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016972",
                         "maktx": "VESTICOR_500ML_IT",
-                        "id": 3945246,
+                        "id": 4031308,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006849",
                         "maktx": "CORAGEN 18.5%SC_300ML_IN",
-                        "id": 3945247,
+                        "id": 4031309,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016964",
                         "maktx": "PANIRI_500ML_IT",
-                        "id": 3945248,
+                        "id": 4031310,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007416",
                         "maktx": "PEVOTA 18.5%SC_60ML_IN",
-                        "id": 3945249,
+                        "id": 4031311,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013785",
                         "maktx": "CERTACOR SC_30ML_IN_MAHI",
-                        "id": 3945250,
+                        "id": 4031312,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007130",
                         "maktx": "COVER 18.5% SC 40X150ML BTL IN",
-                        "id": 3945251,
+                        "id": 4031313,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015801",
                         "maktx": "ENFUSE_10ML_IN_STANES",
-                        "id": 3945252,
+                        "id": 4031314,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016466",
                         "maktx": "CORAGEN_200ML_CO",
-                        "id": 3945253,
+                        "id": 4031315,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11014970",
                         "maktx": "CORAGEN_25ML_LK_SUNAGRO",
-                        "id": 3945254,
+                        "id": 4031316,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007131",
                         "maktx": "COVER 18.5% SC 300X10ML BTL IN",
-                        "id": 3945255,
+                        "id": 4031317,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006845",
                         "maktx": "CORAGEN 18.5%SC_10ML_IN",
-                        "id": 3945256,
+                        "id": 4031318,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015290",
                         "maktx": "ZYCOR_60ML_IN_CHEM",
-                        "id": 3945257,
+                        "id": 4031319,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015291",
                         "maktx": "ZYCOR_150ML_IN_CHEM",
-                        "id": 3945258,
+                        "id": 4031320,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12005985",
                         "maktx": "RYX 200SC_52.8GAL_MI_MO",
-                        "id": 3945259,
+                        "id": 4031321,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006848",
                         "maktx": "CORAGEN 18.5%SC_150ML_IN",
-                        "id": 3945260,
+                        "id": 4031322,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006847",
                         "maktx": "CORAGEN 18.5%SC_60ML_IN",
-                        "id": 3945261,
+                        "id": 4031323,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013790",
                         "maktx": "CERTACOR SC_60ML_IN_MAHI",
-                        "id": 3945262,
+                        "id": 4031324,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013634",
                         "maktx": "SHENZI_150ML_IN_UPL",
-                        "id": 3945263,
+                        "id": 4031325,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11014467",
                         "maktx": "CORAGEN_50ML_SL",
-                        "id": 3945264,
+                        "id": 4031326,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013791",
                         "maktx": "CERTACOR SC_150ML_IN_MAHI",
-                        "id": 3945265,
+                        "id": 4031327,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006472",
                         "maktx": "RYX 200SC_200L_CO_MI_MO",
-                        "id": 3945266,
+                        "id": 4031328,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007653",
                         "maktx": "COSKO 18.5%SC_300ML_IN",
-                        "id": 3945267,
+                        "id": 4031329,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006857",
                         "maktx": "CORAGEN_200ML_CO",
-                        "id": 3945268,
+                        "id": 4031330,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000066",
                         "maktx": "COSKO 18.5%SC_60ML_IN",
-                        "id": 3945269,
+                        "id": 4031331,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12002998",
                         "maktx": "CORAGEN 20SC BULK DRM IN",
-                        "id": 3945270,
+                        "id": 4031332,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016724",
                         "maktx": "PREMIO_100ML_EC",
-                        "id": 3945271,
+                        "id": 4031333,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11013291",
                         "maktx": "CORAGEN_4ML_BD",
-                        "id": 3945272,
+                        "id": 4031334,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007229",
                         "maktx": "VESTICOR 18.5%SC_150ML_IN",
-                        "id": 3945273,
+                        "id": 4031335,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11010326",
                         "maktx": "CORAGEN_200L_IN",
-                        "id": 3945274,
+                        "id": 4031336,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007417",
                         "maktx": "PEVOTA 18.5%SC_150ML_IN",
-                        "id": 3945275,
+                        "id": 4031337,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000220",
                         "maktx": "CORAGEN_1L_CO",
-                        "id": 3945276,
+                        "id": 4031338,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015313",
                         "maktx": "CORAGEN_10ML_IN",
-                        "id": 3945277,
+                        "id": 4031339,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016955",
                         "maktx": "CORAGEN_50ML_ZW_POLACHEM",
-                        "id": 3945278,
+                        "id": 4031340,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11010268",
                         "maktx": "FORNAX 18.5%SC_150ML_IN",
-                        "id": 3945279,
+                        "id": 4031341,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015315",
                         "maktx": "CHLORANTRANILIPROLE 18.5%SC_200L_IN",
-                        "id": 3945280,
+                        "id": 4031342,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016725",
                         "maktx": "MIRAPRIN_100ML_EC",
-                        "id": 3945281,
+                        "id": 4031343,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015532",
                         "maktx": "TREX_150ML_IN_SUMI",
-                        "id": 3945282,
+                        "id": 4031344,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11007128",
                         "maktx": "COVER 18.5% SC 200X30ML BTL IN",
-                        "id": 3945283,
+                        "id": 4031345,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12001529",
                         "maktx": "RYX 200SC ACTICIDE_1000L_PHY_MO",
-                        "id": 3945284,
+                        "id": 4031346,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006301",
                         "maktx": "RYX 200SC_GSS_MI_MO",
-                        "id": 3945285,
+                        "id": 4031347,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006934",
                         "maktx": "VESTICOR 18.5%SC_60ML_IN",
-                        "id": 3945286,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013570",
-                        "maktx": "PEVOTA_10ML_IN_CHAMBAL",
-                        "id": 3945287,
+                        "id": 4031348,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11016936",
                         "maktx": "SUVISIO_500ML_GR_CORTEVA",
-                        "id": 3945288,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007129",
-                        "maktx": "COVER 18.5% SC 100X60ML BTL IN",
-                        "id": 3945289,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015523",
-                        "maktx": "ENFUSE_150ML_IN_STANES",
-                        "id": 3945290,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007769",
-                        "maktx": "VESTICOR 18.5%SC_600ML_IN",
-                        "id": 3945291,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11001446",
-                        "maktx": "FORNAX 18.5%_SC_30ML_IN",
-                        "id": 3945292,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007659",
-                        "maktx": "COSKO 18.5%SC_10ML_IN",
-                        "id": 3945293,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11009231",
-                        "maktx": "VESTICOR 18.5% SC 300X10ML BTL IN",
-                        "id": 3945294,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006933",
-                        "maktx": "VESTICOR 18.5%SC_30ML_IN",
-                        "id": 3945295,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000214",
-                        "maktx": "CORAGEN_300ML_IN_INST",
-                        "id": 3945296,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11001323",
-                        "maktx": "FORNAX 18.5%SC_10ML_IN",
-                        "id": 3945297,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013645",
-                        "maktx": "SHENZI_60ML_IN_UPL",
-                        "id": 3945298,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006568",
-                        "maktx": "RYX 200SC_1000L_ST_JI",
-                        "id": 3945299,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12002136",
-                        "maktx": "RYX 200SC ACTICIDE_200L_?",
-                        "id": 3945300,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006935",
-                        "maktx": "VESTICOR 18.5%SC_300ML_IN",
-                        "id": 3945301,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12005970",
-                        "maktx": "RYX 200SC_MI_MO",
-                        "id": 3945302,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006556",
-                        "maktx": "RYX 200SC_1000L_MUL_ST_JI",
-                        "id": 3945303,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11016973",
-                        "maktx": "PANIRI_300ML_IT",
-                        "id": 3945304,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006555",
-                        "maktx": "RYX 200SC_1000L_ID_ST_JI",
-                        "id": 3945305,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013250",
-                        "maktx": "PEVOTA_30ML_IN_CHAMBAL",
-                        "id": 3945306,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11010309",
-                        "maktx": "CORAGEN_10ML_BD",
-                        "id": 3945307,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006092",
-                        "maktx": "RYX 200SC_1000L_BR_SV_JI_MO",
-                        "id": 3945308,
+                        "id": 4031349,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12006190",
                         "maktx": "RYX 200SC_1000L_SV_ALL",
-                        "id": 3945309,
+                        "id": 4031350,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007129",
+                        "maktx": "COVER 18.5% SC 100X60ML BTL IN",
+                        "id": 4031351,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007769",
+                        "maktx": "VESTICOR 18.5%SC_600ML_IN",
+                        "id": 4031352,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11001446",
+                        "maktx": "FORNAX 18.5%_SC_30ML_IN",
+                        "id": 4031353,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007659",
+                        "maktx": "COSKO 18.5%SC_10ML_IN",
+                        "id": 4031354,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11009231",
+                        "maktx": "VESTICOR 18.5% SC 300X10ML BTL IN",
+                        "id": 4031355,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006933",
+                        "maktx": "VESTICOR 18.5%SC_30ML_IN",
+                        "id": 4031356,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000214",
+                        "maktx": "CORAGEN_300ML_IN_INST",
+                        "id": 4031357,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11001323",
+                        "maktx": "FORNAX 18.5%SC_10ML_IN",
+                        "id": 4031358,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006568",
+                        "maktx": "RYX 200SC_1000L_ST_JI",
+                        "id": 4031359,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015523",
+                        "maktx": "ENFUSE_150ML_IN_STANES",
+                        "id": 4031360,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006092",
+                        "maktx": "RYX 200SC_1000L_BR_SV_JI_MO",
+                        "id": 4031361,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006935",
+                        "maktx": "VESTICOR 18.5%SC_300ML_IN",
+                        "id": 4031362,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12005970",
+                        "maktx": "RYX 200SC_MI_MO",
+                        "id": 4031363,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006556",
+                        "maktx": "RYX 200SC_1000L_MUL_ST_JI",
+                        "id": 4031364,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11016973",
+                        "maktx": "PANIRI_300ML_IT",
+                        "id": 4031365,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006555",
+                        "maktx": "RYX 200SC_1000L_ID_ST_JI",
+                        "id": 4031366,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013250",
+                        "maktx": "PEVOTA_30ML_IN_CHAMBAL",
+                        "id": 4031367,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11010309",
+                        "maktx": "CORAGEN_10ML_BD",
+                        "id": 4031368,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11009345",
+                        "maktx": "FORNAX 18.5%SC_300ML_IN",
+                        "id": 4031369,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12002136",
+                        "maktx": "RYX 200SC ACTICIDE_200L_?",
+                        "id": 4031370,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013645",
+                        "maktx": "SHENZI_60ML_IN_UPL",
+                        "id": 4031371,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11006846",
                         "maktx": "CORAGEN 18.5%SC_30ML_IN",
-                        "id": 3945310,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015800",
-                        "maktx": "ENFUSE_30ML_IN_STANES",
-                        "id": 3945311,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12001152",
-                        "maktx": "RYX 200SC_200L_CO BO_GRYL_MO",
-                        "id": 3945312,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006231",
-                        "maktx": "RYX 200SC_1000L_SV_JI_MO",
-                        "id": 3945313,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11007462",
-                        "maktx": "COVER 18.5% SC 40X300ML BTL IN",
-                        "id": 3945314,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11016917",
-                        "maktx": "SUVISIO_200ML_GR_CORTEVA",
-                        "id": 3945315,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11013212",
-                        "maktx": "CORAGEN_80ML_IN",
-                        "id": 3945316,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11009519",
-                        "maktx": "CORAGEN_1L_BO",
-                        "id": 3945317,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11014566",
-                        "maktx": "SHENZI_1L_BO",
-                        "id": 3945318,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11006850",
-                        "maktx": "CORAGEN 18.5%SC_600ML_IN",
-                        "id": 3945319,
+                        "id": 4031372,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "12002192",
                         "maktx": "RYX 200SC_200L_MUL",
-                        "id": 3945320,
+                        "id": 4031373,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12001152",
+                        "maktx": "RYX 200SC_200L_CO BO_GRYL_MO",
+                        "id": 4031374,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006231",
+                        "maktx": "RYX 200SC_1000L_SV_JI_MO",
+                        "id": 4031375,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11007462",
+                        "maktx": "COVER 18.5% SC 40X300ML BTL IN",
+                        "id": 4031376,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11016917",
+                        "maktx": "SUVISIO_200ML_GR_CORTEVA",
+                        "id": 4031377,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013212",
+                        "maktx": "CORAGEN_80ML_IN",
+                        "id": 4031378,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11009519",
+                        "maktx": "CORAGEN_1L_BO",
+                        "id": 4031379,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11014566",
+                        "maktx": "SHENZI_1L_BO",
+                        "id": 4031380,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11006850",
+                        "maktx": "CORAGEN 18.5%SC_600ML_IN",
+                        "id": 4031381,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11015231",
                         "maktx": "TECOREL 18.5SC_200L_BD_ACCL",
-                        "id": 3945321,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006572",
-                        "maktx": "RYX 200SC_5L_ST_JI",
-                        "id": 3945322,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006371",
-                        "maktx": "RYX 200SC_9553L_LK_JI",
-                        "id": 3945323,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11015531",
-                        "maktx": "ENFUSE_60ML_IN_STANES",
-                        "id": 3945324,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12001567",
-                        "maktx": "CORAGEN GENERIC BULK DIOSA (PROXEL)",
-                        "id": 3945325,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000555",
-                        "maktx": "CORAGEN CTN 1200X5ML SAH (IN) SL",
-                        "id": 3945326,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11002510",
-                        "maktx": "FORNAX_60ML_IN",
-                        "id": 3945327,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "12006569",
-                        "maktx": "RYX 200SC_1L_ST_JI",
-                        "id": 3945328,
-                        "reportDataId": 26883
-                    },
-                    {
-                        "matnr": "11000150",
-                        "maktx": "CORAGEN_150ML_IN_INST",
-                        "id": 3945329,
+                        "id": 4031382,
                         "reportDataId": 26883
                     },
                     {
                         "matnr": "11000071",
                         "maktx": "COSKO 18.5%SC_150ML_IN",
-                        "id": 3945330,
+                        "id": 4031383,
                         "reportDataId": 26883
                     },
                     {
-                        "matnr": "11000065",
-                        "maktx": "COSKO 18.5%SC_30ML_IN",
-                        "id": 3945331,
+                        "matnr": "12006572",
+                        "maktx": "RYX 200SC_5L_ST_JI",
+                        "id": 4031384,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006371",
+                        "maktx": "RYX 200SC_9553L_LK_JI",
+                        "id": 4031385,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015531",
+                        "maktx": "ENFUSE_60ML_IN_STANES",
+                        "id": 4031386,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12001567",
+                        "maktx": "CORAGEN GENERIC BULK DIOSA (PROXEL)",
+                        "id": 4031387,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000555",
+                        "maktx": "CORAGEN CTN 1200X5ML SAH (IN) SL",
+                        "id": 4031388,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11002510",
+                        "maktx": "FORNAX_60ML_IN",
+                        "id": 4031389,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "12006569",
+                        "maktx": "RYX 200SC_1L_ST_JI",
+                        "id": 4031390,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11000150",
+                        "maktx": "CORAGEN_150ML_IN_INST",
+                        "id": 4031391,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11015800",
+                        "maktx": "ENFUSE_30ML_IN_STANES",
+                        "id": 4031392,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11013570",
+                        "maktx": "PEVOTA_10ML_IN_CHAMBAL",
+                        "id": 4031393,
+                        "reportDataId": 26883
+                    },
+                    {
+                        "matnr": "11016981",
+                        "maktx": "VESTICOR_250ML_IT",
+                        "id": 4031394,
                         "reportDataId": 26883
                     }
                 ],
@@ -235747,170 +235143,6 @@
                 "id": 27782
             },
             {
-                "pdfname": "50001575_SDS_PH_EN.PDF",
-                "specificationid": "50001575",
-                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "MARSHAL 200SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CARBOSULFAN 200 G/L SC",
-                "casnumber": "",
-                "commercialnames": "CSN 200 g/L SC (Nipacide)",
-                "cmr": "",
-                "publishdate": "11/03/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "FO000922",
-                "legacysdsid": "",
-                "revisiondate": "11/03/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005147",
-                        "maktx": "MARSHAL 20SC_1L_MY",
-                        "id": 3844340,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11002477",
-                        "maktx": "BRIGADE_1L_TH",
-                        "id": 3844341,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008162",
-                        "maktx": "MARSHAL 200SC_500ML",
-                        "id": 3844342,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008675",
-                        "maktx": "MARSHAL 200SC_200L_KR",
-                        "id": 3844343,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11004508",
-                        "maktx": "BRIGADE 20SC_200L_TH",
-                        "id": 3844344,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11000381",
-                        "maktx": "MARZINE_1L_KR",
-                        "id": 3844345,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11005086",
-                        "maktx": "ADVANTAGE 20SC_200L_BD",
-                        "id": 3844346,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11004970",
-                        "maktx": "MARSHAL 20SC_1L_TH",
-                        "id": 3844347,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11000352",
-                        "maktx": "MARZINE_500ML_KR",
-                        "id": 3844348,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11001648",
-                        "maktx": "MARSHAL 200SC_500ML_PH",
-                        "id": 3844349,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "12001406",
-                        "maktx": "CSN 200SC_MUL_UG_ALL",
-                        "id": 3844350,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008660",
-                        "maktx": "MARSHAL 20SC_200ML_SI",
-                        "id": 3844351,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008661",
-                        "maktx": "MARSHAL 20SC_400ML_SI",
-                        "id": 3844352,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11001647",
-                        "maktx": "MARSHAL 200SC_250ML_PH",
-                        "id": 3844353,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "12001443",
-                        "maktx": "CSN 200SC_UG_LF",
-                        "id": 3844354,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008651",
-                        "maktx": "MARSHAL 200SC_200L_VN",
-                        "id": 3844355,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "12001274",
-                        "maktx": "CSN 200SC_UG_HAIL",
-                        "id": 3844356,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11013685",
-                        "maktx": "MARSHAL 200SC_20ML_VN",
-                        "id": 3844357,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11008654",
-                        "maktx": "MARSHAL 20SC_100ML_SI",
-                        "id": 3844358,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11013181",
-                        "maktx": "MARSHAL 200SC_500ML_VN",
-                        "id": 3844359,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11001672",
-                        "maktx": "MARSHAL 200SC_1L_PH",
-                        "id": 3844360,
-                        "reportDataId": 27783
-                    },
-                    {
-                        "matnr": "11013190",
-                        "maktx": "MARSHAL 200SC_100ML_VN",
-                        "id": 3844361,
-                        "reportDataId": 27783
-                    }
-                ],
-                "id": 27783
-            },
-            {
                 "pdfname": "50002649_SDS_CA_3F.PDF",
                 "specificationid": "50002649",
                 "path": "\\\\172.18.22.6\\sds_external/50002649_SDS_CA_3F.PDF",
@@ -236030,7 +235262,13 @@
                     {
                         "matnr": "11016358",
                         "maktx": "PROMINO XTRA_5L_RO",
-                        "id": 3849981,
+                        "id": 4031038,
+                        "reportDataId": 27786
+                    },
+                    {
+                        "matnr": "11016966",
+                        "maktx": "PROMINO XTRA_5L_IT",
+                        "id": 4031039,
                         "reportDataId": 27786
                     }
                 ],
@@ -236068,7 +235306,13 @@
                     {
                         "matnr": "11016358",
                         "maktx": "PROMINO XTRA_5L_RO",
-                        "id": 3849982,
+                        "id": 4031040,
+                        "reportDataId": 27787
+                    },
+                    {
+                        "matnr": "11016966",
+                        "maktx": "PROMINO XTRA_5L_IT",
+                        "id": 4031041,
                         "reportDataId": 27787
                     }
                 ],
@@ -240883,6 +240127,1516 @@
                     }
                 ],
                 "id": 27830
+            },
+            {
+                "pdfname": "50002726_SDS_IN_EN.PDF",
+                "specificationid": "50002726",
+                "path": "\\\\172.18.22.6\\sds_external/50002726_SDS_IN_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_IN",
+                "authorizedportal": "P3",
+                "productname": "Cyazypyr\u00ae 300 OD insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Zedelis 300 OD",
+                "casnumber": "",
+                "commercialnames": "CZP 300 g/L OD",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IN",
+                "validityareadescription": "India",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016962",
+                        "maktx": "ZEDELIS_1L_UA",
+                        "id": 4031395,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016656",
+                        "maktx": "HUIQING_200ML_CN",
+                        "id": 4031396,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 4031397,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 4031398,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 4031399,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006595",
+                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
+                        "id": 4031400,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006567",
+                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
+                        "id": 4031401,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 4031402,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 4031403,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016655",
+                        "maktx": "HUIQING_35ML_CN",
+                        "id": 4031404,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016685",
+                        "maktx": "BENEVIA EVO_150ML_PH",
+                        "id": 4031405,
+                        "reportDataId": 27831
+                    }
+                ],
+                "id": 27831
+            },
+            {
+                "pdfname": "50001575_SDS_PH_EN.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031715,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031716,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031717,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031718,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031719,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031720,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031721,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031722,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031723,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031724,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031725,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031726,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031727,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031728,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031729,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031730,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031731,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031732,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031733,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031734,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031735,
+                        "reportDataId": 27832
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031736,
+                        "reportDataId": 27832
+                    }
+                ],
+                "id": 27832
+            },
+            {
+                "pdfname": "50001575_SDS_ID_EN.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_ID_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031737,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031738,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031739,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031740,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031741,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031742,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031743,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031744,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031745,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031746,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031747,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031748,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031749,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031750,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031751,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031752,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031753,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031754,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031755,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031756,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031757,
+                        "reportDataId": 27833
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031758,
+                        "reportDataId": 27833
+                    }
+                ],
+                "id": 27833
+            },
+            {
+                "pdfname": "50001575_SDS_ID_ID.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_ID_ID.PDF",
+                "reptype": "MSDS",
+                "language": "ID",
+                "genvariant": "SDS_ID",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ID",
+                "validityareadescription": "Indonesia",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031759,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031760,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031761,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031762,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031763,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031764,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031765,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031766,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031767,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031768,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031769,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031770,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031771,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031772,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031773,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031774,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031775,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031776,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031777,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031778,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031779,
+                        "reportDataId": 27834
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031780,
+                        "reportDataId": 27834
+                    }
+                ],
+                "id": 27834
+            },
+            {
+                "pdfname": "50001575_SDS_MY_EN.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_MY_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 20SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CARBOSULFAN 200 G/L SC",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031781,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031782,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031783,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031784,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031785,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031786,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031787,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031788,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031789,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031790,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031791,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031792,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031793,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031794,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031795,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031796,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031797,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031798,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031799,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031800,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031801,
+                        "reportDataId": 27835
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031802,
+                        "reportDataId": 27835
+                    }
+                ],
+                "id": 27835
+            },
+            {
+                "pdfname": "50001575_SDS_MY_MS.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_MY_MS.PDF",
+                "reptype": "MSDS",
+                "language": "MS",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 20SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CARBOSULFAN 200 G/L SC",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031803,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031804,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031805,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031806,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031807,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031808,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031809,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031810,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031811,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031812,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031813,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031814,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031815,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031816,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031817,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031818,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031819,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031820,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031821,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031822,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031823,
+                        "reportDataId": 27836
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031824,
+                        "reportDataId": 27836
+                    }
+                ],
+                "id": 27836
+            },
+            {
+                "pdfname": "50001575_SDS_LK_EN.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_LK_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_LK",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "LK",
+                "validityareadescription": "Sri Lanka",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031825,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031826,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031827,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031828,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031829,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031830,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031831,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031832,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031833,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031834,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031835,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031836,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031837,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031838,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031839,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031840,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031841,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031842,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031843,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031844,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031845,
+                        "reportDataId": 27837
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031846,
+                        "reportDataId": 27837
+                    }
+                ],
+                "id": 27837
+            },
+            {
+                "pdfname": "50001575_SDS_VN_EN.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_VN_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_VN",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "VN",
+                "validityareadescription": "Vietnam",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031939,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031940,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031941,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031942,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031943,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031944,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031945,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031946,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031947,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031948,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031949,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031950,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031951,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031952,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031953,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031954,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031955,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031956,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031957,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031958,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031959,
+                        "reportDataId": 27838
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031960,
+                        "reportDataId": 27838
+                    }
+                ],
+                "id": 27838
+            },
+            {
+                "pdfname": "50001575_SDS_VN_VI.PDF",
+                "specificationid": "50001575",
+                "path": "\\\\172.18.22.6\\sds_external/50001575_SDS_VN_VI.PDF",
+                "reptype": "MSDS",
+                "language": "VI",
+                "genvariant": "SDS_VN",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 200SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CSN 200 g/L SC (Nipacide)",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "VN",
+                "validityareadescription": "Vietnam",
+                "legacyspecid": "FO000922",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001672",
+                        "maktx": "MARSHAL 200SC_1L_PH",
+                        "id": 4031961,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11004970",
+                        "maktx": "MARSHAL 20SC_1L_TH",
+                        "id": 4031962,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "12001406",
+                        "maktx": "CSN 200SC_MUL_UG_ALL",
+                        "id": 4031963,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008660",
+                        "maktx": "MARSHAL 20SC_200ML_SI",
+                        "id": 4031964,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11000381",
+                        "maktx": "MARZINE_1L_KR",
+                        "id": 4031965,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11013181",
+                        "maktx": "MARSHAL 200SC_500ML_VN",
+                        "id": 4031966,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008661",
+                        "maktx": "MARSHAL 20SC_400ML_SI",
+                        "id": 4031967,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008675",
+                        "maktx": "MARSHAL 200SC_200L_KR",
+                        "id": 4031968,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008651",
+                        "maktx": "MARSHAL 200SC_200L_VN",
+                        "id": 4031969,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "12001274",
+                        "maktx": "CSN 200SC_UG_HAIL",
+                        "id": 4031970,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11000352",
+                        "maktx": "MARZINE_500ML_KR",
+                        "id": 4031971,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11001648",
+                        "maktx": "MARSHAL 200SC_500ML_PH",
+                        "id": 4031972,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11013190",
+                        "maktx": "MARSHAL 200SC_100ML_VN",
+                        "id": 4031973,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11013685",
+                        "maktx": "MARSHAL 200SC_20ML_VN",
+                        "id": 4031974,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11001647",
+                        "maktx": "MARSHAL 200SC_250ML_PH",
+                        "id": 4031975,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "12001443",
+                        "maktx": "CSN 200SC_UG_LF",
+                        "id": 4031976,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11005086",
+                        "maktx": "ADVANTAGE 20SC_200L_BD",
+                        "id": 4031977,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11005147",
+                        "maktx": "MARSHAL 20SC_1L_MY",
+                        "id": 4031978,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11004508",
+                        "maktx": "BRIGADE 20SC_200L_TH",
+                        "id": 4031979,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008654",
+                        "maktx": "MARSHAL 20SC_100ML_SI",
+                        "id": 4031980,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11008162",
+                        "maktx": "MARSHAL 200SC_500ML",
+                        "id": 4031981,
+                        "reportDataId": 27839
+                    },
+                    {
+                        "matnr": "11002477",
+                        "maktx": "BRIGADE_1L_TH",
+                        "id": 4031982,
+                        "reportDataId": 27839
+                    }
+                ],
+                "id": 27839
+            },
+            {
+                "pdfname": "50002671_SDS_MA_6N.PDF",
+                "specificationid": "50002671",
+                "path": "\\\\172.18.22.6\\sds_external/50002671_SDS_MA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_MA",
+                "authorizedportal": "P3",
+                "productname": "FUNDATIS\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BEF + BIX + CME (125+200+34.5) g/l ZC",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "X8Q85",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MA",
+                "validityareadescription": "Morocco",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016899",
+                        "maktx": "FUNDATIS_5L_ES",
+                        "id": 4031983,
+                        "reportDataId": 27840
+                    },
+                    {
+                        "matnr": "11016242",
+                        "maktx": "FUNDATIS_5L_GB",
+                        "id": 4031984,
+                        "reportDataId": 27840
+                    },
+                    {
+                        "matnr": "12006340",
+                        "maktx": "BIX 200+BEF 125+CME 34.5ZC_KWIZ_MO_PA_RO",
+                        "id": 4031985,
+                        "reportDataId": 27840
+                    }
+                ],
+                "id": 27840
+            },
+            {
+                "pdfname": "50002671_SDS_MA_FR.PDF",
+                "specificationid": "50002671",
+                "path": "\\\\172.18.22.6\\sds_external/50002671_SDS_MA_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "SDS_MA",
+                "authorizedportal": "P3",
+                "productname": "FUNDATIS\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BEF + BIX + CME (125+200+34.5) g/l ZC",
+                "cmr": "",
+                "publishdate": "11/21/2025",
+                "iupac": "",
+                "incode": "X8Q85",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MA",
+                "validityareadescription": "Morocco",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "11/21/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016899",
+                        "maktx": "FUNDATIS_5L_ES",
+                        "id": 4031986,
+                        "reportDataId": 27841
+                    },
+                    {
+                        "matnr": "11016242",
+                        "maktx": "FUNDATIS_5L_GB",
+                        "id": 4031987,
+                        "reportDataId": 27841
+                    },
+                    {
+                        "matnr": "12006340",
+                        "maktx": "BIX 200+BEF 125+CME 34.5ZC_KWIZ_MO_PA_RO",
+                        "id": 4031988,
+                        "reportDataId": 27841
+                    }
+                ],
+                "id": 27841
             }
         ],
         "isExportToExcel": false
