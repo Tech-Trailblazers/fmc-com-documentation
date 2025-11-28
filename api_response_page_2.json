@@ -58,62 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000536_SDS_ID_ID.PDF",
-                "specificationid": "50000536",
-                "path": "\\\\172.18.22.6\\sds_external/50000536_SDS_ID_ID.PDF",
-                "reptype": "MSDS",
-                "language": "ID",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "Sportak\u00ae 450 EC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "PRZ 450 g/L EC",
-                "cmr": "",
-                "publishdate": "10/17/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO000738",
-                "legacysdsid": "",
-                "revisiondate": "10/17/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "22024855",
-                        "maktx": "MSC_STRETCH_WRAP",
-                        "id": 3085752,
-                        "reportDataId": 26690
-                    },
-                    {
-                        "matnr": "11001686",
-                        "maktx": "SPORTAK_1L_IL_GADOT",
-                        "id": 3085753,
-                        "reportDataId": 26690
-                    },
-                    {
-                        "matnr": "11000351",
-                        "maktx": "SPORTAK_1L_PS_MAKALDE",
-                        "id": 3085754,
-                        "reportDataId": 26690
-                    },
-                    {
-                        "matnr": "12000076",
-                        "maktx": "PRZ 450EC_ISAG_HF",
-                        "id": 3085755,
-                        "reportDataId": 26690
-                    }
-                ],
-                "id": 26690
-            },
-            {
                 "pdfname": "50001316_SDS_ID_EN.PDF",
                 "specificationid": "50001316",
                 "path": "\\\\172.18.22.6\\sds_external/50001316_SDS_ID_EN.PDF",
@@ -241552,192 +241496,192 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "11/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "11/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11015461",
+                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
+                        "id": 4122690,
+                        "reportDataId": 27868
+                    },
+                    {
                         "matnr": "11016137",
                         "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4122483,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11014199",
-                        "maktx": "THYPAAN K_10L_TR",
-                        "id": 4122484,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11003072",
-                        "maktx": "HI K_10L_GB IE",
-                        "id": 4122485,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4122486,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001893",
-                        "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4122487,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002662",
-                        "maktx": "FOLY K_10L_TR",
-                        "id": 4122488,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4122489,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016815",
-                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4122490,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002182",
-                        "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4122491,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11000742",
-                        "maktx": "PLUSK_10L_CL",
-                        "id": 4122492,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4122493,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11003000",
-                        "maktx": "HI K_10L_AR",
-                        "id": 4122494,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4122495,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016093",
-                        "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4122496,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002165",
-                        "maktx": "HI K_1000L_HU",
-                        "id": 4122497,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11004651",
-                        "maktx": "HI-K_1000L_CR",
-                        "id": 4122498,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4122499,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4122500,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4122501,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001892",
-                        "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4122502,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4122503,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016134",
-                        "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4122504,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016816",
-                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4122505,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "12000154",
-                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4122506,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008278",
-                        "maktx": "HI K_1000L_EC",
-                        "id": 4122507,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4122508,
+                        "id": 4122691,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11014192",
                         "maktx": "THYPAAN K_5L_TR",
-                        "id": 4122509,
+                        "id": 4122692,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4122693,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008278",
+                        "maktx": "HI K_1000L_EC",
+                        "id": 4122694,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "12000154",
+                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
+                        "id": 4122695,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016816",
+                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
+                        "id": 4122696,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016134",
+                        "maktx": "HI K_1L_DZ_CASAP",
+                        "id": 4122697,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4122698,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001892",
+                        "maktx": "HI K_5L_DZ_AGSE",
+                        "id": 4122699,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4122700,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4122701,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4122702,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11004651",
+                        "maktx": "HI-K_1000L_CR",
+                        "id": 4122703,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11007728",
                         "maktx": "HI K EC_1L_EC",
-                        "id": 4122510,
+                        "id": 4122704,
                         "reportDataId": 27868
                     },
                     {
-                        "matnr": "11015461",
-                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4122511,
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4122705,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11003000",
+                        "maktx": "HI K_10L_AR",
+                        "id": 4122706,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4122707,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11000742",
+                        "maktx": "PLUSK_10L_CL",
+                        "id": 4122708,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002182",
+                        "maktx": "HI-K_1000L_PK_SWAT",
+                        "id": 4122709,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016815",
+                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
+                        "id": 4122710,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4122711,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002662",
+                        "maktx": "FOLY K_10L_TR",
+                        "id": 4122712,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001893",
+                        "maktx": "HI K_1L_DZ_AGSE",
+                        "id": 4122713,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4122714,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11003072",
+                        "maktx": "HI K_10L_GB IE",
+                        "id": 4122715,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11014199",
+                        "maktx": "THYPAAN K_10L_TR",
+                        "id": 4122716,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016093",
+                        "maktx": "HI K_5L_DZ_CASAP",
+                        "id": 4122717,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002165",
+                        "maktx": "HI K_1000L_HU",
+                        "id": 4122718,
                         "reportDataId": 27868
                     }
                 ],
@@ -241758,198 +241702,198 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "11/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "11/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11015461",
+                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
+                        "id": 4122660,
+                        "reportDataId": 27869
+                    },
+                    {
                         "matnr": "11016137",
                         "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4122512,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11014199",
-                        "maktx": "THYPAAN K_10L_TR",
-                        "id": 4122513,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11003072",
-                        "maktx": "HI K_10L_GB IE",
-                        "id": 4122514,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4122515,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11001893",
-                        "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4122516,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002662",
-                        "maktx": "FOLY K_10L_TR",
-                        "id": 4122517,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4122518,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016815",
-                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4122519,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002182",
-                        "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4122520,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11000742",
-                        "maktx": "PLUSK_10L_CL",
-                        "id": 4122521,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4122522,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11003000",
-                        "maktx": "HI K_10L_AR",
-                        "id": 4122523,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4122524,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002165",
-                        "maktx": "HI K_1000L_HU",
-                        "id": 4122525,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI K_1000L_GT",
-                        "id": 4122526,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11001892",
-                        "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4122527,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4122528,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4122529,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11004651",
-                        "maktx": "HI-K_1000L_CR",
-                        "id": 4122530,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4122531,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11007728",
-                        "maktx": "HI K EC_1L_EC",
-                        "id": 4122532,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4122533,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016134",
-                        "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4122534,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016816",
-                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4122535,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "12000154",
-                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4122536,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11008278",
-                        "maktx": "HI K_1000L_EC",
-                        "id": 4122537,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4122538,
+                        "id": 4122661,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11014192",
                         "maktx": "THYPAAN K_5L_TR",
-                        "id": 4122539,
+                        "id": 4122662,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4122663,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11008278",
+                        "maktx": "HI K_1000L_EC",
+                        "id": 4122664,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "12000154",
+                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
+                        "id": 4122665,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016816",
+                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
+                        "id": 4122666,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016134",
+                        "maktx": "HI K_1L_DZ_CASAP",
+                        "id": 4122667,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4122668,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11007728",
+                        "maktx": "HI K EC_1L_EC",
+                        "id": 4122669,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4122670,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11004651",
+                        "maktx": "HI-K_1000L_CR",
+                        "id": 4122671,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4122672,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4122673,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11001892",
+                        "maktx": "HI K_5L_DZ_AGSE",
+                        "id": 4122674,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI K_1000L_GT",
+                        "id": 4122675,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4122676,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11003000",
+                        "maktx": "HI K_10L_AR",
+                        "id": 4122677,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4122678,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11000742",
+                        "maktx": "PLUSK_10L_CL",
+                        "id": 4122679,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002182",
+                        "maktx": "HI-K_1000L_PK_SWAT",
+                        "id": 4122680,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016815",
+                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
+                        "id": 4122681,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4122682,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002662",
+                        "maktx": "FOLY K_10L_TR",
+                        "id": 4122683,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11001893",
+                        "maktx": "HI K_1L_DZ_AGSE",
+                        "id": 4122684,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4122685,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11003072",
+                        "maktx": "HI K_10L_GB IE",
+                        "id": 4122686,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11014199",
+                        "maktx": "THYPAAN K_10L_TR",
+                        "id": 4122687,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016093",
                         "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4122540,
+                        "id": 4122688,
                         "reportDataId": 27869
                     },
                     {
-                        "matnr": "11015461",
-                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4122541,
+                        "matnr": "11002165",
+                        "maktx": "HI K_1000L_HU",
+                        "id": 4122689,
                         "reportDataId": 27869
                     }
                 ],
@@ -242590,30 +242534,30 @@
                 "casnumber": "",
                 "commercialnames": "THYPAAN AA (3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "11/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "11/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015682",
-                        "maktx": "THYPAAN AA_5L_TR",
-                        "id": 4122624,
+                        "matnr": "11015681",
+                        "maktx": "THYPAAN AA_20L_TR",
+                        "id": 4122719,
                         "reportDataId": 27874
                     },
                     {
-                        "matnr": "11015681",
-                        "maktx": "THYPAAN AA_20L_TR",
-                        "id": 4122625,
+                        "matnr": "11015682",
+                        "maktx": "THYPAAN AA_5L_TR",
+                        "id": 4122720,
                         "reportDataId": 27874
                     }
                 ],
@@ -242634,34 +242578,234 @@
                 "casnumber": "",
                 "commercialnames": "THYPAAN AA (3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "11/27/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "11/27/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015682",
-                        "maktx": "THYPAAN AA_5L_TR",
-                        "id": 4122626,
+                        "matnr": "11015681",
+                        "maktx": "THYPAAN AA_20L_TR",
+                        "id": 4122721,
                         "reportDataId": 27875
                     },
                     {
-                        "matnr": "11015681",
-                        "maktx": "THYPAAN AA_20L_TR",
-                        "id": 4122627,
+                        "matnr": "11015682",
+                        "maktx": "THYPAAN AA_5L_TR",
+                        "id": 4122722,
                         "reportDataId": 27875
                     }
                 ],
                 "id": 27875
+            },
+            {
+                "pdfname": "50000100_SDS_RO_RO.PDF",
+                "specificationid": "50000100",
+                "path": "\\\\172.18.22.6\\sds_external/50000100_SDS_RO_RO.PDF",
+                "reptype": "MSDS",
+                "language": "RO",
+                "genvariant": "SDS_RO",
+                "authorizedportal": "P3",
+                "productname": "OMNERA\u00ae LQM\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AVALETTA LQM (M)",
+                "casnumber": "",
+                "commercialnames": "FRX + MEM + TIM (135 + 5 + 30) g/l OD",
+                "cmr": "",
+                "publishdate": "11/27/2025",
+                "iupac": "",
+                "incode": "SGE27",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "RO",
+                "validityareadescription": "Romania",
+                "legacyspecid": "Q-1669",
+                "legacysdsid": "130000107576",
+                "revisiondate": "11/27/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013435",
+                        "maktx": "OMNERA_5L_MD",
+                        "id": 4122628,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11013311",
+                        "maktx": "MILANO LQM_5L_ES_SIPCAM",
+                        "id": 4122629,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12002801",
+                        "maktx": "DPX-SGE27 170OD_5L_AO",
+                        "id": 4122630,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11009218",
+                        "maktx": "OMNERA LQM_5L_ES",
+                        "id": 4122631,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11013287",
+                        "maktx": "OMNERA LQM_1L_MK",
+                        "id": 4122632,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12000676",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL",
+                        "id": 4122633,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11002145",
+                        "maktx": "CONSTAR_5L_CH_STAHLER",
+                        "id": 4122634,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12006410",
+                        "maktx": "TIM 30 + MEM 5 + FRX 135OD_ALMX_MA DWDP",
+                        "id": 4122635,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007063",
+                        "maktx": "OMNERA LQM_5L_DE",
+                        "id": 4122636,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11015626",
+                        "maktx": "PROVALIA_1L_MX",
+                        "id": 4122637,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12001590",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK",
+                        "id": 4122638,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11000211",
+                        "maktx": "OMNERA LQM_1L_IT",
+                        "id": 4122639,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12002080",
+                        "maktx": "DPX-SGE27 170 OD 10X1L BTL NEUTRAL  AO",
+                        "id": 4122640,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11014165",
+                        "maktx": "OMNERA_1L_MK_AGRO JUNIKOM",
+                        "id": 4122641,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11013765",
+                        "maktx": "OMNERA LQM_5L_IT",
+                        "id": 4122642,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007319",
+                        "maktx": "OMNERA OD_5L_BG",
+                        "id": 4122643,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007321",
+                        "maktx": "OMNERA LQM_5L_FR",
+                        "id": 4122644,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007325",
+                        "maktx": "OMNERA_5L_RO",
+                        "id": 4122645,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007629",
+                        "maktx": "OMNERA LQM_5L_AT",
+                        "id": 4122646,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007322",
+                        "maktx": "OMNERA LQM_5L_HU",
+                        "id": 4122647,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007323",
+                        "maktx": "OMNERA LQM_5L_IE",
+                        "id": 4122648,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007065",
+                        "maktx": "OMNERA LQM_5L_NL",
+                        "id": 4122649,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11014805",
+                        "maktx": "ESSIENT_1L_RS_SYNGENTA",
+                        "id": 4122650,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12000005",
+                        "maktx": "DPX-SGE27 170 OD LIQUID L BULK AO",
+                        "id": 4122651,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "12000679",
+                        "maktx": "DPX-SGE27 170 OD 4X5L BTL NEUTRAL",
+                        "id": 4122652,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11009219",
+                        "maktx": "OMNERA LQM_1L_PL",
+                        "id": 4122653,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11015328",
+                        "maktx": "PROVALIA_200L_MX",
+                        "id": 4122654,
+                        "reportDataId": 27876
+                    },
+                    {
+                        "matnr": "11007326",
+                        "maktx": "OMNERA LQM_5L_BE",
+                        "id": 4122655,
+                        "reportDataId": 27876
+                    }
+                ],
+                "id": 27876
             }
         ],
         "isExportToExcel": false
