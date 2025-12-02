@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6152,
+        "totalCount": 6156,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,148 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001316_SDS_ID_ID.PDF",
-                "specificationid": "50001316",
-                "path": "\\\\172.18.22.6\\sds_external/50001316_SDS_ID_ID.PDF",
-                "reptype": "MSDS",
-                "language": "ID",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "Octave\u00ae 50 WP Fungicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "PMN 50 WP",
-                "cmr": "",
-                "publishdate": "10/17/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO000739",
-                "legacysdsid": "",
-                "revisiondate": "10/17/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11004360",
-                        "maktx": "OCTAVE WP46,2 5X1KG#AU,BGK",
-                        "id": 2056096,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "11003586",
-                        "maktx": "SPORGON 50WP_10G_CN",
-                        "id": 2056097,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "11003587",
-                        "maktx": "SPORGON 50WP_100G_CN",
-                        "id": 2056098,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "12001948",
-                        "maktx": "PRM 500WP_SZ_HF",
-                        "id": 2056099,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "12001012",
-                        "maktx": "PRM 500WP_?_HF",
-                        "id": 2056100,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "12000620",
-                        "maktx": "PRM 500WP_UG_ALL",
-                        "id": 2056101,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "12001442",
-                        "maktx": "PRM 500WP_ISAG_HF",
-                        "id": 2056102,
-                        "reportDataId": 26692
-                    },
-                    {
-                        "matnr": "11004359",
-                        "maktx": "OCTAVE WP46,2 5X1KG BOX E#NZ",
-                        "id": 2056103,
-                        "reportDataId": 26692
-                    }
-                ],
-                "id": 26692
-            },
-            {
-                "pdfname": "50001832_EXT_SDS_US_1X.PDF",
-                "specificationid": "50001832",
-                "path": "\\\\172.18.22.6\\sds_external/50001832_EXT_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_US",
-                "authorizedportal": "P3",
-                "productname": "Topguard\u00ae Maxx fungicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FLT 250 g/L SC (v3) (CHILD)",
-                "cmr": "",
-                "publishdate": "04/29/2025",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO002165",
-                "legacysdsid": "FO002165-1-MX-A",
-                "revisiondate": "04/29/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26693
-            },
-            {
-                "pdfname": "50001832_EXT_SDS_US_EN.PDF",
-                "specificationid": "50001832",
-                "path": "\\\\172.18.22.6\\sds_external/50001832_EXT_SDS_US_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "EXT_SDS_US",
-                "authorizedportal": "P3",
-                "productname": "Topguard\u00ae Maxx fungicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FLT 250 g/L SC (v3) (CHILD)",
-                "cmr": "",
-                "publishdate": "04/29/2025",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO002165",
-                "legacysdsid": "FO002165-1-MX-A",
-                "revisiondate": "04/29/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26694
-            },
             {
                 "pdfname": "50001230_SDS_ES_ES.PDF",
                 "specificationid": "50001230",
@@ -48267,262 +48125,6 @@
                     }
                 ],
                 "id": 26980
-            },
-            {
-                "pdfname": "50001598_EXT_SDS_MX_EN.PDF",
-                "specificationid": "50001598",
-                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_MX_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "EXT_SDS_MX",
-                "authorizedportal": "P3",
-                "productname": "FORENIA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
-                "cmr": "",
-                "publishdate": "02/17/2025",
-                "iupac": "",
-                "incode": "U8Z34",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "MX",
-                "validityareadescription": "Mexico",
-                "legacyspecid": "FO004351",
-                "legacysdsid": "",
-                "revisiondate": "02/17/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000909",
-                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
-                        "id": 2836464,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11016510",
-                        "maktx": "ATAPLAN_5KG_KR",
-                        "id": 2836465,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11015528",
-                        "maktx": "PROVILAR_1L_BR",
-                        "id": 2836466,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11014442",
-                        "maktx": "PROVILAR_10L_BR",
-                        "id": 2836467,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "12005471",
-                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
-                        "id": 2836468,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "12005810",
-                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
-                        "id": 2836469,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11000593",
-                        "maktx": "ATAPLAN100ML",
-                        "id": 2836470,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11004755",
-                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
-                        "id": 2836471,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11000545",
-                        "maktx": "ATAPLAN 500ML",
-                        "id": 2836472,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11004701",
-                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
-                        "id": 2836473,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "12006023",
-                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
-                        "id": 2836474,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11004714",
-                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
-                        "id": 2836475,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11014191",
-                        "maktx": "PROVILAR_5L_BR",
-                        "id": 2836476,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "12001280",
-                        "maktx": "BSU + BVZ SC_ST_CHRH",
-                        "id": 2836477,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11004449",
-                        "maktx": "ATAPLAN SC_1000L_KR",
-                        "id": 2836478,
-                        "reportDataId": 26981
-                    },
-                    {
-                        "matnr": "11016591",
-                        "maktx": "PROVILAR_1000L_BR",
-                        "id": 2836479,
-                        "reportDataId": 26981
-                    }
-                ],
-                "id": 26981
-            },
-            {
-                "pdfname": "50001598_EXT_SDS_MX_1X.PDF",
-                "specificationid": "50001598",
-                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_MX_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_MX",
-                "authorizedportal": "P3",
-                "productname": "FORENIA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
-                "cmr": "",
-                "publishdate": "02/17/2025",
-                "iupac": "",
-                "incode": "U8Z34",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "MX",
-                "validityareadescription": "Mexico",
-                "legacyspecid": "FO004351",
-                "legacysdsid": "",
-                "revisiondate": "02/17/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000909",
-                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
-                        "id": 2836480,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11016510",
-                        "maktx": "ATAPLAN_5KG_KR",
-                        "id": 2836481,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11015528",
-                        "maktx": "PROVILAR_1L_BR",
-                        "id": 2836482,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11014442",
-                        "maktx": "PROVILAR_10L_BR",
-                        "id": 2836483,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "12005471",
-                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
-                        "id": 2836484,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "12005810",
-                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
-                        "id": 2836485,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11000593",
-                        "maktx": "ATAPLAN100ML",
-                        "id": 2836486,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11004755",
-                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
-                        "id": 2836487,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11000545",
-                        "maktx": "ATAPLAN 500ML",
-                        "id": 2836488,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11004701",
-                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
-                        "id": 2836489,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "12006023",
-                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
-                        "id": 2836490,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11004714",
-                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
-                        "id": 2836491,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11014191",
-                        "maktx": "PROVILAR_5L_BR",
-                        "id": 2836492,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "12001280",
-                        "maktx": "BSU + BVZ SC_ST_CHRH",
-                        "id": 2836493,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11004449",
-                        "maktx": "ATAPLAN SC_1000L_KR",
-                        "id": 2836494,
-                        "reportDataId": 26982
-                    },
-                    {
-                        "matnr": "11016591",
-                        "maktx": "PROVILAR_1000L_BR",
-                        "id": 2836495,
-                        "reportDataId": 26982
-                    }
-                ],
-                "id": 26982
             },
             {
                 "pdfname": "50001598_EXT_SDS_BR_EN.PDF",
@@ -243680,6 +243282,1212 @@
                     }
                 ],
                 "id": 27879
+            },
+            {
+                "pdfname": "50001053_EXT_SDS_CZ_CS.PDF",
+                "specificationid": "50001053",
+                "path": "\\\\172.18.22.6\\sds_external/50001053_EXT_SDS_CZ_CS.PDF",
+                "reptype": "MSDS",
+                "language": "CS",
+                "genvariant": "EXT_SDS_CZ",
+                "authorizedportal": "P3",
+                "productname": "ANSWER\u2122 SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MEM 20 SG (CHILD)",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "T6376",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CZ",
+                "validityareadescription": "Czech Republic",
+                "legacyspecid": "A-05.3",
+                "legacysdsid": "130000130201",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005559",
+                        "maktx": "LORATE_60G_IE",
+                        "id": 4129454,
+                        "reportDataId": 27880
+                    }
+                ],
+                "id": 27880
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CR_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CR_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CR",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "CR",
+                "validityareadescription": "Costa Rica",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129487,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129488,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129489,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129490,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129491,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129492,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129493,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129494,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129495,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129496,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129497,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129498,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129499,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129500,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129501,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129502,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129503,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129504,
+                        "reportDataId": 27881
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129505,
+                        "reportDataId": 27881
+                    }
+                ],
+                "id": 27881
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CR_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CR",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "CR",
+                "validityareadescription": "Costa Rica",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129506,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129507,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129508,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129509,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129510,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129511,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129512,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129513,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129514,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129515,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129516,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129517,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129518,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129519,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129520,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129521,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129522,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129523,
+                        "reportDataId": 27882
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129524,
+                        "reportDataId": 27882
+                    }
+                ],
+                "id": 27882
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_GT_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_GT_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_GT",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "GT",
+                "validityareadescription": "Guatemala",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129525,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129526,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129527,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129528,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129529,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129530,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129531,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129532,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129533,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129534,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129535,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129536,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129537,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129538,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129539,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129540,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129541,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129542,
+                        "reportDataId": 27883
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129543,
+                        "reportDataId": 27883
+                    }
+                ],
+                "id": 27883
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_GT_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_GT_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_GT",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "GT",
+                "validityareadescription": "Guatemala",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129544,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129545,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129546,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129547,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129548,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129549,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129550,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129551,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129552,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129553,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129554,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129555,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129556,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129557,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129558,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129559,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129560,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129561,
+                        "reportDataId": 27884
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129562,
+                        "reportDataId": 27884
+                    }
+                ],
+                "id": 27884
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_HN_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_HN_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_HN",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "HN",
+                "validityareadescription": "Honduras",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129563,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129564,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129565,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129566,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129567,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129568,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129569,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129570,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129571,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129572,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129573,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129574,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129575,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129576,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129577,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129578,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129579,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129580,
+                        "reportDataId": 27885
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129581,
+                        "reportDataId": 27885
+                    }
+                ],
+                "id": 27885
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_HN_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_HN_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_HN",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae 12 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "HN",
+                "validityareadescription": "Honduras",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129582,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129583,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129584,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129585,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129586,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129587,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129588,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129589,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129590,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129591,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129592,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129593,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129594,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129595,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129596,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129597,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129598,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129599,
+                        "reportDataId": 27886
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129600,
+                        "reportDataId": 27886
+                    }
+                ],
+                "id": 27886
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_MX_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_MX_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129601,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129602,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129603,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129604,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129605,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129606,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129607,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129608,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129609,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129610,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129611,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129612,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129613,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129614,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129615,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129616,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129617,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129618,
+                        "reportDataId": 27887
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129619,
+                        "reportDataId": 27887
+                    }
+                ],
+                "id": 27887
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/01/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.5",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/01/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4129620,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4129621,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4129622,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4129623,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4129624,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4129625,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4129626,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4129627,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4129628,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4129629,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4129630,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4129631,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129632,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4129633,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4129634,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4129635,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4129636,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4129637,
+                        "reportDataId": 27888
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4129638,
+                        "reportDataId": 27888
+                    }
+                ],
+                "id": 27888
             }
         ],
         "isExportToExcel": false
