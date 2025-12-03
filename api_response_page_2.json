@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6156,
+        "totalCount": 6173,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,74 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001230_SDS_ES_ES.PDF",
-                "specificationid": "50001230",
-                "path": "\\\\172.18.22.6\\sds_external/50001230_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "KWS PREMIX 450 (a)",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0371",
-                "cmr": "",
-                "publishdate": "10/18/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "NP-0371",
-                "legacysdsid": "NP-0371",
-                "revisiondate": "10/18/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000652",
-                        "maktx": "MN 200-ZN 140SC_60KG_SWF_HELM",
-                        "id": 2057396,
-                        "reportDataId": 26695
-                    },
-                    {
-                        "matnr": "12001119",
-                        "maktx": "BIO-MN 200-ZN 140SC_ST_KWS",
-                        "id": 2057397,
-                        "reportDataId": 26695
-                    },
-                    {
-                        "matnr": "11003737",
-                        "maktx": "KWS PREMIX 450_160L_MUL",
-                        "id": 2057398,
-                        "reportDataId": 26695
-                    },
-                    {
-                        "matnr": "11005339",
-                        "maktx": "KWS PREMIX 450_1000L_DE",
-                        "id": 2057399,
-                        "reportDataId": 26695
-                    },
-                    {
-                        "matnr": "11002754",
-                        "maktx": "KWS PREMIX 450_200L_MUL",
-                        "id": 2057400,
-                        "reportDataId": 26695
-                    },
-                    {
-                        "matnr": "11003961",
-                        "maktx": "KWS PREMIX 450_900L_MUL",
-                        "id": 2057401,
-                        "reportDataId": 26695
-                    }
-                ],
-                "id": 26695
-            },
             {
                 "pdfname": "50000821_SDS_ES_ES.PDF",
                 "specificationid": "50000821",
@@ -127741,27 +127673,33 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11004634",
-                        "maktx": "GAMIT STAR 800EC_1L_CO",
-                        "id": 2926042,
+                        "matnr": "11004638",
+                        "maktx": "GAMIT STAR_1000L_BR",
+                        "id": 4129894,
                         "reportDataId": 27240
                     },
                     {
-                        "matnr": "11004638",
-                        "maktx": "GAMIT STAR_1000L_BR",
-                        "id": 2926043,
+                        "matnr": "11004634",
+                        "maktx": "GAMIT STAR 800EC_1L_CO",
+                        "id": 4129895,
                         "reportDataId": 27240
                     },
                     {
                         "matnr": "11004615",
                         "maktx": "GAMIT STAR_20L_BR",
-                        "id": 2926044,
+                        "id": 4129896,
                         "reportDataId": 27240
                     },
                     {
                         "matnr": "11004532",
                         "maktx": "GAMIT STAR 800EC_5L_CO",
-                        "id": 2926045,
+                        "id": 4129897,
+                        "reportDataId": 27240
+                    },
+                    {
+                        "matnr": "11016995",
+                        "maktx": "GAMIT STAR_20L_BR",
+                        "id": 4129898,
                         "reportDataId": 27240
                     }
                 ],
@@ -134025,153 +133963,159 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002043",
-                        "maktx": "VERTEX HI N_600L_GB",
-                        "id": 3048064,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11001868",
-                        "maktx": "VERTEX HI-N 34_10L_ES",
-                        "id": 3048065,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11014749",
-                        "maktx": "VERTEX HI-N 34_10L_RO",
-                        "id": 3048066,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11001782",
-                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
-                        "id": 3048067,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11003995",
-                        "maktx": "VERTEX HI N_10L_BG",
-                        "id": 3048068,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11013759",
-                        "maktx": "VERTEX HI N 34_1000L_DE",
-                        "id": 3048069,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002645",
-                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
-                        "id": 3048070,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11016000",
-                        "maktx": "VERTEX HI-N 34_1L_DZ_CASAP",
-                        "id": 3048071,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11015987",
-                        "maktx": "VERTEX HI-N 34_20L_DZ_CASAP",
-                        "id": 3048072,
-                        "reportDataId": 27268
-                    },
-                    {
                         "matnr": "11002568",
                         "maktx": "VERTEX HI N_10L_RO",
-                        "id": 3048073,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11015496",
-                        "maktx": "FOLY-VERTEX_10L_TR",
-                        "id": 3048074,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11014883",
-                        "maktx": "VERTEX HI-N 34_1000L_RO",
-                        "id": 3048075,
+                        "id": 4130161,
                         "reportDataId": 27268
                     },
                     {
                         "matnr": "11002280",
                         "maktx": "VERTEX HI N_10L_FR",
-                        "id": 3048076,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11016001",
-                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
-                        "id": 3048077,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002321",
-                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
-                        "id": 3048078,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11014751",
-                        "maktx": "VERTEX HI-N 34_10L_MD",
-                        "id": 3048079,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11009316",
-                        "maktx": "VERTEX HI N 34_10L_DE",
-                        "id": 3048080,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "12000318",
-                        "maktx": "N 34-MG 3.5-MN  0.9-CU 0.5SC_FL_ALL",
-                        "id": 3048081,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002355",
-                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
-                        "id": 3048082,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002015",
-                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
-                        "id": 3048083,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002044",
-                        "maktx": "VERTEX HI-N 34_1000L_GB",
-                        "id": 3048084,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11001783",
-                        "maktx": "VERTEX HI-N 34_10L_GB",
-                        "id": 3048085,
-                        "reportDataId": 27268
-                    },
-                    {
-                        "matnr": "11002046",
-                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
-                        "id": 3048086,
+                        "id": 4130162,
                         "reportDataId": 27268
                     },
                     {
                         "matnr": "11001878",
                         "maktx": "VERTEX HI N_1000L_GR",
-                        "id": 3048087,
+                        "id": 4130163,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11016000",
+                        "maktx": "VERTEX HI-N 34_1L_DZ_CASAP",
+                        "id": 4130164,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11001782",
+                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
+                        "id": 4130165,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11016001",
+                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
+                        "id": 4130166,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11001783",
+                        "maktx": "VERTEX HI-N 34_10L_GB",
+                        "id": 4130167,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002645",
+                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
+                        "id": 4130168,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11014751",
+                        "maktx": "VERTEX HI-N 34_10L_MD",
+                        "id": 4130169,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11015496",
+                        "maktx": "FOLY-VERTEX_10L_TR",
+                        "id": 4130170,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11015987",
+                        "maktx": "VERTEX HI-N 34_20L_DZ_CASAP",
+                        "id": 4130171,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11014749",
+                        "maktx": "VERTEX HI-N 34_10L_RO",
+                        "id": 4130172,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11014883",
+                        "maktx": "VERTEX HI-N 34_1000L_RO",
+                        "id": 4130173,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002321",
+                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
+                        "id": 4130174,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002044",
+                        "maktx": "VERTEX HI-N 34_1000L_GB",
+                        "id": 4130175,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002043",
+                        "maktx": "VERTEX HI N_600L_GB",
+                        "id": 4130176,
                         "reportDataId": 27268
                     },
                     {
                         "matnr": "11007281",
                         "maktx": "VERTEX HI N_10L_KE_HYGROTECH",
-                        "id": 3048088,
+                        "id": 4130177,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11001868",
+                        "maktx": "VERTEX HI-N 34_10L_ES",
+                        "id": 4130178,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002015",
+                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
+                        "id": 4130179,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002046",
+                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
+                        "id": 4130180,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11003995",
+                        "maktx": "VERTEX HI N_10L_BG",
+                        "id": 4130181,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11013759",
+                        "maktx": "VERTEX HI N 34_1000L_DE",
+                        "id": 4130182,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11002355",
+                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
+                        "id": 4130183,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "12000318",
+                        "maktx": "N 34-MG 3.5-MN  0.9-CU 0.5SC_FL_ALL",
+                        "id": 4130184,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11009316",
+                        "maktx": "VERTEX HI N 34_10L_DE",
+                        "id": 4130185,
+                        "reportDataId": 27268
+                    },
+                    {
+                        "matnr": "11017004",
+                        "maktx": "THYPAAN VERTEX_10L_MUL",
+                        "id": 4130186,
                         "reportDataId": 27268
                     }
                 ],
@@ -195478,33 +195422,39 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002598",
-                        "maktx": "FOLY PHOSPHORUS_10L_TR",
-                        "id": 4110481,
-                        "reportDataId": 27569
-                    },
-                    {
                         "matnr": "11014246",
                         "maktx": "THYPAAN PHOSPHORUS_5L_TR",
-                        "id": 4110482,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11002597",
-                        "maktx": "FOLY PHOSPHORUS_5L_TR",
-                        "id": 4110483,
+                        "id": 4130239,
                         "reportDataId": 27569
                     },
                     {
                         "matnr": "11014226",
                         "maktx": "THYPAAN PHOSPHORUS_10L_TR",
-                        "id": 4110484,
+                        "id": 4130240,
+                        "reportDataId": 27569
+                    },
+                    {
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130241,
                         "reportDataId": 27569
                     },
                     {
                         "matnr": "11002596",
                         "maktx": "FOLY PHOSPHORUS_1L_TR",
-                        "id": 4110485,
+                        "id": 4130242,
+                        "reportDataId": 27569
+                    },
+                    {
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130243,
+                        "reportDataId": 27569
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130244,
                         "reportDataId": 27569
                     }
                 ],
@@ -195540,33 +195490,39 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002598",
-                        "maktx": "FOLY PHOSPHORUS_10L_TR",
-                        "id": 4110476,
-                        "reportDataId": 27570
-                    },
-                    {
                         "matnr": "11014246",
                         "maktx": "THYPAAN PHOSPHORUS_5L_TR",
-                        "id": 4110477,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11002597",
-                        "maktx": "FOLY PHOSPHORUS_5L_TR",
-                        "id": 4110478,
+                        "id": 4130245,
                         "reportDataId": 27570
                     },
                     {
                         "matnr": "11014226",
                         "maktx": "THYPAAN PHOSPHORUS_10L_TR",
-                        "id": 4110479,
+                        "id": 4130246,
+                        "reportDataId": 27570
+                    },
+                    {
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130247,
                         "reportDataId": 27570
                     },
                     {
                         "matnr": "11002596",
                         "maktx": "FOLY PHOSPHORUS_1L_TR",
-                        "id": 4110480,
+                        "id": 4130248,
+                        "reportDataId": 27570
+                    },
+                    {
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130249,
+                        "reportDataId": 27570
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130250,
                         "reportDataId": 27570
                     }
                 ],
@@ -199259,39 +199215,45 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
+                        "matnr": "11014719",
+                        "maktx": "ZINC 69_5L_IE",
+                        "id": 4129877,
+                        "reportDataId": 27625
+                    },
+                    {
                         "matnr": "12001009",
                         "maktx": "ZN 70SC_1000L_DE_FL_ALL",
-                        "id": 3321834,
+                        "id": 4129878,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "12000262",
                         "maktx": "ZN 70SC_FL_ALL",
-                        "id": 3321835,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11014719",
-                        "maktx": "ZINC 69_5L_IE",
-                        "id": 3321836,
+                        "id": 4129879,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11002000",
                         "maktx": "ZINC 69_5L_PL",
-                        "id": 3321837,
+                        "id": 4129880,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11014363",
                         "maktx": "CINKAS 700_5L_LT_AGROKONCERNAS",
-                        "id": 3321838,
+                        "id": 4129881,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11014856",
                         "maktx": "ZINC 69_5L_GB",
-                        "id": 3321839,
+                        "id": 4129882,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11016994",
+                        "maktx": "THYPAAN ZN_1L_MUL",
+                        "id": 4129883,
                         "reportDataId": 27625
                     }
                 ],
@@ -236438,69 +236400,75 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016962",
-                        "maktx": "ZEDELIS_1L_UA",
-                        "id": 4031395,
-                        "reportDataId": 27831
-                    },
-                    {
                         "matnr": "11016656",
                         "maktx": "HUIQING_200ML_CN",
-                        "id": 4031396,
+                        "id": 4129639,
                         "reportDataId": 27831
                     },
                     {
-                        "matnr": "12006553",
-                        "maktx": "CZP 300OD_MUL_ST_JI",
-                        "id": 4031397,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "11016684",
-                        "maktx": "BENEVIA EVO_300ML_PH",
-                        "id": 4031398,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "11016520",
-                        "maktx": "BENEVIA EVO_1L_MX",
-                        "id": 4031399,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "12006595",
-                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
-                        "id": 4031400,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "12006567",
-                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
-                        "id": 4031401,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "11016733",
-                        "maktx": "BENEVIA EVO_1L_PH",
-                        "id": 4031402,
-                        "reportDataId": 27831
-                    },
-                    {
-                        "matnr": "12006705",
-                        "maktx": "CYZ 300OD_SV_ALL",
-                        "id": 4031403,
+                        "matnr": "11016962",
+                        "maktx": "ZEDELIS_1L_UA",
+                        "id": 4129640,
                         "reportDataId": 27831
                     },
                     {
                         "matnr": "11016655",
                         "maktx": "HUIQING_35ML_CN",
-                        "id": 4031404,
+                        "id": 4129641,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 4129642,
                         "reportDataId": 27831
                     },
                     {
                         "matnr": "11016685",
                         "maktx": "BENEVIA EVO_150ML_PH",
-                        "id": 4031405,
+                        "id": 4129643,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006595",
+                        "maktx": "CZP 300OD_1000L_AU_ST_JI",
+                        "id": 4129644,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 4129645,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 4129646,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 4129647,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 4129648,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "12006567",
+                        "maktx": "CZP 300OD_1000L_MUL_ST_JI",
+                        "id": 4129649,
+                        "reportDataId": 27831
+                    },
+                    {
+                        "matnr": "11016992",
+                        "maktx": "ZEDELIS_60ML_IN",
+                        "id": 4129650,
                         "reportDataId": 27831
                     }
                 ],
@@ -238935,69 +238903,75 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016684",
-                        "maktx": "BENEVIA EVO_300ML_PH",
-                        "id": 4110166,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "12006553",
-                        "maktx": "CZP 300OD_MUL_ST_JI",
-                        "id": 4110167,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "11016685",
-                        "maktx": "BENEVIA EVO_150ML_PH",
-                        "id": 4110168,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "11016520",
-                        "maktx": "BENEVIA EVO_1L_MX",
-                        "id": 4110169,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "11016733",
-                        "maktx": "BENEVIA EVO_1L_PH",
-                        "id": 4110170,
-                        "reportDataId": 27850
-                    },
-                    {
                         "matnr": "11016656",
                         "maktx": "HUIQING_200ML_CN",
-                        "id": 4110171,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "11016655",
-                        "maktx": "HUIQING_35ML_CN",
-                        "id": 4110172,
-                        "reportDataId": 27850
-                    },
-                    {
-                        "matnr": "12006705",
-                        "maktx": "CYZ 300OD_SV_ALL",
-                        "id": 4110173,
+                        "id": 4129651,
                         "reportDataId": 27850
                     },
                     {
                         "matnr": "11016962",
                         "maktx": "ZEDELIS_1L_UA",
-                        "id": 4110174,
+                        "id": 4129652,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016655",
+                        "maktx": "HUIQING_35ML_CN",
+                        "id": 4129653,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "12006553",
+                        "maktx": "CZP 300OD_MUL_ST_JI",
+                        "id": 4129654,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016685",
+                        "maktx": "BENEVIA EVO_150ML_PH",
+                        "id": 4129655,
                         "reportDataId": 27850
                     },
                     {
                         "matnr": "12006595",
                         "maktx": "CZP 300OD_1000L_AU_ST_JI",
-                        "id": 4110175,
+                        "id": 4129656,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016733",
+                        "maktx": "BENEVIA EVO_1L_PH",
+                        "id": 4129657,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "12006705",
+                        "maktx": "CYZ 300OD_SV_ALL",
+                        "id": 4129658,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016520",
+                        "maktx": "BENEVIA EVO_1L_MX",
+                        "id": 4129659,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016684",
+                        "maktx": "BENEVIA EVO_300ML_PH",
+                        "id": 4129660,
                         "reportDataId": 27850
                     },
                     {
                         "matnr": "12006567",
                         "maktx": "CZP 300OD_1000L_MUL_ST_JI",
-                        "id": 4110176,
+                        "id": 4129661,
+                        "reportDataId": 27850
+                    },
+                    {
+                        "matnr": "11016992",
+                        "maktx": "ZEDELIS_60ML_IN",
+                        "id": 4129662,
                         "reportDataId": 27850
                     }
                 ],
@@ -241225,177 +241199,183 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015461",
-                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4122690,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016137",
-                        "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4122691,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11014192",
-                        "maktx": "THYPAAN K_5L_TR",
-                        "id": 4122692,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4122693,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008278",
-                        "maktx": "HI K_1000L_EC",
-                        "id": 4122694,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "12000154",
-                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4122695,
+                        "matnr": "11004651",
+                        "maktx": "HI-K_1000L_CR",
+                        "id": 4129847,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11016816",
                         "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4122696,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016134",
-                        "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4122697,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4122698,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001892",
-                        "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4122699,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4122700,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4122701,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4122702,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11004651",
-                        "maktx": "HI-K_1000L_CR",
-                        "id": 4122703,
+                        "id": 4129848,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11007728",
                         "maktx": "HI K EC_1L_EC",
-                        "id": 4122704,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4122705,
+                        "id": 4129849,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11003000",
                         "maktx": "HI K_10L_AR",
-                        "id": 4122706,
+                        "id": 4129850,
                         "reportDataId": 27868
                     },
                     {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4122707,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11000742",
-                        "maktx": "PLUSK_10L_CL",
-                        "id": 4122708,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002182",
-                        "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4122709,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016815",
-                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4122710,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4122711,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002662",
-                        "maktx": "FOLY K_10L_TR",
-                        "id": 4122712,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001893",
-                        "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4122713,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4122714,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11003072",
-                        "maktx": "HI K_10L_GB IE",
-                        "id": 4122715,
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4129851,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11014199",
                         "maktx": "THYPAAN K_10L_TR",
-                        "id": 4122716,
+                        "id": 4129852,
                         "reportDataId": 27868
                     },
                     {
-                        "matnr": "11016093",
-                        "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4122717,
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4129853,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008278",
+                        "maktx": "HI K_1000L_EC",
+                        "id": 4129854,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4129855,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4129856,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4129857,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4129858,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4129859,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4129860,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016815",
+                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
+                        "id": 4129861,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11014192",
+                        "maktx": "THYPAAN K_5L_TR",
+                        "id": 4129862,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4129863,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016134",
+                        "maktx": "HI K_1L_DZ_CASAP",
+                        "id": 4129864,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001893",
+                        "maktx": "HI K_1L_DZ_AGSE",
+                        "id": 4129865,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001892",
+                        "maktx": "HI K_5L_DZ_AGSE",
+                        "id": 4129866,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11003072",
+                        "maktx": "HI K_10L_GB IE",
+                        "id": 4129867,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11015461",
+                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
+                        "id": 4129868,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11002165",
                         "maktx": "HI K_1000L_HU",
-                        "id": 4122718,
+                        "id": 4129869,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "12000154",
+                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
+                        "id": 4129870,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11000742",
+                        "maktx": "PLUSK_10L_CL",
+                        "id": 4129871,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002662",
+                        "maktx": "FOLY K_10L_TR",
+                        "id": 4129872,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016137",
+                        "maktx": "HI K_20L_DZ_CASAP",
+                        "id": 4129873,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002182",
+                        "maktx": "HI-K_1000L_PK_SWAT",
+                        "id": 4129874,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016093",
+                        "maktx": "HI K_5L_DZ_CASAP",
+                        "id": 4129875,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016993",
+                        "maktx": "THYPAAN K_10L_MUL",
+                        "id": 4129876,
                         "reportDataId": 27868
                     }
                 ],
@@ -241431,183 +241411,189 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015461",
-                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4122660,
-                        "reportDataId": 27869
-                    },
-                    {
                         "matnr": "11016137",
                         "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4122661,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11014192",
-                        "maktx": "THYPAAN K_5L_TR",
-                        "id": 4122662,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4122663,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11008278",
-                        "maktx": "HI K_1000L_EC",
-                        "id": 4122664,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "12000154",
-                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4122665,
+                        "id": 4129816,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016816",
                         "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4122666,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016134",
-                        "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4122667,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4122668,
+                        "id": 4129817,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11007728",
                         "maktx": "HI K EC_1L_EC",
-                        "id": 4122669,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4122670,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11004651",
-                        "maktx": "HI-K_1000L_CR",
-                        "id": 4122671,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4122672,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4122673,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11001892",
-                        "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4122674,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI K_1000L_GT",
-                        "id": 4122675,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4122676,
+                        "id": 4129818,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11003000",
                         "maktx": "HI K_10L_AR",
-                        "id": 4122677,
+                        "id": 4129819,
                         "reportDataId": 27869
                     },
                     {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4122678,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11000742",
-                        "maktx": "PLUSK_10L_CL",
-                        "id": 4122679,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002182",
-                        "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4122680,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016815",
-                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4122681,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4122682,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002662",
-                        "maktx": "FOLY K_10L_TR",
-                        "id": 4122683,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11001893",
-                        "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4122684,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4122685,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11003072",
-                        "maktx": "HI K_10L_GB IE",
-                        "id": 4122686,
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4129820,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11014199",
                         "maktx": "THYPAAN K_10L_TR",
-                        "id": 4122687,
+                        "id": 4129821,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4129822,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4129823,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4129824,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4129825,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4129826,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4129827,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4129828,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4129829,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016093",
                         "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4122688,
+                        "id": 4129830,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11014192",
+                        "maktx": "THYPAAN K_5L_TR",
+                        "id": 4129831,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11008278",
+                        "maktx": "HI K_1000L_EC",
+                        "id": 4129832,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI K_1000L_GT",
+                        "id": 4129833,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016134",
+                        "maktx": "HI K_1L_DZ_CASAP",
+                        "id": 4129834,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11001893",
+                        "maktx": "HI K_1L_DZ_AGSE",
+                        "id": 4129835,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11001892",
+                        "maktx": "HI K_5L_DZ_AGSE",
+                        "id": 4129836,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11003072",
+                        "maktx": "HI K_10L_GB IE",
+                        "id": 4129837,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11015461",
+                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
+                        "id": 4129838,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11002165",
                         "maktx": "HI K_1000L_HU",
-                        "id": 4122689,
+                        "id": 4129839,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "12000154",
+                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
+                        "id": 4129840,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11000742",
+                        "maktx": "PLUSK_10L_CL",
+                        "id": 4129841,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002662",
+                        "maktx": "FOLY K_10L_TR",
+                        "id": 4129842,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11004651",
+                        "maktx": "HI-K_1000L_CR",
+                        "id": 4129843,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002182",
+                        "maktx": "HI-K_1000L_PK_SWAT",
+                        "id": 4129844,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016815",
+                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
+                        "id": 4129845,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016993",
+                        "maktx": "THYPAAN K_10L_MUL",
+                        "id": 4129846,
                         "reportDataId": 27869
                     }
                 ],
@@ -241643,153 +241629,159 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002568",
-                        "maktx": "VERTEX HI N_10L_RO",
-                        "id": 4122542,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11007281",
-                        "maktx": "VERTEX HI N_10L_KE_HYGROTECH",
-                        "id": 4122543,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11001878",
-                        "maktx": "VERTEX HI N_1000L_GR",
-                        "id": 4122544,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002280",
-                        "maktx": "VERTEX HI N_10L_FR",
-                        "id": 4122545,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002321",
-                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
-                        "id": 4122546,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11001868",
-                        "maktx": "VERTEX HI-N 34_10L_ES",
-                        "id": 4122547,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11014883",
-                        "maktx": "VERTEX HI-N 34_1000L_RO",
-                        "id": 4122548,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002046",
-                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
-                        "id": 4122549,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002355",
-                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
-                        "id": 4122550,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11001782",
-                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
-                        "id": 4122551,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002015",
-                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
-                        "id": 4122552,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11014751",
-                        "maktx": "VERTEX HI-N 34_10L_MD",
-                        "id": 4122553,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11015496",
-                        "maktx": "FOLY-VERTEX_10L_TR",
-                        "id": 4122554,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11013759",
-                        "maktx": "VERTEX HI N 34_1000L_DE",
-                        "id": 4122555,
+                        "matnr": "11002044",
+                        "maktx": "VERTEX HI-N 34_1000L_GB",
+                        "id": 4130213,
                         "reportDataId": 27870
                     },
                     {
                         "matnr": "11015987",
                         "maktx": "VERTEX HI-N 34_20L_DZ_CASAP",
-                        "id": 4122556,
+                        "id": 4130214,
                         "reportDataId": 27870
                     },
                     {
-                        "matnr": "11016001",
-                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
-                        "id": 4122557,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002645",
-                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
-                        "id": 4122558,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11003995",
-                        "maktx": "VERTEX HI N_10L_BG",
-                        "id": 4122559,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11001783",
-                        "maktx": "VERTEX HI-N 34_10L_GB",
-                        "id": 4122560,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11002043",
-                        "maktx": "VERTEX HI N_600L_GB",
-                        "id": 4122561,
-                        "reportDataId": 27870
-                    },
-                    {
-                        "matnr": "11009316",
-                        "maktx": "VERTEX HI N 34_10L_DE",
-                        "id": 4122562,
+                        "matnr": "11001878",
+                        "maktx": "VERTEX HI N_1000L_GR",
+                        "id": 4130215,
                         "reportDataId": 27870
                     },
                     {
                         "matnr": "11016000",
                         "maktx": "VERTEX HI-N 34_1L_DZ_CASAP",
-                        "id": 4122563,
+                        "id": 4130216,
                         "reportDataId": 27870
                     },
                     {
-                        "matnr": "12000318",
-                        "maktx": "N 34-MG 3.5-MN  0.9-CU 0.5SC_FL_ALL",
-                        "id": 4122564,
+                        "matnr": "11001782",
+                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
+                        "id": 4130217,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11016001",
+                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
+                        "id": 4130218,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11001783",
+                        "maktx": "VERTEX HI-N 34_10L_GB",
+                        "id": 4130219,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002645",
+                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
+                        "id": 4130220,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11014751",
+                        "maktx": "VERTEX HI-N 34_10L_MD",
+                        "id": 4130221,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002280",
+                        "maktx": "VERTEX HI N_10L_FR",
+                        "id": 4130222,
                         "reportDataId": 27870
                     },
                     {
                         "matnr": "11014749",
                         "maktx": "VERTEX HI-N 34_10L_RO",
-                        "id": 4122565,
+                        "id": 4130223,
                         "reportDataId": 27870
                     },
                     {
-                        "matnr": "11002044",
-                        "maktx": "VERTEX HI-N 34_1000L_GB",
-                        "id": 4122566,
+                        "matnr": "11015496",
+                        "maktx": "FOLY-VERTEX_10L_TR",
+                        "id": 4130224,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11014883",
+                        "maktx": "VERTEX HI-N 34_1000L_RO",
+                        "id": 4130225,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002321",
+                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
+                        "id": 4130226,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002568",
+                        "maktx": "VERTEX HI N_10L_RO",
+                        "id": 4130227,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002043",
+                        "maktx": "VERTEX HI N_600L_GB",
+                        "id": 4130228,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "12000318",
+                        "maktx": "N 34-MG 3.5-MN  0.9-CU 0.5SC_FL_ALL",
+                        "id": 4130229,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11001868",
+                        "maktx": "VERTEX HI-N 34_10L_ES",
+                        "id": 4130230,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002355",
+                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
+                        "id": 4130231,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002046",
+                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
+                        "id": 4130232,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11003995",
+                        "maktx": "VERTEX HI N_10L_BG",
+                        "id": 4130233,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11013759",
+                        "maktx": "VERTEX HI N 34_1000L_DE",
+                        "id": 4130234,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11002015",
+                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
+                        "id": 4130235,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11007281",
+                        "maktx": "VERTEX HI N_10L_KE_HYGROTECH",
+                        "id": 4130236,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11009316",
+                        "maktx": "VERTEX HI N 34_10L_DE",
+                        "id": 4130237,
+                        "reportDataId": 27870
+                    },
+                    {
+                        "matnr": "11017004",
+                        "maktx": "THYPAAN VERTEX_10L_MUL",
+                        "id": 4130238,
                         "reportDataId": 27870
                     }
                 ],
@@ -241825,153 +241817,159 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002568",
-                        "maktx": "VERTEX HI N_10L_RO",
-                        "id": 4122567,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002046",
-                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
-                        "id": 4122568,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11014883",
-                        "maktx": "VERTEX HI-N 34_1000L_RO",
-                        "id": 4122569,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11015987",
-                        "maktx": "VERTEX HI-N 34_20L_DZ_CASAP",
-                        "id": 4122570,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11001868",
-                        "maktx": "VERTEX HI-N 34_10L_ES",
-                        "id": 4122571,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11015496",
-                        "maktx": "FOLY-VERTEX_10L_TR",
-                        "id": 4122572,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11001878",
-                        "maktx": "VERTEX HI N_1000L_GR",
-                        "id": 4122573,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11007281",
-                        "maktx": "VERTEX HI N_10L_KE_HYGROTECH",
-                        "id": 4122574,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002355",
-                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
-                        "id": 4122575,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11001782",
-                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
-                        "id": 4122576,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002015",
-                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
-                        "id": 4122577,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11014751",
-                        "maktx": "VERTEX HI-N 34_10L_MD",
-                        "id": 4122578,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002321",
-                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
-                        "id": 4122579,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11013759",
-                        "maktx": "VERTEX HI N 34_1000L_DE",
-                        "id": 4122580,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002280",
-                        "maktx": "VERTEX HI N_10L_FR",
-                        "id": 4122581,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11016001",
-                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
-                        "id": 4122582,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002645",
-                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
-                        "id": 4122583,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11003995",
-                        "maktx": "VERTEX HI N_10L_BG",
-                        "id": 4122584,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11001783",
-                        "maktx": "VERTEX HI-N 34_10L_GB",
-                        "id": 4122585,
-                        "reportDataId": 27871
-                    },
-                    {
-                        "matnr": "11002043",
-                        "maktx": "VERTEX HI N_600L_GB",
-                        "id": 4122586,
+                        "matnr": "11002044",
+                        "maktx": "VERTEX HI-N 34_1000L_GB",
+                        "id": 4130187,
                         "reportDataId": 27871
                     },
                     {
                         "matnr": "11009316",
                         "maktx": "VERTEX HI N 34_10L_DE",
-                        "id": 4122587,
+                        "id": 4130188,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002280",
+                        "maktx": "VERTEX HI N_10L_FR",
+                        "id": 4130189,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11001878",
+                        "maktx": "VERTEX HI N_1000L_GR",
+                        "id": 4130190,
                         "reportDataId": 27871
                     },
                     {
                         "matnr": "11016000",
                         "maktx": "VERTEX HI-N 34_1L_DZ_CASAP",
-                        "id": 4122588,
+                        "id": 4130191,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11001782",
+                        "maktx": "VERTEX HI N_1L_EG_MAHERCO",
+                        "id": 4130192,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11016001",
+                        "maktx": "VERTEX HI-N 34_5L_DZ_CASAP",
+                        "id": 4130193,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11015496",
+                        "maktx": "FOLY-VERTEX_10L_TR",
+                        "id": 4130194,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11001783",
+                        "maktx": "VERTEX HI-N 34_10L_GB",
+                        "id": 4130195,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002645",
+                        "maktx": "VERTEX HI N 34_10L_MD_DIAZCHIM",
+                        "id": 4130196,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11014883",
+                        "maktx": "VERTEX HI-N 34_1000L_RO",
+                        "id": 4130197,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11014751",
+                        "maktx": "VERTEX HI-N 34_10L_MD",
+                        "id": 4130198,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11015987",
+                        "maktx": "VERTEX HI-N 34_20L_DZ_CASAP",
+                        "id": 4130199,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002321",
+                        "maktx": "VERTEX HI N_5L_DZ_AGSE",
+                        "id": 4130200,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002568",
+                        "maktx": "VERTEX HI N_10L_RO",
+                        "id": 4130201,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002043",
+                        "maktx": "VERTEX HI N_600L_GB",
+                        "id": 4130202,
                         "reportDataId": 27871
                     },
                     {
                         "matnr": "12000318",
                         "maktx": "N 34-MG 3.5-MN  0.9-CU 0.5SC_FL_ALL",
-                        "id": 4122589,
+                        "id": 4130203,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11007281",
+                        "maktx": "VERTEX HI N_10L_KE_HYGROTECH",
+                        "id": 4130204,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11001868",
+                        "maktx": "VERTEX HI-N 34_10L_ES",
+                        "id": 4130205,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002015",
+                        "maktx": "VERTEX HI N_20L_DZ_AGSE",
+                        "id": 4130206,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002355",
+                        "maktx": "VERTEX HI N_1L_DZ_AGSE",
+                        "id": 4130207,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11002046",
+                        "maktx": "VERTEX HI N_5L_EG_MAHERCO",
+                        "id": 4130208,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11003995",
+                        "maktx": "VERTEX HI N_10L_BG",
+                        "id": 4130209,
+                        "reportDataId": 27871
+                    },
+                    {
+                        "matnr": "11013759",
+                        "maktx": "VERTEX HI N 34_1000L_DE",
+                        "id": 4130210,
                         "reportDataId": 27871
                     },
                     {
                         "matnr": "11014749",
                         "maktx": "VERTEX HI-N 34_10L_RO",
-                        "id": 4122590,
+                        "id": 4130211,
                         "reportDataId": 27871
                     },
                     {
-                        "matnr": "11002044",
-                        "maktx": "VERTEX HI-N 34_1000L_GB",
-                        "id": 4122591,
+                        "matnr": "11017004",
+                        "maktx": "THYPAAN VERTEX_10L_MUL",
+                        "id": 4130212,
                         "reportDataId": 27871
                     }
                 ],
@@ -244488,6 +244486,1919 @@
                     }
                 ],
                 "id": 27888
+            },
+            {
+                "pdfname": "50002308_EXT_SDS_FR_FR.PDF",
+                "specificationid": "50002308",
+                "path": "\\\\172.18.22.6\\sds_external/50002308_EXT_SDS_FR_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "EXT_SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "SHARK\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SPOTLIGHT PLUS (OMNICHEM)(APE-FREE)",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/l ME (CHILD)",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.4",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001571",
+                        "maktx": "SHARK_5L_FR",
+                        "id": 4130323,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11001312",
+                        "maktx": "SHARK_1L_GB",
+                        "id": 4130324,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11005355",
+                        "maktx": "SHARK_200L_ES",
+                        "id": 4130325,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11001567",
+                        "maktx": "SHARK_1L_FR",
+                        "id": 4130326,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11000903",
+                        "maktx": "SHARK_5L_DE",
+                        "id": 4130327,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11001000",
+                        "maktx": "SHARK_1L_DE",
+                        "id": 4130328,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11008124",
+                        "maktx": "SHARK_5L_NZ",
+                        "id": 4130329,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11002677",
+                        "maktx": "SHARK_1L_NZ",
+                        "id": 4130330,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11003044",
+                        "maktx": "SHARK_1L_AT",
+                        "id": 4130331,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11001578",
+                        "maktx": "SHARK_15L_FR",
+                        "id": 4130332,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11004136",
+                        "maktx": "SHARK_5L_BE",
+                        "id": 4130333,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11015964",
+                        "maktx": "PLATFORM PLUS_5L_IT_GOWAN",
+                        "id": 4130334,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11015336",
+                        "maktx": "SHARK_5L_AT",
+                        "id": 4130335,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11001448",
+                        "maktx": "SHARK_5L_GB",
+                        "id": 4130336,
+                        "reportDataId": 27889
+                    },
+                    {
+                        "matnr": "11000994",
+                        "maktx": "SHARK_200L_PT",
+                        "id": 4130337,
+                        "reportDataId": 27889
+                    }
+                ],
+                "id": 27889
+            },
+            {
+                "pdfname": "50003107_SDS_PH_EN.PDF",
+                "specificationid": "50003107",
+                "path": "\\\\172.18.22.6\\sds_external/50003107_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "DIAMOND FAST 100 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RIMON FAST 100 SC(3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27890
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_PE_EN.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_PE_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130338,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130339,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130340,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130341,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130342,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130343,
+                        "reportDataId": 27891
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130344,
+                        "reportDataId": 27891
+                    }
+                ],
+                "id": 27891
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_PE_1X.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_PE_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130345,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130346,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130347,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130348,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130349,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130350,
+                        "reportDataId": 27892
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130351,
+                        "reportDataId": 27892
+                    }
+                ],
+                "id": 27892
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_EC_1X.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_EC_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130352,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130353,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130354,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130355,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130356,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130357,
+                        "reportDataId": 27893
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130358,
+                        "reportDataId": 27893
+                    }
+                ],
+                "id": 27893
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_EC_EN.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_EC_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130359,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130360,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130361,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130362,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130363,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130364,
+                        "reportDataId": 27894
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130365,
+                        "reportDataId": 27894
+                    }
+                ],
+                "id": 27894
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_CO_EN.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_CO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130366,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130367,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130368,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130369,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130370,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130371,
+                        "reportDataId": 27895
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130372,
+                        "reportDataId": 27895
+                    }
+                ],
+                "id": 27895
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_CO_1X.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_CO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130373,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130374,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130375,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130376,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130377,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130378,
+                        "reportDataId": 27896
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130379,
+                        "reportDataId": 27896
+                    }
+                ],
+                "id": 27896
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_BO_1X.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_BO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130380,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130381,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130382,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130383,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130384,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130385,
+                        "reportDataId": 27897
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130386,
+                        "reportDataId": 27897
+                    }
+                ],
+                "id": 27897
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_BO_EN.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_BO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "CATULIA\u2122 SC (Bionematicide)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4130387,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4130388,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4130389,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4130390,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4130391,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4130392,
+                        "reportDataId": 27898
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4130393,
+                        "reportDataId": 27898
+                    }
+                ],
+                "id": 27898
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_BO_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_BO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130394,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130395,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130396,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130397,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130398,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130399,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130400,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130401,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130402,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130403,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130404,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130405,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130406,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130407,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130408,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130409,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130410,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130411,
+                        "reportDataId": 27899
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130412,
+                        "reportDataId": 27899
+                    }
+                ],
+                "id": 27899
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_BO_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_BO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130413,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130414,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130415,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130416,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130417,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130418,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130419,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130420,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130421,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130422,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130423,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130424,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130425,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130426,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130427,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130428,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130429,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130430,
+                        "reportDataId": 27900
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130431,
+                        "reportDataId": 27900
+                    }
+                ],
+                "id": 27900
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CO_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130432,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130433,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130434,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130435,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130436,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130437,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130438,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130439,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130440,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130441,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130442,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130443,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130444,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130445,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130446,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130447,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130448,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130449,
+                        "reportDataId": 27901
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130450,
+                        "reportDataId": 27901
+                    }
+                ],
+                "id": 27901
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CO_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130451,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130452,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130453,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130454,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130455,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130456,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130457,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130458,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130459,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130460,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130461,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130462,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130463,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130464,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130465,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130466,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130467,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130468,
+                        "reportDataId": 27902
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130469,
+                        "reportDataId": 27902
+                    }
+                ],
+                "id": 27902
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_PE_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_PE_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130470,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130471,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130472,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130473,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130474,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130475,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130476,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130477,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130478,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130479,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130480,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130481,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130482,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130483,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130484,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130485,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130486,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130487,
+                        "reportDataId": 27903
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130488,
+                        "reportDataId": 27903
+                    }
+                ],
+                "id": 27903
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_PE_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_PE_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130489,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130490,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130491,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130492,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130493,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130494,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130495,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130496,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130497,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130498,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130499,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130500,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130501,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130502,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130503,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130504,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130505,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130506,
+                        "reportDataId": 27904
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130507,
+                        "reportDataId": 27904
+                    }
+                ],
+                "id": 27904
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_EC_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_EC_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130508,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130509,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130510,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130511,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130512,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130513,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130514,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130515,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130516,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130517,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130518,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130519,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130520,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130521,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130522,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130523,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130524,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130525,
+                        "reportDataId": 27905
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130526,
+                        "reportDataId": 27905
+                    }
+                ],
+                "id": 27905
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_EC_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_EC_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "FORENIA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/02/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/02/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4130527,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4130528,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4130529,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4130530,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4130531,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4130532,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4130533,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4130534,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4130535,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4130536,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4130537,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4130538,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130539,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4130540,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4130541,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4130542,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4130543,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4130544,
+                        "reportDataId": 27906
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4130545,
+                        "reportDataId": 27906
+                    }
+                ],
+                "id": 27906
             }
         ],
         "isExportToExcel": false
