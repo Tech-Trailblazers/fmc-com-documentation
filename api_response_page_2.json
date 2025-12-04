@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6173,
+        "totalCount": 6171,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,804 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000821_SDS_ES_ES.PDF",
-                "specificationid": "50000821",
-                "path": "\\\\172.18.22.6\\sds_external/50000821_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "COMMAND\u00ae CS",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CIRRUS",
-                "casnumber": "",
-                "commercialnames": "CLZ (HP) 360 g/L CS",
-                "cmr": "",
-                "publishdate": "05/14/2025",
-                "iupac": "",
-                "incode": "U8R42",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "FO004149",
-                "legacysdsid": "",
-                "revisiondate": "05/14/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 3136118,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 3136119,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11016451",
-                        "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 3136120,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 3136121,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 3136122,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 3136123,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 3136124,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 3136125,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 3136126,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 3136127,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11015672",
-                        "maktx": "REACTOR_500ML_AT",
-                        "id": 3136128,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 3136129,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 3136130,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 3136131,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 3136132,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 3136133,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 3136134,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 3136135,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 3136136,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11003147",
-                        "maktx": "CIRRUS CS_2L_IT",
-                        "id": 3136137,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 3136138,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 3136139,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 3136140,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 3136141,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 3136142,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 3136143,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 3136144,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 3136145,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 3136146,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 3136147,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 3136148,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 3136149,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 3136150,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 3136151,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 3136152,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 3136153,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 3136154,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 3136155,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 3136156,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008125",
-                        "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 3136157,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 3136158,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 3136159,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 3136160,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000993",
-                        "maktx": "COMMAND CS_1L_ES",
-                        "id": 3136161,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 3136162,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 3136163,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 3136164,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11015543",
-                        "maktx": "CETUS 36CS_5L_FR",
-                        "id": 3136165,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11003085",
-                        "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 3136166,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11002718",
-                        "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 3136167,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 3136168,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 3136169,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11001472",
-                        "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 3136170,
-                        "reportDataId": 26696
-                    },
-                    {
-                        "matnr": "11016712",
-                        "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 3136171,
-                        "reportDataId": 26696
-                    }
-                ],
-                "id": 26696
-            },
-            {
-                "pdfname": "50002685_EXT_SDS_ES_ES.PDF",
-                "specificationid": "50002685",
-                "path": "\\\\172.18.22.6\\sds_external/50002685_EXT_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "GAMIT\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CLZ (HP) 360 g/L CS (CHILD)",
-                "cmr": "",
-                "publishdate": "05/14/2025",
-                "iupac": "",
-                "incode": "U8R42",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "FO004149",
-                "legacysdsid": "",
-                "revisiondate": "05/14/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000727",
-                        "maktx": "GAMIT 360CS_3L_BE",
-                        "id": 3042185,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11001499",
-                        "maktx": "GAMIT 36CS_3L_DE",
-                        "id": 3042186,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11013733",
-                        "maktx": "COMMAND 36CS_3L_IT",
-                        "id": 3042187,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11004347",
-                        "maktx": "COMMAND 36CS_1L_PT",
-                        "id": 3042188,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11001291",
-                        "maktx": "CIRRUS CLZM_3L_GB",
-                        "id": 3042189,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11001620",
-                        "maktx": "GAMMIT 36 AMT_3L_DE",
-                        "id": 3042190,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11001505",
-                        "maktx": "CENTIUM 36CS_5L_DK",
-                        "id": 3042191,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11015574",
-                        "maktx": "COMMAND 36CS_800ML_IT",
-                        "id": 3042192,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11005387",
-                        "maktx": "GAMIT_3L_DE",
-                        "id": 3042193,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11007915",
-                        "maktx": "CIRRUS CS_2L_CZ_DOW",
-                        "id": 3042194,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11001619",
-                        "maktx": "GAMMIT 36 AMT_10L_DE",
-                        "id": 3042195,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11000900",
-                        "maktx": "COMMAND 36CS_1L_IT",
-                        "id": 3042196,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11016478",
-                        "maktx": "GAMIT_1L_PT_SYNGENTA",
-                        "id": 3042197,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11014204",
-                        "maktx": "CIRRUS CS_2L_CZ_CORTEVA",
-                        "id": 3042198,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11005389",
-                        "maktx": "GAMIT_10L_DE",
-                        "id": 3042199,
-                        "reportDataId": 26697
-                    },
-                    {
-                        "matnr": "11016350",
-                        "maktx": "GAMIT_1L_ES_SYNGENTA",
-                        "id": 3042200,
-                        "reportDataId": 26697
-                    }
-                ],
-                "id": 26697
-            },
-            {
-                "pdfname": "50000117_SDS_SE_SV.PDF",
-                "specificationid": "50000117",
-                "path": "\\\\172.18.22.6\\sds_external/50000117_SDS_SE_SV.PDF",
-                "reptype": "MSDS",
-                "language": "SV",
-                "genvariant": "SDS_SE",
-                "authorizedportal": "P3",
-                "productname": "VERIMARK\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE)",
-                "cmr": "",
-                "publishdate": "10/22/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "SE",
-                "validityareadescription": "Sweden",
-                "legacyspecid": "Q-1945",
-                "legacysdsid": "130000145292",
-                "revisiondate": "10/22/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12006760",
-                        "maktx": "CZP 200SC_200L_GT_UB_ALL",
-                        "id": 3944396,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11016275",
-                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
-                        "id": 3944397,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11013221",
-                        "maktx": "VERIMARK 20SC_100ML_KH",
-                        "id": 3944398,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12002277",
-                        "maktx": "CZP 200SC_200L_MUL_JI",
-                        "id": 3944399,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015920",
-                        "maktx": "VERIMARK_150ML_MX",
-                        "id": 3944400,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007367",
-                        "maktx": "VERIMARK_100ML_UA",
-                        "id": 3944401,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006565",
-                        "maktx": "CZP 200SC_200L_JP_ST_JI",
-                        "id": 3944402,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007123",
-                        "maktx": "VERIMARK 200SC_50ML_CN",
-                        "id": 3944403,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015618",
-                        "maktx": "OKINA_40ML_TN_SSCC",
-                        "id": 3944404,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007021",
-                        "maktx": "CIRCADEN 200SC_50ML_TR",
-                        "id": 3944405,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015097",
-                        "maktx": "VERIMARK_200ML_BR",
-                        "id": 3944406,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015657",
-                        "maktx": "VERIMARK 20SC_250ML_TW",
-                        "id": 3944407,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007055",
-                        "maktx": "VERIMARK 20SC_100ML_JP_MBC",
-                        "id": 3944408,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015086",
-                        "maktx": "VERIMARK_1L_BR",
-                        "id": 3944409,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015898",
-                        "maktx": "VERIMARK_1L_MX",
-                        "id": 3944410,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11009437",
-                        "maktx": "VERIMARK_375ML_RU KZ",
-                        "id": 3944411,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007280",
-                        "maktx": "VERIMARK 20SC_100ML_JP_NISSO",
-                        "id": 3944412,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11006822",
-                        "maktx": "VERIMARK 20SC_100ML_JP_KUMIAI",
-                        "id": 3944413,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006634",
-                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_JI",
-                        "id": 3944414,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015899",
-                        "maktx": "VERIMARK_500ML_MX",
-                        "id": 3944415,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12000749",
-                        "maktx": "CZP 200SC_200L_VN_JI",
-                        "id": 3944416,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006596",
-                        "maktx": "CZP 200SC_200L_VN_ST_JI",
-                        "id": 3944417,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12005771",
-                        "maktx": "CZP 200SC CITRIC ACID_ST_MO",
-                        "id": 3944418,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11016169",
-                        "maktx": "VERIMARK_1L_BR",
-                        "id": 3944419,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006592",
-                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_JI",
-                        "id": 3944420,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006505",
-                        "maktx": "CZP 200SC CITRIC ACID_ST_JI",
-                        "id": 3944421,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12005822",
-                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_MO",
-                        "id": 3944422,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12005925",
-                        "maktx": "CZP 200SC_BR_UB_ALL",
-                        "id": 3944423,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11015087",
-                        "maktx": "VERIMARK_20L_BR",
-                        "id": 3944424,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11009438",
-                        "maktx": "VERIMARK_1L_RU KZ",
-                        "id": 3944425,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11013503",
-                        "maktx": "DAHEZAN_200L_CN",
-                        "id": 3944426,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006194",
-                        "maktx": "CZP 200SC CITRIC ACID_200L_MI_MO",
-                        "id": 3944427,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11013141",
-                        "maktx": "VERIMARK 200SC_10ML_CN_DHZ",
-                        "id": 3944428,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007537",
-                        "maktx": "VERIMARK 200SC_100ML_ID",
-                        "id": 3944429,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11013123",
-                        "maktx": "VERIMARK 20 SC_200 L_GT",
-                        "id": 3944430,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006232",
-                        "maktx": "CZP 200SC CITRIC ACID_200L_MX_MI_MO",
-                        "id": 3944431,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006182",
-                        "maktx": "CZP 200SC CITRIC ACID_MI_MO",
-                        "id": 3944432,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11000031",
-                        "maktx": "VERIMARK 200SC_100ML_MY",
-                        "id": 3944433,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11016646",
-                        "maktx": "VERIMARK_1L_AT",
-                        "id": 3944434,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12000736",
-                        "maktx": "CZP 200SC_200L_JP",
-                        "id": 3944435,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11013150",
-                        "maktx": "VERIMARK 200SC_50ML_CN_DHZ",
-                        "id": 3944436,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "12006310",
-                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_MO",
-                        "id": 3944437,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11016687",
-                        "maktx": "VERIMARK_1000L_BR",
-                        "id": 3944438,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007219",
-                        "maktx": "VERIMARK (ACTICIDE) 200SC_100ML_TH",
-                        "id": 3944439,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11006923",
-                        "maktx": "BENEVIA 200SC_100ML_VN",
-                        "id": 3944440,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11016730",
-                        "maktx": "CIRCADEN 200SC_50ML_ZW_POLACHEM",
-                        "id": 3944441,
-                        "reportDataId": 26698
-                    },
-                    {
-                        "matnr": "11007218",
-                        "maktx": "VERIMARK 20SC_100ML_PH",
-                        "id": 3944442,
-                        "reportDataId": 26698
-                    }
-                ],
-                "id": 26698
-            },
             {
                 "pdfname": "50000679_SDS_HR_HR.PDF",
                 "specificationid": "50000679",
@@ -190171,75 +189373,105 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002518",
-                        "maktx": "\u041c\u0415\u0419\u0417 \u0415\u041a\u0421\u0422\u0420\u0410_10\u041b_BG",
-                        "id": 4110381,
+                        "matnr": "11005472",
+                        "maktx": "MAIZE EXTRA_10L_HU",
+                        "id": 4130658,
                         "reportDataId": 27547
                     },
                     {
-                        "matnr": "11009125",
-                        "maktx": "MAIZE EXTRA_10L_RO",
-                        "id": 4110382,
-                        "reportDataId": 27547
-                    },
-                    {
-                        "matnr": "11002587",
-                        "maktx": "MAIZE EXTRA_10L_DE",
-                        "id": 4110383,
-                        "reportDataId": 27547
-                    },
-                    {
-                        "matnr": "11013749",
-                        "maktx": "ZOOM TOP_10L_RO",
-                        "id": 4110384,
-                        "reportDataId": 27547
-                    },
-                    {
-                        "matnr": "11002353",
-                        "maktx": "MAIZE EXTRA_1000L_HU",
-                        "id": 4110385,
-                        "reportDataId": 27547
-                    },
-                    {
-                        "matnr": "11002518",
-                        "maktx": "MAIZE EXTRA_10L_BG",
-                        "id": 4110386,
-                        "reportDataId": 27547
-                    },
-                    {
-                        "matnr": "11014369",
-                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
-                        "id": 4110387,
+                        "matnr": "11014226",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
+                        "id": 4130659,
                         "reportDataId": 27547
                     },
                     {
                         "matnr": "11008740",
                         "maktx": "MAIZE EXTRA_1000L_DE",
-                        "id": 4110388,
+                        "id": 4130660,
                         "reportDataId": 27547
                     },
                     {
-                        "matnr": "11002657",
-                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
-                        "id": 4110389,
+                        "matnr": "11002353",
+                        "maktx": "MAIZE EXTRA_1000L_HU",
+                        "id": 4130661,
                         "reportDataId": 27547
                     },
                     {
-                        "matnr": "12000337",
-                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
-                        "id": 4110390,
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130662,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002596",
+                        "maktx": "FOLY PHOSPHORUS_1L_TR",
+                        "id": 4130663,
                         "reportDataId": 27547
                     },
                     {
                         "matnr": "11002349",
                         "maktx": "MAIZE EXTRA_10L_PL",
-                        "id": 4110391,
+                        "id": 4130664,
                         "reportDataId": 27547
                     },
                     {
-                        "matnr": "11005472",
-                        "maktx": "MAIZE EXTRA_10L_HU",
-                        "id": 4110392,
+                        "matnr": "11014246",
+                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
+                        "id": 4130665,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002657",
+                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
+                        "id": 4130666,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002518",
+                        "maktx": "\u041c\u0415\u0419\u0417 \u0415\u041a\u0421\u0422\u0420\u0410_10\u041b_BG",
+                        "id": 4130667,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "12000337",
+                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
+                        "id": 4130668,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11014369",
+                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
+                        "id": 4130669,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11009125",
+                        "maktx": "MAIZE EXTRA_10L_RO",
+                        "id": 4130670,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130671,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002587",
+                        "maktx": "MAIZE EXTRA_10L_DE",
+                        "id": 4130672,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11002518",
+                        "maktx": "MAIZE EXTRA_10L_BG",
+                        "id": 4130673,
+                        "reportDataId": 27547
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130674,
                         "reportDataId": 27547
                     }
                 ],
@@ -190275,69 +189507,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009125",
-                        "maktx": "MAIZE EXTRA_10L_RO",
-                        "id": 4110370,
+                        "matnr": "11005472",
+                        "maktx": "MAIZE EXTRA_10L_HU",
+                        "id": 4130675,
                         "reportDataId": 27548
                     },
                     {
                         "matnr": "11002587",
                         "maktx": "MAIZE EXTRA_10L_DE",
-                        "id": 4110371,
+                        "id": 4130676,
                         "reportDataId": 27548
                     },
                     {
-                        "matnr": "11013749",
-                        "maktx": "ZOOM TOP_10L_RO",
-                        "id": 4110372,
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130677,
                         "reportDataId": 27548
                     },
                     {
-                        "matnr": "11002353",
-                        "maktx": "MAIZE EXTRA_1000L_HU",
-                        "id": 4110373,
-                        "reportDataId": 27548
-                    },
-                    {
-                        "matnr": "11002518",
-                        "maktx": "MAIZE EXTRA_10L_BG",
-                        "id": 4110374,
+                        "matnr": "11009125",
+                        "maktx": "MAIZE EXTRA_10L_RO",
+                        "id": 4130678,
                         "reportDataId": 27548
                     },
                     {
                         "matnr": "11014369",
                         "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
-                        "id": 4110375,
-                        "reportDataId": 27548
-                    },
-                    {
-                        "matnr": "11008740",
-                        "maktx": "MAIZE EXTRA_1000L_DE",
-                        "id": 4110376,
-                        "reportDataId": 27548
-                    },
-                    {
-                        "matnr": "11002657",
-                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
-                        "id": 4110377,
+                        "id": 4130679,
                         "reportDataId": 27548
                     },
                     {
                         "matnr": "12000337",
                         "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
-                        "id": 4110378,
+                        "id": 4130680,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11002518",
+                        "maktx": "MAIZE EXTRA_10L_BG",
+                        "id": 4130681,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11002657",
+                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
+                        "id": 4130682,
                         "reportDataId": 27548
                     },
                     {
                         "matnr": "11002349",
                         "maktx": "MAIZE EXTRA_10L_PL",
-                        "id": 4110379,
+                        "id": 4130683,
                         "reportDataId": 27548
                     },
                     {
-                        "matnr": "11005472",
-                        "maktx": "MAIZE EXTRA_10L_HU",
-                        "id": 4110380,
+                        "matnr": "11002596",
+                        "maktx": "FOLY PHOSPHORUS_1L_TR",
+                        "id": 4130684,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130685,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11002353",
+                        "maktx": "MAIZE EXTRA_1000L_HU",
+                        "id": 4130686,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11008740",
+                        "maktx": "MAIZE EXTRA_1000L_DE",
+                        "id": 4130687,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11014226",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
+                        "id": 4130688,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11014246",
+                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
+                        "id": 4130689,
+                        "reportDataId": 27548
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130690,
                         "reportDataId": 27548
                     }
                 ],
@@ -195422,39 +194684,9 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014246",
-                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
-                        "id": 4130239,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11014226",
-                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
-                        "id": 4130240,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11002598",
-                        "maktx": "FOLY PHOSPHORUS_10L_TR",
-                        "id": 4130241,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11002596",
-                        "maktx": "FOLY PHOSPHORUS_1L_TR",
-                        "id": 4130242,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11002597",
-                        "maktx": "FOLY PHOSPHORUS_5L_TR",
-                        "id": 4130243,
-                        "reportDataId": 27569
-                    },
-                    {
-                        "matnr": "11017005",
-                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
-                        "id": 4130244,
+                        "matnr": "11013749",
+                        "maktx": "ZOOM TOP_10L_RO",
+                        "id": 4130723,
                         "reportDataId": 27569
                     }
                 ],
@@ -195490,39 +194722,9 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014246",
-                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
-                        "id": 4130245,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11014226",
-                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
-                        "id": 4130246,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11002598",
-                        "maktx": "FOLY PHOSPHORUS_10L_TR",
-                        "id": 4130247,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11002596",
-                        "maktx": "FOLY PHOSPHORUS_1L_TR",
-                        "id": 4130248,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11002597",
-                        "maktx": "FOLY PHOSPHORUS_5L_TR",
-                        "id": 4130249,
-                        "reportDataId": 27570
-                    },
-                    {
-                        "matnr": "11017005",
-                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
-                        "id": 4130250,
+                        "matnr": "11013749",
+                        "maktx": "ZOOM TOP_10L_RO",
+                        "id": 4130724,
                         "reportDataId": 27570
                     }
                 ],
@@ -198523,16 +197725,16 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057 (CHILD)",
                 "cmr": "",
-                "publishdate": "08/19/2025",
+                "publishdate": "12/03/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.2",
+                "ehsversionno": "1.3",
                 "fileformat": "PDF",
                 "validityarea": "GB",
                 "validityareadescription": "Great Britain",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057-1-A",
-                "revisiondate": "08/19/2025",
+                "revisiondate": "12/03/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -198554,16 +197756,16 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057 (CHILD)",
                 "cmr": "",
-                "publishdate": "08/19/2025",
+                "publishdate": "12/03/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.2",
+                "ehsversionno": "1.3",
                 "fileformat": "PDF",
                 "validityarea": "ES",
                 "validityareadescription": "Espa\u00f1a",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057-1-A",
-                "revisiondate": "08/19/2025",
+                "revisiondate": "12/03/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -241005,67 +240207,97 @@
                     {
                         "matnr": "11005472",
                         "maktx": "MAIZE EXTRA_10L_HU",
-                        "id": 4122461,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11002349",
-                        "maktx": "MAIZE EXTRA_10L_PL",
-                        "id": 4122462,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "12000337",
-                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
-                        "id": 4122463,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11002657",
-                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
-                        "id": 4122464,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11008740",
-                        "maktx": "MAIZE EXTRA_1000L_DE",
-                        "id": 4122465,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11014369",
-                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
-                        "id": 4122466,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11002518",
-                        "maktx": "MAIZE EXTRA_10L_BG",
-                        "id": 4122467,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11002353",
-                        "maktx": "MAIZE EXTRA_1000L_HU",
-                        "id": 4122468,
-                        "reportDataId": 27866
-                    },
-                    {
-                        "matnr": "11013749",
-                        "maktx": "ZOOM TOP_10L_RO",
-                        "id": 4122469,
+                        "id": 4130691,
                         "reportDataId": 27866
                     },
                     {
                         "matnr": "11002587",
                         "maktx": "MAIZE EXTRA_10L_DE",
-                        "id": 4122470,
+                        "id": 4130692,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130693,
                         "reportDataId": 27866
                     },
                     {
                         "matnr": "11009125",
                         "maktx": "MAIZE EXTRA_10L_RO",
-                        "id": 4122471,
+                        "id": 4130694,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11014369",
+                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
+                        "id": 4130695,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "12000337",
+                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
+                        "id": 4130696,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002518",
+                        "maktx": "MAIZE EXTRA_10L_BG",
+                        "id": 4130697,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002657",
+                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
+                        "id": 4130698,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002349",
+                        "maktx": "MAIZE EXTRA_10L_PL",
+                        "id": 4130699,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002596",
+                        "maktx": "FOLY PHOSPHORUS_1L_TR",
+                        "id": 4130700,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130701,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11002353",
+                        "maktx": "MAIZE EXTRA_1000L_HU",
+                        "id": 4130702,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11008740",
+                        "maktx": "MAIZE EXTRA_1000L_DE",
+                        "id": 4130703,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11014226",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
+                        "id": 4130704,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11014246",
+                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
+                        "id": 4130705,
+                        "reportDataId": 27866
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130706,
                         "reportDataId": 27866
                     }
                 ],
@@ -241103,67 +240335,97 @@
                     {
                         "matnr": "11005472",
                         "maktx": "MAIZE EXTRA_10L_HU",
-                        "id": 4122472,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "12000337",
-                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
-                        "id": 4122473,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11002657",
-                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
-                        "id": 4122474,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11008740",
-                        "maktx": "MAIZE EXTRA_1000L_DE",
-                        "id": 4122475,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11014369",
-                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
-                        "id": 4122476,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11002349",
-                        "maktx": "MAIZE EXTRA_10L_PL",
-                        "id": 4122477,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11002518",
-                        "maktx": "MAIZE EXTRA_10L_BG",
-                        "id": 4122478,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11002353",
-                        "maktx": "MAIZE EXTRA_1000L_HU",
-                        "id": 4122479,
-                        "reportDataId": 27867
-                    },
-                    {
-                        "matnr": "11013749",
-                        "maktx": "ZOOM TOP_10L_RO",
-                        "id": 4122480,
+                        "id": 4130707,
                         "reportDataId": 27867
                     },
                     {
                         "matnr": "11002587",
                         "maktx": "MAIZE EXTRA_10L_DE",
-                        "id": 4122481,
+                        "id": 4130708,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002598",
+                        "maktx": "FOLY PHOSPHORUS_10L_TR",
+                        "id": 4130709,
                         "reportDataId": 27867
                     },
                     {
                         "matnr": "11009125",
                         "maktx": "MAIZE EXTRA_10L_RO",
-                        "id": 4122482,
+                        "id": 4130710,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002657",
+                        "maktx": "KUKURUZA PRO_10L_LV LT_AGKO",
+                        "id": 4130711,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11014369",
+                        "maktx": "KUKURUZAMS PRO_10L_LT_AGROKONCERNAS",
+                        "id": 4130712,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002518",
+                        "maktx": "MAIZE EXTRA_10L_BG",
+                        "id": 4130713,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "12000337",
+                        "maktx": "0-57.5-8.1-ZN 14SL_FL_ALL",
+                        "id": 4130714,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002349",
+                        "maktx": "MAIZE EXTRA_10L_PL",
+                        "id": 4130715,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002596",
+                        "maktx": "FOLY PHOSPHORUS_1L_TR",
+                        "id": 4130716,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002597",
+                        "maktx": "FOLY PHOSPHORUS_5L_TR",
+                        "id": 4130717,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11002353",
+                        "maktx": "MAIZE EXTRA_1000L_HU",
+                        "id": 4130718,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11008740",
+                        "maktx": "MAIZE EXTRA_1000L_DE",
+                        "id": 4130719,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11014226",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_TR",
+                        "id": 4130720,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11014246",
+                        "maktx": "THYPAAN PHOSPHORUS_5L_TR",
+                        "id": 4130721,
+                        "reportDataId": 27867
+                    },
+                    {
+                        "matnr": "11017005",
+                        "maktx": "THYPAAN PHOSPHORUS_10L_MUL",
+                        "id": 4130722,
                         "reportDataId": 27867
                     }
                 ],
@@ -241184,198 +240446,198 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057",
                 "cmr": "",
-                "publishdate": "11/27/2025",
+                "publishdate": "12/03/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057",
-                "revisiondate": "11/27/2025",
+                "revisiondate": "12/03/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11004651",
-                        "maktx": "HI-K_1000L_CR",
-                        "id": 4129847,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016816",
-                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4129848,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11007728",
-                        "maktx": "HI K EC_1L_EC",
-                        "id": 4129849,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11003000",
-                        "maktx": "HI K_10L_AR",
-                        "id": 4129850,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4129851,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11014199",
-                        "maktx": "THYPAAN K_10L_TR",
-                        "id": 4129852,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4129853,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008278",
-                        "maktx": "HI K_1000L_EC",
-                        "id": 4129854,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4129855,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4129856,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4129857,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4129858,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4129859,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4129860,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016815",
-                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4129861,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11014192",
-                        "maktx": "THYPAAN K_5L_TR",
-                        "id": 4129862,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4129863,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016134",
-                        "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4129864,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001893",
-                        "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4129865,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11001892",
-                        "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4129866,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11003072",
-                        "maktx": "HI K_10L_GB IE",
-                        "id": 4129867,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11015461",
-                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4129868,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002165",
-                        "maktx": "HI K_1000L_HU",
-                        "id": 4129869,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "12000154",
-                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4129870,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11000742",
-                        "maktx": "PLUSK_10L_CL",
-                        "id": 4129871,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002662",
-                        "maktx": "FOLY K_10L_TR",
-                        "id": 4129872,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11016137",
-                        "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4129873,
-                        "reportDataId": 27868
-                    },
-                    {
-                        "matnr": "11002182",
-                        "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4129874,
+                        "matnr": "11016993",
+                        "maktx": "THYPAAN K_10L_MUL",
+                        "id": 4234758,
                         "reportDataId": 27868
                     },
                     {
                         "matnr": "11016093",
                         "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4129875,
+                        "id": 4234759,
                         "reportDataId": 27868
                     },
                     {
-                        "matnr": "11016993",
-                        "maktx": "THYPAAN K_10L_MUL",
-                        "id": 4129876,
+                        "matnr": "11016816",
+                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
+                        "id": 4234760,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11007728",
+                        "maktx": "HI K EC_1L_EC",
+                        "id": 4234761,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11003000",
+                        "maktx": "HI K_10L_AR",
+                        "id": 4234762,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4234763,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11014199",
+                        "maktx": "THYPAAN K_10L_TR",
+                        "id": 4234764,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4234765,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008278",
+                        "maktx": "HI K_1000L_EC",
+                        "id": 4234766,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4234767,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4234768,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4234769,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4234770,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4234771,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4234772,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016815",
+                        "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
+                        "id": 4234773,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4234774,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016134",
+                        "maktx": "HI K_1L_DZ_CASAP",
+                        "id": 4234775,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001893",
+                        "maktx": "HI K_1L_DZ_AGSE",
+                        "id": 4234776,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11001892",
+                        "maktx": "HI K_5L_DZ_AGSE",
+                        "id": 4234777,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11003072",
+                        "maktx": "HI K_10L_GB IE",
+                        "id": 4234778,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11015461",
+                        "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
+                        "id": 4234779,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002165",
+                        "maktx": "HI K_1000L_HU",
+                        "id": 4234780,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "12000154",
+                        "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
+                        "id": 4234781,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11000742",
+                        "maktx": "PLUSK_10L_CL",
+                        "id": 4234782,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002662",
+                        "maktx": "FOLY K_10L_TR",
+                        "id": 4234783,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11016137",
+                        "maktx": "HI K_20L_DZ_CASAP",
+                        "id": 4234784,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11002182",
+                        "maktx": "HI-K_1000L_PK_SWAT",
+                        "id": 4234785,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11004651",
+                        "maktx": "HI-K_1000L_CR",
+                        "id": 4234786,
+                        "reportDataId": 27868
+                    },
+                    {
+                        "matnr": "11014192",
+                        "maktx": "THYPAAN K_5L_TR",
+                        "id": 4234787,
                         "reportDataId": 27868
                     }
                 ],
@@ -241396,204 +240658,204 @@
                 "casnumber": "",
                 "commercialnames": "NP-0057",
                 "cmr": "",
-                "publishdate": "11/27/2025",
+                "publishdate": "12/03/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0057",
                 "legacysdsid": "NP-0057",
-                "revisiondate": "11/27/2025",
+                "revisiondate": "12/03/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016137",
-                        "maktx": "HI K_20L_DZ_CASAP",
-                        "id": 4129816,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016816",
-                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
-                        "id": 4129817,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11007728",
-                        "maktx": "HI K EC_1L_EC",
-                        "id": 4129818,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11003000",
-                        "maktx": "HI K_10L_AR",
-                        "id": 4129819,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002508",
-                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
-                        "id": 4129820,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11014199",
-                        "maktx": "THYPAAN K_10L_TR",
-                        "id": 4129821,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016814",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
-                        "id": 4129822,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002422",
-                        "maktx": "HI K_20L_DZ_AGSE",
-                        "id": 4129823,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002226",
-                        "maktx": "HI-K_1000L_EC",
-                        "id": 4129824,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11007282",
-                        "maktx": "HI K_10L_KE_HYGROTECH",
-                        "id": 4129825,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002593",
-                        "maktx": "FOLY K_5L_TR",
-                        "id": 4129826,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016572",
-                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
-                        "id": 4129827,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11002661",
-                        "maktx": "FOLY K_1L_TR",
-                        "id": 4129828,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11008897",
-                        "maktx": "HI K EC_500ML_EC",
-                        "id": 4129829,
+                        "matnr": "11016993",
+                        "maktx": "THYPAAN K_10L_MUL",
+                        "id": 4234727,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016093",
                         "maktx": "HI K_5L_DZ_CASAP",
-                        "id": 4129830,
+                        "id": 4234728,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016816",
+                        "maktx": "VYTEGRIS K_20L_DZ_AGROSEMILLAS",
+                        "id": 4234729,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11007728",
+                        "maktx": "HI K EC_1L_EC",
+                        "id": 4234730,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11003000",
+                        "maktx": "HI K_10L_AR",
+                        "id": 4234731,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002508",
+                        "maktx": "HI-K_1000L_GT_MAXIAGRO",
+                        "id": 4234732,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11014199",
+                        "maktx": "THYPAAN K_10L_TR",
+                        "id": 4234733,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016814",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEMILLAS",
+                        "id": 4234734,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002422",
+                        "maktx": "HI K_20L_DZ_AGSE",
+                        "id": 4234735,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002226",
+                        "maktx": "HI-K_1000L_EC",
+                        "id": 4234736,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11007282",
+                        "maktx": "HI K_10L_KE_HYGROTECH",
+                        "id": 4234737,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002593",
+                        "maktx": "FOLY K_5L_TR",
+                        "id": 4234738,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016572",
+                        "maktx": "VYTEGRIS K FERTILIZER_1L_DZ_AGROSEED",
+                        "id": 4234739,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11002661",
+                        "maktx": "FOLY K_1L_TR",
+                        "id": 4234740,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11008897",
+                        "maktx": "HI K EC_500ML_EC",
+                        "id": 4234741,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11014192",
                         "maktx": "THYPAAN K_5L_TR",
-                        "id": 4129831,
+                        "id": 4234742,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11008278",
                         "maktx": "HI K_1000L_EC",
-                        "id": 4129832,
+                        "id": 4234743,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11002508",
                         "maktx": "HI K_1000L_GT",
-                        "id": 4129833,
+                        "id": 4234744,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016134",
                         "maktx": "HI K_1L_DZ_CASAP",
-                        "id": 4129834,
+                        "id": 4234745,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11001893",
                         "maktx": "HI K_1L_DZ_AGSE",
-                        "id": 4129835,
+                        "id": 4234746,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11001892",
                         "maktx": "HI K_5L_DZ_AGSE",
-                        "id": 4129836,
+                        "id": 4234747,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11003072",
                         "maktx": "HI K_10L_GB IE",
-                        "id": 4129837,
+                        "id": 4234748,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11015461",
                         "maktx": "VYTEGRIS K_5L_MA_AGRIMATCO",
-                        "id": 4129838,
+                        "id": 4234749,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11002165",
                         "maktx": "HI K_1000L_HU",
-                        "id": 4129839,
+                        "id": 4234750,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "12000154",
                         "maktx": "4.5-0-50-BIURET <0.09 SC_FL_ALL",
-                        "id": 4129840,
+                        "id": 4234751,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11000742",
                         "maktx": "PLUSK_10L_CL",
-                        "id": 4129841,
+                        "id": 4234752,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11002662",
                         "maktx": "FOLY K_10L_TR",
-                        "id": 4129842,
+                        "id": 4234753,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11004651",
                         "maktx": "HI-K_1000L_CR",
-                        "id": 4129843,
+                        "id": 4234754,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11002182",
                         "maktx": "HI-K_1000L_PK_SWAT",
-                        "id": 4129844,
+                        "id": 4234755,
+                        "reportDataId": 27869
+                    },
+                    {
+                        "matnr": "11016137",
+                        "maktx": "HI K_20L_DZ_CASAP",
+                        "id": 4234756,
                         "reportDataId": 27869
                     },
                     {
                         "matnr": "11016815",
                         "maktx": "VYTEGRIS K_5L_DZ_AGROSEMILLAS",
-                        "id": 4129845,
-                        "reportDataId": 27869
-                    },
-                    {
-                        "matnr": "11016993",
-                        "maktx": "THYPAAN K_10L_MUL",
-                        "id": 4129846,
+                        "id": 4234757,
                         "reportDataId": 27869
                     }
                 ],
@@ -246399,6 +245661,37 @@
                     }
                 ],
                 "id": 27906
+            },
+            {
+                "pdfname": "50003108_SDS_PH_EN.PDF",
+                "specificationid": "50003108",
+                "path": "\\\\172.18.22.6\\sds_external/50003108_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "CONCLUSION 300 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "GALIL SC(3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "12/03/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/03/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27907
             }
         ],
         "isExportToExcel": false
