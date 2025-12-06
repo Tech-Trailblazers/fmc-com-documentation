@@ -58,416 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000054_SDS_CN_ZH.PDF",
-                "specificationid": "50000054",
-                "path": "\\\\172.18.22.6\\sds_external/50000054_SDS_CN_ZH.PDF",
-                "reptype": "MSDS",
-                "language": "ZH",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "30%\u831a\u866b\u5a01\u6c34\u5206\u6563\u7c92\u5242",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IXC 30 WG (MP062)",
-                "cmr": "",
-                "publishdate": "10/25/2024",
-                "iupac": "",
-                "incode": "MP062",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "M-22",
-                "legacysdsid": "130000000325",
-                "revisiondate": "10/25/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005561",
-                        "maktx": "STEWARD_500G_ES",
-                        "id": 2061798,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005286",
-                        "maktx": "STEWARD_250G_IT",
-                        "id": 2061799,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005940",
-                        "maktx": "STEWARD 30DF_510G_HU",
-                        "id": 2061800,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005447",
-                        "maktx": "STEWARD 30WG_75G_GR",
-                        "id": 2061801,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005541",
-                        "maktx": "AVAUNT WG_18OZ_US",
-                        "id": 2061802,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006061",
-                        "maktx": "EXPLICIT_250G_GB",
-                        "id": 2061803,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006039",
-                        "maktx": "STEWARD_250G_NO",
-                        "id": 2061804,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005715",
-                        "maktx": "STEWARD_2.5KG_DE",
-                        "id": 2061805,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11000049",
-                        "maktx": "AVATAR 30WG_500G_AU",
-                        "id": 2061806,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006038",
-                        "maktx": "STEWARD 30WG_250G_DK",
-                        "id": 2061807,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005290",
-                        "maktx": "STEWARD 30WG_250G_CH_STAEHLER",
-                        "id": 2061808,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005309",
-                        "maktx": "STEWARD_500G_NL",
-                        "id": 2061809,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006111",
-                        "maktx": "STEWARD 30WG_250G_SE",
-                        "id": 2061810,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005557",
-                        "maktx": "STEWARD_100G_TR",
-                        "id": 2061811,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005988",
-                        "maktx": "AVAUNT 30WG_25KG_FR NZ US",
-                        "id": 2061812,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006074",
-                        "maktx": "STEWARD 30WG_625G_FR",
-                        "id": 2061813,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11000035",
-                        "maktx": "AVAUNT 30WG_400G_NZ",
-                        "id": 2061814,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005612",
-                        "maktx": "AVAUNT 30WG_250G_MUL",
-                        "id": 2061815,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005972",
-                        "maktx": "STEWARD_500G_PT_ASCENZA AGRO",
-                        "id": 2061816,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11014984",
-                        "maktx": "STEWARD 2023_250G_IT",
-                        "id": 2061817,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006388",
-                        "maktx": "STEWARD_500G_IT",
-                        "id": 2061818,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005591",
-                        "maktx": "STEWARD_500G_CZ_ARYSTA",
-                        "id": 2061819,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005706",
-                        "maktx": "STEWARD_125G_PT_ASCENZA AGRO",
-                        "id": 2061820,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005592",
-                        "maktx": "STEWARD_1KG_NL",
-                        "id": 2061821,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006551",
-                        "maktx": "STEWARD_250G_LU",
-                        "id": 2061822,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005361",
-                        "maktx": "AVATAR 30WDG_3KG_AU",
-                        "id": 2061823,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006112",
-                        "maktx": "STEWARD_250G_FI",
-                        "id": 2061824,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005657",
-                        "maktx": "STEWARD 30DF_170G_HU",
-                        "id": 2061825,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "12000621",
-                        "maktx": "AMMATE 30WG_25KG_VN",
-                        "id": 2061826,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11007448",
-                        "maktx": "STEWARD_500G_SK",
-                        "id": 2061827,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11000037",
-                        "maktx": "STEWARD_250G_ZA NA",
-                        "id": 2061828,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006305",
-                        "maktx": "STEWARD_3G_ES",
-                        "id": 2061829,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005291",
-                        "maktx": "STEWARD_250G_AT_KWIZDA",
-                        "id": 2061830,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005574",
-                        "maktx": "AVAUNT 30WG_37.5G_MUL",
-                        "id": 2061831,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005582",
-                        "maktx": "STEWARD_2.5KG_FR",
-                        "id": 2061832,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11008954",
-                        "maktx": "STEWARD 30WG_25G_GR",
-                        "id": 2061833,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "12000617",
-                        "maktx": "IXC 300WG MP062_25KG_ALL",
-                        "id": 2061834,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006386",
-                        "maktx": "STEWARD 30WG_170G_PL",
-                        "id": 2061835,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11014409",
-                        "maktx": "AVAUNT_510G_CL",
-                        "id": 2061836,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005654",
-                        "maktx": "STEWARD_1KG_BE",
-                        "id": 2061837,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005288",
-                        "maktx": "STEWARD_250G_ES",
-                        "id": 2061838,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006186",
-                        "maktx": "STEWARD_2.5KG_LU",
-                        "id": 2061839,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006418",
-                        "maktx": "STEWARD_500G_SI_PICOUNT",
-                        "id": 2061840,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11008997",
-                        "maktx": "RUMO WG_0.02KG_BR",
-                        "id": 2061841,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11008953",
-                        "maktx": "STEWARD 30WG_165G_GR",
-                        "id": 2061842,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "12002176",
-                        "maktx": "IXC 300WG MP062_25KG_TH",
-                        "id": 2061843,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006573",
-                        "maktx": "STEWARD_1KG_AT_KWIZDA",
-                        "id": 2061844,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005505",
-                        "maktx": "AVATAR 30WDG_500G_AU",
-                        "id": 2061845,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005517",
-                        "maktx": "STEWARD 30WG_25KG_KR",
-                        "id": 2061846,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005602",
-                        "maktx": "STEWARD_125G_FR",
-                        "id": 2061847,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11013220",
-                        "maktx": "EXPLICIT 30WG_510G_CL",
-                        "id": 2061848,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005381",
-                        "maktx": "STEWARD_250G_BE",
-                        "id": 2061849,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11007566",
-                        "maktx": "STEWARD_1KG_CH_STAHLER",
-                        "id": 2061850,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11006191",
-                        "maktx": "AVAUNT WG_510G_CL",
-                        "id": 2061851,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "12005332",
-                        "maktx": "IXC 300WG MP062_500KG_CRN_ALL",
-                        "id": 2061852,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005604",
-                        "maktx": "STEWARD_500G_FR",
-                        "id": 2061853,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "12001144",
-                        "maktx": "AVAUNT 30WG_25KG_MX",
-                        "id": 2061854,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005310",
-                        "maktx": "STEWARD_250G_GB IE",
-                        "id": 2061855,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11009217",
-                        "maktx": "STEWARD_250G_LT EE",
-                        "id": 2061856,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11000046",
-                        "maktx": "STEWARD 30WG_4G_PH",
-                        "id": 2061857,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11014589",
-                        "maktx": "STEWARD_250G_GB",
-                        "id": 2061858,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11005287",
-                        "maktx": "STEWARD_250G_DE",
-                        "id": 2061859,
-                        "reportDataId": 26727
-                    },
-                    {
-                        "matnr": "11009538",
-                        "maktx": "AVAUNT 30WG_400G_AR",
-                        "id": 2061860,
-                        "reportDataId": 26727
-                    }
-                ],
-                "id": 26727
-            },
-            {
                 "pdfname": "50000081_SDS_SE_SV.PDF",
                 "specificationid": "50000081",
                 "path": "\\\\172.18.22.6\\sds_external/50000081_SDS_SE_SV.PDF",
@@ -227708,254 +227298,6 @@
                 "id": 27796
             },
             {
-                "pdfname": "50000493_SDS_PH_EN.PDF",
-                "specificationid": "50000493",
-                "path": "\\\\172.18.22.6\\sds_external/50000493_SDS_PH_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_PH",
-                "authorizedportal": "P3",
-                "productname": "Partner\u2122 40 DF",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ADDIT 40 WG",
-                "casnumber": "",
-                "commercialnames": "CFZ 40 WG",
-                "cmr": "",
-                "publishdate": "11/11/2025",
-                "iupac": "",
-                "incode": "PJ997",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "PH",
-                "validityareadescription": "Philippines",
-                "legacyspecid": "FO000401",
-                "legacysdsid": "",
-                "revisiondate": "11/11/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008065",
-                        "maktx": "AURORA_100G_DE",
-                        "id": 3851486,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11005360",
-                        "maktx": "TEZ 40DF_10G_PK",
-                        "id": 3851487,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11008054",
-                        "maktx": "AURORA 40WG_100G_HU",
-                        "id": 3851488,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11004539",
-                        "maktx": "AFFINITY 40DF_20G_IN",
-                        "id": 3851489,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11007924",
-                        "maktx": "AURORA 40WG_100KG_MUL",
-                        "id": 3851490,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11015743",
-                        "maktx": "AFFINITY_30G_ID",
-                        "id": 3851491,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11003291",
-                        "maktx": "AFFINITY 40DF_50KG_JP",
-                        "id": 3851492,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11003254",
-                        "maktx": "AIM 40WG_100G_TH",
-                        "id": 3851493,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11008017",
-                        "maktx": "AURORA 40WG_100G_SA_PHILAGRO",
-                        "id": 3851494,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11009141",
-                        "maktx": "AURORA 40WG_100G_ZA NA",
-                        "id": 3851495,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11014307",
-                        "maktx": "AIM 40WG_150G_AT",
-                        "id": 3851496,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "12001709",
-                        "maktx": "CFZ 400WG_WY_JB",
-                        "id": 3851497,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11004756",
-                        "maktx": "AURORA_0.5KG_GB",
-                        "id": 3851498,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11007840",
-                        "maktx": "AURORA 40WG_400G_SK",
-                        "id": 3851499,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11008016",
-                        "maktx": "AURORA 40WG_0.400KG_UA",
-                        "id": 3851500,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11016133",
-                        "maktx": "AIM 40WG_50G_MY",
-                        "id": 3851501,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11008064",
-                        "maktx": "AURORA_500G_DE",
-                        "id": 3851502,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11007864",
-                        "maktx": "AURORA 40WG_100KG_MUL",
-                        "id": 3851503,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "12001880",
-                        "maktx": "CFZ 400WG_WY_JB",
-                        "id": 3851504,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11005484",
-                        "maktx": "ADDIT 40DF_100KG_ID",
-                        "id": 3851505,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11004496",
-                        "maktx": "AIM 40DF_100KG_PK",
-                        "id": 3851506,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11004588",
-                        "maktx": "AFFINITY 40DF_25G_IN",
-                        "id": 3851507,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11007885",
-                        "maktx": "AURORA 40WG_400G_CZ",
-                        "id": 3851508,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11005006",
-                        "maktx": "AIM 40DF_20G_PK",
-                        "id": 3851509,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "12000730",
-                        "maktx": "AFFINITY_100KG_WY_JB",
-                        "id": 3851510,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11014048",
-                        "maktx": "AURORA 40WG_100G_RS",
-                        "id": 3851511,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "12001809",
-                        "maktx": "CFZ 400WG_WY_JB",
-                        "id": 3851512,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11003200",
-                        "maktx": "NABOOD 40DF_20G_IN",
-                        "id": 3851513,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11007866",
-                        "maktx": "PLATFORM 40WG_100G_ES",
-                        "id": 3851514,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "12000974",
-                        "maktx": "CFZ 400WG_100KG_W_JB",
-                        "id": 3851515,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11010336",
-                        "maktx": "CARFENTRAZONE 40DF_100KG_MUL",
-                        "id": 3851516,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11006150",
-                        "maktx": "GULETTA 40DF_25G_IN",
-                        "id": 3851517,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11008052",
-                        "maktx": "AURORA 40WG_100G_FR",
-                        "id": 3851518,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11004720",
-                        "maktx": "AURORA_400G_RS",
-                        "id": 3851519,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11000255",
-                        "maktx": "CARFENTRAZONE 40WG_100KG_TW",
-                        "id": 3851520,
-                        "reportDataId": 27797
-                    },
-                    {
-                        "matnr": "11000455",
-                        "maktx": "CARFENTRAZONE 40WG_150G_AT",
-                        "id": 3851521,
-                        "reportDataId": 27797
-                    }
-                ],
-                "id": 27797
-            },
-            {
                 "pdfname": "50000797_SDS_PH_EN.PDF",
                 "specificationid": "50000797",
                 "path": "\\\\172.18.22.6\\sds_external/50000797_SDS_PH_EN.PDF",
@@ -241103,6 +240445,346 @@
                     }
                 ],
                 "id": 27916
+            },
+            {
+                "pdfname": "50000493_SDS_PH_EN.PDF",
+                "specificationid": "50000493",
+                "path": "\\\\172.18.22.6\\sds_external/50000493_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "PARTNER\u2122 40 WG",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ADDIT 40 WG",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG",
+                "cmr": "",
+                "publishdate": "12/05/2025",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000401",
+                "legacysdsid": "",
+                "revisiondate": "12/05/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001880",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 4235926,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "12001809",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 4235927,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11007866",
+                        "maktx": "PLATFORM 40WG_100G_ES",
+                        "id": 4235928,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11005484",
+                        "maktx": "ADDIT 40DF_100KG_ID",
+                        "id": 4235929,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11007840",
+                        "maktx": "AURORA 40WG_400G_SK",
+                        "id": 4235930,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008065",
+                        "maktx": "AURORA_100G_DE",
+                        "id": 4235931,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008052",
+                        "maktx": "AURORA 40WG_100G_FR",
+                        "id": 4235932,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11007885",
+                        "maktx": "AURORA 40WG_400G_CZ",
+                        "id": 4235933,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008016",
+                        "maktx": "AURORA 40WG_0.400KG_UA",
+                        "id": 4235934,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11009141",
+                        "maktx": "AURORA 40WG_100G_ZA NA",
+                        "id": 4235935,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11004496",
+                        "maktx": "AIM 40DF_100KG_PK",
+                        "id": 4235936,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11007924",
+                        "maktx": "AURORA 40WG_100KG_MUL",
+                        "id": 4235937,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11003200",
+                        "maktx": "NABOOD 40DF_20G_IN",
+                        "id": 4235938,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11000255",
+                        "maktx": "CARFENTRAZONE 40WG_100KG_TW",
+                        "id": 4235939,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "12001709",
+                        "maktx": "CFZ 400WG_WY_JB",
+                        "id": 4235940,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11005360",
+                        "maktx": "TEZ 40DF_10G_PK",
+                        "id": 4235941,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11007864",
+                        "maktx": "AURORA 40WG_100KG_MUL",
+                        "id": 4235942,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008064",
+                        "maktx": "AURORA_500G_DE",
+                        "id": 4235943,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11006150",
+                        "maktx": "GULETTA 40DF_25G_IN",
+                        "id": 4235944,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11016133",
+                        "maktx": "AIM 40WG_50G_MY",
+                        "id": 4235945,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "12000974",
+                        "maktx": "CFZ 400WG_100KG_W_JB",
+                        "id": 4235946,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11004756",
+                        "maktx": "AURORA_0.5KG_GB",
+                        "id": 4235947,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008017",
+                        "maktx": "AURORA 40WG_100G_SA_PHILAGRO",
+                        "id": 4235948,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11008054",
+                        "maktx": "AURORA 40WG_100G_HU",
+                        "id": 4235949,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11014048",
+                        "maktx": "AURORA 40WG_100G_RS",
+                        "id": 4235950,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11003254",
+                        "maktx": "AIM 40WG_100G_TH",
+                        "id": 4235951,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 4235952,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11004720",
+                        "maktx": "AURORA_400G_RS",
+                        "id": 4235953,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11000455",
+                        "maktx": "CARFENTRAZONE 40WG_150G_AT",
+                        "id": 4235954,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11004539",
+                        "maktx": "AFFINITY 40DF_20G_IN",
+                        "id": 4235955,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11010336",
+                        "maktx": "CARFENTRAZONE 40DF_100KG_MUL",
+                        "id": 4235956,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11014307",
+                        "maktx": "AIM 40WG_150G_AT",
+                        "id": 4235957,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11005006",
+                        "maktx": "AIM 40DF_20G_PK",
+                        "id": 4235958,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11004588",
+                        "maktx": "AFFINITY 40DF_25G_IN",
+                        "id": 4235959,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "12000730",
+                        "maktx": "AFFINITY_100KG_WY_JB",
+                        "id": 4235960,
+                        "reportDataId": 27917
+                    },
+                    {
+                        "matnr": "11003291",
+                        "maktx": "AFFINITY 40DF_50KG_JP",
+                        "id": 4235961,
+                        "reportDataId": 27917
+                    }
+                ],
+                "id": 27917
+            },
+            {
+                "pdfname": "50001317_SDS_PH_EN.PDF",
+                "specificationid": "50001317",
+                "path": "\\\\172.18.22.6\\sds_external/50001317_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "PYZERO\u00ae 10 EC Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MET 100 g/L EC (v3)",
+                "cmr": "",
+                "publishdate": "12/05/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000918",
+                "legacysdsid": "",
+                "revisiondate": "12/05/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000456",
+                        "maktx": "PYZERO 10EC_250ML_PH",
+                        "id": 4235962,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "12001409",
+                        "maktx": "MET 100EC_UG_JL",
+                        "id": 4235963,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11000906",
+                        "maktx": "PYZERO 10EC_500ML_TH",
+                        "id": 4235964,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11004444",
+                        "maktx": "METAMIFOP,10EC,40X300ML,SI#SRI LANKA,GS",
+                        "id": 4235965,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11008199",
+                        "maktx": "PYZERO 100EC_400ML_ID",
+                        "id": 4235966,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11004451",
+                        "maktx": "METAMIFOP,10EC,24X500ML,SI#SRI LANKA,GS",
+                        "id": 4235967,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11004422",
+                        "maktx": "METAMIFOP,10EC,12X1L,SI#SRI LANKA,GS",
+                        "id": 4235968,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11002720",
+                        "maktx": "PYZERO_10EC_500ML_PH",
+                        "id": 4235969,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11008637",
+                        "maktx": "PYZERO 100EC_200ML_ID",
+                        "id": 4235970,
+                        "reportDataId": 27918
+                    },
+                    {
+                        "matnr": "11000905",
+                        "maktx": "PYZERO 10EC_1L_PH",
+                        "id": 4235971,
+                        "reportDataId": 27918
+                    }
+                ],
+                "id": 27918
             }
         ],
         "isExportToExcel": false
