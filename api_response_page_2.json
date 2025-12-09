@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6150,
+        "totalCount": 6146,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,1437 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000081_SDS_SE_SV.PDF",
-                "specificationid": "50000081",
-                "path": "\\\\172.18.22.6\\sds_external/50000081_SDS_SE_SV.PDF",
-                "reptype": "MSDS",
-                "language": "SV",
-                "genvariant": "SDS_SE",
-                "authorizedportal": "P3",
-                "productname": "VERIMARK\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CIRCADEN (PROXEL) (M)",
-                "casnumber": "",
-                "commercialnames": "CZP 200 g/L SC (PROXEL)",
-                "cmr": "",
-                "publishdate": "07/16/2025",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "SE",
-                "validityareadescription": "Sweden",
-                "legacyspecid": "Q-1366",
-                "legacysdsid": "130000050053",
-                "revisiondate": "07/16/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001141",
-                        "maktx": "DPX HGW86 PROXEL 200SC_200L_US",
-                        "id": 3429343,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12005720",
-                        "maktx": "CZP 200SC_5L_ST_MO",
-                        "id": 3429344,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014025",
-                        "maktx": "VERIMARK_100ML_RS_AGROMARKET",
-                        "id": 3429345,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014203",
-                        "maktx": "VERIMARK 2022_500ML_IT",
-                        "id": 3429346,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015662",
-                        "maktx": "VERIMARK_100ML_FR",
-                        "id": 3429347,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015617",
-                        "maktx": "VERIMARK_1L_IT",
-                        "id": 3429348,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12000011",
-                        "maktx": "VERIMARK_200L_RO",
-                        "id": 3429349,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015831",
-                        "maktx": "VERIMARK_50ML_IN",
-                        "id": 3429350,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015594",
-                        "maktx": "VERIMARK 200SC_375ML_PL",
-                        "id": 3429351,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014811",
-                        "maktx": "VERIMARK 20SC_5L_GB",
-                        "id": 3429352,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11016835",
-                        "maktx": "VERIMARK_500ML_CN",
-                        "id": 3429353,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013230",
-                        "maktx": "VERIMARK 200SC_1L_PL",
-                        "id": 3429354,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013304",
-                        "maktx": "VERIMARK_100ML_HU",
-                        "id": 3429355,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015152",
-                        "maktx": "VERIMARK_1L_PT_FITOSISTEMA",
-                        "id": 3429356,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11000197",
-                        "maktx": "VERIMARK_1L_NL",
-                        "id": 3429357,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013583",
-                        "maktx": "VERIMARK 20SC_500ML_GR",
-                        "id": 3429358,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11000028",
-                        "maktx": "VERIMARK 20SC_50ML_GR",
-                        "id": 3429359,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11006982",
-                        "maktx": "VERIMARK 2020_500ML_IT",
-                        "id": 3429360,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013260",
-                        "maktx": "CIRCADEN 200SC_1L_ZW",
-                        "id": 3429361,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014520",
-                        "maktx": "VERIMARK_100ML_HR_AGROCHEM MAKS",
-                        "id": 3429362,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015335",
-                        "maktx": "VERIMARK_500ML_ES",
-                        "id": 3429363,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11016403",
-                        "maktx": "VERIMARK_100ML_RO",
-                        "id": 3429364,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12005533",
-                        "maktx": "CZP 200SC_UB_JI",
-                        "id": 3429365,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12006640",
-                        "maktx": "CZP 200SC_1L_ST_JI",
-                        "id": 3429366,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015576",
-                        "maktx": "VERIMARK_500ML_IT",
-                        "id": 3429367,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013684",
-                        "maktx": "CIRCADEN 200SC_500ML_ZW",
-                        "id": 3429368,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015795",
-                        "maktx": "VERIMARK_75ML_IN",
-                        "id": 3429369,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12005608",
-                        "maktx": "CZP 200SC_1L_ST_MO",
-                        "id": 3429370,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12005391",
-                        "maktx": "CZP 200SC_ST_MO",
-                        "id": 3429371,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015796",
-                        "maktx": "VERIMARK_300ML_IN",
-                        "id": 3429372,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015040",
-                        "maktx": "OKINA_1L_BE",
-                        "id": 3429373,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013529",
-                        "maktx": "VERIMARK 20SC_100ML_KE_JUANCO",
-                        "id": 3429374,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11013703",
-                        "maktx": "VERIMARK_5L_FR",
-                        "id": 3429375,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015808",
-                        "maktx": "VERIMARK_100ML_IN",
-                        "id": 3429376,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12002156",
-                        "maktx": "CZP 200SC_200L_?",
-                        "id": 3429377,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014469",
-                        "maktx": "CIRCADEN 200SC_1L_ZA NA",
-                        "id": 3429378,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015382",
-                        "maktx": "VERIMARK 20SC_100ML_GR",
-                        "id": 3429379,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12006566",
-                        "maktx": "CZP 200SC_200L_MUL_ST_JI",
-                        "id": 3429380,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12006541",
-                        "maktx": "CZP 200SC_ST_JI",
-                        "id": 3429381,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12005560",
-                        "maktx": "CZP 200SC_1000L_ST_MO",
-                        "id": 3429382,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "12006633",
-                        "maktx": "CZP 200SC_5L_ST_JI",
-                        "id": 3429383,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015610",
-                        "maktx": "VERIMARK 2024_500ML_IT",
-                        "id": 3429384,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11016381",
-                        "maktx": "VERIMARK 2025_500ML_IT",
-                        "id": 3429385,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014810",
-                        "maktx": "VERIMARK 20SC_5L_IE",
-                        "id": 3429386,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11016440",
-                        "maktx": "VERIMARK 200 SC_375ML_DZ_ACI",
-                        "id": 3429387,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11015809",
-                        "maktx": "VERIMARK_350ML_IN",
-                        "id": 3429388,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014952",
-                        "maktx": "VERIMARK 2023_500ML_IT",
-                        "id": 3429389,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014723",
-                        "maktx": "VERIMARK 200SC_100ML_BG",
-                        "id": 3429390,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11000196",
-                        "maktx": "VERIMARK_1L_BE",
-                        "id": 3429391,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11009214",
-                        "maktx": "VERIMARK_1L_FR",
-                        "id": 3429392,
-                        "reportDataId": 26728
-                    },
-                    {
-                        "matnr": "11014551",
-                        "maktx": "VERIMARK_20L_BR",
-                        "id": 3429393,
-                        "reportDataId": 26728
-                    }
-                ],
-                "id": 26728
-            },
-            {
-                "pdfname": "50001909_EXT_SDS_CL_1X.PDF",
-                "specificationid": "50001909",
-                "path": "\\\\172.18.22.6\\sds_external/50001909_EXT_SDS_CL_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_CL",
-                "authorizedportal": "P3",
-                "productname": "PlusK\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0057 (CHILD)",
-                "cmr": "",
-                "publishdate": "12/04/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "2.0",
-                "fileformat": "PDF",
-                "validityarea": "CL",
-                "validityareadescription": "Chile",
-                "legacyspecid": "NP-0057",
-                "legacysdsid": "NP-0057-1-A",
-                "revisiondate": "12/04/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26729
-            },
-            {
-                "pdfname": "50000613_EXT_SDS_DK_6N.PDF",
-                "specificationid": "50000613",
-                "path": "\\\\172.18.22.6\\sds_external/50000613_EXT_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "MALATHION 526 g/L EC (50% w/w)",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "FYFANON",
-                "casnumber": "",
-                "commercialnames": "FYF 526 g/L EC",
-                "cmr": "",
-                "publishdate": "10/28/2024",
-                "iupac": "",
-                "incode": "15639",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO002037",
-                "legacysdsid": "",
-                "revisiondate": "10/11/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11002827",
-                        "maktx": "FYFANON 50EC_1L_TW",
-                        "id": 2297265,
-                        "reportDataId": 26731
-                    },
-                    {
-                        "matnr": "12000126",
-                        "maktx": "FYF 500EC_RO_RO",
-                        "id": 2297266,
-                        "reportDataId": 26731
-                    },
-                    {
-                        "matnr": "12006507",
-                        "maktx": "FYF 526EC_1000L_RO_RO",
-                        "id": 2297267,
-                        "reportDataId": 26731
-                    }
-                ],
-                "id": 26731
-            },
-            {
-                "pdfname": "50000150_SDS_ID_EN.PDF",
-                "specificationid": "50000150",
-                "path": "\\\\172.18.22.6\\sds_external/50000150_SDS_ID_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "ROVRAL\u00ae 50 WP",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IPD 50 WP",
-                "cmr": "",
-                "publishdate": "10/28/2024",
-                "iupac": "",
-                "incode": "B4835",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO000029",
-                "legacysdsid": "FO000029-A",
-                "revisiondate": "10/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11013677",
-                        "maktx": "ROVRAL 50WP_100G_VN",
-                        "id": 2759565,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003253",
-                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
-                        "id": 2759566,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11004362",
-                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
-                        "id": 2759567,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003270",
-                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
-                        "id": 2759568,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11005072",
-                        "maktx": "ROVRAL WP_1KG_RU",
-                        "id": 2759569,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003228",
-                        "maktx": "ROVRAL 50WP_500G_TH",
-                        "id": 2759570,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003250",
-                        "maktx": "ROVRAL 50WP_100G_MM",
-                        "id": 2759571,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003585",
-                        "maktx": "ROVRAL 50WP_100G_CN",
-                        "id": 2759572,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11009845",
-                        "maktx": "ROVRAL 50WP_1KG_DO",
-                        "id": 2759573,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003252",
-                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
-                        "id": 2759574,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11001864",
-                        "maktx": "ROVRAL 50PM_1KG_?",
-                        "id": 2759575,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11014772",
-                        "maktx": "ROVRAL_500G_TW",
-                        "id": 2759576,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11000435",
-                        "maktx": "ROVRAL 50WP_1KG_MX",
-                        "id": 2759577,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11004892",
-                        "maktx": "ROVRAL 50WP_1KG_JO",
-                        "id": 2759578,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11000526",
-                        "maktx": "ROVRAL 50WP_250G_TW",
-                        "id": 2759579,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003314",
-                        "maktx": "ROVRAL 50WP_25KG_TW",
-                        "id": 2759580,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003276",
-                        "maktx": "ROVRAL 50WP_1KG_CN",
-                        "id": 2759581,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003357",
-                        "maktx": "ROVRAL 50WP_50G_CN",
-                        "id": 2759582,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "12000626",
-                        "maktx": "IPD 500WP_SZ_ALL",
-                        "id": 2759583,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11005677",
-                        "maktx": "ROVRAL 50WP_330KG_MX",
-                        "id": 2759584,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11000261",
-                        "maktx": "ROVRAL 500WP_1KG_BR",
-                        "id": 2759585,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003284",
-                        "maktx": "ROVRAL 50WP_500G_MY",
-                        "id": 2759586,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11008937",
-                        "maktx": "ROVRAL 50WP_20KG_MA",
-                        "id": 2759587,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003218",
-                        "maktx": "ROVRAL 50WP_100G_PH",
-                        "id": 2759588,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "12000878",
-                        "maktx": "IPD 500WP_UG_SINN",
-                        "id": 2759589,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "12001536",
-                        "maktx": "IPD 500WP_MI_SINN",
-                        "id": 2759590,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003638",
-                        "maktx": "ROVRAL 50WP_25KG_VN",
-                        "id": 2759591,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11004893",
-                        "maktx": "ROVRAL 50WP_1KG_AR",
-                        "id": 2759592,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003350",
-                        "maktx": "ROVRAL 50WP_500G_CN",
-                        "id": 2759593,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003251",
-                        "maktx": "ROVRAL 50WP_100G_ID",
-                        "id": 2759594,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11013210",
-                        "maktx": "ROVRAL 50WP_500G_VN",
-                        "id": 2759595,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11004904",
-                        "maktx": "ROVRAL 50WP_1KG_HN",
-                        "id": 2759596,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003263",
-                        "maktx": "ROVRAL 50WP_18KG_BD",
-                        "id": 2759597,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11003599",
-                        "maktx": "ROVRAL 50WP_1KG_GT",
-                        "id": 2759598,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "12006380",
-                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
-                        "id": 2759599,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11013200",
-                        "maktx": "ROVRAL 50WP_25G_VN",
-                        "id": 2759600,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11004967",
-                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
-                        "id": 2759601,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "11000277",
-                        "maktx": "ROVRAL_0.125KG_BR",
-                        "id": 2759602,
-                        "reportDataId": 26732
-                    },
-                    {
-                        "matnr": "12001426",
-                        "maktx": "IPD 500WP_ISAG_SINN",
-                        "id": 2759603,
-                        "reportDataId": 26732
-                    }
-                ],
-                "id": 26732
-            },
-            {
-                "pdfname": "50000150_SDS_ID_ID.PDF",
-                "specificationid": "50000150",
-                "path": "\\\\172.18.22.6\\sds_external/50000150_SDS_ID_ID.PDF",
-                "reptype": "MSDS",
-                "language": "ID",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "ROVRAL\u00ae 50 WP",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "IPD 50 WP",
-                "cmr": "",
-                "publishdate": "10/28/2024",
-                "iupac": "",
-                "incode": "B4835",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO000029",
-                "legacysdsid": "FO000029-A",
-                "revisiondate": "10/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11013677",
-                        "maktx": "ROVRAL 50WP_100G_VN",
-                        "id": 2759604,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003253",
-                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
-                        "id": 2759605,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11004362",
-                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
-                        "id": 2759606,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003270",
-                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
-                        "id": 2759607,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11005072",
-                        "maktx": "ROVRAL WP_1KG_RU",
-                        "id": 2759608,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003228",
-                        "maktx": "ROVRAL 50WP_500G_TH",
-                        "id": 2759609,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003250",
-                        "maktx": "ROVRAL 50WP_100G_MM",
-                        "id": 2759610,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003585",
-                        "maktx": "ROVRAL 50WP_100G_CN",
-                        "id": 2759611,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11009845",
-                        "maktx": "ROVRAL 50WP_1KG_DO",
-                        "id": 2759612,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003252",
-                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
-                        "id": 2759613,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11001864",
-                        "maktx": "ROVRAL 50PM_1KG_?",
-                        "id": 2759614,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11014772",
-                        "maktx": "ROVRAL_500G_TW",
-                        "id": 2759615,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11000435",
-                        "maktx": "ROVRAL 50WP_1KG_MX",
-                        "id": 2759616,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11004892",
-                        "maktx": "ROVRAL 50WP_1KG_JO",
-                        "id": 2759617,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11000526",
-                        "maktx": "ROVRAL 50WP_250G_TW",
-                        "id": 2759618,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003314",
-                        "maktx": "ROVRAL 50WP_25KG_TW",
-                        "id": 2759619,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003276",
-                        "maktx": "ROVRAL 50WP_1KG_CN",
-                        "id": 2759620,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003357",
-                        "maktx": "ROVRAL 50WP_50G_CN",
-                        "id": 2759621,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "12000626",
-                        "maktx": "IPD 500WP_SZ_ALL",
-                        "id": 2759622,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11005677",
-                        "maktx": "ROVRAL 50WP_330KG_MX",
-                        "id": 2759623,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11000261",
-                        "maktx": "ROVRAL 500WP_1KG_BR",
-                        "id": 2759624,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003284",
-                        "maktx": "ROVRAL 50WP_500G_MY",
-                        "id": 2759625,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11008937",
-                        "maktx": "ROVRAL 50WP_20KG_MA",
-                        "id": 2759626,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003218",
-                        "maktx": "ROVRAL 50WP_100G_PH",
-                        "id": 2759627,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "12000878",
-                        "maktx": "IPD 500WP_UG_SINN",
-                        "id": 2759628,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "12001536",
-                        "maktx": "IPD 500WP_MI_SINN",
-                        "id": 2759629,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003638",
-                        "maktx": "ROVRAL 50WP_25KG_VN",
-                        "id": 2759630,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11004893",
-                        "maktx": "ROVRAL 50WP_1KG_AR",
-                        "id": 2759631,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003350",
-                        "maktx": "ROVRAL 50WP_500G_CN",
-                        "id": 2759632,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003251",
-                        "maktx": "ROVRAL 50WP_100G_ID",
-                        "id": 2759633,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11013210",
-                        "maktx": "ROVRAL 50WP_500G_VN",
-                        "id": 2759634,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11004904",
-                        "maktx": "ROVRAL 50WP_1KG_HN",
-                        "id": 2759635,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003263",
-                        "maktx": "ROVRAL 50WP_18KG_BD",
-                        "id": 2759636,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11003599",
-                        "maktx": "ROVRAL 50WP_1KG_GT",
-                        "id": 2759637,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "12006380",
-                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
-                        "id": 2759638,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11013200",
-                        "maktx": "ROVRAL 50WP_25G_VN",
-                        "id": 2759639,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11004967",
-                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
-                        "id": 2759640,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "11000277",
-                        "maktx": "ROVRAL_0.125KG_BR",
-                        "id": 2759641,
-                        "reportDataId": 26733
-                    },
-                    {
-                        "matnr": "12001426",
-                        "maktx": "IPD 500WP_ISAG_SINN",
-                        "id": 2759642,
-                        "reportDataId": 26733
-                    }
-                ],
-                "id": 26733
-            },
-            {
-                "pdfname": "50001913_EXT_SDS_CL_1X.PDF",
-                "specificationid": "50001913",
-                "path": "\\\\172.18.22.6\\sds_external/50001913_EXT_SDS_CL_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_CL",
-                "authorizedportal": "P3",
-                "productname": "STYMULUS MAXX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0063 (CHILD)",
-                "cmr": "",
-                "publishdate": "10/28/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "2.0",
-                "fileformat": "PDF",
-                "validityarea": "CL",
-                "validityareadescription": "Chile",
-                "legacyspecid": "NP-0063",
-                "legacysdsid": "NP-0063-3-A",
-                "revisiondate": "10/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000661",
-                        "maktx": "STYMULUS MAXX AL_1000L_MX",
-                        "id": 2062099,
-                        "reportDataId": 26734
-                    },
-                    {
-                        "matnr": "11008292",
-                        "maktx": "STYMULUS MAXX AL_10L_MX",
-                        "id": 2062100,
-                        "reportDataId": 26734
-                    },
-                    {
-                        "matnr": "11002954",
-                        "maktx": "STYMULUS MAXX AL_1L_MX",
-                        "id": 2062101,
-                        "reportDataId": 26734
-                    },
-                    {
-                        "matnr": "11007679",
-                        "maktx": "STYMULUS MAXX_10L_CL",
-                        "id": 2062102,
-                        "reportDataId": 26734
-                    }
-                ],
-                "id": 26734
-            },
-            {
-                "pdfname": "50001589_SDS_CN_EN.PDF",
-                "specificationid": "50001589",
-                "path": "\\\\172.18.22.6\\sds_external/50001589_SDS_CN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "ROVRAL\u00ae 500 SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "IPRODIONE 500 G/L SC",
-                "casnumber": "",
-                "commercialnames": "IPD 500 g/L SC (v3)",
-                "cmr": "",
-                "publishdate": "10/29/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "FO004380",
-                "legacysdsid": "",
-                "revisiondate": "10/29/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26735
-            },
-            {
-                "pdfname": "50001589_SDS_CN_ZH.PDF",
-                "specificationid": "50001589",
-                "path": "\\\\172.18.22.6\\sds_external/50001589_SDS_CN_ZH.PDF",
-                "reptype": "MSDS",
-                "language": "ZH",
-                "genvariant": "SDS_CN",
-                "authorizedportal": "P3",
-                "productname": "ROVRAL\u00ae 500 SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "IPRODIONE 500 G/L SC",
-                "casnumber": "",
-                "commercialnames": "IPD 500 g/L SC (v3)",
-                "cmr": "",
-                "publishdate": "10/29/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CN",
-                "validityareadescription": "China",
-                "legacyspecid": "FO004380",
-                "legacysdsid": "",
-                "revisiondate": "10/29/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26736
-            },
-            {
-                "pdfname": "50001289_SDS_CA_EN.PDF",
-                "specificationid": "50001289",
-                "path": "\\\\172.18.22.6\\sds_external/50001289_SDS_CA_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_CA",
-                "authorizedportal": "P3",
-                "productname": "Spitfire\u00ae 50 SC Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AXCLEAN",
-                "casnumber": "",
-                "commercialnames": "FOM 50 g/L SC (v2)",
-                "cmr": "",
-                "publishdate": "11/17/2025",
-                "iupac": "",
-                "incode": "VA231",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CA",
-                "validityareadescription": "Canada",
-                "legacyspecid": "FO002216",
-                "legacysdsid": "",
-                "revisiondate": "11/17/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001398",
-                        "maktx": "PARAMOUNT_0.5L_GB",
-                        "id": 3857275,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11016949",
-                        "maktx": "SPITFIRE_2.6L_CA",
-                        "id": 3857276,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "12000538",
-                        "maktx": "FOM 50SC_ST_PA",
-                        "id": 3857277,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11008529",
-                        "maktx": "SOLSTICE SC_1G",
-                        "id": 3857278,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "12006573",
-                        "maktx": "FOM 50SC_STIT_PA",
-                        "id": 3857279,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11015553",
-                        "maktx": "SPITFIRE 50SC_950L_CA",
-                        "id": 3857280,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001391",
-                        "maktx": "LECTOR_0.5L_GB",
-                        "id": 3857281,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001399",
-                        "maktx": "SARACEN_0.5L_SK",
-                        "id": 3857282,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001684",
-                        "maktx": "FLORASULAM SC_1000L_MUL",
-                        "id": 3857283,
-                        "reportDataId": 26737
-                    },
-                    {
-                        "matnr": "11001412",
-                        "maktx": "SARACEN 5350_5L_DE",
-                        "id": 3857284,
-                        "reportDataId": 26737
-                    }
-                ],
-                "id": 26737
-            },
-            {
-                "pdfname": "50000679_SDS_SK_SK.PDF",
-                "specificationid": "50000679",
-                "path": "\\\\172.18.22.6\\sds_external/50000679_SDS_SK_SK.PDF",
-                "reptype": "MSDS",
-                "language": "SK",
-                "genvariant": "SDS_SK",
-                "authorizedportal": "P3",
-                "productname": "BEFLEX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "BEFLEX",
-                "casnumber": "",
-                "commercialnames": "BEF 500 g/L SC",
-                "cmr": "",
-                "publishdate": "10/30/2024",
-                "iupac": "",
-                "incode": "41664",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "SK",
-                "validityareadescription": "Slovakia",
-                "legacyspecid": "FO002200",
-                "legacysdsid": "",
-                "revisiondate": "10/30/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014096",
-                        "maktx": "BEFLEX_500ML_HR_CHROMOS AGRO",
-                        "id": 3151036,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002995",
-                        "maktx": "BEFLEX_1L_FR",
-                        "id": 3151037,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002270",
-                        "maktx": "BEFLEX_1L_DE",
-                        "id": 3151038,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11000314",
-                        "maktx": "BEFLEX_1L_BE",
-                        "id": 3151039,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002473",
-                        "maktx": "BEFLEX_5L_FR",
-                        "id": 3151040,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11013750",
-                        "maktx": "BEFLEX_5L_AT",
-                        "id": 3151041,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11014606",
-                        "maktx": "BEFLEX 500SC_5L_MUL",
-                        "id": 3151042,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11015843",
-                        "maktx": "BEFLEX 500SC_5L_SE",
-                        "id": 3151043,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "12000363",
-                        "maktx": "BEF 500SC_ST_PA",
-                        "id": 3151044,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11000282",
-                        "maktx": "BEFLEX 500SC_1L_PL",
-                        "id": 3151045,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11004500",
-                        "maktx": "BEFLEX 500SC_500ML_HR",
-                        "id": 3151046,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002121",
-                        "maktx": "BEFLEX_5L_CZ_AGRO",
-                        "id": 3151047,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11016713",
-                        "maktx": "BEFLEX_1L_MUL",
-                        "id": 3151048,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11014272",
-                        "maktx": "BEFLEX_1L_AT",
-                        "id": 3151049,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11001890",
-                        "maktx": "BEFLEX_5L_DE",
-                        "id": 3151050,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002010",
-                        "maktx": "BEFLEX_5L_ES",
-                        "id": 3151051,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11004121",
-                        "maktx": "BEFLEX 500SC_1L_IT",
-                        "id": 3151052,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "12006682",
-                        "maktx": " BEF 500SC_1L_ST_PA",
-                        "id": 3151053,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11016697",
-                        "maktx": "BEFLEX_4L_DE",
-                        "id": 3151054,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11004460",
-                        "maktx": "BEFLEX_5L_DE",
-                        "id": 3151055,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11015456",
-                        "maktx": "BEFLEX_1L_IT",
-                        "id": 3151056,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11015895",
-                        "maktx": "MERIFLEX 500SC_1L_PL",
-                        "id": 3151057,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11002367",
-                        "maktx": "BEFLEX_5L _BG",
-                        "id": 3151058,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "11015299",
-                        "maktx": "BEFLEX_1L_HR_CHROMOS AGRO",
-                        "id": 3151059,
-                        "reportDataId": 26738
-                    },
-                    {
-                        "matnr": "12006700",
-                        "maktx": "BEF 500SC_5L_ST_PA",
-                        "id": 3151060,
-                        "reportDataId": 26738
-                    }
-                ],
-                "id": 26738
-            },
-            {
-                "pdfname": "50001682_SDS_GB_6N.PDF",
-                "specificationid": "50001682",
-                "path": "\\\\172.18.22.6\\sds_external/50001682_SDS_GB_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_GB",
-                "authorizedportal": "P3",
-                "productname": "MAPLE DF",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "10253",
-                "cmr": "",
-                "publishdate": "10/30/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "GB",
-                "validityareadescription": "Great Britain",
-                "legacyspecid": "10253",
-                "legacysdsid": "10253-4-A",
-                "revisiondate": "10/30/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015150",
-                        "maktx": "MAPLE DF_10KG_IE",
-                        "id": 2062247,
-                        "reportDataId": 26739
-                    },
-                    {
-                        "matnr": "11000479",
-                        "maktx": "MAPLE_10KG_GB",
-                        "id": 2062248,
-                        "reportDataId": 26739
-                    }
-                ],
-                "id": 26739
-            },
-            {
-                "pdfname": "50001707_EXT_SDS_US_1X.PDF",
-                "specificationid": "50001707",
-                "path": "\\\\172.18.22.6\\sds_external/50001707_EXT_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_US",
-                "authorizedportal": "P3",
-                "productname": "Zeus\u00ae XC Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "SFZ 480 g/L SC (CHILD)",
-                "cmr": "",
-                "publishdate": "10/30/2024",
-                "iupac": "",
-                "incode": "QY998",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO000242",
-                "legacysdsid": "1466-11-A",
-                "revisiondate": "10/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008518",
-                        "maktx": "ZEUS XC_1GAL_US",
-                        "id": 2062271,
-                        "reportDataId": 26740
-                    },
-                    {
-                        "matnr": "11016016",
-                        "maktx": "SULFENTRA_3.79L_CA",
-                        "id": 2062272,
-                        "reportDataId": 26740
-                    }
-                ],
-                "id": 26740
-            },
             {
                 "pdfname": "50001707_EXT_SDS_US_EN.PDF",
                 "specificationid": "50001707",
@@ -228890,37 +227459,6 @@
                 "id": 27821
             },
             {
-                "pdfname": "50003129_EXT_SDS_BR_PT.PDF",
-                "specificationid": "50003129",
-                "path": "\\\\172.18.22.6\\sds_external/50003129_EXT_SDS_BR_PT.PDF",
-                "reptype": "MSDS",
-                "language": "PT",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "TROVATI\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CLZ 500 g/L EC",
-                "cmr": "",
-                "publishdate": "11/20/2025",
-                "iupac": "",
-                "incode": "U8R42",
-                "ehsversionno": "4.0",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "FO000176",
-                "legacysdsid": "",
-                "revisiondate": "11/20/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 27822
-            },
-            {
                 "pdfname": "50002627_EXT_SDS_CR_1X.PDF",
                 "specificationid": "50002627",
                 "path": "\\\\172.18.22.6\\sds_external/50002627_EXT_SDS_CR_1X.PDF",
@@ -240785,6 +239323,922 @@
                     }
                 ],
                 "id": 27918
+            },
+            {
+                "pdfname": "50000371_SDS_PH_EN.PDF",
+                "specificationid": "50000371",
+                "path": "\\\\172.18.22.6\\sds_external/50000371_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "TALSTAR\u00ae 10WP Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIF 10 WP (v2)",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000247",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001720",
+                        "maktx": "BIF 100WP_MI_VIAK",
+                        "id": 4235972,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "11008318",
+                        "maktx": "BRIGADE_0.5LB_US",
+                        "id": 4235973,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "11008596",
+                        "maktx": "TALSTAR 10WP_150LB_?",
+                        "id": 4235974,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "12001714",
+                        "maktx": "BIF 100WP_MI_VIAK",
+                        "id": 4235975,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "11005952",
+                        "maktx": "BISTAR 10WP_150LB",
+                        "id": 4235976,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "12001810",
+                        "maktx": "BIF 100WP_MI_VIAK",
+                        "id": 4235977,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "11008428",
+                        "maktx": "TALSTAR 10WP_150LB_?",
+                        "id": 4235978,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "12001816",
+                        "maktx": "BIF 100WP_MI_YN",
+                        "id": 4235979,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "12005941",
+                        "maktx": "BIF 100WP_150LB_ID_MI_VIAK",
+                        "id": 4235980,
+                        "reportDataId": 27919
+                    },
+                    {
+                        "matnr": "11007836",
+                        "maktx": "TALSTAR 10WP_1KG_PH",
+                        "id": 4235981,
+                        "reportDataId": 27919
+                    }
+                ],
+                "id": 27919
+            },
+            {
+                "pdfname": "50000359_SDS_PH_EN.PDF",
+                "specificationid": "50000359",
+                "path": "\\\\172.18.22.6\\sds_external/50000359_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL 25 ST",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Carbosulfan 25 wt% DS",
+                "casnumber": "",
+                "commercialnames": "CSN 25 DS",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "Y5560",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000006",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008642",
+                        "maktx": "MARSHAL 25DS_50KG",
+                        "id": 4235982,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "11008021",
+                        "maktx": "MARSHAL 25DS_100G",
+                        "id": 4235983,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "11003603",
+                        "maktx": "MARSHAL 25STD_20G_TH",
+                        "id": 4235984,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "12001389",
+                        "maktx": "CSN 250DS_UG_VIAK",
+                        "id": 4235985,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "11003201",
+                        "maktx": "MARSHAL 25ST_180G_PH",
+                        "id": 4235986,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "11008029",
+                        "maktx": "MARSHAL 25DS_25G",
+                        "id": 4235987,
+                        "reportDataId": 27920
+                    },
+                    {
+                        "matnr": "11007850",
+                        "maktx": "MARSHAL 25DS_50KG_CR",
+                        "id": 4235988,
+                        "reportDataId": 27920
+                    }
+                ],
+                "id": 27920
+            },
+            {
+                "pdfname": "50000150_SDS_PH_EN.PDF",
+                "specificationid": "50000150",
+                "path": "\\\\172.18.22.6\\sds_external/50000150_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL\u00ae 50 WP",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IPD 50 WP",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO000029",
+                "legacysdsid": "FO000029-A",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013210",
+                        "maktx": "ROVRAL 50WP_500G_VN",
+                        "id": 4235989,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003263",
+                        "maktx": "ROVRAL 50WP_18KG_BD",
+                        "id": 4235990,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003276",
+                        "maktx": "ROVRAL 50WP_1KG_CN",
+                        "id": 4235991,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003252",
+                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
+                        "id": 4235992,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11005677",
+                        "maktx": "ROVRAL 50WP_330KG_MX",
+                        "id": 4235993,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11000277",
+                        "maktx": "ROVRAL_0.125KG_BR",
+                        "id": 4235994,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003357",
+                        "maktx": "ROVRAL 50WP_50G_CN",
+                        "id": 4235995,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003251",
+                        "maktx": "ROVRAL 50WP_100G_ID",
+                        "id": 4235996,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003284",
+                        "maktx": "ROVRAL 50WP_500G_MY",
+                        "id": 4235997,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "12006380",
+                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
+                        "id": 4235998,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003228",
+                        "maktx": "ROVRAL 50WP_500G_TH",
+                        "id": 4235999,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "12001536",
+                        "maktx": "IPD 500WP_MI_SINN",
+                        "id": 4236000,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11004892",
+                        "maktx": "ROVRAL 50WP_1KG_JO",
+                        "id": 4236001,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11004893",
+                        "maktx": "ROVRAL 50WP_1KG_AR",
+                        "id": 4236002,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11001864",
+                        "maktx": "ROVRAL 50PM_1KG_?",
+                        "id": 4236003,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11000261",
+                        "maktx": "ROVRAL 500WP_1KG_BR",
+                        "id": 4236004,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003253",
+                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
+                        "id": 4236005,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003350",
+                        "maktx": "ROVRAL 50WP_500G_CN",
+                        "id": 4236006,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "12001426",
+                        "maktx": "IPD 500WP_ISAG_SINN",
+                        "id": 4236007,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11004967",
+                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
+                        "id": 4236008,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11009845",
+                        "maktx": "ROVRAL 50WP_1KG_DO",
+                        "id": 4236009,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003218",
+                        "maktx": "ROVRAL 50WP_100G_PH",
+                        "id": 4236010,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11013200",
+                        "maktx": "ROVRAL 50WP_25G_VN",
+                        "id": 4236011,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11000526",
+                        "maktx": "ROVRAL 50WP_250G_TW",
+                        "id": 4236012,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003638",
+                        "maktx": "ROVRAL 50WP_25KG_VN",
+                        "id": 4236013,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "12000626",
+                        "maktx": "IPD 500WP_SZ_ALL",
+                        "id": 4236014,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11013677",
+                        "maktx": "ROVRAL 50WP_100G_VN",
+                        "id": 4236015,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003250",
+                        "maktx": "ROVRAL 50WP_100G_MM",
+                        "id": 4236016,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11004362",
+                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
+                        "id": 4236017,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003314",
+                        "maktx": "ROVRAL 50WP_25KG_TW",
+                        "id": 4236018,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003270",
+                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
+                        "id": 4236019,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "12000878",
+                        "maktx": "IPD 500WP_UG_SINN",
+                        "id": 4236020,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11003585",
+                        "maktx": "ROVRAL 50WP_100G_CN",
+                        "id": 4236021,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11005072",
+                        "maktx": "ROVRAL WP_1KG_RU",
+                        "id": 4236022,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11008937",
+                        "maktx": "ROVRAL 50WP_20KG_MA",
+                        "id": 4236023,
+                        "reportDataId": 27921
+                    },
+                    {
+                        "matnr": "11014772",
+                        "maktx": "ROVRAL_500G_TW",
+                        "id": 4236024,
+                        "reportDataId": 27921
+                    }
+                ],
+                "id": 27921
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_CL_1X.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_CL_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "ISAVIA\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4236025,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4236026,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4236027,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4236028,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4236029,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4236030,
+                        "reportDataId": 27922
+                    },
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4236031,
+                        "reportDataId": 27922
+                    }
+                ],
+                "id": 27922
+            },
+            {
+                "pdfname": "50002791_EXT_SDS_CL_EN.PDF",
+                "specificationid": "50002791",
+                "path": "\\\\172.18.22.6\\sds_external/50002791_EXT_SDS_CL_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "ISAVIA\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (4.27 + 6.4) SC",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z09",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005941",
+                        "maktx": "NEMA-C S_1000L_KR",
+                        "id": 4236032,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "11003604",
+                        "maktx": "NEMA CS_100ML_KR",
+                        "id": 4236033,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "12001964",
+                        "maktx": "BLI 41 + BSU 48SC_ST_CHRH",
+                        "id": 4236034,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "11003575",
+                        "maktx": "NEMA CS_500ML_KR",
+                        "id": 4236035,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "11015910",
+                        "maktx": "CATULIA_200L_PH",
+                        "id": 4236036,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "11015099",
+                        "maktx": "NEMA-C ECO_500ML_KR",
+                        "id": 4236037,
+                        "reportDataId": 27923
+                    },
+                    {
+                        "matnr": "11015102",
+                        "maktx": "NEMA-C ECO_100ML_KR",
+                        "id": 4236038,
+                        "reportDataId": 27923
+                    }
+                ],
+                "id": 27923
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CL_EN.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CL_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "U8Z34-R002 SC (F4034-5)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4236039,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4236040,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4236041,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4236042,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4236043,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4236044,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4236045,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4236046,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4236047,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4236048,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4236049,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4236050,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4236051,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4236052,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4236053,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4236054,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4236055,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4236056,
+                        "reportDataId": 27924
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4236057,
+                        "reportDataId": 27924
+                    }
+                ],
+                "id": 27924
+            },
+            {
+                "pdfname": "50001598_EXT_SDS_CL_1X.PDF",
+                "specificationid": "50001598",
+                "path": "\\\\172.18.22.6\\sds_external/50001598_EXT_SDS_CL_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "U8Z34-R002 SC (F4034-5)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU (RTI477) + BVZ (RTI301)  (30 + 90) g/L SC",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "FO004351",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014191",
+                        "maktx": "PROVILAR_5L_BR",
+                        "id": 4236058,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11000593",
+                        "maktx": "ATAPLAN100ML",
+                        "id": 4236059,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11000545",
+                        "maktx": "ATAPLAN 500ML",
+                        "id": 4236060,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11015339",
+                        "maktx": "ATAPLAN_1L_BR",
+                        "id": 4236061,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "12006023",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4236062,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11004714",
+                        "maktx": "Ataplan\u2122 bio fung,116SC,3.78L,E,F#CAN,ST",
+                        "id": 4236063,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11016722",
+                        "maktx": "FORENIA_1L_MX",
+                        "id": 4236064,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "12005471",
+                        "maktx": "BSU BVZ SC_1000L_BR_ST_CHRH",
+                        "id": 4236065,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11016510",
+                        "maktx": "ATAPLAN_5KG_KR",
+                        "id": 4236066,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11014442",
+                        "maktx": "PROVILAR_10L_BR",
+                        "id": 4236067,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "12000909",
+                        "maktx": "BSU 29 - BVZ 87SC_MI_CHRH",
+                        "id": 4236068,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11004701",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,2.5GAL,E#US,ST",
+                        "id": 4236069,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "12001280",
+                        "maktx": "BSU + BVZ SC_ST_CHRH",
+                        "id": 4236070,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11015528",
+                        "maktx": "PROVILAR_1L_BR",
+                        "id": 4236071,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11004755",
+                        "maktx": "Ataplan\u2122 bio fungi, 116SC,1 GAL,E#US,ST",
+                        "id": 4236072,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11004449",
+                        "maktx": "ATAPLAN SC_1000L_KR",
+                        "id": 4236073,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "12005810",
+                        "maktx": "BSU + BVZ SC_640L_ST_CHRH",
+                        "id": 4236074,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11016591",
+                        "maktx": "PROVILAR_1000L_BR",
+                        "id": 4236075,
+                        "reportDataId": 27925
+                    },
+                    {
+                        "matnr": "11015338",
+                        "maktx": "ATAPLAN_5L_BR",
+                        "id": 4236076,
+                        "reportDataId": 27925
+                    }
+                ],
+                "id": 27925
+            },
+            {
+                "pdfname": "50002936_EXT_SDS_CL_1X.PDF",
+                "specificationid": "50002936",
+                "path": "\\\\172.18.22.6\\sds_external/50002936_EXT_SDS_CL_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "PROVILAR\u00ae PLUS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU + BVZ (80 + 240) g/L OD",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27926
+            },
+            {
+                "pdfname": "50002936_EXT_SDS_CL_EN.PDF",
+                "specificationid": "50002936",
+                "path": "\\\\172.18.22.6\\sds_external/50002936_EXT_SDS_CL_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CL",
+                "authorizedportal": "P3",
+                "productname": "PROVILAR\u00ae PLUS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BSU + BVZ (80 + 240) g/L OD",
+                "cmr": "",
+                "publishdate": "12/08/2025",
+                "iupac": "",
+                "incode": "U8Z34",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CL",
+                "validityareadescription": "Chile",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "12/08/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27927
             }
         ],
         "isExportToExcel": false
