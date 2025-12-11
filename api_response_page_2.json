@@ -231693,127 +231693,127 @@
                 "language": "6N",
                 "genvariant": "SDS_UZ",
                 "authorizedportal": "P3",
-                "productname": "THYPAAN CAL",
+                "productname": "THYPAAN\u00ae CAL",
                 "chemicalname": "",
                 "commonname": "",
                 "tradename": "",
                 "casnumber": "",
                 "commercialnames": "NP-0081",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "12/10/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0081",
                 "legacysdsid": "NP-0081",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "12/10/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002594",
-                        "maktx": "FOLY CAL_5L_TR",
-                        "id": 4122427,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11002220",
-                        "maktx": "VERCAL_20L_EG_TIBA",
-                        "id": 4122428,
+                        "matnr": "11002646",
+                        "maktx": "VERCAL_10L_MD_DIAZCHIM",
+                        "id": 4262479,
                         "reportDataId": 27864
                     },
                     {
                         "matnr": "11013666",
                         "maktx": "VERCAL_1L_IL_GADOT",
-                        "id": 4122429,
+                        "id": 4262480,
                         "reportDataId": 27864
                     },
                     {
-                        "matnr": "11013819",
-                        "maktx": "NUTRILEAF CALCIO_5L_ES",
-                        "id": 4122430,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11009225",
-                        "maktx": "VERCAL_5L_TZ KE_TRI-HYG",
-                        "id": 4122431,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11009551",
-                        "maktx": "VERCAL_5L_GR",
-                        "id": 4122432,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11002222",
-                        "maktx": "VERCAL_1L_EG_TIBA",
-                        "id": 4122433,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11007971",
-                        "maktx": "VERCAL_1000L_EC CR",
-                        "id": 4122434,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11001974",
-                        "maktx": "VC VERCAL_10L_GB",
-                        "id": 4122435,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11002646",
-                        "maktx": "VERCAL_10L_MD_DIAZCHIM",
-                        "id": 4122436,
+                        "matnr": "11002594",
+                        "maktx": "FOLY CAL_5L_TR",
+                        "id": 4262481,
                         "reportDataId": 27864
                     },
                     {
                         "matnr": "11002663",
                         "maktx": "FOLY CAL_1L_TR",
-                        "id": 4122437,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "12000160",
-                        "maktx": "CA 15SL_FL_ALL",
-                        "id": 4122438,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11014213",
-                        "maktx": "THYPAAN CAL_10L_TR",
-                        "id": 4122439,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11014233",
-                        "maktx": "THYPAAN CAL_5L_TR",
-                        "id": 4122440,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11002595",
-                        "maktx": "FOLY CAL_10L_TR",
-                        "id": 4122441,
-                        "reportDataId": 27864
-                    },
-                    {
-                        "matnr": "11008732",
-                        "maktx": "VERCAL_1L_GR",
-                        "id": 4122442,
+                        "id": 4262482,
                         "reportDataId": 27864
                     },
                     {
                         "matnr": "11017000",
                         "maktx": "THYPAAN CAL_10L_MUL",
-                        "id": 4122443,
+                        "id": 4262483,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11002220",
+                        "maktx": "VERCAL_20L_EG_TIBA",
+                        "id": 4262484,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11013819",
+                        "maktx": "NUTRILEAF CALCIO_5L_ES",
+                        "id": 4262485,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "12000160",
+                        "maktx": "CA 15SL_FL_ALL",
+                        "id": 4262486,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11009551",
+                        "maktx": "VERCAL_5L_GR",
+                        "id": 4262487,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11014213",
+                        "maktx": "THYPAAN CAL_10L_TR",
+                        "id": 4262488,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11007971",
+                        "maktx": "VERCAL_1000L_EC CR",
+                        "id": 4262489,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11002595",
+                        "maktx": "FOLY CAL_10L_TR",
+                        "id": 4262490,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11001974",
+                        "maktx": "VC VERCAL_10L_GB",
+                        "id": 4262491,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11009225",
+                        "maktx": "VERCAL_5L_TZ KE_TRI-HYG",
+                        "id": 4262492,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11002222",
+                        "maktx": "VERCAL_1L_EG_TIBA",
+                        "id": 4262493,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11014233",
+                        "maktx": "THYPAAN CAL_5L_TR",
+                        "id": 4262494,
+                        "reportDataId": 27864
+                    },
+                    {
+                        "matnr": "11008732",
+                        "maktx": "VERCAL_1L_GR",
+                        "id": 4262495,
                         "reportDataId": 27864
                     }
                 ],
@@ -231827,127 +231827,127 @@
                 "language": "RU",
                 "genvariant": "SDS_UZ",
                 "authorizedportal": "P3",
-                "productname": "THYPAAN CAL",
+                "productname": "THYPAAN\u00ae CAL",
                 "chemicalname": "",
                 "commonname": "",
                 "tradename": "",
                 "casnumber": "",
                 "commercialnames": "NP-0081",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "12/10/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0081",
                 "legacysdsid": "NP-0081",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "12/10/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11002594",
-                        "maktx": "FOLY CAL_5L_TR",
-                        "id": 4122444,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11002220",
-                        "maktx": "VERCAL_20L_EG_TIBA",
-                        "id": 4122445,
+                        "matnr": "11009225",
+                        "maktx": "VERCAL_5L_TZ KE_TRI-HYG",
+                        "id": 4262496,
                         "reportDataId": 27865
                     },
                     {
                         "matnr": "11013666",
                         "maktx": "VERCAL_1L_IL_GADOT",
-                        "id": 4122446,
+                        "id": 4262497,
                         "reportDataId": 27865
                     },
                     {
-                        "matnr": "11013819",
-                        "maktx": "NUTRILEAF CALCIO_5L_ES",
-                        "id": 4122447,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11009225",
-                        "maktx": "VERCAL_5L_TZ KE_TRI-HYG",
-                        "id": 4122448,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11009551",
-                        "maktx": "VERCAL_5L_GR",
-                        "id": 4122449,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11001974",
-                        "maktx": "VC VERCAL_10L_GB",
-                        "id": 4122450,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11007971",
-                        "maktx": "VERCAL_1000L_EC CR",
-                        "id": 4122451,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11014233",
-                        "maktx": "THYPAAN CAL_5L_TR",
-                        "id": 4122452,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11002646",
-                        "maktx": "VERCAL_10L_MD_DIAZCHIM",
-                        "id": 4122453,
+                        "matnr": "11002594",
+                        "maktx": "FOLY CAL_5L_TR",
+                        "id": 4262498,
                         "reportDataId": 27865
                     },
                     {
                         "matnr": "11002663",
                         "maktx": "FOLY CAL_1L_TR",
-                        "id": 4122454,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "12000160",
-                        "maktx": "CA 15SL_FL_ALL",
-                        "id": 4122455,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11014213",
-                        "maktx": "THYPAAN CAL_10L_TR",
-                        "id": 4122456,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11002222",
-                        "maktx": "VERCAL_1L_EG_TIBA",
-                        "id": 4122457,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11002595",
-                        "maktx": "FOLY CAL_10L_TR",
-                        "id": 4122458,
-                        "reportDataId": 27865
-                    },
-                    {
-                        "matnr": "11008732",
-                        "maktx": "VERCAL_1L_GR",
-                        "id": 4122459,
+                        "id": 4262499,
                         "reportDataId": 27865
                     },
                     {
                         "matnr": "11017000",
                         "maktx": "THYPAAN CAL_10L_MUL",
-                        "id": 4122460,
+                        "id": 4262500,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11002220",
+                        "maktx": "VERCAL_20L_EG_TIBA",
+                        "id": 4262501,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11013819",
+                        "maktx": "NUTRILEAF CALCIO_5L_ES",
+                        "id": 4262502,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "12000160",
+                        "maktx": "CA 15SL_FL_ALL",
+                        "id": 4262503,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11009551",
+                        "maktx": "VERCAL_5L_GR",
+                        "id": 4262504,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11008732",
+                        "maktx": "VERCAL_1L_GR",
+                        "id": 4262505,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11007971",
+                        "maktx": "VERCAL_1000L_EC CR",
+                        "id": 4262506,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11002595",
+                        "maktx": "FOLY CAL_10L_TR",
+                        "id": 4262507,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11001974",
+                        "maktx": "VC VERCAL_10L_GB",
+                        "id": 4262508,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11002646",
+                        "maktx": "VERCAL_10L_MD_DIAZCHIM",
+                        "id": 4262509,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11002222",
+                        "maktx": "VERCAL_1L_EG_TIBA",
+                        "id": 4262510,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11014233",
+                        "maktx": "THYPAAN CAL_5L_TR",
+                        "id": 4262511,
+                        "reportDataId": 27865
+                    },
+                    {
+                        "matnr": "11014213",
+                        "maktx": "THYPAAN CAL_10L_TR",
+                        "id": 4262512,
                         "reportDataId": 27865
                     }
                 ],
