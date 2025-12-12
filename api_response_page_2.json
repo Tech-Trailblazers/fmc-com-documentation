@@ -12077,189 +12077,195 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006620",
-                        "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 3763968,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 3763969,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016209",
-                        "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 3763970,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 3763971,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 3763972,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 3763973,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 3763974,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 3763975,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 3763976,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 3763977,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 3763978,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 3763979,
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4263026,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 3763980,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 3763981,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 3763982,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006635",
-                        "maktx": "TRIPALI_250G_SE",
-                        "id": 3763983,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 3763984,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 3763985,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 3763986,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 3763987,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 3763988,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 3763989,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 3763990,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11000260",
-                        "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 3763991,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 3763992,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 3763993,
+                        "id": 4263027,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11006617",
                         "maktx": "TRIPALI_250G_SK",
-                        "id": 3763994,
+                        "id": 4263028,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4263029,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4263030,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4263031,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4263032,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4263033,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4263034,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4263035,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4263036,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4263037,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4263038,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4263039,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11000260",
+                        "maktx": "SYNOPSIS_1KG_FR",
+                        "id": 4263040,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006620",
+                        "maktx": "GRANSTAR TRIO_250G_IT",
+                        "id": 4263041,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11013815",
                         "maktx": "CELEXIUM_200G_RO",
-                        "id": 3763995,
+                        "id": 4263042,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11013091",
-                        "maktx": "TRIPALI_250G_CZ",
-                        "id": 3763996,
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 4263043,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 3763997,
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4263044,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4263045,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4263046,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4263047,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4263048,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4263049,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4263050,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4263051,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11002801",
                         "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 3763998,
+                        "id": 4263052,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4263053,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4263054,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4263055,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11013091",
+                        "maktx": "TRIPALI_250G_CZ",
+                        "id": 4263056,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4263057,
                         "reportDataId": 26840
                     }
                 ],
@@ -19617,189 +19623,195 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006620",
-                        "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 3763999,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 3764000,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11016209",
-                        "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 3764001,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 3764002,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 3764003,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 3764004,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 3764005,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 3764006,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 3764007,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 3764008,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 3764009,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 3764010,
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4263058,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 3764011,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 3764012,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 3764013,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006635",
-                        "maktx": "TRIPALI_250G_SE",
-                        "id": 3764014,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 3764015,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 3764016,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 3764017,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 3764018,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 3764019,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 3764020,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 3764021,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11000260",
-                        "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 3764022,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 3764023,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 3764024,
+                        "id": 4263059,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11006617",
                         "maktx": "TRIPALI_250G_SK",
-                        "id": 3764025,
+                        "id": 4263060,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4263061,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4263062,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4263063,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4263064,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4263065,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4263066,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4263067,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4263068,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4263069,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4263070,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4263071,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11000260",
+                        "maktx": "SYNOPSIS_1KG_FR",
+                        "id": 4263072,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006620",
+                        "maktx": "GRANSTAR TRIO_250G_IT",
+                        "id": 4263073,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11013815",
                         "maktx": "CELEXIUM_200G_RO",
-                        "id": 3764026,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11013091",
-                        "maktx": "TRIPALI_250G_CZ",
-                        "id": 3764027,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 3764028,
+                        "id": 4263074,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11002801",
                         "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 3764029,
+                        "id": 4263075,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4263076,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4263077,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4263078,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4263079,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4263080,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4263081,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4263082,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4263083,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4263084,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4263085,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 4263086,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4263087,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11013091",
+                        "maktx": "TRIPALI_250G_CZ",
+                        "id": 4263088,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4263089,
                         "reportDataId": 26884
                     }
                 ],
@@ -105069,99 +105081,105 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11004352",
-                        "maktx": "DINIRO_2.4KG_BE",
-                        "id": 2746115,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "12000844",
-                        "maktx": "NIS 100-DIC 400 - PSR 40WG_2.4KG_SLB_PA",
-                        "id": 2746116,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "11008934",
-                        "maktx": "DINIRO 44010WG_1KG_GR",
-                        "id": 2746117,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "11004364",
-                        "maktx": "DINIRO_1KG_RO",
-                        "id": 2746118,
-                        "reportDataId": 27149
-                    },
-                    {
                         "matnr": "11014472",
                         "maktx": "DINIRO_1KG_FR",
-                        "id": 2746119,
+                        "id": 4263188,
                         "reportDataId": 27149
                     },
                     {
-                        "matnr": "11004373",
-                        "maktx": "DINIRO_2.4KG_DE",
-                        "id": 2746120,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "21005080",
-                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT",
-                        "id": 2746121,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "11005483",
-                        "maktx": "DINIRO_1KG_IT",
-                        "id": 2746122,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "12000903",
-                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT_ATUL",
-                        "id": 2746123,
-                        "reportDataId": 27149
-                    },
-                    {
-                        "matnr": "11003609",
-                        "maktx": "DINIRO_2.4KG_ES",
-                        "id": 2746124,
+                        "matnr": "11004352",
+                        "maktx": "DINIRO_2.4KG_BE",
+                        "id": 4263189,
                         "reportDataId": 27149
                     },
                     {
                         "matnr": "11005161",
                         "maktx": "DINIRO_2.4KG_AT",
-                        "id": 2746125,
+                        "id": 4263190,
                         "reportDataId": 27149
                     },
                     {
-                        "matnr": "11003608",
-                        "maktx": "DINIRO_2.4KG_HU",
-                        "id": 2746126,
+                        "matnr": "11008934",
+                        "maktx": "DINIRO 44010WG_1KG_GR",
+                        "id": 4263191,
                         "reportDataId": 27149
                     },
                     {
-                        "matnr": "11014473",
-                        "maktx": "DINIRO_2.4KG_FR",
-                        "id": 2746127,
+                        "matnr": "21005080",
+                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT",
+                        "id": 4263192,
                         "reportDataId": 27149
                     },
                     {
-                        "matnr": "12001651",
-                        "maktx": "NIS100 - DIC400 - PSR40WG_500KG_SLB_SYT",
-                        "id": 2746128,
+                        "matnr": "11004373",
+                        "maktx": "DINIRO_2.4KG_DE",
+                        "id": 4263193,
                         "reportDataId": 27149
                     },
                     {
-                        "matnr": "11004353",
-                        "maktx": "DINIRO_2.4KG_GB",
-                        "id": 2746129,
+                        "matnr": "12000844",
+                        "maktx": "NIS 100-DIC 400 - PSR 40WG_2.4KG_SLB_PA",
+                        "id": 4263194,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11004364",
+                        "maktx": "DINIRO_1KG_RO",
+                        "id": 4263195,
                         "reportDataId": 27149
                     },
                     {
                         "matnr": "11013471",
                         "maktx": "DINIRO_1KG_MD",
-                        "id": 2746130,
+                        "id": 4263196,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "12001651",
+                        "maktx": "NIS100 - DIC400 - PSR40WG_500KG_SLB_SYT",
+                        "id": 4263197,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11004353",
+                        "maktx": "DINIRO_2.4KG_GB",
+                        "id": 4263198,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11003609",
+                        "maktx": "DINIRO_2.4KG_ES",
+                        "id": 4263199,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11014473",
+                        "maktx": "DINIRO_2.4KG_FR",
+                        "id": 4263200,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11003608",
+                        "maktx": "DINIRO_2.4KG_HU",
+                        "id": 4263201,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11005483",
+                        "maktx": "DINIRO_1KG_IT",
+                        "id": 4263202,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "12000903",
+                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT_ATUL",
+                        "id": 4263203,
+                        "reportDataId": 27149
+                    },
+                    {
+                        "matnr": "11017021",
+                        "maktx": "DINIRO_1KG_CZ SK",
+                        "id": 4263204,
                         "reportDataId": 27149
                     }
                 ],
@@ -117879,574 +117897,574 @@
                 "productname": "ALTACOR\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "",
+                "tradename": "SOLECOR\u00ae",
                 "casnumber": "",
                 "commercialnames": "RYX 35 WG (PASTE EXTRUDED)",
                 "cmr": "",
-                "publishdate": "04/29/2025",
+                "publishdate": "12/11/2025",
                 "iupac": "",
                 "incode": "E2Y45",
-                "ehsversionno": "4.0",
+                "ehsversionno": "4.2",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "Q-1131",
                 "legacysdsid": "130000026706",
-                "revisiondate": "04/29/2025",
+                "revisiondate": "12/11/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016946",
-                        "maktx": "VALACOR_300G_ES_BASF",
-                        "id": 4128490,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006180",
-                        "maktx": "ALTACOR 35WG_50G_GR CY",
-                        "id": 4128491,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006559",
-                        "maktx": "ALTACOR_500G_BE",
-                        "id": 4128492,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014815",
-                        "maktx": "CERTACOR_8.5G_PH",
-                        "id": 4128493,
+                        "matnr": "11016951",
+                        "maktx": "VALACOR_100G_GR",
+                        "id": 4263349,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "12006720",
                         "maktx": "RYX 350WG_STIS_JI",
-                        "id": 4128494,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006087",
-                        "maktx": "ALTACOR 35WG_300G_GR",
-                        "id": 4128495,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005404",
-                        "maktx": "VALACOR 35WG_50G_ID",
-                        "id": 4128496,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016155",
-                        "maktx": "ALTACOR_50G_AZ",
-                        "id": 4128497,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016580",
-                        "maktx": "VALACOR_300G_IT_CORTEVA",
-                        "id": 4128498,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005987",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 4128499,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015666",
-                        "maktx": "TURAZI_2LB 8OZ_US",
-                        "id": 4128500,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005894",
-                        "maktx": "ALTACOR_500G_ZA",
-                        "id": 4128501,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007712",
-                        "maktx": "ALTACOR_5KG_BR",
-                        "id": 4128502,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014229",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 4128503,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006503",
-                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
-                        "id": 4128504,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11003271",
-                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
-                        "id": 4128505,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015859",
-                        "maktx": "SOLECOR_5KG_BR",
-                        "id": 4128506,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007194",
-                        "maktx": "ALTACOR 35WG_100G_CN_KANGDAN",
-                        "id": 4128507,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12002274",
-                        "maktx": "ALTACOR PX_50KG_US",
-                        "id": 4128508,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006181",
-                        "maktx": "ALTACOR 35WG_50G_CY",
-                        "id": 4128509,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005957",
-                        "maktx": "ALTACOR_454G_CA",
-                        "id": 4128510,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014103",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 4128511,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016238",
-                        "maktx": "SELIXIA_50G_TH",
-                        "id": 4128512,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12001643",
-                        "maktx": "RYX 350WG_25KG",
-                        "id": 4128513,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007484",
-                        "maktx": "ALTACOR 35WG_100G_CN",
-                        "id": 4128514,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015418",
-                        "maktx": "ALTACOR_100G_TW",
-                        "id": 4128515,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006542",
-                        "maktx": "ALTACOR 35WG_50G_TR",
-                        "id": 4128516,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006226",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
-                        "id": 4128517,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016571",
-                        "maktx": "VALACOR_100G_IT_CORTEVA",
-                        "id": 4128518,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014462",
-                        "maktx": "ALTACOR EVO_45OZ_US",
-                        "id": 4128519,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016952",
-                        "maktx": "ALTACOR 35WG_2G_GR",
-                        "id": 4128520,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014471",
-                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
-                        "id": 4128521,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006315",
-                        "maktx": "ALTACOR_500G_NL",
-                        "id": 4128522,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015862",
-                        "maktx": "ALTACOR_85G_DZ_CASAP",
-                        "id": 4128523,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016951",
-                        "maktx": "VALACOR_100G_GR",
-                        "id": 4128524,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016138",
-                        "maktx": "ALTACOR_100G_CN",
-                        "id": 4128525,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000553",
-                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
-                        "id": 4128526,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006193",
-                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
-                        "id": 4128527,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006304",
-                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
-                        "id": 4128528,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12005370",
-                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
-                        "id": 4128529,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015705",
-                        "maktx": "ALTACOR 35WG_50G_BG",
-                        "id": 4128530,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016695",
-                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
-                        "id": 4128531,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006491",
-                        "maktx": "ALTACOR 35WG_500G_ES",
-                        "id": 4128532,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007575",
-                        "maktx": "ALTACOR 35WG_50KG_CN",
-                        "id": 4128533,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006251",
-                        "maktx": " RYX 350WG_SARA_UPL",
-                        "id": 4128534,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014104",
-                        "maktx": "CORPRIMA_17G_IN",
-                        "id": 4128535,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000052",
-                        "maktx": "ALTACOR_16OZ_US",
-                        "id": 4128536,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015096",
-                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
-                        "id": 4128537,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11009517",
-                        "maktx": "ALTACOR 35WG_750G_AR",
-                        "id": 4128538,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015480",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 4128539,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014919",
-                        "maktx": "ALTACOR 35WG_300G_BG",
-                        "id": 4128540,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007704",
-                        "maktx": "ALTACOR_450G_BR",
-                        "id": 4128541,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016120",
-                        "maktx": "ALTACOR_30G_CN",
-                        "id": 4128542,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006071",
-                        "maktx": "ALTACOR_300G_IT",
-                        "id": 4128543,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000271",
-                        "maktx": "ALTACOR_500G_UZ",
-                        "id": 4128544,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12001292",
-                        "maktx": "ALTACOR_50KG_AR",
-                        "id": 4128545,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016316",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 4128546,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12000623",
-                        "maktx": "PREVATHON 35WG_50KG_VN",
-                        "id": 4128547,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006083",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 4128548,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015273",
-                        "maktx": "DAUNTLESS_2LB 8OZ_US",
-                        "id": 4128549,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006341",
-                        "maktx": "ALTACOR 35WG_50G_TH",
-                        "id": 4128550,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007469",
-                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
-                        "id": 4128551,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005797",
-                        "maktx": "ALTACOR_300G_FR",
-                        "id": 4128552,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005986",
-                        "maktx": "ALTACOR 35WG_180G_AU",
-                        "id": 4128553,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005906",
-                        "maktx": "ALTACOR_40OZ_US",
-                        "id": 4128554,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006324",
-                        "maktx": "ALTACOR 35WG_20G_TW",
-                        "id": 4128555,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015933",
-                        "maktx": "ALTACOR_2G_IT",
-                        "id": 4128556,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006543",
-                        "maktx": "ALTACOR 35WG_100G_ES",
-                        "id": 4128557,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016237",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
-                        "id": 4128558,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11013758",
-                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
-                        "id": 4128559,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007483",
-                        "maktx": "ALTACOR 35WG_30G_CN",
-                        "id": 4128560,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015615",
-                        "maktx": "ALTACOR_50KG_IL",
-                        "id": 4128561,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11009448",
-                        "maktx": "ALTACOR_50G_UZ",
-                        "id": 4128562,
+                        "id": 4263350,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11016327",
                         "maktx": "CORPRIMA_17G_IN",
-                        "id": 4128563,
+                        "id": 4263351,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11016913",
-                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
-                        "id": 4128564,
+                        "matnr": "11005906",
+                        "maktx": "ALTACOR_40OZ_US",
+                        "id": 4263352,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11006182",
-                        "maktx": "ALTACOR_100G_PT_BAYER",
-                        "id": 4128565,
+                        "matnr": "12006251",
+                        "maktx": " RYX 350WG_SARA_UPL",
+                        "id": 4263353,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11016310",
-                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
-                        "id": 4128566,
+                        "matnr": "11000052",
+                        "maktx": "ALTACOR_16OZ_US",
+                        "id": 4263354,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11016329",
                         "maktx": "ALTACOR 35WG_50G_RS_AGROMARKET",
-                        "id": 4128567,
+                        "id": 4263355,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11005449",
-                        "maktx": "VALACOR 35WG_100G_ID",
-                        "id": 4128568,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015537",
-                        "maktx": "ALTACOR 35WG_2G_ES",
-                        "id": 4128569,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006134",
-                        "maktx": "ALTACOR COTTON_5KG_AU",
-                        "id": 4128570,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006183",
-                        "maktx": "ALTACOR_100G_IT",
-                        "id": 4128571,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007374",
-                        "maktx": "ALTACOR 35WG_3G_CN",
-                        "id": 4128572,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006270",
-                        "maktx": "ALTACOR 35WG_300G_ES",
-                        "id": 4128573,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007511",
-                        "maktx": "PREVATHON 35WG_3.5G_VN_SCH",
-                        "id": 4128574,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006504",
-                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
-                        "id": 4128575,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006501",
-                        "maktx": "RYX 350WG_300G_GOWA_MO",
-                        "id": 4128576,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014400",
-                        "maktx": "ALTACOR 35WG_100G_TR",
-                        "id": 4128577,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007590",
-                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
-                        "id": 4128578,
+                        "matnr": "11014919",
+                        "maktx": "ALTACOR 35WG_300G_BG",
+                        "id": 4263356,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11007142",
                         "maktx": "ALTACOR 35WG CTN 4X25X30G BTL KANGDAN CN",
-                        "id": 4128579,
+                        "id": 4263357,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015859",
+                        "maktx": "SOLECOR_5KG_BR",
+                        "id": 4263358,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12002274",
+                        "maktx": "ALTACOR PX_50KG_US",
+                        "id": 4263359,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014104",
+                        "maktx": "CORPRIMA_17G_IN",
+                        "id": 4263360,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005404",
+                        "maktx": "VALACOR 35WG_50G_ID",
+                        "id": 4263361,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007469",
+                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
+                        "id": 4263362,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014471",
+                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
+                        "id": 4263363,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12001643",
+                        "maktx": "RYX 350WG_25KG",
+                        "id": 4263364,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015615",
+                        "maktx": "ALTACOR_50KG_IL",
+                        "id": 4263365,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014103",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 4263366,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006304",
+                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
+                        "id": 4263367,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006083",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 4263368,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006504",
+                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
+                        "id": 4263369,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006180",
+                        "maktx": "ALTACOR 35WG_50G_GR CY",
+                        "id": 4263370,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016695",
+                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
+                        "id": 4263371,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007194",
+                        "maktx": "ALTACOR 35WG_100G_CN_KANGDAN",
+                        "id": 4263372,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005894",
+                        "maktx": "ALTACOR_500G_ZA",
+                        "id": 4263373,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12006501",
+                        "maktx": "RYX 350WG_300G_GOWA_MO",
+                        "id": 4263374,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006491",
+                        "maktx": "ALTACOR 35WG_500G_ES",
+                        "id": 4263375,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015537",
+                        "maktx": "ALTACOR 35WG_2G_ES",
+                        "id": 4263376,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12000623",
+                        "maktx": "PREVATHON 35WG_50KG_VN",
+                        "id": 4263377,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015862",
+                        "maktx": "ALTACOR_85G_DZ_CASAP",
+                        "id": 4263378,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11013758",
+                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
+                        "id": 4263379,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016580",
+                        "maktx": "VALACOR_300G_IT_CORTEVA",
+                        "id": 4263380,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12005370",
+                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
+                        "id": 4263381,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016952",
+                        "maktx": "ALTACOR 35WG_2G_GR",
+                        "id": 4263382,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11000553",
+                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
+                        "id": 4263383,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015418",
+                        "maktx": "ALTACOR_100G_TW",
+                        "id": 4263384,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006182",
+                        "maktx": "ALTACOR_100G_PT_BAYER",
+                        "id": 4263385,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006226",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
+                        "id": 4263386,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016946",
+                        "maktx": "VALACOR_300G_ES_BASF",
+                        "id": 4263387,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006134",
+                        "maktx": "ALTACOR COTTON_5KG_AU",
+                        "id": 4263388,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005986",
+                        "maktx": "ALTACOR 35WG_180G_AU",
+                        "id": 4263389,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11003271",
+                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
+                        "id": 4263390,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016913",
+                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
+                        "id": 4263391,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006315",
+                        "maktx": "ALTACOR_500G_NL",
+                        "id": 4263392,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007483",
+                        "maktx": "ALTACOR 35WG_30G_CN",
+                        "id": 4263393,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007575",
+                        "maktx": "ALTACOR 35WG_50KG_CN",
+                        "id": 4263394,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016571",
+                        "maktx": "VALACOR_100G_IT_CORTEVA",
+                        "id": 4263395,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015933",
+                        "maktx": "ALTACOR_2G_IT",
+                        "id": 4263396,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015096",
+                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
+                        "id": 4263397,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016316",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 4263398,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016138",
+                        "maktx": "ALTACOR_100G_CN",
+                        "id": 4263399,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005987",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 4263400,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016237",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
+                        "id": 4263401,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007374",
+                        "maktx": "ALTACOR 35WG_3G_CN",
+                        "id": 4263402,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005449",
+                        "maktx": "VALACOR 35WG_100G_ID",
+                        "id": 4263403,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12001292",
+                        "maktx": "ALTACOR_50KG_AR",
+                        "id": 4263404,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 4263405,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006324",
+                        "maktx": "ALTACOR 35WG_20G_TW",
+                        "id": 4263406,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007712",
+                        "maktx": "ALTACOR_5KG_BR",
+                        "id": 4263407,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006181",
+                        "maktx": "ALTACOR 35WG_50G_CY",
+                        "id": 4263408,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12006193",
+                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
+                        "id": 4263409,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006559",
+                        "maktx": "ALTACOR_500G_BE",
+                        "id": 4263410,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007484",
+                        "maktx": "ALTACOR 35WG_100G_CN",
+                        "id": 4263411,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006503",
+                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
+                        "id": 4263412,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016238",
+                        "maktx": "SELIXIA_50G_TH",
+                        "id": 4263413,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015273",
+                        "maktx": "DAUNTLESS_2LB 8OZ_US",
+                        "id": 4263414,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11009448",
+                        "maktx": "ALTACOR_50G_UZ",
+                        "id": 4263415,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007590",
+                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
+                        "id": 4263416,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006183",
+                        "maktx": "ALTACOR_100G_IT",
+                        "id": 4263417,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014229",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 4263418,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005957",
+                        "maktx": "ALTACOR_454G_CA",
+                        "id": 4263419,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006543",
+                        "maktx": "ALTACOR 35WG_100G_ES",
+                        "id": 4263420,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014400",
+                        "maktx": "ALTACOR 35WG_100G_TR",
+                        "id": 4263421,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016155",
+                        "maktx": "ALTACOR_50G_AZ",
+                        "id": 4263422,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007704",
+                        "maktx": "ALTACOR_450G_BR",
+                        "id": 4263423,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015705",
+                        "maktx": "ALTACOR 35WG_50G_BG",
+                        "id": 4263424,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015666",
+                        "maktx": "TURAZI_2LB 8OZ_US",
+                        "id": 4263425,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005797",
+                        "maktx": "ALTACOR_300G_FR",
+                        "id": 4263426,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007511",
+                        "maktx": "PREVATHON 35WG_3.5G_VN_SCH",
+                        "id": 4263427,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006087",
+                        "maktx": "ALTACOR 35WG_300G_GR",
+                        "id": 4263428,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11016328",
                         "maktx": "CORPRIMA_34G_IN",
-                        "id": 4128580,
+                        "id": 4263429,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006341",
+                        "maktx": "ALTACOR 35WG_50G_TH",
+                        "id": 4263430,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014815",
+                        "maktx": "CERTACOR_8.5G_PH",
+                        "id": 4263431,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006542",
+                        "maktx": "ALTACOR 35WG_50G_TR",
+                        "id": 4263432,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11000271",
+                        "maktx": "ALTACOR_500G_UZ",
+                        "id": 4263433,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006071",
+                        "maktx": "ALTACOR_300G_IT",
+                        "id": 4263434,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006270",
+                        "maktx": "ALTACOR 35WG_300G_ES",
+                        "id": 4263435,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016310",
+                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
+                        "id": 4263436,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016120",
+                        "maktx": "ALTACOR_30G_CN",
+                        "id": 4263437,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11017002",
                         "maktx": "DELCOR_300G_ES",
-                        "id": 4128581,
+                        "id": 4263438,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11009517",
+                        "maktx": "ALTACOR 35WG_750G_AR",
+                        "id": 4263439,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015480",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 4263440,
                         "reportDataId": 27233
                     }
                 ],
@@ -130114,99 +130132,105 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12000844",
-                        "maktx": "NIS 100-DIC 400 - PSR 40WG_2.4KG_SLB_PA",
-                        "id": 3085620,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11014473",
-                        "maktx": "DINIRO_2.4KG_FR",
-                        "id": 3085621,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "12001651",
-                        "maktx": "NIS100 - DIC400 - PSR40WG_500KG_SLB_SYT",
-                        "id": 3085622,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11003609",
-                        "maktx": "DINIRO_2.4KG_ES",
-                        "id": 3085623,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "12000903",
-                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT_ATUL",
-                        "id": 3085624,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11003608",
-                        "maktx": "DINIRO_2.4KG_HU",
-                        "id": 3085625,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11004353",
-                        "maktx": "DINIRO_2.4KG_GB",
-                        "id": 3085626,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11013471",
-                        "maktx": "DINIRO_1KG_MD",
-                        "id": 3085627,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11008934",
-                        "maktx": "DINIRO 44010WG_1KG_GR",
-                        "id": 3085628,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11004364",
-                        "maktx": "DINIRO_1KG_RO",
-                        "id": 3085629,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11005483",
-                        "maktx": "DINIRO_1KG_IT",
-                        "id": 3085630,
-                        "reportDataId": 27292
-                    },
-                    {
-                        "matnr": "11004373",
-                        "maktx": "DINIRO_2.4KG_DE",
-                        "id": 3085631,
+                        "matnr": "11014472",
+                        "maktx": "DINIRO_1KG_FR",
+                        "id": 4263205,
                         "reportDataId": 27292
                     },
                     {
                         "matnr": "11004352",
                         "maktx": "DINIRO_2.4KG_BE",
-                        "id": 3085632,
+                        "id": 4263206,
                         "reportDataId": 27292
                     },
                     {
                         "matnr": "11005161",
                         "maktx": "DINIRO_2.4KG_AT",
-                        "id": 3085633,
+                        "id": 4263207,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11008934",
+                        "maktx": "DINIRO 44010WG_1KG_GR",
+                        "id": 4263208,
                         "reportDataId": 27292
                     },
                     {
                         "matnr": "21005080",
                         "maktx": "NIS 100-DIC 400-PSR 40WG_SYT",
-                        "id": 3085634,
+                        "id": 4263209,
                         "reportDataId": 27292
                     },
                     {
-                        "matnr": "11014472",
-                        "maktx": "DINIRO_1KG_FR",
-                        "id": 3085635,
+                        "matnr": "11004373",
+                        "maktx": "DINIRO_2.4KG_DE",
+                        "id": 4263210,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "12000844",
+                        "maktx": "NIS 100-DIC 400 - PSR 40WG_2.4KG_SLB_PA",
+                        "id": 4263211,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11004364",
+                        "maktx": "DINIRO_1KG_RO",
+                        "id": 4263212,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11013471",
+                        "maktx": "DINIRO_1KG_MD",
+                        "id": 4263213,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "12001651",
+                        "maktx": "NIS100 - DIC400 - PSR40WG_500KG_SLB_SYT",
+                        "id": 4263214,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11004353",
+                        "maktx": "DINIRO_2.4KG_GB",
+                        "id": 4263215,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11003609",
+                        "maktx": "DINIRO_2.4KG_ES",
+                        "id": 4263216,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11014473",
+                        "maktx": "DINIRO_2.4KG_FR",
+                        "id": 4263217,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11003608",
+                        "maktx": "DINIRO_2.4KG_HU",
+                        "id": 4263218,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11005483",
+                        "maktx": "DINIRO_1KG_IT",
+                        "id": 4263219,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "12000903",
+                        "maktx": "NIS 100-DIC 400-PSR 40WG_SYT_ATUL",
+                        "id": 4263220,
+                        "reportDataId": 27292
+                    },
+                    {
+                        "matnr": "11017021",
+                        "maktx": "DINIRO_1KG_CZ SK",
+                        "id": 4263221,
                         "reportDataId": 27292
                     }
                 ],
@@ -211395,189 +211419,195 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006620",
-                        "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 3764061,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 3764062,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11016209",
-                        "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 3764063,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 3764064,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 3764065,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 3764066,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 3764067,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 3764068,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 3764069,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 3764070,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 3764071,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 3764072,
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4263122,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 3764073,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 3764074,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 3764075,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006635",
-                        "maktx": "TRIPALI_250G_SE",
-                        "id": 3764076,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 3764077,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 3764078,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 3764079,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 3764080,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 3764081,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 3764082,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 3764083,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11000260",
-                        "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 3764084,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 3764085,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 3764086,
+                        "id": 4263123,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11006617",
                         "maktx": "TRIPALI_250G_SK",
-                        "id": 3764087,
+                        "id": 4263124,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4263125,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4263126,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4263127,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4263128,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4263129,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4263130,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4263131,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4263132,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4263133,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4263134,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4263135,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11000260",
+                        "maktx": "SYNOPSIS_1KG_FR",
+                        "id": 4263136,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006620",
+                        "maktx": "GRANSTAR TRIO_250G_IT",
+                        "id": 4263137,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11013815",
                         "maktx": "CELEXIUM_200G_RO",
-                        "id": 3764088,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11013091",
-                        "maktx": "TRIPALI_250G_CZ",
-                        "id": 3764089,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 3764090,
+                        "id": 4263138,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11002801",
                         "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 3764091,
+                        "id": 4263139,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4263140,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4263141,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4263142,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4263143,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4263144,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4263145,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4263146,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4263147,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4263148,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4263149,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4263150,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 4263151,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013091",
+                        "maktx": "TRIPALI_250G_CZ",
+                        "id": 4263152,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4263153,
                         "reportDataId": 27723
                     }
                 ],
