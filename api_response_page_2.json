@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6144,
+        "totalCount": 6143,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,288 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50002324_EXT_SDS_MA_FR.PDF",
-                "specificationid": "50002324",
-                "path": "\\\\172.18.22.6\\sds_external/50002324_EXT_SDS_MA_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "EXT_SDS_MA",
-                "authorizedportal": "P3",
-                "productname": "F4018-4",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AVODIGEN SC",
-                "casnumber": "",
-                "commercialnames": "BLI (FMCH001) + BSU (FMCH002)  (3.5 + 4) SC (CHILD)",
-                "cmr": "",
-                "publishdate": "11/01/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "MA",
-                "validityareadescription": "Morocco",
-                "legacyspecid": "FO004113",
-                "legacysdsid": "",
-                "revisiondate": "11/01/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014037",
-                        "maktx": "DRACO_9.46L_CA_SYNGENTA",
-                        "id": 2062354,
-                        "reportDataId": 26750
-                    },
-                    {
-                        "matnr": "11013925",
-                        "maktx": "ZIRONAR_2.5GAL_US",
-                        "id": 2062355,
-                        "reportDataId": 26750
-                    }
-                ],
-                "id": 26750
-            },
-            {
-                "pdfname": "50000342_SDS_DK_6N.PDF",
-                "specificationid": "50000342",
-                "path": "\\\\172.18.22.6\\sds_external/50000342_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "DIMETHOATE 400 G/L EC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "DIMETHOATE 400 G/L EC",
-                "casnumber": "",
-                "commercialnames": "DMT 400 g/L EC",
-                "cmr": "",
-                "publishdate": "11/04/2024",
-                "iupac": "",
-                "incode": "Y0681",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO002123",
-                "legacysdsid": "",
-                "revisiondate": "11/04/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11000749",
-                        "maktx": "DIMEXION_5L_BR",
-                        "id": 2062356,
-                        "reportDataId": 26751
-                    },
-                    {
-                        "matnr": "11000320",
-                        "maktx": "DIMEXION 400EC_5L_BR",
-                        "id": 2062357,
-                        "reportDataId": 26751
-                    },
-                    {
-                        "matnr": "11000751",
-                        "maktx": "DIMEXION_1L_BR",
-                        "id": 2062358,
-                        "reportDataId": 26751
-                    },
-                    {
-                        "matnr": "11000750",
-                        "maktx": "DIMEXION_1L_BR",
-                        "id": 2062359,
-                        "reportDataId": 26751
-                    },
-                    {
-                        "matnr": "12006201",
-                        "maktx": "DMT 400EC_1000L_BR_RO_RO",
-                        "id": 2062360,
-                        "reportDataId": 26751
-                    },
-                    {
-                        "matnr": "12000284",
-                        "maktx": "DMT 400EC_TC_BR_RO_RO",
-                        "id": 2062361,
-                        "reportDataId": 26751
-                    }
-                ],
-                "id": 26751
-            },
-            {
-                "pdfname": "50000785_SDS_FR_FR.PDF",
-                "specificationid": "50000785",
-                "path": "\\\\172.18.22.6\\sds_external/50000785_SDS_FR_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "SDS_FR",
-                "authorizedportal": "P3",
-                "productname": "CUADRO\u00ae NT",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "STIFF NT",
-                "casnumber": "",
-                "commercialnames": "TPE 250 g/L EC (v2)",
-                "cmr": "",
-                "publishdate": "12/03/2024",
-                "iupac": "",
-                "incode": "JLY44",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "FR",
-                "validityareadescription": "France",
-                "legacyspecid": "FO004089",
-                "legacysdsid": "",
-                "revisiondate": "12/03/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001341",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3511977,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001522",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3511978,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001614",
-                        "maktx": "FREEZE NT_1L_IE",
-                        "id": 3511979,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11009044",
-                        "maktx": "COUNTDOWN NT_1L_DE",
-                        "id": 3511980,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11005461",
-                        "maktx": "COUNTDOWN NT_1L_AT",
-                        "id": 3511981,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11002981",
-                        "maktx": "CUADRO NT 250EC_5L_PL",
-                        "id": 3511982,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "12000457",
-                        "maktx": "TPE 250EC_1000L_RO_HF",
-                        "id": 3511983,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "12006274",
-                        "maktx": "TPE 250EC_1000L_RO_YN",
-                        "id": 3511984,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11005459",
-                        "maktx": "COUNTDOWN NT_5L_AT",
-                        "id": 3511985,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11002633",
-                        "maktx": "CUADRO NT_5L_FR",
-                        "id": 3511986,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001465",
-                        "maktx": "CUADRO NT_5L_LV_AUGU",
-                        "id": 3511987,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11006000",
-                        "maktx": "FREEZE NT_3L_IE",
-                        "id": 3511988,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001431",
-                        "maktx": "CUADRO NT_5L_DK",
-                        "id": 3511989,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "12000481",
-                        "maktx": "TPE 250EC_TC_RO_YN",
-                        "id": 3511990,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001348",
-                        "maktx": "CUADRO NT_5L_CZ",
-                        "id": 3511991,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001466",
-                        "maktx": "CUADRO NT_5L_LT_AGROK",
-                        "id": 3511992,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001584",
-                        "maktx": "CUADRO NT_5L_SK",
-                        "id": 3511993,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "12000437",
-                        "maktx": "TPE 250EC_TC_DE DK_RO_HF",
-                        "id": 3511994,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001591",
-                        "maktx": "COUNTDOWN NT_5L_DE",
-                        "id": 3511995,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11009302",
-                        "maktx": "CUADRO NT 250EC_1L_PL",
-                        "id": 3511996,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11002403",
-                        "maktx": "CUADRO NT_5L_SE",
-                        "id": 3511997,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001602",
-                        "maktx": "COUNTDOWN NT_5L_MUL",
-                        "id": 3511998,
-                        "reportDataId": 26752
-                    },
-                    {
-                        "matnr": "11001585",
-                        "maktx": "CUADRO NT 250EC_10L_PL",
-                        "id": 3511999,
-                        "reportDataId": 26752
-                    }
-                ],
-                "id": 26752
-            },
             {
                 "pdfname": "50000054_SDS_IN_EN.PDF",
                 "specificationid": "50000054",
@@ -243331,6 +243049,93 @@
                     }
                 ],
                 "id": 27934
+            },
+            {
+                "pdfname": "50000736_SDS_PH_EN.PDF",
+                "specificationid": "50000736",
+                "path": "\\\\172.18.22.6\\sds_external/50000736_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "APACHE\u00ae 10G",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CAD 10 GR (v1)",
+                "cmr": "",
+                "publishdate": "12/15/2025",
+                "iupac": "",
+                "incode": "VNL66",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO003459",
+                "legacysdsid": "",
+                "revisiondate": "12/15/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11003244",
+                        "maktx": "APACHE 10G_15KG_PH",
+                        "id": 4263441,
+                        "reportDataId": 27935
+                    },
+                    {
+                        "matnr": "11008653",
+                        "maktx": "RUGBY 10G_25KG_BD",
+                        "id": 4263442,
+                        "reportDataId": 27935
+                    },
+                    {
+                        "matnr": "11003647",
+                        "maktx": "APACHE 10G_15KG_SG",
+                        "id": 4263443,
+                        "reportDataId": 27935
+                    },
+                    {
+                        "matnr": "12001388",
+                        "maktx": "CAD 100GR_UG_VIAK",
+                        "id": 4263444,
+                        "reportDataId": 27935
+                    }
+                ],
+                "id": 27935
+            },
+            {
+                "pdfname": "50001681_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001681",
+                "path": "\\\\172.18.22.6\\sds_external/50001681_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "GROOVE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "10253 (CHILD)",
+                "cmr": "",
+                "publishdate": "12/15/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.3",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "10253",
+                "legacysdsid": "10253-3-A",
+                "revisiondate": "12/15/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27936
             }
         ],
         "isExportToExcel": false
