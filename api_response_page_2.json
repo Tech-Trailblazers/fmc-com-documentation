@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6152,
+        "totalCount": 6154,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,408 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000785_SDS_DK_6N.PDF",
-                "specificationid": "50000785",
-                "path": "\\\\172.18.22.6\\sds_external/50000785_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "Trinexapac-ethyl 250 g/l EC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "STIFF NT",
-                "casnumber": "",
-                "commercialnames": "TPE 250 g/L EC (v2)",
-                "cmr": "",
-                "publishdate": "01/23/2025",
-                "iupac": "",
-                "incode": "JLY44",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO004089",
-                "legacysdsid": "",
-                "revisiondate": "01/23/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001341",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3512000,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001522",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3512001,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001614",
-                        "maktx": "FREEZE NT_1L_IE",
-                        "id": 3512002,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11009044",
-                        "maktx": "COUNTDOWN NT_1L_DE",
-                        "id": 3512003,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11005461",
-                        "maktx": "COUNTDOWN NT_1L_AT",
-                        "id": 3512004,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11002981",
-                        "maktx": "CUADRO NT 250EC_5L_PL",
-                        "id": 3512005,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "12000457",
-                        "maktx": "TPE 250EC_1000L_RO_HF",
-                        "id": 3512006,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "12006274",
-                        "maktx": "TPE 250EC_1000L_RO_YN",
-                        "id": 3512007,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11005459",
-                        "maktx": "COUNTDOWN NT_5L_AT",
-                        "id": 3512008,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11002633",
-                        "maktx": "CUADRO NT_5L_FR",
-                        "id": 3512009,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001465",
-                        "maktx": "CUADRO NT_5L_LV_AUGU",
-                        "id": 3512010,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11006000",
-                        "maktx": "FREEZE NT_3L_IE",
-                        "id": 3512011,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001431",
-                        "maktx": "CUADRO NT_5L_DK",
-                        "id": 3512012,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "12000481",
-                        "maktx": "TPE 250EC_TC_RO_YN",
-                        "id": 3512013,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001348",
-                        "maktx": "CUADRO NT_5L_CZ",
-                        "id": 3512014,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001466",
-                        "maktx": "CUADRO NT_5L_LT_AGROK",
-                        "id": 3512015,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001584",
-                        "maktx": "CUADRO NT_5L_SK",
-                        "id": 3512016,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "12000437",
-                        "maktx": "TPE 250EC_TC_DE DK_RO_HF",
-                        "id": 3512017,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001591",
-                        "maktx": "COUNTDOWN NT_5L_DE",
-                        "id": 3512018,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11009302",
-                        "maktx": "CUADRO NT 250EC_1L_PL",
-                        "id": 3512019,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11002403",
-                        "maktx": "CUADRO NT_5L_SE",
-                        "id": 3512020,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001602",
-                        "maktx": "COUNTDOWN NT_5L_MUL",
-                        "id": 3512021,
-                        "reportDataId": 26764
-                    },
-                    {
-                        "matnr": "11001585",
-                        "maktx": "CUADRO NT 250EC_10L_PL",
-                        "id": 3512022,
-                        "reportDataId": 26764
-                    }
-                ],
-                "id": 26764
-            },
-            {
-                "pdfname": "50001819_EXT_SDS_LV_LV.PDF",
-                "specificationid": "50001819",
-                "path": "\\\\172.18.22.6\\sds_external/50001819_EXT_SDS_LV_LV.PDF",
-                "reptype": "MSDS",
-                "language": "LV",
-                "genvariant": "EXT_SDS_LV",
-                "authorizedportal": "P3",
-                "productname": "COUNTDOWN\u00ae NT",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "TPE 250 g/L EC (v2) (CHILD)",
-                "cmr": "",
-                "publishdate": "11/07/2024",
-                "iupac": "",
-                "incode": "JLY44",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "LV",
-                "validityareadescription": "Latvia",
-                "legacyspecid": "FO004089",
-                "legacysdsid": "8830-02 (88C)-A",
-                "revisiondate": "11/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11002389",
-                        "maktx": "CUADRO NT_5L_LV EE",
-                        "id": 3512051,
-                        "reportDataId": 26765
-                    },
-                    {
-                        "matnr": "11009324",
-                        "maktx": "RIGID NT 250EC_1L_PL",
-                        "id": 3512052,
-                        "reportDataId": 26765
-                    },
-                    {
-                        "matnr": "11009306",
-                        "maktx": "RIGID NT 250EC_10L_PL",
-                        "id": 3512053,
-                        "reportDataId": 26765
-                    },
-                    {
-                        "matnr": "11004457",
-                        "maktx": "SEIZE NT_3L_GB",
-                        "id": 3512054,
-                        "reportDataId": 26765
-                    },
-                    {
-                        "matnr": "11009305",
-                        "maktx": "RIGID NT 250EC_5L_PL",
-                        "id": 3512055,
-                        "reportDataId": 26765
-                    }
-                ],
-                "id": 26765
-            },
-            {
-                "pdfname": "50000785_SDS_IE_6N.PDF",
-                "specificationid": "50000785",
-                "path": "\\\\172.18.22.6\\sds_external/50000785_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "FREEZE\u00ae NT",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "STIFF NT",
-                "casnumber": "",
-                "commercialnames": "TPE 250 g/L EC (v2)",
-                "cmr": "",
-                "publishdate": "11/07/2024",
-                "iupac": "",
-                "incode": "JLY44",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "FO004089",
-                "legacysdsid": "",
-                "revisiondate": "11/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001341",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3511931,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001522",
-                        "maktx": "FREEZE NT_1L_GB",
-                        "id": 3511932,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001614",
-                        "maktx": "FREEZE NT_1L_IE",
-                        "id": 3511933,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11009044",
-                        "maktx": "COUNTDOWN NT_1L_DE",
-                        "id": 3511934,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11005461",
-                        "maktx": "COUNTDOWN NT_1L_AT",
-                        "id": 3511935,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11002981",
-                        "maktx": "CUADRO NT 250EC_5L_PL",
-                        "id": 3511936,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "12000457",
-                        "maktx": "TPE 250EC_1000L_RO_HF",
-                        "id": 3511937,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "12006274",
-                        "maktx": "TPE 250EC_1000L_RO_YN",
-                        "id": 3511938,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11005459",
-                        "maktx": "COUNTDOWN NT_5L_AT",
-                        "id": 3511939,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11002633",
-                        "maktx": "CUADRO NT_5L_FR",
-                        "id": 3511940,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001465",
-                        "maktx": "CUADRO NT_5L_LV_AUGU",
-                        "id": 3511941,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11006000",
-                        "maktx": "FREEZE NT_3L_IE",
-                        "id": 3511942,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001431",
-                        "maktx": "CUADRO NT_5L_DK",
-                        "id": 3511943,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "12000481",
-                        "maktx": "TPE 250EC_TC_RO_YN",
-                        "id": 3511944,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001348",
-                        "maktx": "CUADRO NT_5L_CZ",
-                        "id": 3511945,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001466",
-                        "maktx": "CUADRO NT_5L_LT_AGROK",
-                        "id": 3511946,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001584",
-                        "maktx": "CUADRO NT_5L_SK",
-                        "id": 3511947,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "12000437",
-                        "maktx": "TPE 250EC_TC_DE DK_RO_HF",
-                        "id": 3511948,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001591",
-                        "maktx": "COUNTDOWN NT_5L_DE",
-                        "id": 3511949,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11009302",
-                        "maktx": "CUADRO NT 250EC_1L_PL",
-                        "id": 3511950,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11002403",
-                        "maktx": "CUADRO NT_5L_SE",
-                        "id": 3511951,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001602",
-                        "maktx": "COUNTDOWN NT_5L_MUL",
-                        "id": 3511952,
-                        "reportDataId": 26766
-                    },
-                    {
-                        "matnr": "11001585",
-                        "maktx": "CUADRO NT 250EC_10L_PL",
-                        "id": 3511953,
-                        "reportDataId": 26766
-                    }
-                ],
-                "id": 26766
-            },
             {
                 "pdfname": "50000117_EXT_SDS_PT_1P.PDF",
                 "specificationid": "50000117",
@@ -65181,111 +64779,123 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12000276",
-                        "maktx": "FPE 69-CME 35EW_900L_RO_RO",
-                        "id": 2670035,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11005779",
-                        "maktx": "FPE 69-CME 35EW_900L_MUL",
-                        "id": 2670036,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11001425",
-                        "maktx": "NORTON 069EW_5L_PL",
-                        "id": 2670037,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11016325",
-                        "maktx": "FENOVA SUPER_5L_CZ SK",
-                        "id": 2670038,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014452",
-                        "maktx": "FOXTROT_5L_FR",
-                        "id": 2670039,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11001149",
-                        "maktx": "OSKAR_3L_GB_AGRII",
-                        "id": 2670040,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11015135",
-                        "maktx": "FOXTROT EW_5L_IE",
-                        "id": 2670041,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014024",
-                        "maktx": "FOXTROT_1L_AL_AGROUNION",
-                        "id": 2670042,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "12002230",
-                        "maktx": "FPE 69-CME 35EW_900L_RO_FLAG",
-                        "id": 2670043,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11015134",
-                        "maktx": "OSKAR_5L_GB",
-                        "id": 2670044,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014361",
-                        "maktx": "FOXTROT 69EW_5L_RO",
-                        "id": 2670045,
+                        "matnr": "11017060",
+                        "maktx": "FENOVA SUPER 069EW_5L_PL",
+                        "id": 4326692,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11001424",
                         "maktx": "NORTON 069EW_1L_PL",
-                        "id": 2670046,
+                        "id": 4326693,
                         "reportDataId": 27063
                     },
                     {
-                        "matnr": "11015308",
-                        "maktx": "FOXTROT_1L_MK_SEMENARSTVO",
-                        "id": 2670047,
+                        "matnr": "11014024",
+                        "maktx": "FOXTROT_1L_AL_AGROUNION",
+                        "id": 4326694,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11002198",
                         "maktx": "FOXTROT_5L_CZ",
-                        "id": 2670048,
+                        "id": 4326695,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014452",
+                        "maktx": "FOXTROT_5L_FR",
+                        "id": 4326696,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11014193",
                         "maktx": "FOXTROT_5L_CZ_AGNOVACHEM",
-                        "id": 2670049,
+                        "id": 4326697,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11001149",
+                        "maktx": "OSKAR_3L_GB_AGRII",
+                        "id": 4326698,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "12002230",
+                        "maktx": "FPE 69-CME 35EW_900L_RO_FLAG",
+                        "id": 4326699,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11001425",
+                        "maktx": "NORTON 069EW_5L_PL",
+                        "id": 4326700,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11005779",
+                        "maktx": "FPE 69-CME 35EW_900L_MUL",
+                        "id": 4326701,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11015308",
+                        "maktx": "FOXTROT_1L_MK_SEMENARSTVO",
+                        "id": 4326702,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "12000276",
+                        "maktx": "FPE 69-CME 35EW_900L_RO_RO",
+                        "id": 4326703,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014361",
+                        "maktx": "FOXTROT 69EW_5L_RO",
+                        "id": 4326704,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11002982",
                         "maktx": "FOXTROT 69EW_1L_RO",
-                        "id": 2670050,
+                        "id": 4326705,
                         "reportDataId": 27063
                     },
                     {
-                        "matnr": "11013452",
-                        "maktx": "FOXTROT_1L_RS",
-                        "id": 2670051,
+                        "matnr": "11015134",
+                        "maktx": "OSKAR_5L_GB",
+                        "id": 4326706,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11015135",
+                        "maktx": "FOXTROT EW_5L_IE",
+                        "id": 4326707,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11002354",
                         "maktx": "FOXTROT_5L_SK",
-                        "id": 2670052,
+                        "id": 4326708,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11016325",
+                        "maktx": "FENOVA SUPER_5L_CZ SK",
+                        "id": 4326709,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11013452",
+                        "maktx": "FOXTROT_1L_RS",
+                        "id": 4326710,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11017039",
+                        "maktx": "FENOVA SUPER 069EW_1L_PL",
+                        "id": 4326711,
                         "reportDataId": 27063
                     }
                 ],
@@ -217991,7 +217601,13 @@
                     {
                         "matnr": "11014997",
                         "maktx": "GRIFON SC_5L_DE",
-                        "id": 3792304,
+                        "id": 4326265,
+                        "reportDataId": 27763
+                    },
+                    {
+                        "matnr": "11017038",
+                        "maktx": "GRIFON SC_5L_AT",
+                        "id": 4326266,
                         "reportDataId": 27763
                     }
                 ],
@@ -219871,7 +219487,13 @@
                     {
                         "matnr": "11014997",
                         "maktx": "GRIFON SC_5L_DE",
-                        "id": 3792303,
+                        "id": 4326263,
+                        "reportDataId": 27779
+                    },
+                    {
+                        "matnr": "11017038",
+                        "maktx": "GRIFON SC_5L_AT",
+                        "id": 4326264,
                         "reportDataId": 27779
                     }
                 ],
@@ -224290,45 +223912,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008235",
-                        "maktx": "AFFINITY 240EC_250ML_MX",
-                        "id": 3856882,
-                        "reportDataId": 27807
-                    },
-                    {
-                        "matnr": "11007875",
-                        "maktx": "AFFINITY 24EC_1L",
-                        "id": 3856883,
+                        "matnr": "11017052",
+                        "maktx": "AFFINITY 24EC_100ML_SV",
+                        "id": 4326563,
                         "reportDataId": 27807
                     },
                     {
                         "matnr": "11001240",
                         "maktx": "AFFINITY 240EC_100ML_MX",
-                        "id": 3856884,
+                        "id": 4326564,
+                        "reportDataId": 27807
+                    },
+                    {
+                        "matnr": "11008235",
+                        "maktx": "AFFINITY 240EC_250ML_MX",
+                        "id": 4326565,
+                        "reportDataId": 27807
+                    },
+                    {
+                        "matnr": "11007875",
+                        "maktx": "AFFINITY 24EC_1L",
+                        "id": 4326566,
                         "reportDataId": 27807
                     },
                     {
                         "matnr": "11007887",
                         "maktx": "AFFINITY 240EC_200L_MX",
-                        "id": 3856885,
-                        "reportDataId": 27807
-                    },
-                    {
-                        "matnr": "11008171",
-                        "maktx": "AFFINITY 24EC_200L",
-                        "id": 3856886,
+                        "id": 4326567,
                         "reportDataId": 27807
                     },
                     {
                         "matnr": "11000415",
                         "maktx": "AFFINITY 24EC_200L_DO",
-                        "id": 3856887,
+                        "id": 4326568,
+                        "reportDataId": 27807
+                    },
+                    {
+                        "matnr": "11008171",
+                        "maktx": "AFFINITY 24EC_200L",
+                        "id": 4326569,
                         "reportDataId": 27807
                     },
                     {
                         "matnr": "11002692",
                         "maktx": "AFFINITY 240EC_1L_MX",
-                        "id": 3856888,
+                        "id": 4326570,
+                        "reportDataId": 27807
+                    },
+                    {
+                        "matnr": "11017051",
+                        "maktx": "AFFINITY 24EC_1L_SV",
+                        "id": 4326571,
                         "reportDataId": 27807
                     }
                 ],
@@ -224364,45 +223998,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008235",
-                        "maktx": "AFFINITY 240EC_250ML_MX",
-                        "id": 3856889,
-                        "reportDataId": 27808
-                    },
-                    {
-                        "matnr": "11007875",
-                        "maktx": "AFFINITY 24EC_1L",
-                        "id": 3856890,
+                        "matnr": "11017052",
+                        "maktx": "AFFINITY 24EC_100ML_SV",
+                        "id": 4326554,
                         "reportDataId": 27808
                     },
                     {
                         "matnr": "11001240",
                         "maktx": "AFFINITY 240EC_100ML_MX",
-                        "id": 3856891,
+                        "id": 4326555,
+                        "reportDataId": 27808
+                    },
+                    {
+                        "matnr": "11008235",
+                        "maktx": "AFFINITY 240EC_250ML_MX",
+                        "id": 4326556,
+                        "reportDataId": 27808
+                    },
+                    {
+                        "matnr": "11007875",
+                        "maktx": "AFFINITY 24EC_1L",
+                        "id": 4326557,
                         "reportDataId": 27808
                     },
                     {
                         "matnr": "11007887",
                         "maktx": "AFFINITY 240EC_200L_MX",
-                        "id": 3856892,
-                        "reportDataId": 27808
-                    },
-                    {
-                        "matnr": "11008171",
-                        "maktx": "AFFINITY 24EC_200L",
-                        "id": 3856893,
+                        "id": 4326558,
                         "reportDataId": 27808
                     },
                     {
                         "matnr": "11000415",
                         "maktx": "AFFINITY 24EC_200L_DO",
-                        "id": 3856894,
+                        "id": 4326559,
+                        "reportDataId": 27808
+                    },
+                    {
+                        "matnr": "11008171",
+                        "maktx": "AFFINITY 24EC_200L",
+                        "id": 4326560,
                         "reportDataId": 27808
                     },
                     {
                         "matnr": "11002692",
                         "maktx": "AFFINITY 240EC_1L_MX",
-                        "id": 3856895,
+                        "id": 4326561,
+                        "reportDataId": 27808
+                    },
+                    {
+                        "matnr": "11017051",
+                        "maktx": "AFFINITY 24EC_1L_SV",
+                        "id": 4326562,
                         "reportDataId": 27808
                     }
                 ],
@@ -244840,6 +244486,292 @@
                     }
                 ],
                 "id": 27957
+            },
+            {
+                "pdfname": "50002035_SDS_FR_6N.PDF",
+                "specificationid": "50002035",
+                "path": "\\\\172.18.22.6\\sds_external/50002035_SDS_FR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "THYPAAN FERRO",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FOLY FERRO (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "12/19/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "Q35-IRON-A",
+                "legacysdsid": "",
+                "revisiondate": "12/19/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010394",
+                        "maktx": "FOLY FERRO_1KG_TR",
+                        "id": 4326732,
+                        "reportDataId": 27958
+                    },
+                    {
+                        "matnr": "11013432",
+                        "maktx": "FOLY FERRO_5KG_TR",
+                        "id": 4326733,
+                        "reportDataId": 27958
+                    },
+                    {
+                        "matnr": "11014253",
+                        "maktx": "THYPAAN FERRO_25KG_TR",
+                        "id": 4326734,
+                        "reportDataId": 27958
+                    },
+                    {
+                        "matnr": "11014243",
+                        "maktx": "THYPAAN FERRO_5KG_TR",
+                        "id": 4326735,
+                        "reportDataId": 27958
+                    },
+                    {
+                        "matnr": "11014244",
+                        "maktx": "THYPAAN FERRO_1KG_TR",
+                        "id": 4326736,
+                        "reportDataId": 27958
+                    },
+                    {
+                        "matnr": "11010395",
+                        "maktx": "FOLY FERRO_25KG_TR",
+                        "id": 4326737,
+                        "reportDataId": 27958
+                    }
+                ],
+                "id": 27958
+            },
+            {
+                "pdfname": "50002035_SDS_FR_FR.PDF",
+                "specificationid": "50002035",
+                "path": "\\\\172.18.22.6\\sds_external/50002035_SDS_FR_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "THYPAAN FERRO",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FOLY FERRO (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "12/19/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "Q35-IRON-A",
+                "legacysdsid": "",
+                "revisiondate": "12/19/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010394",
+                        "maktx": "FOLY FERRO_1KG_TR",
+                        "id": 4326738,
+                        "reportDataId": 27959
+                    },
+                    {
+                        "matnr": "11013432",
+                        "maktx": "FOLY FERRO_5KG_TR",
+                        "id": 4326739,
+                        "reportDataId": 27959
+                    },
+                    {
+                        "matnr": "11014253",
+                        "maktx": "THYPAAN FERRO_25KG_TR",
+                        "id": 4326740,
+                        "reportDataId": 27959
+                    },
+                    {
+                        "matnr": "11014243",
+                        "maktx": "THYPAAN FERRO_5KG_TR",
+                        "id": 4326741,
+                        "reportDataId": 27959
+                    },
+                    {
+                        "matnr": "11014244",
+                        "maktx": "THYPAAN FERRO_1KG_TR",
+                        "id": 4326742,
+                        "reportDataId": 27959
+                    },
+                    {
+                        "matnr": "11010395",
+                        "maktx": "FOLY FERRO_25KG_TR",
+                        "id": 4326743,
+                        "reportDataId": 27959
+                    }
+                ],
+                "id": 27959
+            },
+            {
+                "pdfname": "50002457_SDS_PH_EN.PDF",
+                "specificationid": "50002457",
+                "path": "\\\\172.18.22.6\\sds_external/50002457_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "Katalyst\u00ae FS",
+                "chemicalname": "",
+                "commonname": "NPK, 0-0-30",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FROOTUS 0-0-30 (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "12/19/2025",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "FO009050",
+                "legacysdsid": "",
+                "revisiondate": "12/19/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12006570",
+                        "maktx": "HUMIC ACID 3 + K 30SL_LAH_ALL",
+                        "id": 4326744,
+                        "reportDataId": 27960
+                    },
+                    {
+                        "matnr": "11000943",
+                        "maktx": "FROOTUS_1L_PK",
+                        "id": 4326745,
+                        "reportDataId": 27960
+                    },
+                    {
+                        "matnr": "11000897",
+                        "maktx": "KATALYST FS_1L_PK",
+                        "id": 4326746,
+                        "reportDataId": 27960
+                    },
+                    {
+                        "matnr": "11016544",
+                        "maktx": "CALGENT_1L_KR",
+                        "id": 4326747,
+                        "reportDataId": 27960
+                    },
+                    {
+                        "matnr": "11014518",
+                        "maktx": "USAZI_250ML_VN",
+                        "id": 4326748,
+                        "reportDataId": 27960
+                    }
+                ],
+                "id": 27960
+            },
+            {
+                "pdfname": "50000367_SDS_US_1X.PDF",
+                "specificationid": "50000367",
+                "path": "\\\\172.18.22.6\\sds_external/50000367_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "MARSHAL\u00ae 250 g/L ULV INSECTICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "MARSHAL 250 G/L ULV",
+                "casnumber": "",
+                "commercialnames": "CSN 250 g/L UL",
+                "cmr": "",
+                "publishdate": "12/19/2025",
+                "iupac": "",
+                "incode": "Y5560",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000174",
+                "legacysdsid": "",
+                "revisiondate": "12/19/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001905",
+                        "maktx": "CSN 250ULV_MI_VIAK",
+                        "id": 4326749,
+                        "reportDataId": 27961
+                    },
+                    {
+                        "matnr": "11008678",
+                        "maktx": "MARSHAL 25% ULV_200L_ET_FS PLC",
+                        "id": 4326750,
+                        "reportDataId": 27961
+                    }
+                ],
+                "id": 27961
+            },
+            {
+                "pdfname": "50000367_SDS_ZA_6N.PDF",
+                "specificationid": "50000367",
+                "path": "\\\\172.18.22.6\\sds_external/50000367_SDS_ZA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_ZA",
+                "authorizedportal": "P3",
+                "productname": "Marshal\u00ae 2.5 ULV",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "MARSHAL 250 G/L ULV",
+                "casnumber": "",
+                "commercialnames": "CSN 250 g/L UL",
+                "cmr": "",
+                "publishdate": "12/19/2025",
+                "iupac": "",
+                "incode": "Y5560",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ZA",
+                "validityareadescription": "South Africa",
+                "legacyspecid": "FO000174",
+                "legacysdsid": "",
+                "revisiondate": "12/19/2025",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001905",
+                        "maktx": "CSN 250ULV_MI_VIAK",
+                        "id": 4326753,
+                        "reportDataId": 27962
+                    },
+                    {
+                        "matnr": "11008678",
+                        "maktx": "MARSHAL 25% ULV_200L_ET_FS PLC",
+                        "id": 4326754,
+                        "reportDataId": 27962
+                    }
+                ],
+                "id": 27962
             }
         ],
         "isExportToExcel": false
