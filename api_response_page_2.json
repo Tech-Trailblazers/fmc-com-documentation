@@ -231194,114 +231194,114 @@
                 "casnumber": "",
                 "commercialnames": "NP-0053",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "12/22/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0053",
                 "legacysdsid": "NP-0053",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "12/22/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008887",
-                        "maktx": "ZINC 700EC_1L_EC",
-                        "id": 4122592,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002615",
-                        "maktx": "ZINC 700_10L_AR",
-                        "id": 4122593,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11003302",
-                        "maktx": "ZINC 700_5L_HU",
-                        "id": 4122594,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11007726",
-                        "maktx": "ZINC 700_250ML_EC",
-                        "id": 4122595,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002169",
-                        "maktx": "ZINC 700_1000L_HU_CHEM MAGY",
-                        "id": 4122596,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11001771",
-                        "maktx": "VC ZINC 69_5L_GB IE",
-                        "id": 4122597,
-                        "reportDataId": 27872
-                    },
-                    {
                         "matnr": "11002074",
                         "maktx": "CINKAS 700_5L_LT LV_AGROPLUS",
-                        "id": 4122598,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002432",
-                        "maktx": "ZINC 700_1000L_EC",
-                        "id": 4122599,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002599",
-                        "maktx": "FOLY ZN_1L_TR",
-                        "id": 4122600,
+                        "id": 4326773,
                         "reportDataId": 27872
                     },
                     {
                         "matnr": "11001862",
                         "maktx": "ZINC 700_5L_TZ KE_TRI-HYG",
-                        "id": 4122601,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002990",
-                        "maktx": "ZINC 700_1000L_CR_AGROCENTER",
-                        "id": 4122602,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002526",
-                        "maktx": "ZINC 700_10L_BO",
-                        "id": 4122603,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11014249",
-                        "maktx": "THYPAAN ZN_1L_TR",
-                        "id": 4122604,
-                        "reportDataId": 27872
-                    },
-                    {
-                        "matnr": "11002391",
-                        "maktx": "PHYTOGREEN-ZINK40_1000L_DE_PHYTOSOL",
-                        "id": 4122605,
+                        "id": 4326774,
                         "reportDataId": 27872
                     },
                     {
                         "matnr": "11008900",
                         "maktx": "ZINC 700_500ML_EC",
-                        "id": 4122606,
+                        "id": 4326775,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11008887",
+                        "maktx": "ZINC 700EC_1L_EC",
+                        "id": 4326776,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11007726",
+                        "maktx": "ZINC 700_250ML_EC",
+                        "id": 4326777,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002615",
+                        "maktx": "ZINC 700_10L_AR",
+                        "id": 4326778,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002169",
+                        "maktx": "ZINC 700_1000L_HU_CHEM MAGY",
+                        "id": 4326779,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002526",
+                        "maktx": "ZINC 700_10L_BO",
+                        "id": 4326780,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11003302",
+                        "maktx": "ZINC 700_5L_HU",
+                        "id": 4326781,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11001771",
+                        "maktx": "VC ZINC 69_5L_GB IE",
+                        "id": 4326782,
                         "reportDataId": 27872
                     },
                     {
                         "matnr": "12006152",
                         "maktx": "ZN 70SC_600L_DE_FL_ALL",
-                        "id": 4122607,
+                        "id": 4326783,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11014249",
+                        "maktx": "THYPAAN ZN_1L_TR",
+                        "id": 4326784,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002432",
+                        "maktx": "ZINC 700_1000L_EC",
+                        "id": 4326785,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002599",
+                        "maktx": "FOLY ZN_1L_TR",
+                        "id": 4326786,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002391",
+                        "maktx": "PHYTOGREEN-ZINK40_1000L_DE_PHYTOSOL",
+                        "id": 4326787,
+                        "reportDataId": 27872
+                    },
+                    {
+                        "matnr": "11002990",
+                        "maktx": "ZINC 700_1000L_CR_AGROCENTER",
+                        "id": 4326788,
                         "reportDataId": 27872
                     }
                 ],
@@ -231322,114 +231322,114 @@
                 "casnumber": "",
                 "commercialnames": "NP-0053",
                 "cmr": "",
-                "publishdate": "11/26/2025",
+                "publishdate": "12/22/2025",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "UZ",
                 "validityareadescription": "Uzbekistan",
                 "legacyspecid": "NP-0053",
                 "legacysdsid": "NP-0053",
-                "revisiondate": "11/26/2025",
+                "revisiondate": "12/22/2025",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008887",
-                        "maktx": "ZINC 700EC_1L_EC",
-                        "id": 4122608,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002615",
-                        "maktx": "ZINC 700_10L_AR",
-                        "id": 4122609,
-                        "reportDataId": 27873
-                    },
-                    {
                         "matnr": "11003302",
                         "maktx": "ZINC 700_5L_HU",
-                        "id": 4122610,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11007726",
-                        "maktx": "ZINC 700_250ML_EC",
-                        "id": 4122611,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002169",
-                        "maktx": "ZINC 700_1000L_HU_CHEM MAGY",
-                        "id": 4122612,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11001771",
-                        "maktx": "VC ZINC 69_5L_GB IE",
-                        "id": 4122613,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002074",
-                        "maktx": "CINKAS 700_5L_LT LV_AGROPLUS",
-                        "id": 4122614,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002432",
-                        "maktx": "ZINC 700_1000L_EC",
-                        "id": 4122615,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002599",
-                        "maktx": "FOLY ZN_1L_TR",
-                        "id": 4122616,
+                        "id": 4326757,
                         "reportDataId": 27873
                     },
                     {
                         "matnr": "11001862",
                         "maktx": "ZINC 700_5L_TZ KE_TRI-HYG",
-                        "id": 4122617,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002990",
-                        "maktx": "ZINC 700_1000L_CR_AGROCENTER",
-                        "id": 4122618,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002526",
-                        "maktx": "ZINC 700_10L_BO",
-                        "id": 4122619,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11014249",
-                        "maktx": "THYPAAN ZN_1L_TR",
-                        "id": 4122620,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "11002391",
-                        "maktx": "PHYTOGREEN-ZINK40_1000L_DE_PHYTOSOL",
-                        "id": 4122621,
-                        "reportDataId": 27873
-                    },
-                    {
-                        "matnr": "12006152",
-                        "maktx": "ZN 70SC_600L_DE_FL_ALL",
-                        "id": 4122622,
+                        "id": 4326758,
                         "reportDataId": 27873
                     },
                     {
                         "matnr": "11008900",
                         "maktx": "ZINC 700_500ML_EC",
-                        "id": 4122623,
+                        "id": 4326759,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11008887",
+                        "maktx": "ZINC 700EC_1L_EC",
+                        "id": 4326760,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002615",
+                        "maktx": "ZINC 700_10L_AR",
+                        "id": 4326761,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11007726",
+                        "maktx": "ZINC 700_250ML_EC",
+                        "id": 4326762,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002169",
+                        "maktx": "ZINC 700_1000L_HU_CHEM MAGY",
+                        "id": 4326763,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002526",
+                        "maktx": "ZINC 700_10L_BO",
+                        "id": 4326764,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002074",
+                        "maktx": "CINKAS 700_5L_LT LV_AGROPLUS",
+                        "id": 4326765,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11001771",
+                        "maktx": "VC ZINC 69_5L_GB IE",
+                        "id": 4326766,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "12006152",
+                        "maktx": "ZN 70SC_600L_DE_FL_ALL",
+                        "id": 4326767,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11014249",
+                        "maktx": "THYPAAN ZN_1L_TR",
+                        "id": 4326768,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002432",
+                        "maktx": "ZINC 700_1000L_EC",
+                        "id": 4326769,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002599",
+                        "maktx": "FOLY ZN_1L_TR",
+                        "id": 4326770,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002990",
+                        "maktx": "ZINC 700_1000L_CR_AGROCENTER",
+                        "id": 4326771,
+                        "reportDataId": 27873
+                    },
+                    {
+                        "matnr": "11002391",
+                        "maktx": "PHYTOGREEN-ZINK40_1000L_DE_PHYTOSOL",
+                        "id": 4326772,
                         "reportDataId": 27873
                     }
                 ],
