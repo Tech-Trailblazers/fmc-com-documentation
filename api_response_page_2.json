@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6154,
+        "totalCount": 6156,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,82 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001896_EXT_SDS_MA_FR.PDF",
-                "specificationid": "50001896",
-                "path": "\\\\172.18.22.6\\sds_external/50001896_EXT_SDS_MA_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "EXT_SDS_MA",
-                "authorizedportal": "P3",
-                "productname": "SIPP-Zn35_Mn25",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0046 (CHILD)",
-                "cmr": "",
-                "publishdate": "11/12/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "MA",
-                "validityareadescription": "Morocco",
-                "legacyspecid": "NP-0046",
-                "legacysdsid": "NP-0046-3-A",
-                "revisiondate": "11/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11002238",
-                        "maktx": "ZN 35MN25_5L_MA_SIPP",
-                        "id": 2066559,
-                        "reportDataId": 26769
-                    }
-                ],
-                "id": 26769
-            },
-            {
-                "pdfname": "50001896_EXT_SDS_GB_6N.PDF",
-                "specificationid": "50001896",
-                "path": "\\\\172.18.22.6\\sds_external/50001896_EXT_SDS_GB_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_GB",
-                "authorizedportal": "P3",
-                "productname": "SIPP-Zn35_Mn25",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0046 (CHILD)",
-                "cmr": "",
-                "publishdate": "11/12/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "GB",
-                "validityareadescription": "Great Britain",
-                "legacyspecid": "NP-0046",
-                "legacysdsid": "NP-0046-3-A",
-                "revisiondate": "11/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11002238",
-                        "maktx": "ZN 35MN25_5L_MA_SIPP",
-                        "id": 2066560,
-                        "reportDataId": 26770
-                    }
-                ],
-                "id": 26770
-            },
             {
                 "pdfname": "50000797_SDS_DE_DE.PDF",
                 "specificationid": "50000797",
@@ -244670,6 +244594,444 @@
                     }
                 ],
                 "id": 27964
+            },
+            {
+                "pdfname": "50002954_EXT_SDS_BR_PT.PDF",
+                "specificationid": "50002954",
+                "path": "\\\\172.18.22.6\\sds_external/50002954_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "XVU91",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX + BTH (RTI545) (25.0 + 31.25)  WG",
+                "cmr": "",
+                "publishdate": "01/06/2026",
+                "iupac": "",
+                "incode": "XVU91",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27965
+            },
+            {
+                "pdfname": "50002954_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50002954",
+                "path": "\\\\172.18.22.6\\sds_external/50002954_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "XVU91",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX + BTH (RTI545) (25.0 + 31.25)  WG",
+                "cmr": "",
+                "publishdate": "01/06/2026",
+                "iupac": "",
+                "incode": "XVU91",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 27966
+            },
+            {
+                "pdfname": "50000052_SDS_KZ_RU.PDF",
+                "specificationid": "50000052",
+                "path": "\\\\172.18.22.6\\sds_external/50000052_SDS_KZ_RU.PDF",
+                "reptype": "MSDS",
+                "language": "RU",
+                "genvariant": "SDS_KZ",
+                "authorizedportal": "P3",
+                "productname": "SALSA\u00ae (\u0421\u0410\u041b\u042c\u0421\u0410\u00ae)",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "FIELDOR (M)",
+                "casnumber": "",
+                "commercialnames": "ESM 75 WG (FLUID BED)",
+                "cmr": "",
+                "publishdate": "01/06/2026",
+                "iupac": "",
+                "incode": "A7881",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "KZ",
+                "validityareadescription": "Kazakhstan",
+                "legacyspecid": "M-14",
+                "legacysdsid": "130000024006",
+                "revisiondate": "01/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006553",
+                        "maktx": "SALSA_100G_MUL",
+                        "id": 4331347,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11013738",
+                        "maktx": "SALSA_100G_TN_AGROSYSTEMES",
+                        "id": 4331348,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006528",
+                        "maktx": "SALSA 75WG_250G_BY",
+                        "id": 4331349,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11000198",
+                        "maktx": "SALSA_100G_SE",
+                        "id": 4331350,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11014021",
+                        "maktx": "SALSA_100G_TR",
+                        "id": 4331351,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006331",
+                        "maktx": "SALSA 75DF_100G_HU",
+                        "id": 4331352,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11015527",
+                        "maktx": "MUSTER_320G_CA",
+                        "id": 4331353,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "12001121",
+                        "maktx": "ESM 750WG - FLUID BED_250G_UF_ALL",
+                        "id": 4331354,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11001911",
+                        "maktx": "ETHAMETSULFURON 75DF_50KG_CA",
+                        "id": 4331355,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11014042",
+                        "maktx": "SALSA PRO_250G_MUL",
+                        "id": 4331356,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11009503",
+                        "maktx": "MUSTER 75DF_320G_CA",
+                        "id": 4331357,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "12002143",
+                        "maktx": "ESM 750WG - FLUID BED_500KG_UF_ALL",
+                        "id": 4331358,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11000047",
+                        "maktx": "SALSA_100G_LV_AUGU",
+                        "id": 4331359,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "12002078",
+                        "maktx": "ESM 750WG - FLUID BED_100G_UF_ALL",
+                        "id": 4331360,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11009426",
+                        "maktx": "SALSA_250G_MUL",
+                        "id": 4331361,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11016945",
+                        "maktx": "MUSTER 75WG_100G_TN_SSCC",
+                        "id": 4331362,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11014460",
+                        "maktx": "MUSTER_100G_TN_SSCC",
+                        "id": 4331363,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006529",
+                        "maktx": "SALSA WG_250G_MD",
+                        "id": 4331364,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11000045",
+                        "maktx": "SALSA 75WG_100G_LT",
+                        "id": 4331365,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "12002054",
+                        "maktx": "ESM 750WG - FLUID BED_1000KG_UF_ALL",
+                        "id": 4331366,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006567",
+                        "maktx": "SALSA_100G_IE",
+                        "id": 4331367,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006450",
+                        "maktx": "SALSA_250G_UA",
+                        "id": 4331368,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006471",
+                        "maktx": "LOMEX 75DF_300G_ZA_NULANDIS",
+                        "id": 4331369,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006065",
+                        "maktx": "SALSA_100G_RO",
+                        "id": 4331370,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "11006449",
+                        "maktx": "SALSA_100G_UA",
+                        "id": 4331371,
+                        "reportDataId": 27967
+                    },
+                    {
+                        "matnr": "12005340",
+                        "maktx": "ESM 750WG - fluid bed_50KG_UF_ALL",
+                        "id": 4331372,
+                        "reportDataId": 27967
+                    }
+                ],
+                "id": 27967
+            },
+            {
+                "pdfname": "50000052_SDS_ZA_6N.PDF",
+                "specificationid": "50000052",
+                "path": "\\\\172.18.22.6\\sds_external/50000052_SDS_ZA_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_ZA",
+                "authorizedportal": "P3",
+                "productname": "LOMEX 75 DF",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "FIELDOR (M)",
+                "casnumber": "",
+                "commercialnames": "ESM 75 WG (FLUID BED)",
+                "cmr": "",
+                "publishdate": "01/06/2026",
+                "iupac": "",
+                "incode": "A7881",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ZA",
+                "validityareadescription": "South Africa",
+                "legacyspecid": "M-14",
+                "legacysdsid": "130000024006",
+                "revisiondate": "01/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006553",
+                        "maktx": "SALSA_100G_MUL",
+                        "id": 4331373,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11013738",
+                        "maktx": "SALSA_100G_TN_AGROSYSTEMES",
+                        "id": 4331374,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006528",
+                        "maktx": "SALSA 75WG_250G_BY",
+                        "id": 4331375,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11000198",
+                        "maktx": "SALSA_100G_SE",
+                        "id": 4331376,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11014021",
+                        "maktx": "SALSA_100G_TR",
+                        "id": 4331377,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006331",
+                        "maktx": "SALSA 75DF_100G_HU",
+                        "id": 4331378,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11015527",
+                        "maktx": "MUSTER_320G_CA",
+                        "id": 4331379,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "12001121",
+                        "maktx": "ESM 750WG - FLUID BED_250G_UF_ALL",
+                        "id": 4331380,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11001911",
+                        "maktx": "ETHAMETSULFURON 75DF_50KG_CA",
+                        "id": 4331381,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11014042",
+                        "maktx": "SALSA PRO_250G_MUL",
+                        "id": 4331382,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11009503",
+                        "maktx": "MUSTER 75DF_320G_CA",
+                        "id": 4331383,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "12002143",
+                        "maktx": "ESM 750WG - FLUID BED_500KG_UF_ALL",
+                        "id": 4331384,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11000047",
+                        "maktx": "SALSA_100G_LV_AUGU",
+                        "id": 4331385,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "12002078",
+                        "maktx": "ESM 750WG - FLUID BED_100G_UF_ALL",
+                        "id": 4331386,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11009426",
+                        "maktx": "SALSA_250G_MUL",
+                        "id": 4331387,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11016945",
+                        "maktx": "MUSTER 75WG_100G_TN_SSCC",
+                        "id": 4331388,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11014460",
+                        "maktx": "MUSTER_100G_TN_SSCC",
+                        "id": 4331389,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006529",
+                        "maktx": "SALSA WG_250G_MD",
+                        "id": 4331390,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11000045",
+                        "maktx": "SALSA 75WG_100G_LT",
+                        "id": 4331391,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "12002054",
+                        "maktx": "ESM 750WG - FLUID BED_1000KG_UF_ALL",
+                        "id": 4331392,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006567",
+                        "maktx": "SALSA_100G_IE",
+                        "id": 4331393,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006450",
+                        "maktx": "SALSA_250G_UA",
+                        "id": 4331394,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006471",
+                        "maktx": "LOMEX 75DF_300G_ZA_NULANDIS",
+                        "id": 4331395,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006065",
+                        "maktx": "SALSA_100G_RO",
+                        "id": 4331396,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "11006449",
+                        "maktx": "SALSA_100G_UA",
+                        "id": 4331397,
+                        "reportDataId": 27968
+                    },
+                    {
+                        "matnr": "12005340",
+                        "maktx": "ESM 750WG - fluid bed_50KG_UF_ALL",
+                        "id": 4331398,
+                        "reportDataId": 27968
+                    }
+                ],
+                "id": 27968
             }
         ],
         "isExportToExcel": false
