@@ -187707,60 +187707,60 @@
                 "casnumber": "",
                 "commercialnames": "NP-0053 (CHILD)",
                 "cmr": "",
-                "publishdate": "08/21/2025",
+                "publishdate": "01/08/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.3",
+                "ehsversionno": "1.4",
                 "fileformat": "PDF",
                 "validityarea": "GB",
                 "validityareadescription": "Great Britain",
                 "legacyspecid": "NP-0053",
                 "legacysdsid": "NP-0053-5-A",
-                "revisiondate": "08/21/2025",
+                "revisiondate": "01/08/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014719",
-                        "maktx": "ZINC 69_5L_IE",
-                        "id": 4129877,
-                        "reportDataId": 27625
-                    },
-                    {
                         "matnr": "12001009",
                         "maktx": "ZN 70SC_1000L_DE_FL_ALL",
-                        "id": 4129878,
+                        "id": 4331733,
                         "reportDataId": 27625
                     },
                     {
-                        "matnr": "12000262",
-                        "maktx": "ZN 70SC_FL_ALL",
-                        "id": 4129879,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11002000",
-                        "maktx": "ZINC 69_5L_PL",
-                        "id": 4129880,
+                        "matnr": "11014719",
+                        "maktx": "ZINC 69_5L_IE",
+                        "id": 4331734,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11014363",
                         "maktx": "CINKAS 700_5L_LT_AGROKONCERNAS",
-                        "id": 4129881,
+                        "id": 4331735,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11002000",
+                        "maktx": "ZINC 69_5L_PL",
+                        "id": 4331736,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11014856",
                         "maktx": "ZINC 69_5L_GB",
-                        "id": 4129882,
+                        "id": 4331737,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "11016994",
                         "maktx": "THYPAAN ZN_1L_MUL",
-                        "id": 4129883,
+                        "id": 4331738,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "12000262",
+                        "maktx": "ZN 70SC_FL_ALL",
+                        "id": 4331739,
                         "reportDataId": 27625
                     }
                 ],
@@ -187964,16 +187964,16 @@
                 "casnumber": "",
                 "commercialnames": "NP-0053 (CHILD)",
                 "cmr": "",
-                "publishdate": "08/21/2025",
+                "publishdate": "01/08/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.3",
+                "ehsversionno": "1.4",
                 "fileformat": "PDF",
                 "validityarea": "FR",
                 "validityareadescription": "France",
                 "legacyspecid": "NP-0053",
                 "legacysdsid": "",
-                "revisiondate": "08/21/2025",
+                "revisiondate": "01/08/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
