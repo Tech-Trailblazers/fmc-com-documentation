@@ -58,242 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000797_SDS_DK_6N.PDF",
-                "specificationid": "50000797",
-                "path": "\\\\172.18.22.6\\sds_external/50000797_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "FLUTRIAFOL 250 g/L SC",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "MILSTAR 250 (AGROFARM)",
-                "casnumber": "",
-                "commercialnames": "FLT 250 g/L SC (v2)",
-                "cmr": "",
-                "publishdate": "11/12/2024",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO004102",
-                "legacysdsid": "",
-                "revisiondate": "11/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11009445",
-                        "maktx": "IMPACT 250SC_5L_PT_SERVAG",
-                        "id": 3432815,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11002016",
-                        "maktx": "IMPACT SC_5L_MUL",
-                        "id": 3432816,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11008986",
-                        "maktx": "POINTER 25SC_5L_PH",
-                        "id": 3432817,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11010816",
-                        "maktx": "IMPACT 250SC_1L_IT",
-                        "id": 3432818,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11001925",
-                        "maktx": "IMPACT_5L_BY",
-                        "id": 3432819,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11005215",
-                        "maktx": "IMPACT_500ML_MUL",
-                        "id": 3432820,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11002807",
-                        "maktx": "POINTER 250SC_1L_MX",
-                        "id": 3432821,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11001739",
-                        "maktx": "IMPACT SC_5L_MUL",
-                        "id": 3432822,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12005653",
-                        "maktx": "FLT 250SC_ST_RO",
-                        "id": 3432823,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12005655",
-                        "maktx": "FLT 250SC_MUL_ST_RO",
-                        "id": 3432824,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11016279",
-                        "maktx": "RHYME_250ML_IN",
-                        "id": 3432825,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006155",
-                        "maktx": "FLT 250SC_1000L_MUL_ST_RO",
-                        "id": 3432826,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12000566",
-                        "maktx": "FLT 250SC_ST_7C",
-                        "id": 3432827,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11016291",
-                        "maktx": "RHYME_500ML_IN",
-                        "id": 3432828,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006156",
-                        "maktx": "FLT 250SC_1000L_TR_ST_RO",
-                        "id": 3432829,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006370",
-                        "maktx": "FLT 250SC_1000L_IN_ALL",
-                        "id": 3432830,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11001757",
-                        "maktx": "IMPACT 25SC_1L_MD",
-                        "id": 3432831,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11002953",
-                        "maktx": "IMPACT 250SC_1L_MX",
-                        "id": 3432832,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006150",
-                        "maktx": "FLT 250SC_1000L_MUL_ST_7C",
-                        "id": 3432833,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11005524",
-                        "maktx": "FLUTRIAFOL_200L_MUL",
-                        "id": 3432834,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11003894",
-                        "maktx": "POINTER 250SC_1L_CO",
-                        "id": 3432835,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11016285",
-                        "maktx": "RHYME_100ML_IN",
-                        "id": 3432836,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11001842",
-                        "maktx": "IMPACT SC_5L_UA",
-                        "id": 3432837,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006143",
-                        "maktx": "FLT 250SC_1000L_TR_ST_7C",
-                        "id": 3432838,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11009319",
-                        "maktx": "IMPACT 250SC_5L_ZA NA",
-                        "id": 3432839,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11000175",
-                        "maktx": "POINTER 250SC_200L_CO",
-                        "id": 3432840,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11000613",
-                        "maktx": "POINTER 25SC_200L_PH",
-                        "id": 3432841,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11013663",
-                        "maktx": "IMPACT_1L_DZ_AGROSEED",
-                        "id": 3432842,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12006442",
-                        "maktx": "FLT 250SC_1000L_SV_ALL",
-                        "id": 3432843,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11010277",
-                        "maktx": "POINTER 250SC_1L_MY_CROP",
-                        "id": 3432844,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11016300",
-                        "maktx": "RHYME_1L_IN",
-                        "id": 3432845,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "12000267",
-                        "maktx": "FLT 250SC_PH RU_ST_CALA",
-                        "id": 3432846,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11009294",
-                        "maktx": "CONCEPT 25%SC_200ML_EG_LOTUS",
-                        "id": 3432847,
-                        "reportDataId": 26772
-                    },
-                    {
-                        "matnr": "11003895",
-                        "maktx": "POINTER 250SC_20L_CO",
-                        "id": 3432848,
-                        "reportDataId": 26772
-                    }
-                ],
-                "id": 26772
-            },
-            {
                 "pdfname": "50003010_EXT_SDS_BR_PT.PDF",
                 "specificationid": "50003010",
                 "path": "\\\\172.18.22.6\\sds_external/50003010_EXT_SDS_BR_PT.PDF",
@@ -8277,201 +8041,207 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 4337822,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11013815",
-                        "maktx": "CELEXIUM_200G_RO",
-                        "id": 4337823,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 4337824,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 4337825,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 4337826,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 4337827,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 4337828,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 4337829,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006617",
-                        "maktx": "TRIPALI_250G_SK",
-                        "id": 4337830,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 4337831,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11017009",
-                        "maktx": "TRIPALI 27.1WG_150G_PL",
-                        "id": 4337832,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 4337833,
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4360741,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11002801",
                         "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 4337834,
+                        "id": 4360742,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4360743,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11000260",
                         "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 4337835,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 4337836,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016209",
-                        "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 4337837,
+                        "id": 4360744,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11006635",
                         "maktx": "TRIPALI_250G_SE",
-                        "id": 4337838,
+                        "id": 4360745,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 4337839,
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4360746,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 4337840,
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4360747,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 4337841,
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4360748,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 4337842,
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4360749,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 4360750,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 4337843,
+                        "id": 4360751,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 4337844,
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4360752,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11006620",
                         "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 4337845,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 4337846,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 4337847,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 4337848,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 4337849,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 4337850,
-                        "reportDataId": 26840
-                    },
-                    {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 4337851,
+                        "id": 4360753,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11013091",
                         "maktx": "TRIPALI_250G_CZ",
-                        "id": 4337852,
+                        "id": 4360754,
                         "reportDataId": 26840
                     },
                     {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 4337853,
+                        "matnr": "11013815",
+                        "maktx": "CELEXIUM_200G_RO",
+                        "id": 4360755,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4360756,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4360757,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4360758,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4360759,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4360760,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4360761,
                         "reportDataId": 26840
                     },
                     {
                         "matnr": "11017102",
                         "maktx": "POINTER PLUS_200G_DE",
-                        "id": 4337854,
+                        "id": 4360762,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4360763,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006617",
+                        "maktx": "TRIPALI_250G_SK",
+                        "id": 4360764,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4360765,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4360766,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4360767,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4360768,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4360769,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4360770,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4360771,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4360772,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4360773,
+                        "reportDataId": 26840
+                    },
+                    {
+                        "matnr": "11017104",
+                        "maktx": "TRIPALI_400G_RO",
+                        "id": 4360774,
                         "reportDataId": 26840
                     }
                 ],
@@ -15925,201 +15695,207 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 4337855,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11013815",
-                        "maktx": "CELEXIUM_200G_RO",
-                        "id": 4337856,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 4337857,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 4337858,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 4337859,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 4337860,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 4337861,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 4337862,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006617",
-                        "maktx": "TRIPALI_250G_SK",
-                        "id": 4337863,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 4337864,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006635",
-                        "maktx": "TRIPALI_250G_SE",
-                        "id": 4337865,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 4337866,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11017009",
-                        "maktx": "TRIPALI 27.1WG_150G_PL",
-                        "id": 4337867,
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4360775,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11002801",
                         "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 4337868,
+                        "id": 4360776,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4360777,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11000260",
                         "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 4337869,
+                        "id": 4360778,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4360779,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4360780,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4360781,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4360782,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4360783,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11016209",
                         "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 4337870,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 4337871,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 4337872,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 4337873,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 4337874,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 4337875,
+                        "id": 4360784,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 4337876,
+                        "id": 4360785,
                         "reportDataId": 26884
                     },
                     {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 4337877,
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4360786,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11006620",
                         "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 4337878,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 4337879,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 4337880,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 4337881,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 4337882,
-                        "reportDataId": 26884
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 4337883,
+                        "id": 4360787,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11013091",
                         "maktx": "TRIPALI_250G_CZ",
-                        "id": 4337884,
+                        "id": 4360788,
                         "reportDataId": 26884
                     },
                     {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 4337885,
+                        "matnr": "11013815",
+                        "maktx": "CELEXIUM_200G_RO",
+                        "id": 4360789,
                         "reportDataId": 26884
                     },
                     {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 4337886,
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4360790,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4360791,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4360792,
                         "reportDataId": 26884
                     },
                     {
                         "matnr": "11017102",
                         "maktx": "POINTER PLUS_200G_DE",
-                        "id": 4337887,
+                        "id": 4360793,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4360794,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4360795,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4360796,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4360797,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006617",
+                        "maktx": "TRIPALI_250G_SK",
+                        "id": 4360798,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4360799,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4360800,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4360801,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4360802,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4360803,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4360804,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4360805,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4360806,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4360807,
+                        "reportDataId": 26884
+                    },
+                    {
+                        "matnr": "11017104",
+                        "maktx": "TRIPALI_400G_RO",
+                        "id": 4360808,
                         "reportDataId": 26884
                     }
                 ],
@@ -31287,135 +31063,141 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006241",
-                        "maktx": "ALIAS SX_100G_GB",
-                        "id": 4235538,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016624",
-                        "maktx": "ABUTO ONE_100G_FR",
-                        "id": 4235539,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016612",
-                        "maktx": "SIMPLON ONE_100G_FR",
-                        "id": 4235540,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11006901",
-                        "maktx": "ALLY SX_60G_CH_STAHLER",
-                        "id": 4235541,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "12001533",
-                        "maktx": "MEM 200SG_1000KG_UF_ALL",
-                        "id": 4235542,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "12002108",
-                        "maktx": "MEM 200SG_50KG_UF_ALL",
-                        "id": 4235543,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016746",
-                        "maktx": "ARKEM ONE_500G_FR",
-                        "id": 4235544,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11015250",
-                        "maktx": "ALLY 20SX_100G_SE",
-                        "id": 4235545,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016737",
-                        "maktx": "SIMPLON ONE_500G_FR",
-                        "id": 4235546,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11006131",
-                        "maktx": "ALLIE SX_60G_FR",
-                        "id": 4235547,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11014612",
-                        "maktx": "GROPPER SX_60G_CZ",
-                        "id": 4235548,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016625",
-                        "maktx": "ABUTO ONE_500G_FR",
-                        "id": 4235549,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11006417",
-                        "maktx": "ALLY 20SX_100G_NO",
-                        "id": 4235550,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11016623",
-                        "maktx": "ARKEM ONE_100G_FR",
-                        "id": 4235551,
-                        "reportDataId": 26942
-                    },
-                    {
-                        "matnr": "11005704",
-                        "maktx": "ALLIE_100G_BE",
-                        "id": 4235552,
-                        "reportDataId": 26942
-                    },
-                    {
                         "matnr": "11014745",
                         "maktx": "GAIO SX_20G_IT",
-                        "id": 4235553,
+                        "id": 4361687,
                         "reportDataId": 26942
                     },
                     {
                         "matnr": "12001122",
                         "maktx": "ALLY 20SX 60G JAR NEUTRAL",
-                        "id": 4235554,
+                        "id": 4361688,
                         "reportDataId": 26942
                     },
                     {
-                        "matnr": "11016613",
-                        "maktx": "SIMTRAL ONE_100G_FR",
-                        "id": 4235555,
+                        "matnr": "12002108",
+                        "maktx": "MEM 200SG_50KG_UF_ALL",
+                        "id": 4361689,
                         "reportDataId": 26942
                     },
                     {
-                        "matnr": "12002150",
-                        "maktx": "MEM 200SG_500KG_UF_ALL",
-                        "id": 4235556,
+                        "matnr": "11015250",
+                        "maktx": "ALLY 20SX_100G_SE",
+                        "id": 4361690,
                         "reportDataId": 26942
                     },
                     {
-                        "matnr": "11007331",
-                        "maktx": "GAIO SX_20G_IT",
-                        "id": 4235557,
+                        "matnr": "11006417",
+                        "maktx": "ALLY 20SX_100G_NO",
+                        "id": 4361691,
                         "reportDataId": 26942
                     },
                     {
                         "matnr": "11015965",
                         "maktx": "ALLY 20 SX_100G_DK",
-                        "id": 4235558,
+                        "id": 4361692,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016625",
+                        "maktx": "ABUTO ONE_500G_FR",
+                        "id": 4361693,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11006131",
+                        "maktx": "ALLIE SX_60G_FR",
+                        "id": 4361694,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11005704",
+                        "maktx": "ALLIE_100G_BE",
+                        "id": 4361695,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11006241",
+                        "maktx": "ALIAS SX_100G_GB",
+                        "id": 4361696,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016623",
+                        "maktx": "ARKEM ONE_100G_FR",
+                        "id": 4361697,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11006901",
+                        "maktx": "ALLY SX_60G_CH_STAHLER",
+                        "id": 4361698,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "12002150",
+                        "maktx": "MEM 200SG_500KG_UF_ALL",
+                        "id": 4361699,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016737",
+                        "maktx": "SIMPLON ONE_500G_FR",
+                        "id": 4361700,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016612",
+                        "maktx": "SIMPLON ONE_100G_FR",
+                        "id": 4361701,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016624",
+                        "maktx": "ABUTO ONE_100G_FR",
+                        "id": 4361702,
                         "reportDataId": 26942
                     },
                     {
                         "matnr": "11005756",
                         "maktx": "LAREN PRO 20SG_150G_RO",
-                        "id": 4235559,
+                        "id": 4361703,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11014612",
+                        "maktx": "GROPPER SX_60G_CZ",
+                        "id": 4361704,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11007331",
+                        "maktx": "GAIO SX_20G_IT",
+                        "id": 4361705,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016746",
+                        "maktx": "ARKEM ONE_500G_FR",
+                        "id": 4361706,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "12001533",
+                        "maktx": "MEM 200SG_1000KG_UF_ALL",
+                        "id": 4361707,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11016613",
+                        "maktx": "SIMTRAL ONE_100G_FR",
+                        "id": 4361708,
+                        "reportDataId": 26942
+                    },
+                    {
+                        "matnr": "11017115",
+                        "maktx": "ANSWER SX_100G_CZ SK_SYNGENTA",
+                        "id": 4361709,
                         "reportDataId": 26942
                     }
                 ],
@@ -209021,135 +208803,141 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006241",
-                        "maktx": "ALIAS SX_100G_GB",
-                        "id": 4235644,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "12001533",
-                        "maktx": "MEM 200SG_1000KG_UF_ALL",
-                        "id": 4235645,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11016612",
-                        "maktx": "SIMPLON ONE_100G_FR",
-                        "id": 4235646,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11006901",
-                        "maktx": "ALLY SX_60G_CH_STAHLER",
-                        "id": 4235647,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11016746",
-                        "maktx": "ARKEM ONE_500G_FR",
-                        "id": 4235648,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11016624",
-                        "maktx": "ABUTO ONE_100G_FR",
-                        "id": 4235649,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "12002108",
-                        "maktx": "MEM 200SG_50KG_UF_ALL",
-                        "id": 4235650,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11015250",
-                        "maktx": "ALLY 20SX_100G_SE",
-                        "id": 4235651,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11016737",
-                        "maktx": "SIMPLON ONE_500G_FR",
-                        "id": 4235652,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11006131",
-                        "maktx": "ALLIE SX_60G_FR",
-                        "id": 4235653,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11014612",
-                        "maktx": "GROPPER SX_60G_CZ",
-                        "id": 4235654,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11007331",
-                        "maktx": "GAIO SX_20G_IT",
-                        "id": 4235655,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11006417",
-                        "maktx": "ALLY 20SX_100G_NO",
-                        "id": 4235656,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11016623",
-                        "maktx": "ARKEM ONE_100G_FR",
-                        "id": 4235657,
-                        "reportDataId": 27720
-                    },
-                    {
-                        "matnr": "11005704",
-                        "maktx": "ALLIE_100G_BE",
-                        "id": 4235658,
-                        "reportDataId": 27720
-                    },
-                    {
                         "matnr": "11014745",
                         "maktx": "GAIO SX_20G_IT",
-                        "id": 4235659,
+                        "id": 4361802,
                         "reportDataId": 27720
                     },
                     {
                         "matnr": "12001122",
                         "maktx": "ALLY 20SX 60G JAR NEUTRAL",
-                        "id": 4235660,
+                        "id": 4361803,
                         "reportDataId": 27720
                     },
                     {
-                        "matnr": "12002150",
-                        "maktx": "MEM 200SG_500KG_UF_ALL",
-                        "id": 4235661,
+                        "matnr": "12002108",
+                        "maktx": "MEM 200SG_50KG_UF_ALL",
+                        "id": 4361804,
                         "reportDataId": 27720
                     },
                     {
-                        "matnr": "11016613",
-                        "maktx": "SIMTRAL ONE_100G_FR",
-                        "id": 4235662,
+                        "matnr": "11015250",
+                        "maktx": "ALLY 20SX_100G_SE",
+                        "id": 4361805,
                         "reportDataId": 27720
                     },
                     {
-                        "matnr": "11016625",
-                        "maktx": "ABUTO ONE_500G_FR",
-                        "id": 4235663,
+                        "matnr": "11006417",
+                        "maktx": "ALLY 20SX_100G_NO",
+                        "id": 4361806,
                         "reportDataId": 27720
                     },
                     {
                         "matnr": "11015965",
                         "maktx": "ALLY 20 SX_100G_DK",
-                        "id": 4235664,
+                        "id": 4361807,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016625",
+                        "maktx": "ABUTO ONE_500G_FR",
+                        "id": 4361808,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006131",
+                        "maktx": "ALLIE SX_60G_FR",
+                        "id": 4361809,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11005704",
+                        "maktx": "ALLIE_100G_BE",
+                        "id": 4361810,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006241",
+                        "maktx": "ALIAS SX_100G_GB",
+                        "id": 4361811,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016623",
+                        "maktx": "ARKEM ONE_100G_FR",
+                        "id": 4361812,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11006901",
+                        "maktx": "ALLY SX_60G_CH_STAHLER",
+                        "id": 4361813,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "12002150",
+                        "maktx": "MEM 200SG_500KG_UF_ALL",
+                        "id": 4361814,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "12001533",
+                        "maktx": "MEM 200SG_1000KG_UF_ALL",
+                        "id": 4361815,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11007331",
+                        "maktx": "GAIO SX_20G_IT",
+                        "id": 4361816,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016624",
+                        "maktx": "ABUTO ONE_100G_FR",
+                        "id": 4361817,
                         "reportDataId": 27720
                     },
                     {
                         "matnr": "11005756",
                         "maktx": "LAREN PRO 20SG_150G_RO",
-                        "id": 4235665,
+                        "id": 4361818,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11014612",
+                        "maktx": "GROPPER SX_60G_CZ",
+                        "id": 4361819,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016746",
+                        "maktx": "ARKEM ONE_500G_FR",
+                        "id": 4361820,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016612",
+                        "maktx": "SIMPLON ONE_100G_FR",
+                        "id": 4361821,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016737",
+                        "maktx": "SIMPLON ONE_500G_FR",
+                        "id": 4361822,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11016613",
+                        "maktx": "SIMTRAL ONE_100G_FR",
+                        "id": 4361823,
+                        "reportDataId": 27720
+                    },
+                    {
+                        "matnr": "11017115",
+                        "maktx": "ANSWER SX_100G_CZ SK_SYNGENTA",
+                        "id": 4361824,
                         "reportDataId": 27720
                     }
                 ],
@@ -209573,201 +209361,207 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001619",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
-                        "id": 4338384,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11013815",
-                        "maktx": "CELEXIUM_200G_RO",
-                        "id": 4338385,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11013860",
-                        "maktx": "TRIPALI WG_250G_BG",
-                        "id": 4338386,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006275",
-                        "maktx": "POINTER PLUS_250G_DE",
-                        "id": 4338387,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014251",
-                        "maktx": "TRIPALI_250G_LT LV",
-                        "id": 4338388,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014261",
-                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
-                        "id": 4338389,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11016271",
-                        "maktx": "TRIPALI_250G_CZ SK",
-                        "id": 4338390,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006347",
-                        "maktx": "TRIPALI_250G_FI",
-                        "id": 4338391,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006617",
-                        "maktx": "TRIPALI_250G_SK",
-                        "id": 4338392,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11010178",
-                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
-                        "id": 4338393,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006635",
-                        "maktx": "TRIPALI_250G_SE",
-                        "id": 4338394,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006345",
-                        "maktx": "TRIPALI_250G_ES",
-                        "id": 4338395,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11002801",
-                        "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
-                        "id": 4338396,
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4361354,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11000260",
                         "maktx": "SYNOPSIS_1KG_FR",
-                        "id": 4338397,
+                        "id": 4361355,
                         "reportDataId": 27723
                     },
                     {
-                        "matnr": "11017009",
-                        "maktx": "TRIPALI 27.1WG_150G_PL",
-                        "id": 4338398,
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4361356,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4361357,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4361358,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11016209",
                         "maktx": "CELEXIUM_200G_MD_BAYER",
-                        "id": 4338399,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11015671",
-                        "maktx": "CERVENTA_250G_BG",
-                        "id": 4338400,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11007317",
-                        "maktx": "ALLY ULTRA_250G_IE",
-                        "id": 4338401,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006627",
-                        "maktx": "SYNOPSIS_250G_FR",
-                        "id": 4338402,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014120",
-                        "maktx": "GRANSTAR TRIO_200G_IT",
-                        "id": 4338403,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "12002161",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
-                        "id": 4338404,
+                        "id": 4361359,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11007318",
                         "maktx": "GRANSTAR TRIO_50G_IT",
-                        "id": 4338405,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11014265",
-                        "maktx": "CELEXIUM_200G_RO_BAYER",
-                        "id": 4338406,
+                        "id": 4361360,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11006620",
                         "maktx": "GRANSTAR TRIO_250G_IT",
-                        "id": 4338407,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "12001595",
-                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
-                        "id": 4338408,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11016943",
-                        "maktx": "GRANSTAR TRIO_250G_RS",
-                        "id": 4338409,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006621",
-                        "maktx": "TRIPALI_200G_RO",
-                        "id": 4338410,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11010177",
-                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
-                        "id": 4338411,
-                        "reportDataId": 27723
-                    },
-                    {
-                        "matnr": "11006346",
-                        "maktx": "TRIPALI_200G_HU",
-                        "id": 4338412,
+                        "id": 4361361,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11013091",
                         "maktx": "TRIPALI_250G_CZ",
-                        "id": 4338413,
+                        "id": 4361362,
                         "reportDataId": 27723
                     },
                     {
-                        "matnr": "11006654",
-                        "maktx": "POINTER PLUS_1KG_DE",
-                        "id": 4338414,
+                        "matnr": "11013815",
+                        "maktx": "CELEXIUM_200G_RO",
+                        "id": 4361363,
                         "reportDataId": 27723
                     },
                     {
-                        "matnr": "11009133",
-                        "maktx": "TRIPALI_250G_NO",
-                        "id": 4338415,
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4361364,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4361365,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4361366,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4361367,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4361368,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4361369,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4361370,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4361371,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4361372,
                         "reportDataId": 27723
                     },
                     {
                         "matnr": "11017102",
                         "maktx": "POINTER PLUS_200G_DE",
-                        "id": 4338416,
+                        "id": 4361373,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4361374,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4361375,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4361376,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006617",
+                        "maktx": "TRIPALI_250G_SK",
+                        "id": 4361377,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11002801",
+                        "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
+                        "id": 4361378,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4361379,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4361380,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4361381,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4361382,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4361383,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4361384,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4361385,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4361386,
+                        "reportDataId": 27723
+                    },
+                    {
+                        "matnr": "11017104",
+                        "maktx": "TRIPALI_400G_RO",
+                        "id": 4361387,
                         "reportDataId": 27723
                     }
                 ],
@@ -245684,6 +245478,242 @@
                     }
                 ],
                 "id": 27968
+            },
+            {
+                "pdfname": "50000090_SDS_SE_SV.PDF",
+                "specificationid": "50000090",
+                "path": "\\\\172.18.22.6\\sds_external/50000090_SDS_SE_SV.PDF",
+                "reptype": "MSDS",
+                "language": "SV",
+                "genvariant": "SDS_SE",
+                "authorizedportal": "P3",
+                "productname": "TRIPALI\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALLY POWER (M)",
+                "casnumber": "",
+                "commercialnames": "RXR49 27.1 WG Blend",
+                "cmr": "",
+                "publishdate": "01/12/2026",
+                "iupac": "",
+                "incode": "RXR49",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "SE",
+                "validityareadescription": "Sweden",
+                "legacyspecid": "Q-1581",
+                "legacysdsid": "130000117719",
+                "revisiondate": "01/12/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015671",
+                        "maktx": "CERVENTA_250G_BG",
+                        "id": 4361863,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11017102",
+                        "maktx": "POINTER PLUS_200G_DE",
+                        "id": 4361864,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "12001595",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_450KG_UF_ALL",
+                        "id": 4361865,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006275",
+                        "maktx": "POINTER PLUS_250G_DE",
+                        "id": 4361866,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11010177",
+                        "maktx": "POINTER PLUS 10X1KG JAR FR-FMC",
+                        "id": 4361867,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11010178",
+                        "maktx": "POINTER PLUS 10X250G JAR FR-FMC",
+                        "id": 4361868,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006617",
+                        "maktx": "TRIPALI_250G_SK",
+                        "id": 4361869,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006654",
+                        "maktx": "POINTER PLUS_1KG_DE",
+                        "id": 4361870,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006627",
+                        "maktx": "SYNOPSIS_250G_FR",
+                        "id": 4361871,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11014265",
+                        "maktx": "CELEXIUM_200G_RO_BAYER",
+                        "id": 4361872,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11009133",
+                        "maktx": "TRIPALI_250G_NO",
+                        "id": 4361873,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "12001619",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_435KG_UF_ALL",
+                        "id": 4361874,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11007317",
+                        "maktx": "ALLY ULTRA_250G_IE",
+                        "id": 4361875,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11017009",
+                        "maktx": "TRIPALI 27.1WG_150G_PL",
+                        "id": 4361876,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11013860",
+                        "maktx": "TRIPALI WG_250G_BG",
+                        "id": 4361877,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006621",
+                        "maktx": "TRIPALI_200G_RO",
+                        "id": 4361878,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11016943",
+                        "maktx": "GRANSTAR TRIO_250G_RS",
+                        "id": 4361879,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006346",
+                        "maktx": "TRIPALI_200G_HU",
+                        "id": 4361880,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11002801",
+                        "maktx": "POINTER PLUS_250G_AT_SYNGENTA",
+                        "id": 4361881,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11016271",
+                        "maktx": "TRIPALI_250G_CZ SK",
+                        "id": 4361882,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11000260",
+                        "maktx": "SYNOPSIS_1KG_FR",
+                        "id": 4361883,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006635",
+                        "maktx": "TRIPALI_250G_SE",
+                        "id": 4361884,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11014251",
+                        "maktx": "TRIPALI_250G_LT LV",
+                        "id": 4361885,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11014261",
+                        "maktx": "CELEXIUM_200G_RO_SYNGENTA",
+                        "id": 4361886,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "12002161",
+                        "maktx": "TBM 83 MEM 83 FOM 105WG_250G_UF_ALL",
+                        "id": 4361887,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006347",
+                        "maktx": "TRIPALI_250G_FI",
+                        "id": 4361888,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11016209",
+                        "maktx": "CELEXIUM_200G_MD_BAYER",
+                        "id": 4361889,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11007318",
+                        "maktx": "GRANSTAR TRIO_50G_IT",
+                        "id": 4361890,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11014120",
+                        "maktx": "GRANSTAR TRIO_200G_IT",
+                        "id": 4361891,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006620",
+                        "maktx": "GRANSTAR TRIO_250G_IT",
+                        "id": 4361892,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11013091",
+                        "maktx": "TRIPALI_250G_CZ",
+                        "id": 4361893,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11013815",
+                        "maktx": "CELEXIUM_200G_RO",
+                        "id": 4361894,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11006345",
+                        "maktx": "TRIPALI_250G_ES",
+                        "id": 4361895,
+                        "reportDataId": 27969
+                    },
+                    {
+                        "matnr": "11017104",
+                        "maktx": "TRIPALI_400G_RO",
+                        "id": 4361896,
+                        "reportDataId": 27969
+                    }
+                ],
+                "id": 27969
             }
         ],
         "isExportToExcel": false
