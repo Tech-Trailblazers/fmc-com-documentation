@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6157,
+        "totalCount": 6156,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,124 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50003010_EXT_SDS_BR_PT.PDF",
-                "specificationid": "50003010",
-                "path": "\\\\172.18.22.6\\sds_external/50003010_EXT_SDS_BR_PT.PDF",
-                "reptype": "MSDS",
-                "language": "PT",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "SOFERO\u2122 FALL Ferom\u00f4nio",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "9BC 200CS",
-                "casnumber": "",
-                "commercialnames": "XPJ82 200 g/L CS",
-                "cmr": "",
-                "publishdate": "11/12/2024",
-                "iupac": "",
-                "incode": "XPJ82",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "11/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016563",
-                        "maktx": "SOFERO FALL_5L_BR",
-                        "id": 4267423,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "12006480",
-                        "maktx": "9BC 200CS_20L_US_KWIZ_RO",
-                        "id": 4267424,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "12006482",
-                        "maktx": "9BC 200CS_140L_BR_KWIZ_RO",
-                        "id": 4267425,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "11016352",
-                        "maktx": "XPJ82 200 CS_20L_BR",
-                        "id": 4267426,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "11016367",
-                        "maktx": "XPJ82 200 CS_5L_BR",
-                        "id": 4267427,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "11016564",
-                        "maktx": "SOFERO FALL_20L_BR",
-                        "id": 4267428,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "12006430",
-                        "maktx": "9BC 200CS_KWIZ_RO",
-                        "id": 4267429,
-                        "reportDataId": 26773
-                    },
-                    {
-                        "matnr": "12006792",
-                        "maktx": "9BC 200CS_140L_KWIZ_RO",
-                        "id": 4267430,
-                        "reportDataId": 26773
-                    }
-                ],
-                "id": 26773
-            },
-            {
-                "pdfname": "50002318_EXT_SDS_CL_1X.PDF",
-                "specificationid": "50002318",
-                "path": "\\\\172.18.22.6\\sds_external/50002318_EXT_SDS_CL_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_CL",
-                "authorizedportal": "P3",
-                "productname": "ZINCTOP",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0053 (CHILD)",
-                "cmr": "",
-                "publishdate": "11/12/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "CL",
-                "validityareadescription": "Chile",
-                "legacyspecid": "NP-0053",
-                "legacysdsid": "",
-                "revisiondate": "11/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11002968",
-                        "maktx": "ZINCTOP_10L_CL",
-                        "id": 2066617,
-                        "reportDataId": 26774
-                    }
-                ],
-                "id": 26774
-            },
             {
                 "pdfname": "50001337_SDS_DK_6N.PDF",
                 "specificationid": "50001337",
@@ -188011,37 +187893,6 @@
                 "id": 27608
             },
             {
-                "pdfname": "50001909_EXT_SDS_ES_ES.PDF",
-                "specificationid": "50001909",
-                "path": "\\\\172.18.22.6\\sds_external/50001909_EXT_SDS_ES_ES.PDF",
-                "reptype": "MSDS",
-                "language": "ES",
-                "genvariant": "EXT_SDS_ES",
-                "authorizedportal": "P3",
-                "productname": "PlusK",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0057 (CHILD)",
-                "cmr": "",
-                "publishdate": "12/03/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.3",
-                "fileformat": "PDF",
-                "validityarea": "ES",
-                "validityareadescription": "Espa\u00f1a",
-                "legacyspecid": "NP-0057",
-                "legacysdsid": "NP-0057-1-A",
-                "revisiondate": "12/03/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 27609
-            },
-            {
                 "pdfname": "50001644_EXT_SDS_MX_EN.PDF",
                 "specificationid": "50001644",
                 "path": "\\\\172.18.22.6\\sds_external/50001644_EXT_SDS_MX_EN.PDF",
@@ -246570,6 +246421,118 @@
                     }
                 ],
                 "id": 27971
+            },
+            {
+                "pdfname": "50003135_SDS_IT_IT.PDF",
+                "specificationid": "50003135",
+                "path": "\\\\172.18.22.6\\sds_external/50003135_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "PANTOPUR MC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PANTOPUR MC (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "01/16/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004306",
+                        "maktx": "PANTOPUR MC_1L_IT",
+                        "id": 4414539,
+                        "reportDataId": 27972
+                    }
+                ],
+                "id": 27972
+            },
+            {
+                "pdfname": "50003132_SDS_DE_DE.PDF",
+                "specificationid": "50003132",
+                "path": "\\\\172.18.22.6\\sds_external/50003132_SDS_DE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "NUYARD",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "DECIS 100 EC (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "01/16/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Deutschland",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017034",
+                        "maktx": "NUYARD_1L_CZ SK",
+                        "id": 4414540,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017045",
+                        "maktx": "NUYARD_1L_HU",
+                        "id": 4414541,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017046",
+                        "maktx": "NUYARD_1L_PL",
+                        "id": 4414542,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017012",
+                        "maktx": "NUYARD_1L_RO",
+                        "id": 4414543,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017118",
+                        "maktx": "NUYARD_1L_DE",
+                        "id": 4414544,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017107",
+                        "maktx": "NUYARD_5L_DE",
+                        "id": 4414545,
+                        "reportDataId": 27973
+                    },
+                    {
+                        "matnr": "11017117",
+                        "maktx": "NUYARD 100EC_250ML_PL",
+                        "id": 4414546,
+                        "reportDataId": 27973
+                    }
+                ],
+                "id": 27973
             }
         ],
         "isExportToExcel": false
