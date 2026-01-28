@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6183,
+        "totalCount": 6187,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -189014,60 +189014,60 @@
                 "casnumber": "",
                 "commercialnames": "NP-0053 (CHILD)",
                 "cmr": "",
-                "publishdate": "01/08/2026",
+                "publishdate": "01/27/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.4",
+                "ehsversionno": "1.5",
                 "fileformat": "PDF",
                 "validityarea": "GB",
                 "validityareadescription": "Great Britain",
                 "legacyspecid": "NP-0053",
                 "legacysdsid": "NP-0053-5-A",
-                "revisiondate": "01/08/2026",
+                "revisiondate": "01/27/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001009",
-                        "maktx": "ZN 70SC_1000L_DE_FL_ALL",
-                        "id": 4331733,
-                        "reportDataId": 27625
-                    },
-                    {
                         "matnr": "11014719",
                         "maktx": "ZINC 69_5L_IE",
-                        "id": 4331734,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11014363",
-                        "maktx": "CINKAS 700_5L_LT_AGROKONCERNAS",
-                        "id": 4331735,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11002000",
-                        "maktx": "ZINC 69_5L_PL",
-                        "id": 4331736,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11014856",
-                        "maktx": "ZINC 69_5L_GB",
-                        "id": 4331737,
-                        "reportDataId": 27625
-                    },
-                    {
-                        "matnr": "11016994",
-                        "maktx": "THYPAAN ZN_1L_MUL",
-                        "id": 4331738,
+                        "id": 4445451,
                         "reportDataId": 27625
                     },
                     {
                         "matnr": "12000262",
                         "maktx": "ZN 70SC_FL_ALL",
-                        "id": 4331739,
+                        "id": 4445452,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11014856",
+                        "maktx": "ZINC 69_5L_GB",
+                        "id": 4445453,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "12001009",
+                        "maktx": "ZN 70SC_1000L_DE_FL_ALL",
+                        "id": 4445454,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11016994",
+                        "maktx": "THYPAAN ZN_1L_MUL",
+                        "id": 4445455,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11014363",
+                        "maktx": "CINKAS 700_5L_LT_AGROKONCERNAS",
+                        "id": 4445456,
+                        "reportDataId": 27625
+                    },
+                    {
+                        "matnr": "11002000",
+                        "maktx": "ZINC 69_5L_PL",
+                        "id": 4445457,
                         "reportDataId": 27625
                     }
                 ],
@@ -250088,6 +250088,434 @@
                     }
                 ],
                 "id": 28004
+            },
+            {
+                "pdfname": "50003132_SDS_FR_FR.PDF",
+                "specificationid": "50003132",
+                "path": "\\\\172.18.22.6\\sds_external/50003132_SDS_FR_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "SDS_FR",
+                "authorizedportal": "P3",
+                "productname": "NUYARD",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "DECIS 100 EC (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "01/27/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "FR",
+                "validityareadescription": "France",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/27/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017118",
+                        "maktx": "NUYARD_1L_DE",
+                        "id": 4445326,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017045",
+                        "maktx": "NUYARD_1L_HU",
+                        "id": 4445327,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017107",
+                        "maktx": "NUYARD_5L_DE",
+                        "id": 4445328,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017117",
+                        "maktx": "NUYARD 100EC_250ML_PL",
+                        "id": 4445329,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017012",
+                        "maktx": "NUYARD_1L_RO",
+                        "id": 4445330,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017046",
+                        "maktx": "NUYARD_1L_PL",
+                        "id": 4445331,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017034",
+                        "maktx": "NUYARD_1L_CZ SK",
+                        "id": 4445332,
+                        "reportDataId": 28005
+                    },
+                    {
+                        "matnr": "11017138",
+                        "maktx": "NUYARD_1L_FR",
+                        "id": 4445333,
+                        "reportDataId": 28005
+                    }
+                ],
+                "id": 28005
+            },
+            {
+                "pdfname": "50000924_EXT_SDS_HU_HU.PDF",
+                "specificationid": "50000924",
+                "path": "\\\\172.18.22.6\\sds_external/50000924_EXT_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "EXT_SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "IRAZU\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 100 g/L SE (PROXEL) (CHILD)",
+                "cmr": "",
+                "publishdate": "01/27/2026",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "Q-1367",
+                "legacysdsid": "130000106290",
+                "revisiondate": "01/27/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010191",
+                        "maktx": "EXIREL BAIT 2000_200ML_IT",
+                        "id": 4445393,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11013734",
+                        "maktx": "EXIREL BAIT 2021_150ML_IT",
+                        "id": 4445394,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11014353",
+                        "maktx": "EXIREL BAIT VISAREL_CP150ML 5L_IT",
+                        "id": 4445395,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11017113",
+                        "maktx": "IRAZU_5L_HU",
+                        "id": 4445396,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11015280",
+                        "maktx": "EXIREL BAIT_200ML_IT",
+                        "id": 4445397,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11014480",
+                        "maktx": "EXIREL BAIT 2022_150ML_IT",
+                        "id": 4445398,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11014491",
+                        "maktx": "EXIREL BAIT 2022_200ML_IT",
+                        "id": 4445399,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11014985",
+                        "maktx": "EXIREL BAIT 2023_150ML_IT",
+                        "id": 4445400,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11015312",
+                        "maktx": "EXIREL BAIT_150ML_IT",
+                        "id": 4445401,
+                        "reportDataId": 28006
+                    },
+                    {
+                        "matnr": "11015301",
+                        "maktx": "EXIREL BAIT 2023_200ML_IT",
+                        "id": 4445402,
+                        "reportDataId": 28006
+                    }
+                ],
+                "id": 28006
+            },
+            {
+                "pdfname": "50000102_SDS_GB_6N.PDF",
+                "specificationid": "50000102",
+                "path": "\\\\172.18.22.6\\sds_external/50000102_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "SENTRALLAS\u00ae LQM\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DPX-R7U12 180 OD (M)",
+                "casnumber": "",
+                "commercialnames": "FRX + TIM (150 + 30) g/l OD",
+                "cmr": "",
+                "publishdate": "01/27/2026",
+                "iupac": "",
+                "incode": "R7U12",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "",
+                "legacysdsid": "130000121320",
+                "revisiondate": "01/27/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12001620",
+                        "maktx": "DPX-R7U12 180 OD LIQUID L BULK",
+                        "id": 4445403,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11016304",
+                        "maktx": "SENTRALLAS LQM_1L_PL",
+                        "id": 4445404,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11009635",
+                        "maktx": "SENTRALLAS 4X5L BTL IT-FMC",
+                        "id": 4445405,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11005357",
+                        "maktx": "SENTRALLAS_120GAL_?",
+                        "id": 4445406,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010188",
+                        "maktx": "SENTRALLAS LQM_5L_LV",
+                        "id": 4445407,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11015490",
+                        "maktx": "SENTRALLAS_1L_HU",
+                        "id": 4445408,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "12000735",
+                        "maktx": "TIM 30 FRX 150OD_1L_SWF_ALL",
+                        "id": 4445409,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11015479",
+                        "maktx": "SENTRALLAS LQM_5L_AT",
+                        "id": 4445410,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11017135",
+                        "maktx": "SENTRALLAS_5L_GB",
+                        "id": 4445411,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010189",
+                        "maktx": "SENTRALLAS LQM_5L_LT",
+                        "id": 4445412,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "12006420",
+                        "maktx": "TIM 30 + FRX 150OD_ALMX_MA DWDP",
+                        "id": 4445413,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11017125",
+                        "maktx": "SENTRALLAS LQM_1L_SE",
+                        "id": 4445414,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010183",
+                        "maktx": "SENTRALLAS LQM_5L_NO",
+                        "id": 4445415,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11000579",
+                        "maktx": "SENTRALLAS_2.5GAL_CA DE FR US",
+                        "id": 4445416,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010179",
+                        "maktx": "SENTRALLAS (2X8L) JUG CA",
+                        "id": 4445417,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010184",
+                        "maktx": "SENTRALLAS LQM_5L_FI",
+                        "id": 4445418,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11016364",
+                        "maktx": "SENTRALLAS LQM PRO_VP1L 1L 60G_PL",
+                        "id": 4445419,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11013601",
+                        "maktx": "SENTRALLAS LQM_5L_SE",
+                        "id": 4445420,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010186",
+                        "maktx": "SENTRALLAS LQM_5L_DK",
+                        "id": 4445421,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11015323",
+                        "maktx": "SENTRALLAS_5L_RO",
+                        "id": 4445422,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11015463",
+                        "maktx": "SENTRALLAS LQM_5L_DE",
+                        "id": 4445423,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "12002111",
+                        "maktx": "DPX-R7U12 180 OD 4X5L BTL NEUTRAL",
+                        "id": 4445424,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11010187",
+                        "maktx": "SENTRALLAS LQM_5L_EE",
+                        "id": 4445425,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "12002200",
+                        "maktx": "TIM 30 FRX 150OD_200L_CA_SWF_ALL",
+                        "id": 4445426,
+                        "reportDataId": 28007
+                    },
+                    {
+                        "matnr": "11016365",
+                        "maktx": "SENTRALLAS LQM PRO_VP5L 1L 150G_PL",
+                        "id": 4445427,
+                        "reportDataId": 28007
+                    }
+                ],
+                "id": 28007
+            },
+            {
+                "pdfname": "50001905_EXT_SDS_IE_6N.PDF",
+                "specificationid": "50001905",
+                "path": "\\\\172.18.22.6\\sds_external/50001905_EXT_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "ZINC 69",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0053 (CHILD)",
+                "cmr": "",
+                "publishdate": "01/27/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0053",
+                "legacysdsid": "NP-0053-5-A",
+                "revisiondate": "01/27/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002000",
+                        "maktx": "ZINC 69_5L_PL",
+                        "id": 4445444,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "11014363",
+                        "maktx": "CINKAS 700_5L_LT_AGROKONCERNAS",
+                        "id": 4445445,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "11016994",
+                        "maktx": "THYPAAN ZN_1L_MUL",
+                        "id": 4445446,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "12001009",
+                        "maktx": "ZN 70SC_1000L_DE_FL_ALL",
+                        "id": 4445447,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "11014856",
+                        "maktx": "ZINC 69_5L_GB",
+                        "id": 4445448,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "12000262",
+                        "maktx": "ZN 70SC_FL_ALL",
+                        "id": 4445449,
+                        "reportDataId": 28008
+                    },
+                    {
+                        "matnr": "11014719",
+                        "maktx": "ZINC 69_5L_IE",
+                        "id": 4445450,
+                        "reportDataId": 28008
+                    }
+                ],
+                "id": 28008
             }
         ],
         "isExportToExcel": false
