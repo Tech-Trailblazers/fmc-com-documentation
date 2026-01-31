@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6191,
+        "totalCount": 6195,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -250894,6 +250894,590 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 28014
+            },
+            {
+                "pdfname": "50000690_SDS_GB_6N.PDF",
+                "specificationid": "50000690",
+                "path": "\\\\172.18.22.6\\sds_external/50000690_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "VENDETTA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DRABANT",
+                "casnumber": "",
+                "commercialnames": "AZO + FZI (150 + 375) g/L SC",
+                "cmr": "",
+                "publishdate": "01/30/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "FO002229",
+                "legacysdsid": "",
+                "revisiondate": "01/30/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014537",
+                        "maktx": "VENDETTA_200L_MA_AMAROC",
+                        "id": 4462361,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002189",
+                        "maktx": "VENDETTA_5L_DK",
+                        "id": 4462362,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002243",
+                        "maktx": "VENDETTA_1L_CZ",
+                        "id": 4462363,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11007768",
+                        "maktx": "VENDETTA_500ML_GR",
+                        "id": 4462364,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002482",
+                        "maktx": "VENDETTA 525SC_1L_PL",
+                        "id": 4462365,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002487",
+                        "maktx": "VENDETTA_5L_FR",
+                        "id": 4462366,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11003972",
+                        "maktx": "VENDETTA SC_1L_OM_FUTURE VISION",
+                        "id": 4462367,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11013800",
+                        "maktx": "VENDETTA_250ML_AE_AGRIMATCO",
+                        "id": 4462368,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11000338",
+                        "maktx": "FLURAC_200ML_KR",
+                        "id": 4462369,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11013598",
+                        "maktx": "VENDETTA_1L_HU",
+                        "id": 4462370,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11010285",
+                        "maktx": "FIADO_500ML_TR",
+                        "id": 4462371,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015892",
+                        "maktx": "VENDETTA _500ML_AE_AGRIMATCO",
+                        "id": 4462372,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015321",
+                        "maktx": "VENDETTA 525SC_250ML_LB_UNIFERT",
+                        "id": 4462373,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002427",
+                        "maktx": "VENDETTA_5L_GB IE",
+                        "id": 4462374,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002492",
+                        "maktx": "VENDETTA_5L_NL",
+                        "id": 4462375,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015554",
+                        "maktx": "VENDETTA_5L_SE",
+                        "id": 4462376,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12001575",
+                        "maktx": "FZI 375-AZO 150SC_5L_ST_RO SYT",
+                        "id": 4462377,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11004692",
+                        "maktx": "ZIGNAL SUPER_1L_HR",
+                        "id": 4462378,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002256",
+                        "maktx": "VENDETTA_1L_SK",
+                        "id": 4462379,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11003031",
+                        "maktx": "VENDETTA_1L_PT_SERVAG",
+                        "id": 4462380,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002491",
+                        "maktx": "VENDETTA_5L_BE",
+                        "id": 4462381,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002620",
+                        "maktx": "FZA 375 AZOXY_200L_KR",
+                        "id": 4462382,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015881",
+                        "maktx": "VENDETTA _500ML_OM_AL MAROOJ",
+                        "id": 4462383,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015146",
+                        "maktx": "VENDETTA_200L_TN_SEPCM",
+                        "id": 4462384,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12001000",
+                        "maktx": "FZI 375-AZO 150SC_200L_ST_RO SYT",
+                        "id": 4462385,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11004694",
+                        "maktx": "VENDETTA_1L_OM_AL MAROOJ",
+                        "id": 4462386,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11000193",
+                        "maktx": "FIADO_300ML_TR",
+                        "id": 4462387,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11010790",
+                        "maktx": "DRABANT_200ML_TR",
+                        "id": 4462388,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015832",
+                        "maktx": "VENDETTA_500ML_JO_EL ATAA",
+                        "id": 4462389,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11005240",
+                        "maktx": "VENDETTA_250ML_OM_ALMAROOJ",
+                        "id": 4462390,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11014086",
+                        "maktx": "ZIGNAL SUPER_1L_HR_AGROCHEM MAKS",
+                        "id": 4462391,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015361",
+                        "maktx": "VENDETTA_250ML_JO_ EL ATAA",
+                        "id": 4462392,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11005507",
+                        "maktx": "ZIGNAL SUPER_1L_SI_PICOUNT",
+                        "id": 4462393,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11000330",
+                        "maktx": "FLURAC_100ML_KR",
+                        "id": 4462394,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11004503",
+                        "maktx": "VENDETTA 525SC_1L_CO",
+                        "id": 4462395,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12000585",
+                        "maktx": "FZI 375-AZO 150SC_ST_RO SYT",
+                        "id": 4462396,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12006336",
+                        "maktx": "FZI 375 + AZO 150SC_1000L_ST_RO",
+                        "id": 4462397,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11004138",
+                        "maktx": "VENDETTA SC_5L_RU",
+                        "id": 4462398,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12006154",
+                        "maktx": "FZI 375 + AZO 150SC_1000L_TR_ST_RO",
+                        "id": 4462399,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11002570",
+                        "maktx": "FZI375 AZO150SC_1L_MUL",
+                        "id": 4462400,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11003034",
+                        "maktx": "DRABANT 150SC_0.5L_TR",
+                        "id": 4462401,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12002019",
+                        "maktx": "FZI 375-AZO 150SC_ST_ALL",
+                        "id": 4462402,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11016948",
+                        "maktx": "VENDETTA_200L_MA_SIPP",
+                        "id": 4462403,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11016245",
+                        "maktx": "VENDENA_500ML_AZ",
+                        "id": 4462404,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11016321",
+                        "maktx": "VENDETTA_500ML_LY_TAJURI",
+                        "id": 4462405,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "11015511",
+                        "maktx": "FIADO_1L_TR",
+                        "id": 4462406,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12006671",
+                        "maktx": "FZI 375 + AZO 150SC_1000L_PK_ST_RO",
+                        "id": 4462407,
+                        "reportDataId": 28015
+                    },
+                    {
+                        "matnr": "12006476",
+                        "maktx": "FZI 375 + AZO 150SC_PHY_RO",
+                        "id": 4462408,
+                        "reportDataId": 28015
+                    }
+                ],
+                "id": 28015
+            },
+            {
+                "pdfname": "50000147_SDS_GB_6N.PDF",
+                "specificationid": "50000147",
+                "path": "\\\\172.18.22.6\\sds_external/50000147_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "VENZAR\u00ae 80 WP",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "LENAZAR 80WP (M)",
+                "casnumber": "",
+                "commercialnames": "LEN 80 WP",
+                "cmr": "",
+                "publishdate": "01/30/2026",
+                "iupac": "",
+                "incode": "B0634",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "V-12.1",
+                "legacysdsid": "130000000172",
+                "revisiondate": "01/30/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005281",
+                        "maktx": "VENZAR_500G_PT_AGROMAIS PLUS",
+                        "id": 4462409,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005533",
+                        "maktx": "VENZAR_200G_FR",
+                        "id": 4462410,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11008989",
+                        "maktx": "VENZAR_500G_ES",
+                        "id": 4462411,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11000419",
+                        "maktx": "VENZAR_25KG_JP",
+                        "id": 4462412,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005273",
+                        "maktx": "VENZAR_100G_GR",
+                        "id": 4462413,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "12002096",
+                        "maktx": "LEN 800WP_450KG_SSB_SMG",
+                        "id": 4462414,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "12002093",
+                        "maktx": "LEN 800WP_25KG_SSB_SMG",
+                        "id": 4462415,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005412",
+                        "maktx": "VENZAR_100G_ES",
+                        "id": 4462416,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11001654",
+                        "maktx": "VENZAR_1KG_JP",
+                        "id": 4462417,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11003539",
+                        "maktx": "VENZAR 80WP_450KG_MUL",
+                        "id": 4462418,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11007376",
+                        "maktx": "LENAZAR_1KG_FR_BELCROP",
+                        "id": 4462419,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005265",
+                        "maktx": "VENZAR_100G_IT",
+                        "id": 4462420,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11015621",
+                        "maktx": "VENZAR_1KG_FR",
+                        "id": 4462421,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11009387",
+                        "maktx": "VENZAR_100G_JP_MBC",
+                        "id": 4462422,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "12002097",
+                        "maktx": "LEN 800WP_25KG_CH_SSB_SMG",
+                        "id": 4462423,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005251",
+                        "maktx": "VENZAR 80WP_500G_PL",
+                        "id": 4462424,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11003834",
+                        "maktx": "VENZAR_25KG_MUL",
+                        "id": 4462425,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005312",
+                        "maktx": "VENZAR_1KG_TR",
+                        "id": 4462426,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11005510",
+                        "maktx": "VENZAR_200G_MA_AGRIMATCO",
+                        "id": 4462427,
+                        "reportDataId": 28016
+                    },
+                    {
+                        "matnr": "11009381",
+                        "maktx": "VENZAR_1KG_CL",
+                        "id": 4462428,
+                        "reportDataId": 28016
+                    }
+                ],
+                "id": 28016
+            },
+            {
+                "pdfname": "50003142_SDS_ES_ES.PDF",
+                "specificationid": "50003142",
+                "path": "\\\\172.18.22.6\\sds_external/50003142_SDS_ES_ES.PDF",
+                "reptype": "MSDS",
+                "language": "ES",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "BIOPOWER\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIOPOWER (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "01/30/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Espa\u00f1a",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/30/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017048",
+                        "maktx": "BIOPOWER 276.5SL_1L_PL",
+                        "id": 4462429,
+                        "reportDataId": 28017
+                    },
+                    {
+                        "matnr": "11017025",
+                        "maktx": "BIOPOWER_10L_RO",
+                        "id": 4462430,
+                        "reportDataId": 28017
+                    },
+                    {
+                        "matnr": "11017140",
+                        "maktx": "BIOPOWER_10L_MUL",
+                        "id": 4462431,
+                        "reportDataId": 28017
+                    },
+                    {
+                        "matnr": "11017024",
+                        "maktx": "BIOPOWER_5L_BG",
+                        "id": 4462432,
+                        "reportDataId": 28017
+                    }
+                ],
+                "id": 28017
+            },
+            {
+                "pdfname": "50003142_SDS_ES_6N.PDF",
+                "specificationid": "50003142",
+                "path": "\\\\172.18.22.6\\sds_external/50003142_SDS_ES_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "BIOPOWER\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIOPOWER (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "01/30/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Spain",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "01/30/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017048",
+                        "maktx": "BIOPOWER 276.5SL_1L_PL",
+                        "id": 4462433,
+                        "reportDataId": 28018
+                    },
+                    {
+                        "matnr": "11017025",
+                        "maktx": "BIOPOWER_10L_RO",
+                        "id": 4462434,
+                        "reportDataId": 28018
+                    },
+                    {
+                        "matnr": "11017140",
+                        "maktx": "BIOPOWER_10L_MUL",
+                        "id": 4462435,
+                        "reportDataId": 28018
+                    },
+                    {
+                        "matnr": "11017024",
+                        "maktx": "BIOPOWER_5L_BG",
+                        "id": 4462436,
+                        "reportDataId": 28018
+                    }
+                ],
+                "id": 28018
             }
         ],
         "isExportToExcel": false
