@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6195,
+        "totalCount": 6208,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -31127,141 +31127,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001991",
-                        "maktx": "NERO 424EC_5L_PL",
-                        "id": 3570813,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002259",
-                        "maktx": "NERO_5L_ES",
-                        "id": 3570814,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002314",
-                        "maktx": "QUANTUM POWER_5L_BE_PROTEX",
-                        "id": 3570815,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11015740",
-                        "maktx": "BRASAN DUO_5L_CH_SYNGENTA",
-                        "id": 3570816,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11001986",
-                        "maktx": "NERO_10L_CZ_AGNOVACHEM",
-                        "id": 3570817,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11010474",
-                        "maktx": "NERO RIZA_CP120L 20L_RO",
-                        "id": 3570818,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "12000415",
-                        "maktx": "PXA 400-CLZ 24EC_TC_RO_RO",
-                        "id": 3570819,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002207",
-                        "maktx": "COLZAPHEN_10L_CH_STAHLER",
-                        "id": 3570820,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11008791",
-                        "maktx": "DOUSCO_5L_FR",
-                        "id": 3570821,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "12000391",
-                        "maktx": "CLZ 24-PXA 400EC_1000L_RO_CYND RO",
-                        "id": 3570822,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002227",
-                        "maktx": "DOUSCO_10L_FR",
-                        "id": 3570823,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002282",
-                        "maktx": "RODINO READY_5L_CH_BYER",
-                        "id": 3570824,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11010764",
-                        "maktx": "NERO EC_5L_BG RO",
-                        "id": 3570825,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11003008",
-                        "maktx": "NERO 400EC_5L_RO",
-                        "id": 3570826,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002298",
-                        "maktx": "NERO_10L_SK",
-                        "id": 3570827,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11015641",
-                        "maktx": "NERO_5L_MD",
-                        "id": 3570828,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002269",
-                        "maktx": "NERO 424EC_10L_PL",
-                        "id": 3570829,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002223",
-                        "maktx": "NERO_10L_HU",
-                        "id": 3570830,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11002287",
-                        "maktx": "NERO_5L_AT",
-                        "id": 3570831,
-                        "reportDataId": 26950
-                    },
-                    {
-                        "matnr": "11000295",
-                        "maktx": "NERO EC_5L_BG",
-                        "id": 3570832,
-                        "reportDataId": 26950
-                    },
-                    {
                         "matnr": "11009772",
                         "maktx": "QUANTUM POWER_5L_BE",
-                        "id": 3570833,
+                        "id": 4462681,
                         "reportDataId": 26950
                     },
                     {
                         "matnr": "11015846",
                         "maktx": "MAZELIX_5L_TR",
-                        "id": 3570834,
+                        "id": 4462682,
                         "reportDataId": 26950
                     },
                     {
-                        "matnr": "11016909",
-                        "maktx": "HERO 424EC_10L_PL",
-                        "id": 3570835,
+                        "matnr": "11002227",
+                        "maktx": "DOUSCO_10L_FR",
+                        "id": 4462683,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "12000415",
+                        "maktx": "PXA 400-CLZ 24EC_TC_RO_RO",
+                        "id": 4462684,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002259",
+                        "maktx": "NERO_5L_ES",
+                        "id": 4462685,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002287",
+                        "maktx": "NERO_5L_AT",
+                        "id": 4462686,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002269",
+                        "maktx": "NERO 424EC_10L_PL",
+                        "id": 4462687,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11000295",
+                        "maktx": "NERO EC_5L_BG",
+                        "id": 4462688,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11015641",
+                        "maktx": "NERO_5L_MD",
+                        "id": 4462689,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11001991",
+                        "maktx": "NERO 424EC_5L_PL",
+                        "id": 4462690,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11001986",
+                        "maktx": "NERO_10L_CZ_AGNOVACHEM",
+                        "id": 4462691,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "12000391",
+                        "maktx": "CLZ 24-PXA 400EC_1000L_RO_CYND RO",
+                        "id": 4462692,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002298",
+                        "maktx": "NERO_10L_SK",
+                        "id": 4462693,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002207",
+                        "maktx": "COLZAPHEN_10L_CH_STAHLER",
+                        "id": 4462694,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11010474",
+                        "maktx": "NERO RIZA_CP120L 20L_RO",
+                        "id": 4462695,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002282",
+                        "maktx": "RODINO READY_5L_CH_BYER",
+                        "id": 4462696,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002314",
+                        "maktx": "QUANTUM POWER_5L_BE_PROTEX",
+                        "id": 4462697,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11010764",
+                        "maktx": "NERO EC_5L_BG RO",
+                        "id": 4462698,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11003008",
+                        "maktx": "NERO 400EC_5L_RO",
+                        "id": 4462699,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11015740",
+                        "maktx": "BRASAN DUO_5L_CH_SYNGENTA",
+                        "id": 4462700,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11008791",
+                        "maktx": "DOUSCO_5L_FR",
+                        "id": 4462701,
+                        "reportDataId": 26950
+                    },
+                    {
+                        "matnr": "11002223",
+                        "maktx": "NERO_10L_HU",
+                        "id": 4462702,
                         "reportDataId": 26950
                     }
                 ],
@@ -152781,141 +152775,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001991",
-                        "maktx": "NERO 424EC_5L_PL",
-                        "id": 3570859,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002259",
-                        "maktx": "NERO_5L_ES",
-                        "id": 3570860,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002314",
-                        "maktx": "QUANTUM POWER_5L_BE_PROTEX",
-                        "id": 3570861,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11015740",
-                        "maktx": "BRASAN DUO_5L_CH_SYNGENTA",
-                        "id": 3570862,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11001986",
-                        "maktx": "NERO_10L_CZ_AGNOVACHEM",
-                        "id": 3570863,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11010474",
-                        "maktx": "NERO RIZA_CP120L 20L_RO",
-                        "id": 3570864,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "12000415",
-                        "maktx": "PXA 400-CLZ 24EC_TC_RO_RO",
-                        "id": 3570865,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002207",
-                        "maktx": "COLZAPHEN_10L_CH_STAHLER",
-                        "id": 3570866,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11008791",
-                        "maktx": "DOUSCO_5L_FR",
-                        "id": 3570867,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "12000391",
-                        "maktx": "CLZ 24-PXA 400EC_1000L_RO_CYND RO",
-                        "id": 3570868,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002227",
-                        "maktx": "DOUSCO_10L_FR",
-                        "id": 3570869,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002282",
-                        "maktx": "RODINO READY_5L_CH_BYER",
-                        "id": 3570870,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11010764",
-                        "maktx": "NERO EC_5L_BG RO",
-                        "id": 3570871,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11003008",
-                        "maktx": "NERO 400EC_5L_RO",
-                        "id": 3570872,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002298",
-                        "maktx": "NERO_10L_SK",
-                        "id": 3570873,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11015641",
-                        "maktx": "NERO_5L_MD",
-                        "id": 3570874,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002269",
-                        "maktx": "NERO 424EC_10L_PL",
-                        "id": 3570875,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002223",
-                        "maktx": "NERO_10L_HU",
-                        "id": 3570876,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11002287",
-                        "maktx": "NERO_5L_AT",
-                        "id": 3570877,
-                        "reportDataId": 27430
-                    },
-                    {
-                        "matnr": "11000295",
-                        "maktx": "NERO EC_5L_BG",
-                        "id": 3570878,
-                        "reportDataId": 27430
-                    },
-                    {
                         "matnr": "11009772",
                         "maktx": "QUANTUM POWER_5L_BE",
-                        "id": 3570879,
+                        "id": 4462725,
                         "reportDataId": 27430
                     },
                     {
                         "matnr": "11015846",
                         "maktx": "MAZELIX_5L_TR",
-                        "id": 3570880,
+                        "id": 4462726,
                         "reportDataId": 27430
                     },
                     {
-                        "matnr": "11016909",
-                        "maktx": "HERO 424EC_10L_PL",
-                        "id": 3570881,
+                        "matnr": "11002227",
+                        "maktx": "DOUSCO_10L_FR",
+                        "id": 4462727,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "12000415",
+                        "maktx": "PXA 400-CLZ 24EC_TC_RO_RO",
+                        "id": 4462728,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002259",
+                        "maktx": "NERO_5L_ES",
+                        "id": 4462729,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002287",
+                        "maktx": "NERO_5L_AT",
+                        "id": 4462730,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002269",
+                        "maktx": "NERO 424EC_10L_PL",
+                        "id": 4462731,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11015740",
+                        "maktx": "BRASAN DUO_5L_CH_SYNGENTA",
+                        "id": 4462732,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11015641",
+                        "maktx": "NERO_5L_MD",
+                        "id": 4462733,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11001991",
+                        "maktx": "NERO 424EC_5L_PL",
+                        "id": 4462734,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11001986",
+                        "maktx": "NERO_10L_CZ_AGNOVACHEM",
+                        "id": 4462735,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "12000391",
+                        "maktx": "CLZ 24-PXA 400EC_1000L_RO_CYND RO",
+                        "id": 4462736,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002298",
+                        "maktx": "NERO_10L_SK",
+                        "id": 4462737,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002207",
+                        "maktx": "COLZAPHEN_10L_CH_STAHLER",
+                        "id": 4462738,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11010474",
+                        "maktx": "NERO RIZA_CP120L 20L_RO",
+                        "id": 4462739,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002282",
+                        "maktx": "RODINO READY_5L_CH_BYER",
+                        "id": 4462740,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002314",
+                        "maktx": "QUANTUM POWER_5L_BE_PROTEX",
+                        "id": 4462741,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11010764",
+                        "maktx": "NERO EC_5L_BG RO",
+                        "id": 4462742,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11003008",
+                        "maktx": "NERO 400EC_5L_RO",
+                        "id": 4462743,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11000295",
+                        "maktx": "NERO EC_5L_BG",
+                        "id": 4462744,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11008791",
+                        "maktx": "DOUSCO_5L_FR",
+                        "id": 4462745,
+                        "reportDataId": 27430
+                    },
+                    {
+                        "matnr": "11002223",
+                        "maktx": "NERO_10L_HU",
+                        "id": 4462746,
                         "reportDataId": 27430
                     }
                 ],
@@ -251478,6 +251466,668 @@
                     }
                 ],
                 "id": 28018
+            },
+            {
+                "pdfname": "50003150_EXT_SDS_PL_PL.PDF",
+                "specificationid": "50003150",
+                "path": "\\\\172.18.22.6\\sds_external/50003150_EXT_SDS_PL_PL.PDF",
+                "reptype": "MSDS",
+                "language": "PL",
+                "genvariant": "EXT_SDS_PL",
+                "authorizedportal": "P3",
+                "productname": "HERO\u00ae 424 EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ + PXA (24 + 400) g/L EC (CHILD)",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PL",
+                "validityareadescription": "Poland",
+                "legacyspecid": "FO002190",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016909",
+                        "maktx": "HERO 424EC_10L_PL",
+                        "id": 4462747,
+                        "reportDataId": 28019
+                    }
+                ],
+                "id": 28019
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_CO_EN.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_CO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463059,
+                        "reportDataId": 28020
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463060,
+                        "reportDataId": 28020
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463061,
+                        "reportDataId": 28020
+                    }
+                ],
+                "id": 28020
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_CO_1X.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_CO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_CO",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CO",
+                "validityareadescription": "Colombia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463062,
+                        "reportDataId": 28021
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463063,
+                        "reportDataId": 28021
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463064,
+                        "reportDataId": 28021
+                    }
+                ],
+                "id": 28021
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_EC_1X.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_EC_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463065,
+                        "reportDataId": 28022
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463066,
+                        "reportDataId": 28022
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463067,
+                        "reportDataId": 28022
+                    }
+                ],
+                "id": 28022
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_EC_EN.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_EC_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_EC",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "EC",
+                "validityareadescription": "Ecuador",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463068,
+                        "reportDataId": 28023
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463069,
+                        "reportDataId": 28023
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463070,
+                        "reportDataId": 28023
+                    }
+                ],
+                "id": 28023
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_BO_EN.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_BO_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463071,
+                        "reportDataId": 28024
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463072,
+                        "reportDataId": 28024
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463073,
+                        "reportDataId": 28024
+                    }
+                ],
+                "id": 28024
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_BO_1X.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_BO_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_BO",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BO",
+                "validityareadescription": "Bolivia",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463074,
+                        "reportDataId": 28025
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463075,
+                        "reportDataId": 28025
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463076,
+                        "reportDataId": 28025
+                    }
+                ],
+                "id": 28025
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_PE_1X.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_PE_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463077,
+                        "reportDataId": 28026
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463078,
+                        "reportDataId": 28026
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463079,
+                        "reportDataId": 28026
+                    }
+                ],
+                "id": 28026
+            },
+            {
+                "pdfname": "50002631_EXT_SDS_PE_EN.PDF",
+                "specificationid": "50002631",
+                "path": "\\\\172.18.22.6\\sds_external/50002631_EXT_SDS_PE_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_PE",
+                "authorizedportal": "P3",
+                "productname": "AMBLISA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FLP + FLT (180 + 300) g/L SC",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "VFW68",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PE",
+                "validityareadescription": "Peru",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "12005781",
+                        "maktx": "FLP 180 + FLT 300SC_CJB_ALL",
+                        "id": 4463080,
+                        "reportDataId": 28027
+                    },
+                    {
+                        "matnr": "11015324",
+                        "maktx": "AMBLISA_1L_MX",
+                        "id": 4463081,
+                        "reportDataId": 28027
+                    },
+                    {
+                        "matnr": "12005891",
+                        "maktx": "FLP 180 + FLT 300SC_200L_MX_CJB_ALL",
+                        "id": 4463082,
+                        "reportDataId": 28027
+                    }
+                ],
+                "id": 28027
+            },
+            {
+                "pdfname": "50002075_EXT_SDS_AR_EN.PDF",
+                "specificationid": "50002075",
+                "path": "\\\\172.18.22.6\\sds_external/50002075_EXT_SDS_AR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_AR",
+                "authorizedportal": "P3",
+                "productname": "REATOR\u00ae 360 CS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ 360 g/L CS (GREEN) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "AR",
+                "validityareadescription": "Argentina",
+                "legacyspecid": "FO000594",
+                "legacysdsid": "FMC0058-BR-A",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004793",
+                        "maktx": "REATOR 360 CS_20L_BR",
+                        "id": 4463083,
+                        "reportDataId": 28028
+                    },
+                    {
+                        "matnr": "11008624",
+                        "maktx": "REATOR 360CS_250GL_BR",
+                        "id": 4463084,
+                        "reportDataId": 28028
+                    },
+                    {
+                        "matnr": "11013288",
+                        "maktx": "REATOR 360CS_1000L_BR",
+                        "id": 4463085,
+                        "reportDataId": 28028
+                    },
+                    {
+                        "matnr": "11004656",
+                        "maktx": "REATOR 360 CS_945L_BR",
+                        "id": 4463086,
+                        "reportDataId": 28028
+                    }
+                ],
+                "id": 28028
+            },
+            {
+                "pdfname": "50002075_EXT_SDS_AR_1X.PDF",
+                "specificationid": "50002075",
+                "path": "\\\\172.18.22.6\\sds_external/50002075_EXT_SDS_AR_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_AR",
+                "authorizedportal": "P3",
+                "productname": "REATOR\u00ae 360 CS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ 360 g/L CS (GREEN) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "AR",
+                "validityareadescription": "Argentina",
+                "legacyspecid": "FO000594",
+                "legacysdsid": "FMC0058-BR-A",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004793",
+                        "maktx": "REATOR 360 CS_20L_BR",
+                        "id": 4463087,
+                        "reportDataId": 28029
+                    },
+                    {
+                        "matnr": "11008624",
+                        "maktx": "REATOR 360CS_250GL_BR",
+                        "id": 4463088,
+                        "reportDataId": 28029
+                    },
+                    {
+                        "matnr": "11013288",
+                        "maktx": "REATOR 360CS_1000L_BR",
+                        "id": 4463089,
+                        "reportDataId": 28029
+                    },
+                    {
+                        "matnr": "11004656",
+                        "maktx": "REATOR 360 CS_945L_BR",
+                        "id": 4463090,
+                        "reportDataId": 28029
+                    }
+                ],
+                "id": 28029
+            },
+            {
+                "pdfname": "50000534_SDS_TW_ZF.PDF",
+                "specificationid": "50000534",
+                "path": "\\\\172.18.22.6\\sds_external/50000534_SDS_TW_ZF.PDF",
+                "reptype": "MSDS",
+                "language": "ZF",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL 255 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Iprodione 255 g/L SC",
+                "casnumber": "",
+                "commercialnames": "IPD 255 g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO000732",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000527",
+                        "maktx": "ROVRAL  255SC_400ML_TW",
+                        "id": 4463091,
+                        "reportDataId": 28030
+                    },
+                    {
+                        "matnr": "11000523",
+                        "maktx": "ROVRAL SC_1L_TW",
+                        "id": 4463092,
+                        "reportDataId": 28030
+                    },
+                    {
+                        "matnr": "11001698",
+                        "maktx": "ROVRAL GREEN 255SC_200L",
+                        "id": 4463093,
+                        "reportDataId": 28030
+                    },
+                    {
+                        "matnr": "12001437",
+                        "maktx": "IPD 255SC_UG_ALL",
+                        "id": 4463094,
+                        "reportDataId": 28030
+                    }
+                ],
+                "id": 28030
+            },
+            {
+                "pdfname": "50000534_SDS_TW_EN.PDF",
+                "specificationid": "50000534",
+                "path": "\\\\172.18.22.6\\sds_external/50000534_SDS_TW_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL 255 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "Iprodione 255 g/L SC",
+                "casnumber": "",
+                "commercialnames": "IPD 255 g/L SC (v2)",
+                "cmr": "",
+                "publishdate": "02/02/2026",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO000732",
+                "legacysdsid": "",
+                "revisiondate": "02/02/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000527",
+                        "maktx": "ROVRAL  255SC_400ML_TW",
+                        "id": 4463095,
+                        "reportDataId": 28031
+                    },
+                    {
+                        "matnr": "11000523",
+                        "maktx": "ROVRAL SC_1L_TW",
+                        "id": 4463096,
+                        "reportDataId": 28031
+                    },
+                    {
+                        "matnr": "11001698",
+                        "maktx": "ROVRAL GREEN 255SC_200L",
+                        "id": 4463097,
+                        "reportDataId": 28031
+                    },
+                    {
+                        "matnr": "12001437",
+                        "maktx": "IPD 255SC_UG_ALL",
+                        "id": 4463098,
+                        "reportDataId": 28031
+                    }
+                ],
+                "id": 28031
             }
         ],
         "isExportToExcel": false
