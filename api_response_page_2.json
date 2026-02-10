@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6213,
+        "totalCount": 6217,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,68 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50002630_EXT_SDS_UY_1X.PDF",
-                "specificationid": "50002630",
-                "path": "\\\\172.18.22.6\\sds_external/50002630_EXT_SDS_UY_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_UY",
-                "authorizedportal": "P3",
-                "productname": "AZUGRO\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "BIX 400 g/L SC (LATAM)",
-                "cmr": "",
-                "publishdate": "11/19/2024",
-                "iupac": "",
-                "incode": "VPF46",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "UY",
-                "validityareadescription": "Uruguay",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "11/19/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016184",
-                        "maktx": "AZUGRO_10L_CL",
-                        "id": 2742272,
-                        "reportDataId": 26787
-                    },
-                    {
-                        "matnr": "11015050",
-                        "maktx": "AZUGRO_10L_AR",
-                        "id": 2742273,
-                        "reportDataId": 26787
-                    },
-                    {
-                        "matnr": "11015916",
-                        "maktx": "AZUGRO_20L_BR",
-                        "id": 2742274,
-                        "reportDataId": 26787
-                    },
-                    {
-                        "matnr": "11015951",
-                        "maktx": "GIANT_20L_BR",
-                        "id": 2742275,
-                        "reportDataId": 26787
-                    },
-                    {
-                        "matnr": "11016270",
-                        "maktx": "AZUGRO_10L_UY_AGROTERRA",
-                        "id": 2742276,
-                        "reportDataId": 26787
-                    }
-                ],
-                "id": 26787
-            },
             {
                 "pdfname": "50001286_SDS_NZ_6N.PDF",
                 "specificationid": "50001286",
@@ -254730,6 +254668,352 @@
                     }
                 ],
                 "id": 28044
+            },
+            {
+                "pdfname": "50002651_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50002651",
+                "path": "\\\\172.18.22.6\\sds_external/50002651_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "AVATAR EVO\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "IXC 150 g/L SC (KN128)",
+                "casnumber": "",
+                "commercialnames": "IXC 150 g/L SC (KN128)",
+                "cmr": "",
+                "publishdate": "02/09/2026",
+                "iupac": "",
+                "incode": "KN128",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016781",
+                        "maktx": "AVATAR EVO_10L_BR",
+                        "id": 4498777,
+                        "reportDataId": 28045
+                    },
+                    {
+                        "matnr": "11016734",
+                        "maktx": "AVATAR EVO_5L_BR",
+                        "id": 4498778,
+                        "reportDataId": 28045
+                    },
+                    {
+                        "matnr": "12006672",
+                        "maktx": "IXC 150SC_UB_ALL",
+                        "id": 4498779,
+                        "reportDataId": 28045
+                    },
+                    {
+                        "matnr": "11016741",
+                        "maktx": "AVATAR EVO_1L_BR",
+                        "id": 4498780,
+                        "reportDataId": 28045
+                    }
+                ],
+                "id": 28045
+            },
+            {
+                "pdfname": "50002651_EXT_SDS_BR_PT.PDF",
+                "specificationid": "50002651",
+                "path": "\\\\172.18.22.6\\sds_external/50002651_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "AVATAR EVO\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "IXC 150 g/L SC (KN128)",
+                "casnumber": "",
+                "commercialnames": "IXC 150 g/L SC (KN128)",
+                "cmr": "",
+                "publishdate": "02/09/2026",
+                "iupac": "",
+                "incode": "KN128",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016781",
+                        "maktx": "AVATAR EVO_10L_BR",
+                        "id": 4498781,
+                        "reportDataId": 28046
+                    },
+                    {
+                        "matnr": "11016734",
+                        "maktx": "AVATAR EVO_5L_BR",
+                        "id": 4498782,
+                        "reportDataId": 28046
+                    },
+                    {
+                        "matnr": "12006672",
+                        "maktx": "IXC 150SC_UB_ALL",
+                        "id": 4498783,
+                        "reportDataId": 28046
+                    },
+                    {
+                        "matnr": "11016741",
+                        "maktx": "AVATAR EVO_1L_BR",
+                        "id": 4498784,
+                        "reportDataId": 28046
+                    }
+                ],
+                "id": 28046
+            },
+            {
+                "pdfname": "50002158_EXT_SDS_MX_1X.PDF",
+                "specificationid": "50002158",
+                "path": "\\\\172.18.22.6\\sds_external/50002158_EXT_SDS_MX_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "RUGBY\u00ae 10 G",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CADUSAFOS 10 WT% GR (W/ CU-NAPHTH)",
+                "casnumber": "",
+                "commercialnames": "CAD 10 GR (v4, W/ CU-NAPHTH)",
+                "cmr": "",
+                "publishdate": "02/09/2026",
+                "iupac": "",
+                "incode": "VNL66",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO004447",
+                "legacysdsid": "",
+                "revisiondate": "02/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008311",
+                        "maktx": "RUGBY 10GR_15KG_MUL",
+                        "id": 4498785,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11003206",
+                        "maktx": "RUGBY 10G_15KG_AU",
+                        "id": 4498786,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008046",
+                        "maktx": "RUGBY 10G_15KG_CL",
+                        "id": 4498787,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008001",
+                        "maktx": "RUGBY 10GR_10KG_MX",
+                        "id": 4498788,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008048",
+                        "maktx": "RUGBY 10G_15KG_PE_FARMAGRO",
+                        "id": 4498789,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008644",
+                        "maktx": "RUGBY 10G_15KG_EC",
+                        "id": 4498790,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008015",
+                        "maktx": "RUGBY 10G_15KG_CO",
+                        "id": 4498791,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008053",
+                        "maktx": "RUGBY 10GR_15KG_NI",
+                        "id": 4498792,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11009053",
+                        "maktx": "RUGBY 10G_1KG_EC",
+                        "id": 4498793,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "12001868",
+                        "maktx": "CAD 100GR_WY_VIAK",
+                        "id": 4498794,
+                        "reportDataId": 28047
+                    },
+                    {
+                        "matnr": "11008039",
+                        "maktx": "RUGBY 10GR_15KG_DO",
+                        "id": 4498795,
+                        "reportDataId": 28047
+                    }
+                ],
+                "id": 28047
+            },
+            {
+                "pdfname": "50002158_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50002158",
+                "path": "\\\\172.18.22.6\\sds_external/50002158_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "RUGBY\u00ae 10 G",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CADUSAFOS 10 WT% GR (W/ CU-NAPHTH)",
+                "casnumber": "",
+                "commercialnames": "CAD 10 GR (v4, W/ CU-NAPHTH)",
+                "cmr": "",
+                "publishdate": "02/09/2026",
+                "iupac": "",
+                "incode": "VNL66",
+                "ehsversionno": "3.1",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO004447",
+                "legacysdsid": "",
+                "revisiondate": "02/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008311",
+                        "maktx": "RUGBY 10GR_15KG_MUL",
+                        "id": 4498796,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11003206",
+                        "maktx": "RUGBY 10G_15KG_AU",
+                        "id": 4498797,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008046",
+                        "maktx": "RUGBY 10G_15KG_CL",
+                        "id": 4498798,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008001",
+                        "maktx": "RUGBY 10GR_10KG_MX",
+                        "id": 4498799,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008048",
+                        "maktx": "RUGBY 10G_15KG_PE_FARMAGRO",
+                        "id": 4498800,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008644",
+                        "maktx": "RUGBY 10G_15KG_EC",
+                        "id": 4498801,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008015",
+                        "maktx": "RUGBY 10G_15KG_CO",
+                        "id": 4498802,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008053",
+                        "maktx": "RUGBY 10GR_15KG_NI",
+                        "id": 4498803,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11009053",
+                        "maktx": "RUGBY 10G_1KG_EC",
+                        "id": 4498804,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "12001868",
+                        "maktx": "CAD 100GR_WY_VIAK",
+                        "id": 4498805,
+                        "reportDataId": 28048
+                    },
+                    {
+                        "matnr": "11008039",
+                        "maktx": "RUGBY 10GR_15KG_DO",
+                        "id": 4498806,
+                        "reportDataId": 28048
+                    }
+                ],
+                "id": 28048
+            },
+            {
+                "pdfname": "50001908_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001908",
+                "path": "\\\\172.18.22.6\\sds_external/50001908_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "Proleaf Rock",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0056 (CHILD)",
+                "cmr": "",
+                "publishdate": "02/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "NP-0056",
+                "legacysdsid": "NP-0056-1-A",
+                "revisiondate": "02/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000416",
+                        "maktx": "PROLEAF ROCK_5L_GB_FRONTIER",
+                        "id": 4498809,
+                        "reportDataId": 28049
+                    }
+                ],
+                "id": 28049
             }
         ],
         "isExportToExcel": false
