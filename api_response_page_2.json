@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6217,
+        "totalCount": 6220,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,218 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001286_SDS_NZ_6N.PDF",
-                "specificationid": "50001286",
-                "path": "\\\\172.18.22.6\\sds_external/50001286_SDS_NZ_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_NZ",
-                "authorizedportal": "P3",
-                "productname": "FYFANON\u00ae 440 EW",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "FYF 440 g/L EW (v2)",
-                "cmr": "",
-                "publishdate": "11/27/2024",
-                "iupac": "",
-                "incode": "15639",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "NZ",
-                "validityareadescription": "New Zealand",
-                "legacyspecid": "FO002194",
-                "legacysdsid": "",
-                "revisiondate": "11/27/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003919",
-                        "maktx": "ACUAFIN 440EW_1L_CO",
-                        "id": 2756490,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "12000227",
-                        "maktx": "FYF 440EW_MX RU_RO_RO",
-                        "id": 2756491,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001390",
-                        "maktx": "FYFANON 440EW_5L_RO",
-                        "id": 2756492,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11010801",
-                        "maktx": "FYFANON 440EW_1L_TR",
-                        "id": 2756493,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11003076",
-                        "maktx": "FYFANON_20L_AR",
-                        "id": 2756494,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001082",
-                        "maktx": "FYFANON 440EW_10L_AU",
-                        "id": 2756495,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001433",
-                        "maktx": "FYFANON 440EW_10L_PL",
-                        "id": 2756496,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11002959",
-                        "maktx": "SMART EW_5L_ES",
-                        "id": 2756497,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001473",
-                        "maktx": "MALATHION 440EW_200L_EC",
-                        "id": 2756498,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11003427",
-                        "maktx": "ACUAFIN 400_250CC_EC",
-                        "id": 2756499,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11005847",
-                        "maktx": "FYF 440EW_955L_MUL",
-                        "id": 2756500,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "12005543",
-                        "maktx": "FYF 440EW_1000L_MX RU_RO_RO",
-                        "id": 2756501,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001816",
-                        "maktx": "FYFANON 440EW_1L_TR",
-                        "id": 2756502,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001389",
-                        "maktx": "FYFANON 440EW_5L_FR",
-                        "id": 2756503,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001083",
-                        "maktx": "NOVACTION_5L_BY_RU",
-                        "id": 2756504,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11008931",
-                        "maktx": "FYFANON_1L_AR",
-                        "id": 2756505,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "12000282",
-                        "maktx": "FYF 440EW_TC_MX RU_RO_RO",
-                        "id": 2756506,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11004085",
-                        "maktx": "ACUAFIN 440EW_20L_CO",
-                        "id": 2756507,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11010831",
-                        "maktx": "SMART 440EW_1L_IT",
-                        "id": 2756508,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11005177",
-                        "maktx": "FYFANON,440EW,4X5L,D#AT ZITRO",
-                        "id": 2756509,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11001553",
-                        "maktx": "FYFANON 440EW_1L_AU",
-                        "id": 2756510,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11014031",
-                        "maktx": "FUFANON EXPERT EW_10L_RU",
-                        "id": 2756511,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11000970",
-                        "maktx": "FUFANON SUPER EW_1L_MUL",
-                        "id": 2756512,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "12000507",
-                        "maktx": "FYF 440EW_200L_RO_RO",
-                        "id": 2756513,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11009131",
-                        "maktx": "FUFANON EXPERT EW_5L_RU",
-                        "id": 2756514,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11000050",
-                        "maktx": "FYFANON 440EW_1L_CO",
-                        "id": 2756515,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11000896",
-                        "maktx": "FYFANON 440EW_20L_MX",
-                        "id": 2756516,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11000980",
-                        "maktx": "FYFANON 440EW_10L_NZ",
-                        "id": 2756517,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11008862",
-                        "maktx": "ACUAFIN 400_1L_EC",
-                        "id": 2756518,
-                        "reportDataId": 26788
-                    },
-                    {
-                        "matnr": "11016590",
-                        "maktx": "FYFANON SP 44EW_10L_PE_ENVU",
-                        "id": 2756519,
-                        "reportDataId": 26788
-                    }
-                ],
-                "id": 26788
-            },
             {
                 "pdfname": "50000040_SDS_DK_6N.PDF",
                 "specificationid": "50000040",
@@ -30906,78 +30694,78 @@
                 "casnumber": "",
                 "commercialnames": "NP-0008",
                 "cmr": "",
-                "publishdate": "01/31/2025",
+                "publishdate": "02/10/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "NZ",
                 "validityareadescription": "New Zealand",
                 "legacyspecid": "NP-0008",
                 "legacysdsid": "NP-0008",
-                "revisiondate": "01/31/2025",
+                "revisiondate": "02/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014888",
-                        "maktx": "JETT_10L_FI",
-                        "id": 2443964,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "12000312",
-                        "maktx": "MN 20SL_FL_ALL",
-                        "id": 2443965,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11002133",
-                        "maktx": "JETT_10L_NZ_LONZ",
-                        "id": 2443966,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11001772",
-                        "maktx": "JETT_1000L_GB",
-                        "id": 2443967,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11002061",
-                        "maktx": "JETT_10L_GB",
-                        "id": 2443968,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11001773",
-                        "maktx": "CROPLINK MN 210_10L_IE",
-                        "id": 2443969,
-                        "reportDataId": 26952
-                    },
-                    {
                         "matnr": "11015010",
                         "maktx": "MANGANESE EXTRA_600L_GB_FRONTIER",
-                        "id": 2443970,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11002093",
-                        "maktx": "CROPLINK MN 210_1000L_IE",
-                        "id": 2443971,
-                        "reportDataId": 26952
-                    },
-                    {
-                        "matnr": "11014731",
-                        "maktx": "JETT_10L_IE",
-                        "id": 2443972,
+                        "id": 4498852,
                         "reportDataId": 26952
                     },
                     {
                         "matnr": "11002022",
                         "maktx": "JETT_600L_GB",
-                        "id": 2443973,
+                        "id": 4498853,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11001772",
+                        "maktx": "JETT_1000L_GB",
+                        "id": 4498854,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "12000312",
+                        "maktx": "MN 20SL_FL_ALL",
+                        "id": 4498855,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11014888",
+                        "maktx": "JETT_10L_FI",
+                        "id": 4498856,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11002133",
+                        "maktx": "JETT_10L_NZ_LONZ",
+                        "id": 4498857,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11014731",
+                        "maktx": "JETT_10L_IE",
+                        "id": 4498858,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11002061",
+                        "maktx": "JETT_10L_GB",
+                        "id": 4498859,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11002093",
+                        "maktx": "CROPLINK MN 210_1000L_IE",
+                        "id": 4498860,
+                        "reportDataId": 26952
+                    },
+                    {
+                        "matnr": "11001773",
+                        "maktx": "CROPLINK MN 210_10L_IE",
+                        "id": 4498861,
                         "reportDataId": 26952
                     }
                 ],
@@ -36969,31 +36757,25 @@
                     {
                         "matnr": "11016834",
                         "maktx": "MADOKA 100SC_1L_PL",
-                        "id": 4462332,
+                        "id": 4498818,
                         "reportDataId": 26992
                     },
                     {
                         "matnr": "11016845",
                         "maktx": "MADOKA 100SC_5L_PL",
-                        "id": 4462333,
-                        "reportDataId": 26992
-                    },
-                    {
-                        "matnr": "11016444",
-                        "maktx": "MADOKA_5L_ES",
-                        "id": 4462334,
+                        "id": 4498819,
                         "reportDataId": 26992
                     },
                     {
                         "matnr": "11016086",
                         "maktx": "MADOKA PLUS_5L_IT",
-                        "id": 4462335,
+                        "id": 4498820,
                         "reportDataId": 26992
                     },
                     {
-                        "matnr": "11017164",
-                        "maktx": "MADOKA PRO_5L_HU",
-                        "id": 4462336,
+                        "matnr": "11016444",
+                        "maktx": "MADOKA_5L_ES",
+                        "id": 4498821,
                         "reportDataId": 26992
                     }
                 ],
@@ -254684,42 +254466,42 @@
                 "casnumber": "",
                 "commercialnames": "IXC 150 g/L SC (KN128)",
                 "cmr": "",
-                "publishdate": "02/09/2026",
+                "publishdate": "02/10/2026",
                 "iupac": "",
                 "incode": "KN128",
-                "ehsversionno": "2.0",
+                "ehsversionno": "2.1",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "02/09/2026",
+                "revisiondate": "02/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016781",
-                        "maktx": "AVATAR EVO_10L_BR",
-                        "id": 4498777,
-                        "reportDataId": 28045
-                    },
-                    {
-                        "matnr": "11016734",
-                        "maktx": "AVATAR EVO_5L_BR",
-                        "id": 4498778,
+                        "matnr": "11016741",
+                        "maktx": "AVATAR EVO_1L_BR",
+                        "id": 4498810,
                         "reportDataId": 28045
                     },
                     {
                         "matnr": "12006672",
                         "maktx": "IXC 150SC_UB_ALL",
-                        "id": 4498779,
+                        "id": 4498811,
                         "reportDataId": 28045
                     },
                     {
-                        "matnr": "11016741",
-                        "maktx": "AVATAR EVO_1L_BR",
-                        "id": 4498780,
+                        "matnr": "11016734",
+                        "maktx": "AVATAR EVO_5L_BR",
+                        "id": 4498812,
+                        "reportDataId": 28045
+                    },
+                    {
+                        "matnr": "11016781",
+                        "maktx": "AVATAR EVO_10L_BR",
+                        "id": 4498813,
                         "reportDataId": 28045
                     }
                 ],
@@ -254740,42 +254522,42 @@
                 "casnumber": "",
                 "commercialnames": "IXC 150 g/L SC (KN128)",
                 "cmr": "",
-                "publishdate": "02/09/2026",
+                "publishdate": "02/10/2026",
                 "iupac": "",
                 "incode": "KN128",
-                "ehsversionno": "2.0",
+                "ehsversionno": "2.1",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "02/09/2026",
+                "revisiondate": "02/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016781",
-                        "maktx": "AVATAR EVO_10L_BR",
-                        "id": 4498781,
-                        "reportDataId": 28046
-                    },
-                    {
-                        "matnr": "11016734",
-                        "maktx": "AVATAR EVO_5L_BR",
-                        "id": 4498782,
+                        "matnr": "11016741",
+                        "maktx": "AVATAR EVO_1L_BR",
+                        "id": 4498814,
                         "reportDataId": 28046
                     },
                     {
                         "matnr": "12006672",
                         "maktx": "IXC 150SC_UB_ALL",
-                        "id": 4498783,
+                        "id": 4498815,
                         "reportDataId": 28046
                     },
                     {
-                        "matnr": "11016741",
-                        "maktx": "AVATAR EVO_1L_BR",
-                        "id": 4498784,
+                        "matnr": "11016734",
+                        "maktx": "AVATAR EVO_5L_BR",
+                        "id": 4498816,
+                        "reportDataId": 28046
+                    },
+                    {
+                        "matnr": "11016781",
+                        "maktx": "AVATAR EVO_10L_BR",
+                        "id": 4498817,
                         "reportDataId": 28046
                     }
                 ],
@@ -255014,6 +254796,368 @@
                     }
                 ],
                 "id": 28049
+            },
+            {
+                "pdfname": "50001135_SDS_IE_6N.PDF",
+                "specificationid": "50001135",
+                "path": "\\\\172.18.22.6\\sds_external/50001135_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "SULPHUR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0049",
+                "cmr": "",
+                "publishdate": "02/10/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0049",
+                "legacysdsid": "NP-0049",
+                "revisiondate": "02/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013981",
+                        "maktx": "SULPHUR_1000L_GB",
+                        "id": 4498875,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11002195",
+                        "maktx": "SIERA_10L_LT LV_AGKO",
+                        "id": 4498876,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11002590",
+                        "maktx": "FOLY SULPHUR 800_1L_TR",
+                        "id": 4498877,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11001855",
+                        "maktx": "TIVO S_10L_LV_AUGU",
+                        "id": 4498878,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11003340",
+                        "maktx": "FULGRO 80WDG_25KG_PK",
+                        "id": 4498879,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "12000133",
+                        "maktx": "S 80SC_FL_ALL",
+                        "id": 4498880,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11015191",
+                        "maktx": "SULPHUR_10L_BE",
+                        "id": 4498881,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11001951",
+                        "maktx": "SULPHUR_10L_GB",
+                        "id": 4498882,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "21000514",
+                        "maktx": "SULPHUR 80%WDG_25KG",
+                        "id": 4498883,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11005481",
+                        "maktx": "FOLY SULPHUR 800_5L_TR",
+                        "id": 4498884,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11003240",
+                        "maktx": "FULGRO 80WDG_1KG_PK",
+                        "id": 4498885,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11014481",
+                        "maktx": "SIERA_10L_LT_AGROKONCERNAS",
+                        "id": 4498886,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11001953",
+                        "maktx": "SULPHUR_10L_IE",
+                        "id": 4498887,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11001952",
+                        "maktx": "SULPHUR_10L_BG",
+                        "id": 4498888,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11002567",
+                        "maktx": "SULPHUR_10L_RO",
+                        "id": 4498889,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11005246",
+                        "maktx": "SULPHUR 80WDG_1KG_PK",
+                        "id": 4498890,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11003335",
+                        "maktx": "FULGRO 80WDG_500G_PK",
+                        "id": 4498891,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11002371",
+                        "maktx": "PHYTOGREEN SCHWEFEL800_1000L_DE_PHYTOSOL",
+                        "id": 4498892,
+                        "reportDataId": 28050
+                    },
+                    {
+                        "matnr": "11005275",
+                        "maktx": "SULPHUR 80WDG_25KG_PK",
+                        "id": 4498893,
+                        "reportDataId": 28050
+                    }
+                ],
+                "id": 28050
+            },
+            {
+                "pdfname": "50001136_SDS_IE_6N.PDF",
+                "specificationid": "50001136",
+                "path": "\\\\172.18.22.6\\sds_external/50001136_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "COPPER",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0050",
+                "cmr": "",
+                "publishdate": "02/10/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0050",
+                "legacysdsid": "NP-0050",
+                "revisiondate": "02/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009290",
+                        "maktx": "CUIVRE 435_10L_FR",
+                        "id": 4498894,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11002666",
+                        "maktx": "FOLY COPPER 435_1L_TR",
+                        "id": 4498895,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11002385",
+                        "maktx": "PHYTOGREEN-CU256_1000L_DE",
+                        "id": 4498896,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11016495",
+                        "maktx": "COPPER_5L_PL",
+                        "id": 4498897,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11014746",
+                        "maktx": "COPPER_5L_IE",
+                        "id": 4498898,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11015647",
+                        "maktx": "KOPER FMC_10L_NL",
+                        "id": 4498899,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11015857",
+                        "maktx": "VYTEGRIS COPPER_5L_BE",
+                        "id": 4498900,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11016926",
+                        "maktx": "COPPER_1L_PL",
+                        "id": 4498901,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11001955",
+                        "maktx": "COPPER_600L_GB",
+                        "id": 4498902,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11001763",
+                        "maktx": "KOPER FL_10L_NL_AGVI",
+                        "id": 4498903,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11004557",
+                        "maktx": "MID_10L_UA_SPEC AG",
+                        "id": 4498904,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11002233",
+                        "maktx": "COPPER_10L_BG",
+                        "id": 4498905,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "12000219",
+                        "maktx": "COX 435SC_FL",
+                        "id": 4498906,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11002085",
+                        "maktx": "COPPER 435_5L_TZ KE_TRI-HYG",
+                        "id": 4498907,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11001954",
+                        "maktx": "COPPER_5L_GB",
+                        "id": 4498908,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11001957",
+                        "maktx": "COPPER_1000L_GB",
+                        "id": 4498909,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11002097",
+                        "maktx": "COPPER 435_5L_ES",
+                        "id": 4498910,
+                        "reportDataId": 28051
+                    },
+                    {
+                        "matnr": "11014255",
+                        "maktx": "THYPAAN COPPER 435_1L_TR",
+                        "id": 4498911,
+                        "reportDataId": 28051
+                    }
+                ],
+                "id": 28051
+            },
+            {
+                "pdfname": "50001933_EXT_SDS_IE_6N.PDF",
+                "specificationid": "50001933",
+                "path": "\\\\172.18.22.6\\sds_external/50001933_EXT_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "Phos Plus MnZ",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0143 (CHILD)",
+                "cmr": "",
+                "publishdate": "02/10/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0143",
+                "legacysdsid": "NP-0143-1-A",
+                "revisiondate": "02/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009464",
+                        "maktx": "PHOS PLUS MNZ_10L_GB",
+                        "id": 4498916,
+                        "reportDataId": 28052
+                    }
+                ],
+                "id": 28052
+            },
+            {
+                "pdfname": "50001933_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50001933",
+                "path": "\\\\172.18.22.6\\sds_external/50001933_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "Phos Plus MnZ",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0143 (CHILD)",
+                "cmr": "",
+                "publishdate": "02/10/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "NP-0143",
+                "legacysdsid": "NP-0143-1-A",
+                "revisiondate": "02/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009464",
+                        "maktx": "PHOS PLUS MNZ_10L_GB",
+                        "id": 4498917,
+                        "reportDataId": 28053
+                    }
+                ],
+                "id": 28053
             }
         ],
         "isExportToExcel": false
