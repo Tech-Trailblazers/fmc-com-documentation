@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6220,
+        "totalCount": 6228,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -12685,261 +12685,255 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 4330091,
-                        "reportDataId": 26872
-                    },
-                    {
                         "matnr": "11002176",
                         "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 4330092,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 4330093,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 4330094,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11017060",
-                        "maktx": "FENOVA SUPER 069EW_5L_PL",
-                        "id": 4330095,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 4330096,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 4330097,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 4330098,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 4330099,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 4330100,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 4330101,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 4330102,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 4330103,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 4330104,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 4330105,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 4330106,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 4330107,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 4330108,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 4330109,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 4330110,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 4330111,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 4330112,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 4330113,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 4330114,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 4330115,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 4330116,
+                        "id": 4500114,
                         "reportDataId": 26872
                     },
                     {
                         "matnr": "11015133",
                         "maktx": "FOXTROT EW_5L_GB",
-                        "id": 4330117,
+                        "id": 4500115,
                         "reportDataId": 26872
                     },
                     {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 4330118,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 4330119,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 4330120,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 4330121,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 4330122,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 4330123,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 4330124,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 4330125,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 4330126,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 4330127,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 4330128,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 4330129,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 4330130,
-                        "reportDataId": 26872
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 4330131,
+                        "matnr": "11001123",
+                        "maktx": "FENOVA SUPER_5L_ES",
+                        "id": 4500116,
                         "reportDataId": 26872
                     },
                     {
                         "matnr": "11010286",
                         "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 4330132,
+                        "id": 4500117,
                         "reportDataId": 26872
                     },
                     {
                         "matnr": "11001272",
                         "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 4330133,
+                        "id": 4500118,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11000367",
+                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
+                        "id": 4500119,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11005454",
+                        "maktx": "FOXTROT_1L_IT",
+                        "id": 4500120,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11015432",
+                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
+                        "id": 4500121,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001256",
+                        "maktx": "FOXTROT_2.5L_IE",
+                        "id": 4500122,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001062",
+                        "maktx": "STARPROP_1L_IT",
+                        "id": 4500123,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11002192",
+                        "maktx": "FOXTROT EXTRA_5L_AR",
+                        "id": 4500124,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001063",
+                        "maktx": "FOXTROT 69EW_1L_BG",
+                        "id": 4500125,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001340",
+                        "maktx": "FENOVA SUPER_5L_CZ",
+                        "id": 4500126,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11000964",
+                        "maktx": "FOXTROT EW_10L_MUL",
+                        "id": 4500127,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001151",
+                        "maktx": "FOXTROT_3L_GB",
+                        "id": 4500128,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11003092",
+                        "maktx": "FENOVA SUPER_1L_RO",
+                        "id": 4500129,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "12000224",
+                        "maktx": "FPE 69-CME 35EW_RO_RO",
+                        "id": 4500130,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001562",
+                        "maktx": "ARSOL_5L_ES_GOWA",
+                        "id": 4500131,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "12005770",
+                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
+                        "id": 4500132,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11013748",
+                        "maktx": "FOXTROT_5L_FI",
+                        "id": 4500133,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "12000418",
+                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
+                        "id": 4500134,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001839",
+                        "maktx": "FOXTROT_10L_AU",
+                        "id": 4500135,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001060",
+                        "maktx": "FOXTROT_5L_DK",
+                        "id": 4500136,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001061",
+                        "maktx": "FOXTROT 069EW_1L_PL",
+                        "id": 4500137,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11010330",
+                        "maktx": "FOXTROT_5L_BE",
+                        "id": 4500138,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001236",
+                        "maktx": "FOXTROT_5L_ES_PROP",
+                        "id": 4500139,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001596",
+                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
+                        "id": 4500140,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001135",
+                        "maktx": "FENOVA SUPER_5L_FR_DES",
+                        "id": 4500141,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001125",
+                        "maktx": "FOXTROT_10L_BY",
+                        "id": 4500142,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001213",
+                        "maktx": "FOXTROT_5L_SE",
+                        "id": 4500143,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001908",
+                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
+                        "id": 4500144,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001477",
+                        "maktx": "FOXTROT_1L_MK_ATPO",
+                        "id": 4500145,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001385",
+                        "maktx": "FOXTROT EW_5L_HU",
+                        "id": 4500146,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11014455",
+                        "maktx": "FENOVA SUPER_5L_FR",
+                        "id": 4500147,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001126",
+                        "maktx": "FOXTROT_5L_BE_CERTIS",
+                        "id": 4500148,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11013760",
+                        "maktx": "FOXTROT EW_10L_RU KZ",
+                        "id": 4500149,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11014131",
+                        "maktx": "FOXTROT_1L_MK_RADOMAK",
+                        "id": 4500150,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11004470",
+                        "maktx": "FOXTROT 69EW_5L_BG",
+                        "id": 4500151,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11000965",
+                        "maktx": "FOXTROT 69EW_5L_PL",
+                        "id": 4500152,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001088",
+                        "maktx": "FOXTROT_10L_NZ",
+                        "id": 4500153,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11001528",
+                        "maktx": "FENOVA SUPER_5L_SK",
+                        "id": 4500154,
+                        "reportDataId": 26872
+                    },
+                    {
+                        "matnr": "11014845",
+                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
+                        "id": 4500155,
                         "reportDataId": 26872
                     }
                 ],
@@ -63467,261 +63461,255 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 4329661,
-                        "reportDataId": 27062
-                    },
-                    {
                         "matnr": "11002176",
                         "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 4329662,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 4329663,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 4329664,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11017060",
-                        "maktx": "FENOVA SUPER 069EW_5L_PL",
-                        "id": 4329665,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 4329666,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 4329667,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 4329668,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 4329669,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 4329670,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 4329671,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 4329672,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 4329673,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 4329674,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 4329675,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 4329676,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 4329677,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 4329678,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 4329679,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 4329680,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 4329681,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 4329682,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 4329683,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 4329684,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 4329685,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 4329686,
+                        "id": 4500198,
                         "reportDataId": 27062
                     },
                     {
                         "matnr": "11015133",
                         "maktx": "FOXTROT EW_5L_GB",
-                        "id": 4329687,
+                        "id": 4500199,
                         "reportDataId": 27062
                     },
                     {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 4329688,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 4329689,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 4329690,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 4329691,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 4329692,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 4329693,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 4329694,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 4329695,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 4329696,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 4329697,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 4329698,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 4329699,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 4329700,
-                        "reportDataId": 27062
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 4329701,
+                        "matnr": "11001123",
+                        "maktx": "FENOVA SUPER_5L_ES",
+                        "id": 4500200,
                         "reportDataId": 27062
                     },
                     {
                         "matnr": "11010286",
                         "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 4329702,
+                        "id": 4500201,
                         "reportDataId": 27062
                     },
                     {
                         "matnr": "11001272",
                         "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 4329703,
+                        "id": 4500202,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11000367",
+                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
+                        "id": 4500203,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11005454",
+                        "maktx": "FOXTROT_1L_IT",
+                        "id": 4500204,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11015432",
+                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
+                        "id": 4500205,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001256",
+                        "maktx": "FOXTROT_2.5L_IE",
+                        "id": 4500206,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001062",
+                        "maktx": "STARPROP_1L_IT",
+                        "id": 4500207,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11002192",
+                        "maktx": "FOXTROT EXTRA_5L_AR",
+                        "id": 4500208,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001063",
+                        "maktx": "FOXTROT 69EW_1L_BG",
+                        "id": 4500209,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001340",
+                        "maktx": "FENOVA SUPER_5L_CZ",
+                        "id": 4500210,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11000964",
+                        "maktx": "FOXTROT EW_10L_MUL",
+                        "id": 4500211,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001151",
+                        "maktx": "FOXTROT_3L_GB",
+                        "id": 4500212,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11003092",
+                        "maktx": "FENOVA SUPER_1L_RO",
+                        "id": 4500213,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "12000224",
+                        "maktx": "FPE 69-CME 35EW_RO_RO",
+                        "id": 4500214,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001562",
+                        "maktx": "ARSOL_5L_ES_GOWA",
+                        "id": 4500215,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "12005770",
+                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
+                        "id": 4500216,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11013748",
+                        "maktx": "FOXTROT_5L_FI",
+                        "id": 4500217,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "12000418",
+                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
+                        "id": 4500218,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001839",
+                        "maktx": "FOXTROT_10L_AU",
+                        "id": 4500219,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001060",
+                        "maktx": "FOXTROT_5L_DK",
+                        "id": 4500220,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001061",
+                        "maktx": "FOXTROT 069EW_1L_PL",
+                        "id": 4500221,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11010330",
+                        "maktx": "FOXTROT_5L_BE",
+                        "id": 4500222,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001236",
+                        "maktx": "FOXTROT_5L_ES_PROP",
+                        "id": 4500223,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001596",
+                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
+                        "id": 4500224,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001135",
+                        "maktx": "FENOVA SUPER_5L_FR_DES",
+                        "id": 4500225,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001125",
+                        "maktx": "FOXTROT_10L_BY",
+                        "id": 4500226,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001213",
+                        "maktx": "FOXTROT_5L_SE",
+                        "id": 4500227,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001908",
+                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
+                        "id": 4500228,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001477",
+                        "maktx": "FOXTROT_1L_MK_ATPO",
+                        "id": 4500229,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001385",
+                        "maktx": "FOXTROT EW_5L_HU",
+                        "id": 4500230,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11014455",
+                        "maktx": "FENOVA SUPER_5L_FR",
+                        "id": 4500231,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001126",
+                        "maktx": "FOXTROT_5L_BE_CERTIS",
+                        "id": 4500232,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11013760",
+                        "maktx": "FOXTROT EW_10L_RU KZ",
+                        "id": 4500233,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11014131",
+                        "maktx": "FOXTROT_1L_MK_RADOMAK",
+                        "id": 4500234,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11004470",
+                        "maktx": "FOXTROT 69EW_5L_BG",
+                        "id": 4500235,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11000965",
+                        "maktx": "FOXTROT 69EW_5L_PL",
+                        "id": 4500236,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001088",
+                        "maktx": "FOXTROT_10L_NZ",
+                        "id": 4500237,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11001528",
+                        "maktx": "FENOVA SUPER_5L_SK",
+                        "id": 4500238,
+                        "reportDataId": 27062
+                    },
+                    {
+                        "matnr": "11014845",
+                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
+                        "id": 4500239,
                         "reportDataId": 27062
                     }
                 ],
@@ -63757,117 +63745,111 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11017039",
-                        "maktx": "FENOVA SUPER 069EW_1L_PL",
-                        "id": 4330248,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014193",
-                        "maktx": "FOXTROT_5L_CZ_AGNOVACHEM",
-                        "id": 4330249,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014452",
-                        "maktx": "FOXTROT_5L_FR",
-                        "id": 4330250,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11015134",
-                        "maktx": "OSKAR_5L_GB",
-                        "id": 4330251,
-                        "reportDataId": 27063
-                    },
-                    {
                         "matnr": "11001149",
                         "maktx": "OSKAR_3L_GB_AGRII",
-                        "id": 4330252,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11002198",
-                        "maktx": "FOXTROT_5L_CZ",
-                        "id": 4330253,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11002354",
-                        "maktx": "FOXTROT_5L_SK",
-                        "id": 4330254,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014361",
-                        "maktx": "FOXTROT 69EW_5L_RO",
-                        "id": 4330255,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11005779",
-                        "maktx": "FPE 69-CME 35EW_900L_MUL",
-                        "id": 4330256,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11015135",
-                        "maktx": "FOXTROT EW_5L_IE",
-                        "id": 4330257,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "12000276",
-                        "maktx": "FPE 69-CME 35EW_900L_RO_RO",
-                        "id": 4330258,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11015308",
-                        "maktx": "FOXTROT_1L_MK_SEMENARSTVO",
-                        "id": 4330259,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11001424",
-                        "maktx": "NORTON 069EW_1L_PL",
-                        "id": 4330260,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11002982",
-                        "maktx": "FOXTROT 69EW_1L_RO",
-                        "id": 4330261,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11001425",
-                        "maktx": "NORTON 069EW_5L_PL",
-                        "id": 4330262,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11014024",
-                        "maktx": "FOXTROT_1L_AL_AGROUNION",
-                        "id": 4330263,
-                        "reportDataId": 27063
-                    },
-                    {
-                        "matnr": "11016325",
-                        "maktx": "FENOVA SUPER_5L_CZ SK",
-                        "id": 4330264,
+                        "id": 4499026,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "12002230",
                         "maktx": "FPE 69-CME 35EW_900L_RO_FLAG",
-                        "id": 4330265,
+                        "id": 4499027,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11001424",
+                        "maktx": "NORTON 069EW_1L_PL",
+                        "id": 4499028,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11015308",
+                        "maktx": "FOXTROT_1L_MK_SEMENARSTVO",
+                        "id": 4499029,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11015134",
+                        "maktx": "OSKAR_5L_GB",
+                        "id": 4499030,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11005779",
+                        "maktx": "FPE 69-CME 35EW_900L_MUL",
+                        "id": 4499031,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014361",
+                        "maktx": "FOXTROT 69EW_5L_RO",
+                        "id": 4499032,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11015135",
+                        "maktx": "FOXTROT EW_5L_IE",
+                        "id": 4499033,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "12000276",
+                        "maktx": "FPE 69-CME 35EW_900L_RO_RO",
+                        "id": 4499034,
                         "reportDataId": 27063
                     },
                     {
                         "matnr": "11013452",
                         "maktx": "FOXTROT_1L_RS",
-                        "id": 4330266,
+                        "id": 4499035,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11002198",
+                        "maktx": "FOXTROT_5L_CZ",
+                        "id": 4499036,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014024",
+                        "maktx": "FOXTROT_1L_AL_AGROUNION",
+                        "id": 4499037,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014452",
+                        "maktx": "FOXTROT_5L_FR",
+                        "id": 4499038,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11016325",
+                        "maktx": "FENOVA SUPER_5L_CZ SK",
+                        "id": 4499039,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11014193",
+                        "maktx": "FOXTROT_5L_CZ_AGNOVACHEM",
+                        "id": 4499040,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11001425",
+                        "maktx": "NORTON 069EW_5L_PL",
+                        "id": 4499041,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11002982",
+                        "maktx": "FOXTROT 69EW_1L_RO",
+                        "id": 4499042,
+                        "reportDataId": 27063
+                    },
+                    {
+                        "matnr": "11002354",
+                        "maktx": "FOXTROT_5L_SK",
+                        "id": 4499043,
                         "reportDataId": 27063
                     }
                 ],
@@ -98365,261 +98347,255 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 4329704,
-                        "reportDataId": 27119
-                    },
-                    {
                         "matnr": "11002176",
                         "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 4329705,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 4329706,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 4329707,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11017060",
-                        "maktx": "FENOVA SUPER 069EW_5L_PL",
-                        "id": 4329708,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 4329709,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 4329710,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 4329711,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 4329712,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 4329713,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 4329714,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 4329715,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 4329716,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 4329717,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 4329718,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 4329719,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 4329720,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 4329721,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 4329722,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 4329723,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 4329724,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 4329725,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 4329726,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 4329727,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 4329728,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 4329729,
+                        "id": 4500240,
                         "reportDataId": 27119
                     },
                     {
                         "matnr": "11015133",
                         "maktx": "FOXTROT EW_5L_GB",
-                        "id": 4329730,
+                        "id": 4500241,
                         "reportDataId": 27119
                     },
                     {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 4329731,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 4329732,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 4329733,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 4329734,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 4329735,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 4329736,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 4329737,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 4329738,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 4329739,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 4329740,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 4329741,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 4329742,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 4329743,
-                        "reportDataId": 27119
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 4329744,
+                        "matnr": "11001123",
+                        "maktx": "FENOVA SUPER_5L_ES",
+                        "id": 4500242,
                         "reportDataId": 27119
                     },
                     {
                         "matnr": "11010286",
                         "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 4329745,
+                        "id": 4500243,
                         "reportDataId": 27119
                     },
                     {
                         "matnr": "11001272",
                         "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 4329746,
+                        "id": 4500244,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11000367",
+                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
+                        "id": 4500245,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11005454",
+                        "maktx": "FOXTROT_1L_IT",
+                        "id": 4500246,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11015432",
+                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
+                        "id": 4500247,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001256",
+                        "maktx": "FOXTROT_2.5L_IE",
+                        "id": 4500248,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001062",
+                        "maktx": "STARPROP_1L_IT",
+                        "id": 4500249,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11002192",
+                        "maktx": "FOXTROT EXTRA_5L_AR",
+                        "id": 4500250,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001063",
+                        "maktx": "FOXTROT 69EW_1L_BG",
+                        "id": 4500251,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001340",
+                        "maktx": "FENOVA SUPER_5L_CZ",
+                        "id": 4500252,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11000964",
+                        "maktx": "FOXTROT EW_10L_MUL",
+                        "id": 4500253,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001151",
+                        "maktx": "FOXTROT_3L_GB",
+                        "id": 4500254,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11003092",
+                        "maktx": "FENOVA SUPER_1L_RO",
+                        "id": 4500255,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "12000224",
+                        "maktx": "FPE 69-CME 35EW_RO_RO",
+                        "id": 4500256,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001562",
+                        "maktx": "ARSOL_5L_ES_GOWA",
+                        "id": 4500257,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "12005770",
+                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
+                        "id": 4500258,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11013748",
+                        "maktx": "FOXTROT_5L_FI",
+                        "id": 4500259,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "12000418",
+                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
+                        "id": 4500260,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001839",
+                        "maktx": "FOXTROT_10L_AU",
+                        "id": 4500261,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001060",
+                        "maktx": "FOXTROT_5L_DK",
+                        "id": 4500262,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001061",
+                        "maktx": "FOXTROT 069EW_1L_PL",
+                        "id": 4500263,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11010330",
+                        "maktx": "FOXTROT_5L_BE",
+                        "id": 4500264,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001236",
+                        "maktx": "FOXTROT_5L_ES_PROP",
+                        "id": 4500265,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001596",
+                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
+                        "id": 4500266,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001135",
+                        "maktx": "FENOVA SUPER_5L_FR_DES",
+                        "id": 4500267,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001125",
+                        "maktx": "FOXTROT_10L_BY",
+                        "id": 4500268,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001213",
+                        "maktx": "FOXTROT_5L_SE",
+                        "id": 4500269,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001908",
+                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
+                        "id": 4500270,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001477",
+                        "maktx": "FOXTROT_1L_MK_ATPO",
+                        "id": 4500271,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001385",
+                        "maktx": "FOXTROT EW_5L_HU",
+                        "id": 4500272,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11014455",
+                        "maktx": "FENOVA SUPER_5L_FR",
+                        "id": 4500273,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001126",
+                        "maktx": "FOXTROT_5L_BE_CERTIS",
+                        "id": 4500274,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11013760",
+                        "maktx": "FOXTROT EW_10L_RU KZ",
+                        "id": 4500275,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11014131",
+                        "maktx": "FOXTROT_1L_MK_RADOMAK",
+                        "id": 4500276,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11004470",
+                        "maktx": "FOXTROT 69EW_5L_BG",
+                        "id": 4500277,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11000965",
+                        "maktx": "FOXTROT 69EW_5L_PL",
+                        "id": 4500278,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001088",
+                        "maktx": "FOXTROT_10L_NZ",
+                        "id": 4500279,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11001528",
+                        "maktx": "FENOVA SUPER_5L_SK",
+                        "id": 4500280,
+                        "reportDataId": 27119
+                    },
+                    {
+                        "matnr": "11014845",
+                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
+                        "id": 4500281,
                         "reportDataId": 27119
                     }
                 ],
@@ -99181,261 +99157,255 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001126",
-                        "maktx": "FOXTROT_5L_BE_CERTIS",
-                        "id": 4329747,
-                        "reportDataId": 27125
-                    },
-                    {
                         "matnr": "11002176",
                         "maktx": "FORTROT_200L_TN_AGRI",
-                        "id": 4329748,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11015432",
-                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
-                        "id": 4329749,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11014131",
-                        "maktx": "FOXTROT_1L_MK_RADOMAK",
-                        "id": 4329750,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11017060",
-                        "maktx": "FENOVA SUPER 069EW_5L_PL",
-                        "id": 4329751,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11014455",
-                        "maktx": "FENOVA SUPER_5L_FR",
-                        "id": 4329752,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001213",
-                        "maktx": "FOXTROT_5L_SE",
-                        "id": 4329753,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11000367",
-                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
-                        "id": 4329754,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11002192",
-                        "maktx": "FOXTROT EXTRA_5L_AR",
-                        "id": 4329755,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001125",
-                        "maktx": "FOXTROT_10L_BY",
-                        "id": 4329756,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11014845",
-                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
-                        "id": 4329757,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001088",
-                        "maktx": "FOXTROT_10L_NZ",
-                        "id": 4329758,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11005454",
-                        "maktx": "FOXTROT_1L_IT",
-                        "id": 4329759,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001256",
-                        "maktx": "FOXTROT_2.5L_IE",
-                        "id": 4329760,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001060",
-                        "maktx": "FOXTROT_5L_DK",
-                        "id": 4329761,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001340",
-                        "maktx": "FENOVA SUPER_5L_CZ",
-                        "id": 4329762,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001123",
-                        "maktx": "FENOVA SUPER_5L_ES",
-                        "id": 4329763,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001596",
-                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
-                        "id": 4329764,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "12000418",
-                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
-                        "id": 4329765,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001562",
-                        "maktx": "ARSOL_5L_ES_GOWA",
-                        "id": 4329766,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001151",
-                        "maktx": "FOXTROT_3L_GB",
-                        "id": 4329767,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001528",
-                        "maktx": "FENOVA SUPER_5L_SK",
-                        "id": 4329768,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001908",
-                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
-                        "id": 4329769,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11000964",
-                        "maktx": "FOXTROT EW_10L_MUL",
-                        "id": 4329770,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11010330",
-                        "maktx": "FOXTROT_5L_BE",
-                        "id": 4329771,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001061",
-                        "maktx": "FOXTROT 069EW_1L_PL",
-                        "id": 4329772,
+                        "id": 4500282,
                         "reportDataId": 27125
                     },
                     {
                         "matnr": "11015133",
                         "maktx": "FOXTROT EW_5L_GB",
-                        "id": 4329773,
+                        "id": 4500283,
                         "reportDataId": 27125
                     },
                     {
-                        "matnr": "11001477",
-                        "maktx": "FOXTROT_1L_MK_ATPO",
-                        "id": 4329774,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001236",
-                        "maktx": "FOXTROT_5L_ES_PROP",
-                        "id": 4329775,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "12000224",
-                        "maktx": "FPE 69-CME 35EW_RO_RO",
-                        "id": 4329776,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001063",
-                        "maktx": "FOXTROT 69EW_1L_BG",
-                        "id": 4329777,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11004470",
-                        "maktx": "FOXTROT 69EW_5L_BG",
-                        "id": 4329778,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11013748",
-                        "maktx": "FOXTROT_5L_FI",
-                        "id": 4329779,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001062",
-                        "maktx": "STARPROP_1L_IT",
-                        "id": 4329780,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001385",
-                        "maktx": "FOXTROT EW_5L_HU",
-                        "id": 4329781,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11013760",
-                        "maktx": "FOXTROT EW_10L_RU KZ",
-                        "id": 4329782,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "12005770",
-                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
-                        "id": 4329783,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11000965",
-                        "maktx": "FOXTROT 69EW_5L_PL",
-                        "id": 4329784,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001135",
-                        "maktx": "FENOVA SUPER_5L_FR_DES",
-                        "id": 4329785,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11001839",
-                        "maktx": "FOXTROT_10L_AU",
-                        "id": 4329786,
-                        "reportDataId": 27125
-                    },
-                    {
-                        "matnr": "11003092",
-                        "maktx": "FENOVA SUPER_1L_RO",
-                        "id": 4329787,
+                        "matnr": "11001123",
+                        "maktx": "FENOVA SUPER_5L_ES",
+                        "id": 4500284,
                         "reportDataId": 27125
                     },
                     {
                         "matnr": "11010286",
                         "maktx": "FOXTROT SUPER _1L_TR",
-                        "id": 4329788,
+                        "id": 4500285,
                         "reportDataId": 27125
                     },
                     {
                         "matnr": "11001272",
                         "maktx": "FOXTROT 69EW_5L_MUL",
-                        "id": 4329789,
+                        "id": 4500286,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11000367",
+                        "maktx": "FENOVA SUPER 6.9EW_1L_GR",
+                        "id": 4500287,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11005454",
+                        "maktx": "FOXTROT_1L_IT",
+                        "id": 4500288,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11015432",
+                        "maktx": "FOXTROT_1L_HR_CHROMOS AGRO",
+                        "id": 4500289,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001256",
+                        "maktx": "FOXTROT_2.5L_IE",
+                        "id": 4500290,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001062",
+                        "maktx": "STARPROP_1L_IT",
+                        "id": 4500291,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11002192",
+                        "maktx": "FOXTROT EXTRA_5L_AR",
+                        "id": 4500292,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001063",
+                        "maktx": "FOXTROT 69EW_1L_BG",
+                        "id": 4500293,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001340",
+                        "maktx": "FENOVA SUPER_5L_CZ",
+                        "id": 4500294,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11000964",
+                        "maktx": "FOXTROT EW_10L_MUL",
+                        "id": 4500295,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001151",
+                        "maktx": "FOXTROT_3L_GB",
+                        "id": 4500296,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11003092",
+                        "maktx": "FENOVA SUPER_1L_RO",
+                        "id": 4500297,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "12000224",
+                        "maktx": "FPE 69-CME 35EW_RO_RO",
+                        "id": 4500298,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001562",
+                        "maktx": "ARSOL_5L_ES_GOWA",
+                        "id": 4500299,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "12005770",
+                        "maktx": "FPE 69 + CME 35EW_900L_TR_RO_FLAG",
+                        "id": 4500300,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11013748",
+                        "maktx": "FOXTROT_5L_FI",
+                        "id": 4500301,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "12000418",
+                        "maktx": "FPE 69-CME 35EW_RO_FLAG",
+                        "id": 4500302,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001839",
+                        "maktx": "FOXTROT_10L_AU",
+                        "id": 4500303,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001060",
+                        "maktx": "FOXTROT_5L_DK",
+                        "id": 4500304,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001061",
+                        "maktx": "FOXTROT 069EW_1L_PL",
+                        "id": 4500305,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11010330",
+                        "maktx": "FOXTROT_5L_BE",
+                        "id": 4500306,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001236",
+                        "maktx": "FOXTROT_5L_ES_PROP",
+                        "id": 4500307,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001596",
+                        "maktx": "FOXTROT 69EW_1L_KE_JUAN",
+                        "id": 4500308,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001135",
+                        "maktx": "FENOVA SUPER_5L_FR_DES",
+                        "id": 4500309,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001125",
+                        "maktx": "FOXTROT_10L_BY",
+                        "id": 4500310,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001213",
+                        "maktx": "FOXTROT_5L_SE",
+                        "id": 4500311,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001908",
+                        "maktx": "FOXTROT 69EW_200L_TN_AGSY",
+                        "id": 4500312,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001477",
+                        "maktx": "FOXTROT_1L_MK_ATPO",
+                        "id": 4500313,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001385",
+                        "maktx": "FOXTROT EW_5L_HU",
+                        "id": 4500314,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11014455",
+                        "maktx": "FENOVA SUPER_5L_FR",
+                        "id": 4500315,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001126",
+                        "maktx": "FOXTROT_5L_BE_CERTIS",
+                        "id": 4500316,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11013760",
+                        "maktx": "FOXTROT EW_10L_RU KZ",
+                        "id": 4500317,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11014131",
+                        "maktx": "FOXTROT_1L_MK_RADOMAK",
+                        "id": 4500318,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11004470",
+                        "maktx": "FOXTROT 69EW_5L_BG",
+                        "id": 4500319,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11000965",
+                        "maktx": "FOXTROT 69EW_5L_PL",
+                        "id": 4500320,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001088",
+                        "maktx": "FOXTROT_10L_NZ",
+                        "id": 4500321,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11001528",
+                        "maktx": "FENOVA SUPER_5L_SK",
+                        "id": 4500322,
+                        "reportDataId": 27125
+                    },
+                    {
+                        "matnr": "11014845",
+                        "maktx": "FPE 69-CME 35EW_900L_GR CY",
+                        "id": 4500323,
                         "reportDataId": 27125
                     }
                 ],
@@ -250703,7 +250673,14 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [],
+                "materials": [
+                    {
+                        "matnr": "11017195",
+                        "maktx": "KUPFER 253 SC_5L_DE",
+                        "id": 4500410,
+                        "reportDataId": 28013
+                    }
+                ],
                 "id": 28013
             },
             {
@@ -250734,7 +250711,14 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [],
+                "materials": [
+                    {
+                        "matnr": "11017195",
+                        "maktx": "KUPFER 253 SC_5L_DE",
+                        "id": 4500411,
+                        "reportDataId": 28014
+                    }
+                ],
                 "id": 28014
             },
             {
@@ -255158,6 +255142,981 @@
                     }
                 ],
                 "id": 28053
+            },
+            {
+                "pdfname": "50001113_SDS_IE_6N.PDF",
+                "specificationid": "50001113",
+                "path": "\\\\172.18.22.6\\sds_external/50001113_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "BO-LA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0024",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0024",
+                "legacysdsid": "NP-0024",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009351",
+                        "maktx": "BO LA_1L_CN",
+                        "id": 4500366,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014071",
+                        "maktx": "BO-LA_500ML_MM_JJ-PUN",
+                        "id": 4500367,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001642",
+                        "maktx": "BO LA_5L_TN_AGDI",
+                        "id": 4500368,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014821",
+                        "maktx": "BO-LA_10L_AT",
+                        "id": 4500369,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "12000215",
+                        "maktx": "B 15-MO 0.75SL_FL_ALL",
+                        "id": 4500370,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001636",
+                        "maktx": "BO LA_20L_RO",
+                        "id": 4500371,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001208",
+                        "maktx": "BO LA_1000L_GB",
+                        "id": 4500372,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001207",
+                        "maktx": "BO-LA_10L_GB",
+                        "id": 4500373,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11000787",
+                        "maktx": "BO LA_1L_GR",
+                        "id": 4500374,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11015732",
+                        "maktx": "VYTEGRIS BO-MO_10L_BE",
+                        "id": 4500375,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11002993",
+                        "maktx": "BO LA_10L_DE",
+                        "id": 4500376,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "12000333",
+                        "maktx": "B 15-MO 0.75SL_EG_FL_ALL",
+                        "id": 4500377,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11008706",
+                        "maktx": "BO LA_1000L_DE",
+                        "id": 4500378,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "12000977",
+                        "maktx": "B 15-MO 0.75SL_1000L_FL_ALL",
+                        "id": 4500379,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014208",
+                        "maktx": "THYPAAN BMO_1L_TR",
+                        "id": 4500380,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001305",
+                        "maktx": "BO-LA_1000L_CR",
+                        "id": 4500381,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014019",
+                        "maktx": "BO-LA_250ML_MM_JJ-PUN",
+                        "id": 4500382,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11005219",
+                        "maktx": "BO LA EC_250ML_EC",
+                        "id": 4500383,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11013764",
+                        "maktx": "BO-LA_1L_IL_GADOT",
+                        "id": 4500384,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11005210",
+                        "maktx": "BO LA_200L_EC",
+                        "id": 4500385,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001215",
+                        "maktx": "BO LA_10L_ES",
+                        "id": 4500386,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001111",
+                        "maktx": "EXTRA MO B_10L_LT LV_AGKO",
+                        "id": 4500387,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014877",
+                        "maktx": "BO-LA_1000L_RO",
+                        "id": 4500388,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11005217",
+                        "maktx": "BO LA EC_500ML_EC",
+                        "id": 4500389,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001211",
+                        "maktx": "BO LA_20L_EG_TIBA",
+                        "id": 4500390,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001209",
+                        "maktx": "BO LA_20L_BG",
+                        "id": 4500391,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11007660",
+                        "maktx": "BO LA_5L_TZ KE_HYGROTECH",
+                        "id": 4500392,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11016570",
+                        "maktx": "BO LA_1000L_CN",
+                        "id": 4500393,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001607",
+                        "maktx": "BO-LA_1L_TN_AGDI",
+                        "id": 4500394,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11003095",
+                        "maktx": "BO-LA_1000L_TW",
+                        "id": 4500395,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11013665",
+                        "maktx": "BOMMER_10L_CL",
+                        "id": 4500396,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001646",
+                        "maktx": "FOLY BMO_1L_TR",
+                        "id": 4500397,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001288",
+                        "maktx": "BO-LA_1000L_HU",
+                        "id": 4500398,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001351",
+                        "maktx": "BO-LA_1000L_GT_MAXIAGRO",
+                        "id": 4500399,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001515",
+                        "maktx": "BO LA_5L_MA_SIPP",
+                        "id": 4500400,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11013701",
+                        "maktx": "BOM_10L_LV_AUGU",
+                        "id": 4500401,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001490",
+                        "maktx": "BOLA_1000L_EC",
+                        "id": 4500402,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11005218",
+                        "maktx": "BO LA EC_1L_EC",
+                        "id": 4500403,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11014710",
+                        "maktx": "BO-LA_10L_IE",
+                        "id": 4500404,
+                        "reportDataId": 28054
+                    },
+                    {
+                        "matnr": "11001220",
+                        "maktx": "BO-LA_600L_GB",
+                        "id": 4500405,
+                        "reportDataId": 28054
+                    }
+                ],
+                "id": 28054
+            },
+            {
+                "pdfname": "50003155_EXT_SDS_PL_PL.PDF",
+                "specificationid": "50003155",
+                "path": "\\\\172.18.22.6\\sds_external/50003155_EXT_SDS_PL_PL.PDF",
+                "reptype": "MSDS",
+                "language": "PL",
+                "genvariant": "EXT_SDS_PL",
+                "authorizedportal": "P3",
+                "productname": "FENOVA SUPER\u00ae 069 EW",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CME + FPE (35 + 69) g/l EW (CHILD)",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "VCP92",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PL",
+                "validityareadescription": "Poland",
+                "legacyspecid": "FO002027",
+                "legacysdsid": "",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017060",
+                        "maktx": "FENOVA SUPER 069EW_5L_PL",
+                        "id": 4500406,
+                        "reportDataId": 28055
+                    },
+                    {
+                        "matnr": "11017039",
+                        "maktx": "FENOVA SUPER 069EW_1L_PL",
+                        "id": 4500407,
+                        "reportDataId": 28055
+                    }
+                ],
+                "id": 28055
+            },
+            {
+                "pdfname": "50002753_SDS_MY_MS.PDF",
+                "specificationid": "50002753",
+                "path": "\\\\172.18.22.6\\sds_external/50002753_SDS_MY_MS.PDF",
+                "reptype": "MSDS",
+                "language": "MS",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "LAMICOR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 35 WG (PASTE EXTRUDED) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "Q-1131",
+                "legacysdsid": "130000026706",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006493",
+                        "maktx": "LAMICOR 35WG_50G_TH",
+                        "id": 4500412,
+                        "reportDataId": 28056
+                    }
+                ],
+                "id": 28056
+            },
+            {
+                "pdfname": "50002753_SDS_MY_EN.PDF",
+                "specificationid": "50002753",
+                "path": "\\\\172.18.22.6\\sds_external/50002753_SDS_MY_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "LAMICOR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 35 WG (PASTE EXTRUDED) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "Q-1131",
+                "legacysdsid": "130000026706",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006493",
+                        "maktx": "LAMICOR 35WG_50G_TH",
+                        "id": 4500413,
+                        "reportDataId": 28057
+                    }
+                ],
+                "id": 28057
+            },
+            {
+                "pdfname": "50001867_EXT_SDS_IE_6N.PDF",
+                "specificationid": "50001867",
+                "path": "\\\\172.18.22.6\\sds_external/50001867_EXT_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "PROLEAF MANGANESE EXTRA",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0008 (CHILD)",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0008",
+                "legacysdsid": "NP-0008-2-A",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28058
+            },
+            {
+                "pdfname": "50001869_EXT_SDS_IE_6N.PDF",
+                "specificationid": "50001869",
+                "path": "\\\\172.18.22.6\\sds_external/50001869_EXT_SDS_IE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_IE",
+                "authorizedportal": "P3",
+                "productname": "Stem\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0008 (CHILD)",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IE",
+                "validityareadescription": "Ireland",
+                "legacyspecid": "NP-0008",
+                "legacysdsid": "NP-0008-4-A",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002023",
+                        "maktx": "STEM_600L_GB_HLH",
+                        "id": 4500414,
+                        "reportDataId": 28059
+                    },
+                    {
+                        "matnr": "11002024",
+                        "maktx": "STEM_10L_GB_HLH",
+                        "id": 4500415,
+                        "reportDataId": 28059
+                    },
+                    {
+                        "matnr": "11001774",
+                        "maktx": "STEM_1000L_GB_HLH",
+                        "id": 4500416,
+                        "reportDataId": 28059
+                    }
+                ],
+                "id": 28059
+            },
+            {
+                "pdfname": "50000150_SDS_TW_EN.PDF",
+                "specificationid": "50000150",
+                "path": "\\\\172.18.22.6\\sds_external/50000150_SDS_TW_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL\u00ae 50 WP",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IPD 50 WP",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO000029",
+                "legacysdsid": "FO000029-A",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004967",
+                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
+                        "id": 4500417,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003263",
+                        "maktx": "ROVRAL 50WP_18KG_BD",
+                        "id": 4500418,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11005677",
+                        "maktx": "ROVRAL 50WP_330KG_MX",
+                        "id": 4500419,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11000526",
+                        "maktx": "ROVRAL 50WP_250G_TW",
+                        "id": 4500420,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11009845",
+                        "maktx": "ROVRAL 50WP_1KG_DO",
+                        "id": 4500421,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003276",
+                        "maktx": "ROVRAL 50WP_1KG_CN",
+                        "id": 4500422,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "12001536",
+                        "maktx": "IPD 500WP_MI_SINN",
+                        "id": 4500423,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11000261",
+                        "maktx": "ROVRAL 500WP_1KG_BR",
+                        "id": 4500424,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003252",
+                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
+                        "id": 4500425,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003253",
+                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
+                        "id": 4500426,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11004892",
+                        "maktx": "ROVRAL 50WP_1KG_JO",
+                        "id": 4500427,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11013677",
+                        "maktx": "ROVRAL 50WP_100G_VN",
+                        "id": 4500428,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11013210",
+                        "maktx": "ROVRAL 50WP_500G_VN",
+                        "id": 4500429,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "12000626",
+                        "maktx": "IPD 500WP_SZ_ALL",
+                        "id": 4500430,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003270",
+                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
+                        "id": 4500431,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003284",
+                        "maktx": "ROVRAL 50WP_500G_MY",
+                        "id": 4500432,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11004893",
+                        "maktx": "ROVRAL 50WP_1KG_AR",
+                        "id": 4500433,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003314",
+                        "maktx": "ROVRAL 50WP_25KG_TW",
+                        "id": 4500434,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11000277",
+                        "maktx": "ROVRAL_0.125KG_BR",
+                        "id": 4500435,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "12001426",
+                        "maktx": "IPD 500WP_ISAG_SINN",
+                        "id": 4500436,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11014772",
+                        "maktx": "ROVRAL_500G_TW",
+                        "id": 4500437,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003250",
+                        "maktx": "ROVRAL 50WP_100G_MM",
+                        "id": 4500438,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "12006380",
+                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
+                        "id": 4500439,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11013200",
+                        "maktx": "ROVRAL 50WP_25G_VN",
+                        "id": 4500440,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11008937",
+                        "maktx": "ROVRAL 50WP_20KG_MA",
+                        "id": 4500441,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003251",
+                        "maktx": "ROVRAL 50WP_100G_ID",
+                        "id": 4500442,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11004362",
+                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
+                        "id": 4500443,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003357",
+                        "maktx": "ROVRAL 50WP_50G_CN",
+                        "id": 4500444,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "12000878",
+                        "maktx": "IPD 500WP_UG_SINN",
+                        "id": 4500445,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003350",
+                        "maktx": "ROVRAL 50WP_500G_CN",
+                        "id": 4500446,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11005072",
+                        "maktx": "ROVRAL WP_1KG_RU",
+                        "id": 4500447,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003638",
+                        "maktx": "ROVRAL 50WP_25KG_VN",
+                        "id": 4500448,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003585",
+                        "maktx": "ROVRAL 50WP_100G_CN",
+                        "id": 4500449,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11001864",
+                        "maktx": "ROVRAL 50PM_1KG_?",
+                        "id": 4500450,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003218",
+                        "maktx": "ROVRAL 50WP_100G_PH",
+                        "id": 4500451,
+                        "reportDataId": 28060
+                    },
+                    {
+                        "matnr": "11003228",
+                        "maktx": "ROVRAL 50WP_500G_TH",
+                        "id": 4500452,
+                        "reportDataId": 28060
+                    }
+                ],
+                "id": 28060
+            },
+            {
+                "pdfname": "50000150_SDS_TW_ZF.PDF",
+                "specificationid": "50000150",
+                "path": "\\\\172.18.22.6\\sds_external/50000150_SDS_TW_ZF.PDF",
+                "reptype": "MSDS",
+                "language": "ZF",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL\u00ae 50 WP",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IPD 50 WP",
+                "cmr": "",
+                "publishdate": "02/11/2026",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO000029",
+                "legacysdsid": "FO000029-A",
+                "revisiondate": "02/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11004967",
+                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
+                        "id": 4500453,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003263",
+                        "maktx": "ROVRAL 50WP_18KG_BD",
+                        "id": 4500454,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11005677",
+                        "maktx": "ROVRAL 50WP_330KG_MX",
+                        "id": 4500455,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11000526",
+                        "maktx": "ROVRAL 50WP_250G_TW",
+                        "id": 4500456,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11009845",
+                        "maktx": "ROVRAL 50WP_1KG_DO",
+                        "id": 4500457,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003276",
+                        "maktx": "ROVRAL 50WP_1KG_CN",
+                        "id": 4500458,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12001536",
+                        "maktx": "IPD 500WP_MI_SINN",
+                        "id": 4500459,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003252",
+                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
+                        "id": 4500460,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003284",
+                        "maktx": "ROVRAL 50WP_500G_MY",
+                        "id": 4500461,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003253",
+                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
+                        "id": 4500462,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11004892",
+                        "maktx": "ROVRAL 50WP_1KG_JO",
+                        "id": 4500463,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12000626",
+                        "maktx": "IPD 500WP_?_?_?",
+                        "id": 4500464,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003270",
+                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
+                        "id": 4500465,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12000626",
+                        "maktx": "IPD 500WP_SZ_ALL",
+                        "id": 4500466,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11013677",
+                        "maktx": "ROVRAL 50WP_100G_VN",
+                        "id": 4500467,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11013210",
+                        "maktx": "ROVRAL 50WP_500G_VN",
+                        "id": 4500468,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11000261",
+                        "maktx": "ROVRAL 500WP_1KG_BR",
+                        "id": 4500469,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003218",
+                        "maktx": "ROVRAL 50WP_100G_PH",
+                        "id": 4500470,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003250",
+                        "maktx": "ROVRAL 50WP_100G_MM",
+                        "id": 4500471,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11000277",
+                        "maktx": "ROVRAL_0.125KG_BR",
+                        "id": 4500472,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12001426",
+                        "maktx": "IPD 500WP_ISAG_SINN",
+                        "id": 4500473,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11014772",
+                        "maktx": "ROVRAL_500G_TW",
+                        "id": 4500474,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11004893",
+                        "maktx": "ROVRAL 50WP_1KG_AR",
+                        "id": 4500475,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12006380",
+                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
+                        "id": 4500476,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11013200",
+                        "maktx": "ROVRAL 50WP_25G_VN",
+                        "id": 4500477,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11008937",
+                        "maktx": "ROVRAL 50WP_20KG_MA",
+                        "id": 4500478,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003251",
+                        "maktx": "ROVRAL 50WP_100G_ID",
+                        "id": 4500479,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11004362",
+                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
+                        "id": 4500480,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003357",
+                        "maktx": "ROVRAL 50WP_50G_CN",
+                        "id": 4500481,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "12000878",
+                        "maktx": "IPD 500WP_UG_SINN",
+                        "id": 4500482,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003350",
+                        "maktx": "ROVRAL 50WP_500G_CN",
+                        "id": 4500483,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11005072",
+                        "maktx": "ROVRAL WP_1KG_RU",
+                        "id": 4500484,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003638",
+                        "maktx": "ROVRAL 50WP_25KG_VN",
+                        "id": 4500485,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003585",
+                        "maktx": "ROVRAL 50WP_100G_CN",
+                        "id": 4500486,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11001864",
+                        "maktx": "ROVRAL 50PM_1KG_?",
+                        "id": 4500487,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003314",
+                        "maktx": "ROVRAL 50WP_25KG_TW",
+                        "id": 4500488,
+                        "reportDataId": 28061
+                    },
+                    {
+                        "matnr": "11003228",
+                        "maktx": "ROVRAL 50WP_500G_TH",
+                        "id": 4500489,
+                        "reportDataId": 28061
+                    }
+                ],
+                "id": 28061
             }
         ],
         "isExportToExcel": false
