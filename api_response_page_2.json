@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6231,
+        "totalCount": 6234,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -256328,6 +256328,342 @@
                     }
                 ],
                 "id": 28066
+            },
+            {
+                "pdfname": "50001290_SDS_MY_EN.PDF",
+                "specificationid": "50001290",
+                "path": "\\\\172.18.22.6\\sds_external/50001290_SDS_MY_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "FYFANON 40.9 EW",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FYF 440 g/L EW (v3)",
+                "cmr": "",
+                "publishdate": "02/16/2026",
+                "iupac": "",
+                "incode": "15639",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "FO002270",
+                "legacysdsid": "",
+                "revisiondate": "02/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000145",
+                        "maktx": "SMART 440EW_200L_MA_AGRC",
+                        "id": 4509571,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "12000975",
+                        "maktx": "FYF 440EW_200L_CO_RO_RO",
+                        "id": 4509572,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11002903",
+                        "maktx": "KOMVEKTOR 440EW_200L_BR_BYER",
+                        "id": 4509573,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11010278",
+                        "maktx": "KOMVEKTOR 440EW_20L_BR_BYER",
+                        "id": 4509574,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "12001902",
+                        "maktx": "FYF 440EW_?_?_?",
+                        "id": 4509575,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "12000176",
+                        "maktx": "FYF 440EW_TC_CO MA_RO_RO",
+                        "id": 4509576,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11015174",
+                        "maktx": "FYFANON EW_264.2GAL_US",
+                        "id": 4509577,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11014435",
+                        "maktx": "FYFANON EW_1000L_US",
+                        "id": 4509578,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "12000352",
+                        "maktx": "FYF 440EW_1000L_RO_RO",
+                        "id": 4509579,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11008412",
+                        "maktx": "FYFANON EW_30GAL_US",
+                        "id": 4509580,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11008413",
+                        "maktx": "FYFANON EW_2.5GAL_US",
+                        "id": 4509581,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11001327",
+                        "maktx": "AQUAFIN_5L_ES",
+                        "id": 4509582,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "12000345",
+                        "maktx": "FYF 440EW_CO MA_RO_RO",
+                        "id": 4509583,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11004903",
+                        "maktx": "FYFANON 440EW_5L_ZA_WENKEM",
+                        "id": 4509584,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11001534",
+                        "maktx": "AQUAFIN_200L_MA_AMAROC",
+                        "id": 4509585,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11015223",
+                        "maktx": "FYFANON EW_50GAL_US",
+                        "id": 4509586,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11009235",
+                        "maktx": "FYFANON 440EW_5L_ZA",
+                        "id": 4509587,
+                        "reportDataId": 28067
+                    },
+                    {
+                        "matnr": "11000867",
+                        "maktx": "KOMVEKTOR 440EW_20L_DO_BAYER",
+                        "id": 4509588,
+                        "reportDataId": 28067
+                    }
+                ],
+                "id": 28067
+            },
+            {
+                "pdfname": "50001290_SDS_MY_MS.PDF",
+                "specificationid": "50001290",
+                "path": "\\\\172.18.22.6\\sds_external/50001290_SDS_MY_MS.PDF",
+                "reptype": "MSDS",
+                "language": "MS",
+                "genvariant": "SDS_MY",
+                "authorizedportal": "P3",
+                "productname": "FYFANON 40.9 EW",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FYF 440 g/L EW (v3)",
+                "cmr": "",
+                "publishdate": "02/16/2026",
+                "iupac": "",
+                "incode": "15639",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MY",
+                "validityareadescription": "Malaysia",
+                "legacyspecid": "FO002270",
+                "legacysdsid": "",
+                "revisiondate": "02/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11000145",
+                        "maktx": "SMART 440EW_200L_MA_AGRC",
+                        "id": 4509589,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "12000975",
+                        "maktx": "FYF 440EW_200L_CO_RO_RO",
+                        "id": 4509590,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11002903",
+                        "maktx": "KOMVEKTOR 440EW_200L_BR_BYER",
+                        "id": 4509591,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11010278",
+                        "maktx": "KOMVEKTOR 440EW_20L_BR_BYER",
+                        "id": 4509592,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "12001902",
+                        "maktx": "FYF 440EW_?_?_?",
+                        "id": 4509593,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "12000176",
+                        "maktx": "FYF 440EW_TC_CO MA_RO_RO",
+                        "id": 4509594,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11015174",
+                        "maktx": "FYFANON EW_264.2GAL_US",
+                        "id": 4509595,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11014435",
+                        "maktx": "FYFANON EW_1000L_US",
+                        "id": 4509596,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "12000352",
+                        "maktx": "FYF 440EW_1000L_RO_RO",
+                        "id": 4509597,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11008412",
+                        "maktx": "FYFANON EW_30GAL_US",
+                        "id": 4509598,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11008413",
+                        "maktx": "FYFANON EW_2.5GAL_US",
+                        "id": 4509599,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11001327",
+                        "maktx": "AQUAFIN_5L_ES",
+                        "id": 4509600,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "12000345",
+                        "maktx": "FYF 440EW_CO MA_RO_RO",
+                        "id": 4509601,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11004903",
+                        "maktx": "FYFANON 440EW_5L_ZA_WENKEM",
+                        "id": 4509602,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11001534",
+                        "maktx": "AQUAFIN_200L_MA_AMAROC",
+                        "id": 4509603,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11015223",
+                        "maktx": "FYFANON EW_50GAL_US",
+                        "id": 4509604,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11009235",
+                        "maktx": "FYFANON 440EW_5L_ZA",
+                        "id": 4509605,
+                        "reportDataId": 28068
+                    },
+                    {
+                        "matnr": "11000867",
+                        "maktx": "KOMVEKTOR 440EW_20L_DO_BAYER",
+                        "id": 4509606,
+                        "reportDataId": 28068
+                    }
+                ],
+                "id": 28068
+            },
+            {
+                "pdfname": "50002859_EXT_SDS_PT_1P.PDF",
+                "specificationid": "50002859",
+                "path": "\\\\172.18.22.6\\sds_external/50002859_EXT_SDS_PT_1P.PDF",
+                "reptype": "MSDS",
+                "language": "1P",
+                "genvariant": "EXT_SDS_PT",
+                "authorizedportal": "P3",
+                "productname": "GAMIT\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ (HP) 360 g/L CS (CHILD)",
+                "cmr": "",
+                "publishdate": "02/16/2026",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PT",
+                "validityareadescription": "Portugal",
+                "legacyspecid": "FO004149",
+                "legacysdsid": "",
+                "revisiondate": "02/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016244",
+                        "maktx": "LIMPO 36CS_5L_FR",
+                        "id": 4509607,
+                        "reportDataId": 28069
+                    },
+                    {
+                        "matnr": "11002704",
+                        "maktx": "GAMIT 36CS_1L_CZ_SUMIAGRO",
+                        "id": 4509608,
+                        "reportDataId": 28069
+                    },
+                    {
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 4509609,
+                        "reportDataId": 28069
+                    },
+                    {
+                        "matnr": "11001020",
+                        "maktx": "CETUS 360CS_1L_IT_SUMITO",
+                        "id": 4509610,
+                        "reportDataId": 28069
+                    }
+                ],
+                "id": 28069
             }
         ],
         "isExportToExcel": false
