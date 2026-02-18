@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6234,
+        "totalCount": 6237,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,50 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000548_SDS_US_1X.PDF",
-                "specificationid": "50000548",
-                "path": "\\\\172.18.22.6\\sds_external/50000548_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "SDS_US",
-                "authorizedportal": "P3",
-                "productname": "Echelon\u00ae RTS Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ECHELON RTS",
-                "casnumber": "",
-                "commercialnames": "PRD + SFZ (28.4 + 14.1) g/L SC",
-                "cmr": "",
-                "publishdate": "12/04/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO000850",
-                "legacysdsid": "",
-                "revisiondate": "12/04/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008353",
-                        "maktx": "ECHELON RTS_250GAL_US",
-                        "id": 2387613,
-                        "reportDataId": 26791
-                    },
-                    {
-                        "matnr": "12001745",
-                        "maktx": "SFZ 14-PRD 27SL_?_?_?",
-                        "id": 2387614,
-                        "reportDataId": 26791
-                    }
-                ],
-                "id": 26791
-            },
             {
                 "pdfname": "50001053_EXT_SDS_IE_6N.PDF",
                 "specificationid": "50001053",
@@ -5929,57 +5885,63 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008471",
-                        "maktx": "BRIGADA 100EC_200L_CO",
-                        "id": 2221868,
+                        "matnr": "11009077",
+                        "maktx": "BRIGADE 100EC_250ML_EC",
+                        "id": 4510185,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "12001865",
                         "maktx": "BIF 100EC_?_?_?",
-                        "id": 2221869,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11009075",
-                        "maktx": "BRIGADE 100EC_1L_EC",
-                        "id": 2221870,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007801",
-                        "maktx": "BRIGADA 100EC_200ML_CO",
-                        "id": 2221871,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007899",
-                        "maktx": "BRIGADE 100EC_200L_EC",
-                        "id": 2221872,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007800",
-                        "maktx": "BRIGADA 100EC_400ML_CO",
-                        "id": 2221873,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11009077",
-                        "maktx": "BRIGADE 100EC_250ML_EC",
-                        "id": 2221874,
+                        "id": 4510186,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007799",
                         "maktx": "BRIGADA 100EC_1L_CO",
-                        "id": 2221875,
+                        "id": 4510187,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007801",
+                        "maktx": "BRIGADA 100EC_200ML_CO",
+                        "id": 4510188,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11009075",
+                        "maktx": "BRIGADE 100EC_1L_EC",
+                        "id": 4510189,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11008471",
+                        "maktx": "BRIGADA 100EC_200L_CO",
+                        "id": 4510190,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11009081",
                         "maktx": "BRIGADE 100EC_500ML_EC",
-                        "id": 2221876,
+                        "id": 4510191,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007899",
+                        "maktx": "BRIGADE 100EC_200L_EC",
+                        "id": 4510192,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007800",
+                        "maktx": "BRIGADA 100EC_400ML_CO",
+                        "id": 4510193,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11017199",
+                        "maktx": "TALSTAR 10EC_200L_DO",
+                        "id": 4510194,
                         "reportDataId": 26834
                     }
                 ],
@@ -114846,571 +114808,571 @@
                 "language": "EN",
                 "genvariant": "EXT_SDS_BR",
                 "authorizedportal": "P3",
-                "productname": "ALTACOR\u00ae",
+                "productname": "SOLECOR\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "SOLECOR\u00ae",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "RYX 35 WG (PASTE EXTRUDED)",
                 "cmr": "",
-                "publishdate": "12/11/2025",
+                "publishdate": "02/17/2026",
                 "iupac": "",
                 "incode": "E2Y45",
-                "ehsversionno": "4.2",
+                "ehsversionno": "4.3",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "Q-1131",
                 "legacysdsid": "130000026706",
-                "revisiondate": "12/11/2025",
+                "revisiondate": "02/17/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016946",
-                        "maktx": "VALACOR_300G_ES_BASF",
-                        "id": 4509297,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016329",
-                        "maktx": "ALTACOR 35WG_50G_RS_AGROMARKET",
-                        "id": 4509298,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015096",
-                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
-                        "id": 4509299,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007712",
-                        "maktx": "ALTACOR_5KG_BR",
-                        "id": 4509300,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006087",
-                        "maktx": "ALTACOR 35WG_300G_GR",
-                        "id": 4509301,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014103",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 4509302,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005957",
-                        "maktx": "ALTACOR_454G_CA",
-                        "id": 4509303,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11017171",
-                        "maktx": "VALACOR_100G_IT",
-                        "id": 4509304,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014919",
-                        "maktx": "ALTACOR 35WG_300G_BG",
-                        "id": 4509305,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12005370",
-                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
-                        "id": 4509306,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006542",
-                        "maktx": "ALTACOR 35WG_50G_TR",
-                        "id": 4509307,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016316",
-                        "maktx": "CORPRIMA_6G_IN",
-                        "id": 4509308,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016238",
-                        "maktx": "SELIXIA_50G_TH",
-                        "id": 4509309,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006503",
-                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
-                        "id": 4509310,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11003271",
-                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
-                        "id": 4509311,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016327",
-                        "maktx": "CORPRIMA_17G_IN",
-                        "id": 4509312,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007483",
-                        "maktx": "ALTACOR 35WG_30G_CN",
-                        "id": 4509313,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016695",
-                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
-                        "id": 4509314,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016155",
-                        "maktx": "ALTACOR_50G_AZ",
-                        "id": 4509315,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016328",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 4509316,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11009448",
-                        "maktx": "ALTACOR_50G_UZ",
-                        "id": 4509317,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006543",
-                        "maktx": "ALTACOR 35WG_100G_ES",
-                        "id": 4509318,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014462",
-                        "maktx": "ALTACOR EVO_45OZ_US",
-                        "id": 4509319,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015273",
-                        "maktx": "DAUNTLESS_2LB 8OZ_US",
-                        "id": 4509320,
-                        "reportDataId": 27233
-                    },
-                    {
                         "matnr": "11007194",
                         "maktx": "ALTACOR 35WG_100G_CN_KANGDAN",
-                        "id": 4509321,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006315",
-                        "maktx": "ALTACOR_500G_NL",
-                        "id": 4509322,
+                        "id": 4510214,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "12006720",
                         "maktx": "RYX 350WG_STIS_JI",
-                        "id": 4509323,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11017185",
-                        "maktx": "VALACOR_300G_IT",
-                        "id": 4509324,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014104",
-                        "maktx": "CORPRIMA_17G_IN",
-                        "id": 4509325,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014471",
-                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
-                        "id": 4509326,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005449",
-                        "maktx": "VALACOR 35WG_100G_ID",
-                        "id": 4509327,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014815",
-                        "maktx": "CERTACOR_8.5G_PH",
-                        "id": 4509328,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007704",
-                        "maktx": "ALTACOR_450G_BR",
-                        "id": 4509329,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005894",
-                        "maktx": "ALTACOR_500G_ZA",
-                        "id": 4509330,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015615",
-                        "maktx": "ALTACOR_50KG_IL",
-                        "id": 4509331,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006501",
-                        "maktx": "RYX 350WG_300G_GOWA_MO",
-                        "id": 4509332,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016120",
-                        "maktx": "ALTACOR_30G_CN",
-                        "id": 4509333,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006324",
-                        "maktx": "ALTACOR 35WG_20G_TW",
-                        "id": 4509334,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006180",
-                        "maktx": "ALTACOR 35WG_50G_GR CY",
-                        "id": 4509335,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006193",
-                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
-                        "id": 4509336,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007142",
-                        "maktx": "ALTACOR 35WG CTN 4X25X30G BTL KANGDAN CN",
-                        "id": 4509337,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006071",
-                        "maktx": "ALTACOR_300G_IT",
-                        "id": 4509338,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016913",
-                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
-                        "id": 4509339,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12002274",
-                        "maktx": "ALTACOR PX_50KG_US",
-                        "id": 4509340,
+                        "id": 4510215,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11005986",
                         "maktx": "ALTACOR 35WG_180G_AU",
-                        "id": 4509341,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014229",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 4509342,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006134",
-                        "maktx": "ALTACOR COTTON_5KG_AU",
-                        "id": 4509343,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12001292",
-                        "maktx": "ALTACOR_50KG_AR",
-                        "id": 4509344,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015862",
-                        "maktx": "ALTACOR_85G_DZ_CASAP",
-                        "id": 4509345,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016310",
-                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
-                        "id": 4509346,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12001643",
-                        "maktx": "RYX 350WG_25KG",
-                        "id": 4509347,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007484",
-                        "maktx": "ALTACOR 35WG_100G_CN",
-                        "id": 4509348,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006183",
-                        "maktx": "ALTACOR_100G_IT",
-                        "id": 4509349,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006181",
-                        "maktx": "ALTACOR 35WG_50G_CY",
-                        "id": 4509350,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006491",
-                        "maktx": "ALTACOR 35WG_500G_ES",
-                        "id": 4509351,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11013758",
-                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
-                        "id": 4509352,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000271",
-                        "maktx": "ALTACOR_500G_UZ",
-                        "id": 4509353,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007590",
-                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
-                        "id": 4509354,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006083",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 4509355,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015537",
-                        "maktx": "ALTACOR 35WG_2G_ES",
-                        "id": 4509356,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007575",
-                        "maktx": "ALTACOR 35WG_50KG_CN",
-                        "id": 4509357,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11005797",
-                        "maktx": "ALTACOR_300G_FR",
-                        "id": 4509358,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006304",
-                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
-                        "id": 4509359,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016952",
-                        "maktx": "ALTACOR 35WG_2G_GR",
-                        "id": 4509360,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000052",
-                        "maktx": "ALTACOR_16OZ_US",
-                        "id": 4509361,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016237",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
-                        "id": 4509362,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015705",
-                        "maktx": "ALTACOR 35WG_50G_BG",
-                        "id": 4509363,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006504",
-                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
-                        "id": 4509364,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11014400",
-                        "maktx": "ALTACOR 35WG_100G_TR",
-                        "id": 4509365,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11009517",
-                        "maktx": "ALTACOR 35WG_750G_AR",
-                        "id": 4509366,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006559",
-                        "maktx": "ALTACOR_500G_BE",
-                        "id": 4509367,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015418",
-                        "maktx": "ALTACOR_100G_TW",
-                        "id": 4509368,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11006270",
-                        "maktx": "ALTACOR 35WG_300G_ES",
-                        "id": 4509369,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11000553",
-                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
-                        "id": 4509370,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "12006251",
-                        "maktx": " RYX 350WG_SARA_UPL",
-                        "id": 4509371,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015933",
-                        "maktx": "ALTACOR_2G_IT",
-                        "id": 4509372,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11015666",
-                        "maktx": "TURAZI_2LB 8OZ_US",
-                        "id": 4509373,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11007469",
-                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
-                        "id": 4509374,
-                        "reportDataId": 27233
-                    },
-                    {
-                        "matnr": "11016138",
-                        "maktx": "ALTACOR_100G_CN",
-                        "id": 4509375,
+                        "id": 4510216,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11007511",
                         "maktx": "PREVATHON 35WG_3.5G_VN_SCH",
-                        "id": 4509376,
+                        "id": 4510217,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11006182",
-                        "maktx": "ALTACOR_100G_PT_BAYER",
-                        "id": 4509377,
+                        "matnr": "12002274",
+                        "maktx": "ALTACOR PX_50KG_US",
+                        "id": 4510218,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11005404",
-                        "maktx": "VALACOR 35WG_50G_ID",
-                        "id": 4509378,
+                        "matnr": "11016120",
+                        "maktx": "ALTACOR_30G_CN",
+                        "id": 4510219,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11015859",
-                        "maktx": "SOLECOR_5KG_BR",
-                        "id": 4509379,
+                        "matnr": "11006270",
+                        "maktx": "ALTACOR 35WG_300G_ES",
+                        "id": 4510220,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11006341",
-                        "maktx": "ALTACOR 35WG_50G_TH",
-                        "id": 4509380,
+                        "matnr": "11006543",
+                        "maktx": "ALTACOR 35WG_100G_ES",
+                        "id": 4510221,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11005987",
-                        "maktx": "ALTACOR 35WG_180G_NZ",
-                        "id": 4509381,
+                        "matnr": "11006181",
+                        "maktx": "ALTACOR 35WG_50G_CY",
+                        "id": 4510222,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11006226",
-                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
-                        "id": 4509382,
+                        "matnr": "11015705",
+                        "maktx": "ALTACOR 35WG_50G_BG",
+                        "id": 4510223,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11005906",
-                        "maktx": "ALTACOR_40OZ_US",
-                        "id": 4509383,
+                        "matnr": "11015862",
+                        "maktx": "ALTACOR_85G_DZ_CASAP",
+                        "id": 4510224,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11015480",
-                        "maktx": "CORPRIMA_34G_IN",
-                        "id": 4509384,
+                        "matnr": "11005894",
+                        "maktx": "ALTACOR_500G_ZA",
+                        "id": 4510225,
                         "reportDataId": 27233
                     },
                     {
-                        "matnr": "11007374",
-                        "maktx": "ALTACOR 35WG_3G_CN",
-                        "id": 4509385,
+                        "matnr": "11006183",
+                        "maktx": "ALTACOR_100G_IT",
+                        "id": 4510226,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007469",
+                        "maktx": "ALTACOR 35WG_100G_CN_BAYER",
+                        "id": 4510227,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12001292",
+                        "maktx": "ALTACOR_50KG_AR",
+                        "id": 4510228,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016327",
+                        "maktx": "CORPRIMA_17G_IN",
+                        "id": 4510229,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006180",
+                        "maktx": "ALTACOR 35WG_50G_GR CY",
+                        "id": 4510230,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005797",
+                        "maktx": "ALTACOR_300G_FR",
+                        "id": 4510231,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006504",
+                        "maktx": "ALTACOR 35WG_30G_CN_BAYER",
+                        "id": 4510232,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "12000623",
                         "maktx": "PREVATHON 35WG_50KG_VN",
-                        "id": 4509386,
+                        "id": 4510233,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015615",
+                        "maktx": "ALTACOR_50KG_IL",
+                        "id": 4510234,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014919",
+                        "maktx": "ALTACOR 35WG_300G_BG",
+                        "id": 4510235,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007142",
+                        "maktx": "ALTACOR 35WG CTN 4X25X30G BTL KANGDAN CN",
+                        "id": 4510236,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11009517",
+                        "maktx": "ALTACOR 35WG_750G_AR",
+                        "id": 4510237,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11000553",
+                        "maktx": "ALTACOR 35WG CTN 20X10X8.5G SAH PH",
+                        "id": 4510238,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016138",
+                        "maktx": "ALTACOR_100G_CN",
+                        "id": 4510239,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12006251",
+                        "maktx": " RYX 350WG_SARA_UPL",
+                        "id": 4510240,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007712",
+                        "maktx": "ALTACOR_5KG_BR",
+                        "id": 4510241,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005404",
+                        "maktx": "VALACOR 35WG_50G_ID",
+                        "id": 4510242,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12001643",
+                        "maktx": "RYX 350WG_25KG",
+                        "id": 4510243,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007484",
+                        "maktx": "ALTACOR 35WG_100G_CN",
+                        "id": 4510244,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016952",
+                        "maktx": "ALTACOR 35WG_2G_GR",
+                        "id": 4510245,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 4510246,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016155",
+                        "maktx": "ALTACOR_50G_AZ",
+                        "id": 4510247,
                         "reportDataId": 27233
                     },
                     {
                         "matnr": "11016951",
                         "maktx": "VALACOR_100G_GR",
-                        "id": 4509387,
+                        "id": 4510248,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11000052",
+                        "maktx": "ALTACOR_16OZ_US",
+                        "id": 4510249,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016913",
+                        "maktx": "ALTACOR VIP_VP3KG 10KG_IT",
+                        "id": 4510250,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015666",
+                        "maktx": "TURAZI_2LB 8OZ_US",
+                        "id": 4510251,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016316",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 4510252,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007374",
+                        "maktx": "ALTACOR 35WG_3G_CN",
+                        "id": 4510253,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11003271",
+                        "maktx": "PREVATHON 35WG_8.5G_VN_SCH",
+                        "id": 4510254,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016328",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 4510255,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006304",
+                        "maktx": "ALTACOR 34.9WG_50G_ID MY",
+                        "id": 4510256,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006182",
+                        "maktx": "ALTACOR_100G_PT_BAYER",
+                        "id": 4510257,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006315",
+                        "maktx": "ALTACOR_500G_NL",
+                        "id": 4510258,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006341",
+                        "maktx": "ALTACOR 35WG_50G_TH",
+                        "id": 4510259,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015418",
+                        "maktx": "ALTACOR_100G_TW",
+                        "id": 4510260,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005906",
+                        "maktx": "ALTACOR_40OZ_US",
+                        "id": 4510261,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11009448",
+                        "maktx": "ALTACOR_50G_UZ",
+                        "id": 4510262,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007575",
+                        "maktx": "ALTACOR 35WG_50KG_CN",
+                        "id": 4510263,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014229",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 4510264,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007704",
+                        "maktx": "ALTACOR_450G_BR",
+                        "id": 4510265,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006226",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROBLEND",
+                        "id": 4510266,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12006501",
+                        "maktx": "RYX 350WG_300G_GOWA_MO",
+                        "id": 4510267,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006491",
+                        "maktx": "ALTACOR 35WG_500G_ES",
+                        "id": 4510268,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006087",
+                        "maktx": "ALTACOR 35WG_300G_GR",
+                        "id": 4510269,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007483",
+                        "maktx": "ALTACOR 35WG_30G_CN",
+                        "id": 4510270,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014815",
+                        "maktx": "CERTACOR_8.5G_PH",
+                        "id": 4510271,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11017171",
+                        "maktx": "VALACOR_100G_IT",
+                        "id": 4510272,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016310",
+                        "maktx": "CORPRIMA MAIS_CP 500ML 3L_IT",
+                        "id": 4510273,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12006193",
+                        "maktx": "RYX 350WG_25KG_BR_GOWA_MO",
+                        "id": 4510274,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015096",
+                        "maktx": "ALTACOR_50G_TN_AGRIPROTEC",
+                        "id": 4510275,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016946",
+                        "maktx": "VALACOR_300G_ES_BASF",
+                        "id": 4510276,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005987",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 4510277,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016237",
+                        "maktx": "ALTACOR 35WG_50G_AL_AGROMARKET",
+                        "id": 4510278,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11007590",
+                        "maktx": "ALTACOR 35WG_3G_CN_KANGDAN",
+                        "id": 4510279,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014104",
+                        "maktx": "CORPRIMA_17G_IN",
+                        "id": 4510280,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015859",
+                        "maktx": "SOLECOR_5KG_BR",
+                        "id": 4510281,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016695",
+                        "maktx": "ALTACOR 35WG_50KG_RS_AGROMARKET",
+                        "id": 4510282,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006542",
+                        "maktx": "ALTACOR 35WG_50G_TR",
+                        "id": 4510283,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006559",
+                        "maktx": "ALTACOR_500G_BE",
+                        "id": 4510284,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "12005370",
+                        "maktx": "RYX 350WG_50KG_IN_XPOL_MO",
+                        "id": 4510285,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014103",
+                        "maktx": "CORPRIMA_6G_IN",
+                        "id": 4510286,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11013758",
+                        "maktx": "ALTACOR_85G_MA_AGRIMATCO",
+                        "id": 4510287,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016238",
+                        "maktx": "SELIXIA_50G_TH",
+                        "id": 4510288,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015480",
+                        "maktx": "CORPRIMA_34G_IN",
+                        "id": 4510289,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006324",
+                        "maktx": "ALTACOR 35WG_20G_TW",
+                        "id": 4510290,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005957",
+                        "maktx": "ALTACOR_454G_CA",
+                        "id": 4510291,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006083",
+                        "maktx": "ALTACOR 35WG_180G_NZ",
+                        "id": 4510292,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006134",
+                        "maktx": "ALTACOR COTTON_5KG_AU",
+                        "id": 4510293,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006071",
+                        "maktx": "ALTACOR_300G_IT",
+                        "id": 4510294,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11016329",
+                        "maktx": "ALTACOR 35WG_50G_RS_AGROMARKET",
+                        "id": 4510295,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11000271",
+                        "maktx": "ALTACOR_500G_UZ",
+                        "id": 4510296,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11006503",
+                        "maktx": "ALTACOR 35WG_3G_CN_BAYER",
+                        "id": 4510297,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014471",
+                        "maktx": "SHENZI 35WG_25KG_ID_UPL",
+                        "id": 4510298,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11014400",
+                        "maktx": "ALTACOR 35WG_100G_TR",
+                        "id": 4510299,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015273",
+                        "maktx": "DAUNTLESS_2LB 8OZ_US",
+                        "id": 4510300,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015537",
+                        "maktx": "ALTACOR 35WG_2G_ES",
+                        "id": 4510301,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11005449",
+                        "maktx": "VALACOR 35WG_100G_ID",
+                        "id": 4510302,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11015933",
+                        "maktx": "ALTACOR_2G_IT",
+                        "id": 4510303,
+                        "reportDataId": 27233
+                    },
+                    {
+                        "matnr": "11017185",
+                        "maktx": "VALACOR_300G_IT",
+                        "id": 4510304,
                         "reportDataId": 27233
                     }
                 ],
@@ -142423,165 +142385,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123080,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123081,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123082,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123083,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123084,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123085,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123086,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123087,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123088,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123089,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123090,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123091,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123092,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123093,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123094,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123095,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4509881,
                         "reportDataId": 27376
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123096,
+                        "id": 4509882,
                         "reportDataId": 27376
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123097,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123098,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123099,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123100,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123101,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123102,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123103,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123104,
-                        "reportDataId": 27376
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123105,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4509883,
                         "reportDataId": 27376
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123106,
+                        "id": 4509884,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4509885,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4509886,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4509887,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4509888,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4509889,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4509890,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4509891,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4509892,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4509893,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4509894,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4509895,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4509896,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4509897,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4509898,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4509899,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4509900,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4509901,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4509902,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4509903,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4509904,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4509905,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4509906,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4509907,
+                        "reportDataId": 27376
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4509908,
                         "reportDataId": 27376
                     }
                 ],
@@ -142617,165 +142585,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123107,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123108,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123109,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123110,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123111,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123112,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123113,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123114,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123115,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123116,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123117,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123118,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123119,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123120,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123121,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123122,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4509909,
                         "reportDataId": 27377
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123123,
+                        "id": 4509910,
                         "reportDataId": 27377
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123124,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123125,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123126,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123127,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123128,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123129,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123130,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123131,
-                        "reportDataId": 27377
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123132,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4509911,
                         "reportDataId": 27377
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123133,
+                        "id": 4509912,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4509913,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4509914,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4509915,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4509916,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4509917,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4509918,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4509919,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4509920,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4509921,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4509922,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4509923,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4509924,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4509925,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4509926,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4509927,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4509928,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4509929,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4509930,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4509931,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4509932,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4509933,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4509934,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4509935,
+                        "reportDataId": 27377
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4509936,
                         "reportDataId": 27377
                     }
                 ],
@@ -142811,165 +142785,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123134,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123135,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123136,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123137,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123138,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123139,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123140,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123141,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123142,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123143,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123144,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123145,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123146,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123147,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123148,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123149,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4509937,
                         "reportDataId": 27378
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123150,
+                        "id": 4509938,
                         "reportDataId": 27378
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123151,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123152,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123153,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123154,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123155,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123156,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123157,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123158,
-                        "reportDataId": 27378
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123159,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4509939,
                         "reportDataId": 27378
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123160,
+                        "id": 4509940,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4509941,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4509942,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4509943,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4509944,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4509945,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4509946,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4509947,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4509948,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4509949,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4509950,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4509951,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4509952,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4509953,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4509954,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4509955,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4509956,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4509957,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4509958,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4509959,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4509960,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4509961,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4509962,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4509963,
+                        "reportDataId": 27378
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4509964,
                         "reportDataId": 27378
                     }
                 ],
@@ -143005,165 +142985,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123161,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123162,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123163,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123164,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123165,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123166,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123167,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123168,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123169,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123170,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123171,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123172,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123173,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123174,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123175,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123176,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4509965,
                         "reportDataId": 27379
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123177,
+                        "id": 4509966,
                         "reportDataId": 27379
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123178,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123179,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123180,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123181,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123182,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123183,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123184,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123185,
-                        "reportDataId": 27379
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123186,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4509967,
                         "reportDataId": 27379
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123187,
+                        "id": 4509968,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4509969,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4509970,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4509971,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4509972,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4509973,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4509974,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4509975,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4509976,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4509977,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4509978,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4509979,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4509980,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4509981,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4509982,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4509983,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4509984,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4509985,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4509986,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4509987,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4509988,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4509989,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4509990,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4509991,
+                        "reportDataId": 27379
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4509992,
                         "reportDataId": 27379
                     }
                 ],
@@ -143199,165 +143185,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123188,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123189,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123190,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123191,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123192,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123193,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123194,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123195,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123196,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123197,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123198,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123199,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123200,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123201,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123202,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123203,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4509993,
                         "reportDataId": 27380
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123204,
+                        "id": 4509994,
                         "reportDataId": 27380
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123205,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123206,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123207,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123208,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123209,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123210,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123211,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123212,
-                        "reportDataId": 27380
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123213,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4509995,
                         "reportDataId": 27380
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123214,
+                        "id": 4509996,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4509997,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4509998,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4509999,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4510000,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4510001,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4510002,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4510003,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4510004,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4510005,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4510006,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4510007,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4510008,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4510009,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4510010,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4510011,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4510012,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4510013,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4510014,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4510015,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4510016,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4510017,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4510018,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4510019,
+                        "reportDataId": 27380
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4510020,
                         "reportDataId": 27380
                     }
                 ],
@@ -143393,165 +143385,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123215,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123216,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123217,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123218,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123219,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123220,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123221,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123222,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123223,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123224,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123225,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123226,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123227,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123228,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123229,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123230,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4510021,
                         "reportDataId": 27381
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123231,
+                        "id": 4510022,
                         "reportDataId": 27381
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123232,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123233,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123234,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123235,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123236,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123237,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123238,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123239,
-                        "reportDataId": 27381
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123240,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4510023,
                         "reportDataId": 27381
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123241,
+                        "id": 4510024,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4510025,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4510026,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4510027,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4510028,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4510029,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4510030,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4510031,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4510032,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4510033,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4510034,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4510035,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4510036,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4510037,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4510038,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4510039,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4510040,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4510041,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4510042,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4510043,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4510044,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4510045,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4510046,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4510047,
+                        "reportDataId": 27381
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4510048,
                         "reportDataId": 27381
                     }
                 ],
@@ -143587,165 +143585,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123242,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123243,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123244,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123245,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123246,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123247,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123248,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123249,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123250,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123251,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123252,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123253,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123254,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123255,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123256,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123257,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4510049,
                         "reportDataId": 27382
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123258,
+                        "id": 4510050,
                         "reportDataId": 27382
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123259,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123260,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123261,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123262,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123263,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123264,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123265,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123266,
-                        "reportDataId": 27382
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123267,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4510051,
                         "reportDataId": 27382
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123268,
+                        "id": 4510052,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4510053,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4510054,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4510055,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4510056,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4510057,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4510058,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4510059,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4510060,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4510061,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4510062,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4510063,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4510064,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4510065,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4510066,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4510067,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4510068,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4510069,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4510070,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4510071,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4510072,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4510073,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4510074,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4510075,
+                        "reportDataId": 27382
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4510076,
                         "reportDataId": 27382
                     }
                 ],
@@ -143781,165 +143785,171 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001512",
-                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
-                        "id": 3123269,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "12005926",
-                        "maktx": "ACI 75EW_1L_ST_ADAM",
-                        "id": 3123270,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11015820",
-                        "maktx": "RUFAST E-FLO 2024_1L_IT",
-                        "id": 3123271,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001497",
-                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
-                        "id": 3123272,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11015963",
-                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
-                        "id": 3123273,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11004505",
-                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
-                        "id": 3123274,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11004558",
-                        "maktx": "RUFAST 75EW_250ML_GR",
-                        "id": 3123275,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11000747",
-                        "maktx": "FLANKER_1L_FR_SANG",
-                        "id": 3123276,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11004113",
-                        "maktx": "RUFAST EW_1L_ZA",
-                        "id": 3123277,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "12000451",
-                        "maktx": "ACI 75EW_MUL_ST_HF",
-                        "id": 3123278,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11002958",
-                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
-                        "id": 3123279,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001253",
-                        "maktx": "RUFAST 75EW_1L_CL",
-                        "id": 3123280,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11009341",
-                        "maktx": "RUFAST 75EW_0.25L_TR",
-                        "id": 3123281,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001302",
-                        "maktx": "ACRINATHRIN 75EW_200L_PT",
-                        "id": 3123282,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11014961",
-                        "maktx": "RUFAST E-FLO 2023_1L_IT",
-                        "id": 3123283,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11009237",
-                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
-                        "id": 3123284,
+                        "matnr": "11001514",
+                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
+                        "id": 4510077,
                         "reportDataId": 27383
                     },
                     {
                         "matnr": "11004083",
                         "maktx": "RUFAST 75EW_250ML_DZ_CASAP",
-                        "id": 3123285,
+                        "id": 4510078,
                         "reportDataId": 27383
                     },
                     {
-                        "matnr": "11001342",
-                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
-                        "id": 3123286,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001513",
-                        "maktx": "RUFAST E-FLO_250ML_IT",
-                        "id": 3123287,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11003094",
-                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
-                        "id": 3123288,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11009327",
-                        "maktx": "RUFAST 7.5EW_200L_TN",
-                        "id": 3123289,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11000963",
-                        "maktx": "JOKARI_1L_FR_SANG",
-                        "id": 3123290,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11002957",
-                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
-                        "id": 3123291,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001514",
-                        "maktx": "RUFAST EW_0.25L_PS_ACARE",
-                        "id": 3123292,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001284",
-                        "maktx": "RUFAST_1L_EC",
-                        "id": 3123293,
-                        "reportDataId": 27383
-                    },
-                    {
-                        "matnr": "11001059",
-                        "maktx": "RUFAST EW075_1L_KE_ELGON",
-                        "id": 3123294,
+                        "matnr": "11009341",
+                        "maktx": "RUFAST 75EW_0.25L_TR",
+                        "id": 4510079,
                         "reportDataId": 27383
                     },
                     {
                         "matnr": "11001510",
                         "maktx": "RUFAST E-FLO_1L_IT",
-                        "id": 3123295,
+                        "id": 4510080,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "12005926",
+                        "maktx": "ACI 75EW_1L_ST_ADAM",
+                        "id": 4510081,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11014961",
+                        "maktx": "RUFAST E-FLO 2023_1L_IT",
+                        "id": 4510082,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11004505",
+                        "maktx": "RUFAST E-FLO_250ML_AE_GREENOASIS",
+                        "id": 4510083,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11000747",
+                        "maktx": "FLANKER_1L_FR_SANG",
+                        "id": 4510084,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001512",
+                        "maktx": "RUFAST EW_250ML_AM_AGROINPU",
+                        "id": 4510085,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11002958",
+                        "maktx": "ORYTIS 7.5EW_250ML_TN_ATL",
+                        "id": 4510086,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001497",
+                        "maktx": "ORYTIS EW 7.5_200L_MA_MARBAR",
+                        "id": 4510087,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001253",
+                        "maktx": "RUFAST 75EW_1L_CL",
+                        "id": 4510088,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001342",
+                        "maktx": "RUFAST E FLO _250ML_BA_AGROMARKET",
+                        "id": 4510089,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001302",
+                        "maktx": "ACRINATHRIN 75EW_200L_PT",
+                        "id": 4510090,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11004558",
+                        "maktx": "RUFAST 75EW_250ML_GR",
+                        "id": 4510091,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11000963",
+                        "maktx": "JOKARI_1L_FR_SANG",
+                        "id": 4510092,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11015963",
+                        "maktx": "RUFAST 75EW_0.25L_AE_GREEN OASIS",
+                        "id": 4510093,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11009237",
+                        "maktx": "RUFAST 75EW_1L_DZ_CASAP",
+                        "id": 4510094,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11009327",
+                        "maktx": "RUFAST 7.5EW_200L_TN",
+                        "id": 4510095,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001059",
+                        "maktx": "RUFAST EW075_1L_KE_ELGON",
+                        "id": 4510096,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001284",
+                        "maktx": "RUFAST_1L_EC",
+                        "id": 4510097,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11002957",
+                        "maktx": "RUFAST_0.25L_SA_ALYASEEN",
+                        "id": 4510098,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11015820",
+                        "maktx": "RUFAST E-FLO 2024_1L_IT",
+                        "id": 4510099,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11001513",
+                        "maktx": "RUFAST E-FLO_250ML_IT",
+                        "id": 4510100,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11003094",
+                        "maktx": "ORYTIS 7.5EW_200L_TN_ATL",
+                        "id": 4510101,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "12000451",
+                        "maktx": "ACI 75EW_MUL_ST_HF",
+                        "id": 4510102,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11004113",
+                        "maktx": "RUFAST EW_1L_ZA",
+                        "id": 4510103,
+                        "reportDataId": 27383
+                    },
+                    {
+                        "matnr": "11017198",
+                        "maktx": "RUFAST E-FLO 2026_1L_IT",
+                        "id": 4510104,
                         "reportDataId": 27383
                     }
                 ],
@@ -221934,44 +221944,6 @@
                 "id": 27793
             },
             {
-                "pdfname": "50001593_EXT_SDS_US_1X.PDF",
-                "specificationid": "50001593",
-                "path": "\\\\172.18.22.6\\sds_external/50001593_EXT_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "EXT_SDS_US",
-                "authorizedportal": "P3",
-                "productname": "CB-80 INSECTICIDE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CB-80 INSECTICIDE",
-                "casnumber": "",
-                "commercialnames": "PIPERONYL-BUTOXIDE + PYT (35.4 + 4.425) G/L AE (W/ LPA-210)",
-                "cmr": "",
-                "publishdate": "11/10/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "2.2",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO000715",
-                "legacysdsid": "",
-                "revisiondate": "01/29/2021",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008370",
-                        "maktx": "CB 80_170Z_US",
-                        "id": 3851166,
-                        "reportDataId": 27794
-                    }
-                ],
-                "id": 27794
-            },
-            {
                 "pdfname": "50000015_SDS_PH_EN.PDF",
                 "specificationid": "50000015",
                 "path": "\\\\172.18.22.6\\sds_external/50000015_SDS_PH_EN.PDF",
@@ -256664,6 +256636,466 @@
                     }
                 ],
                 "id": 28069
+            },
+            {
+                "pdfname": "50003141_SDS_SE_SV.PDF",
+                "specificationid": "50003141",
+                "path": "\\\\172.18.22.6\\sds_external/50003141_SDS_SE_SV.PDF",
+                "reptype": "MSDS",
+                "language": "SV",
+                "genvariant": "SDS_SE",
+                "authorizedportal": "P3",
+                "productname": "ATEVIOR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "INCELO",
+                "casnumber": "",
+                "commercialnames": "ATEVIOR (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "02/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "SE",
+                "validityareadescription": "Sweden",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017106",
+                        "maktx": "ATEVIOR_1.5KG_RO",
+                        "id": 4510202,
+                        "reportDataId": 28070
+                    },
+                    {
+                        "matnr": "11017126",
+                        "maktx": "ATEVIOR_1.5KG_SE",
+                        "id": 4510203,
+                        "reportDataId": 28070
+                    },
+                    {
+                        "matnr": "11017114",
+                        "maktx": "ATEVIOR_500G_PL",
+                        "id": 4510204,
+                        "reportDataId": 28070
+                    },
+                    {
+                        "matnr": "11017105",
+                        "maktx": "ATEVIOR_1.5KG_BG",
+                        "id": 4510205,
+                        "reportDataId": 28070
+                    },
+                    {
+                        "matnr": "11017150",
+                        "maktx": "ATEVIOR_1.5KG_ES",
+                        "id": 4510206,
+                        "reportDataId": 28070
+                    },
+                    {
+                        "matnr": "11017109",
+                        "maktx": "ATEVIOR_1.5KG_MUL",
+                        "id": 4510207,
+                        "reportDataId": 28070
+                    }
+                ],
+                "id": 28070
+            },
+            {
+                "pdfname": "50003141_SDS_ES_ES.PDF",
+                "specificationid": "50003141",
+                "path": "\\\\172.18.22.6\\sds_external/50003141_SDS_ES_ES.PDF",
+                "reptype": "MSDS",
+                "language": "ES",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "ATEVIOR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "INCELO",
+                "casnumber": "",
+                "commercialnames": "ATEVIOR (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "02/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Espa\u00f1a",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017106",
+                        "maktx": "ATEVIOR_1.5KG_RO",
+                        "id": 4510208,
+                        "reportDataId": 28071
+                    },
+                    {
+                        "matnr": "11017126",
+                        "maktx": "ATEVIOR_1.5KG_SE",
+                        "id": 4510209,
+                        "reportDataId": 28071
+                    },
+                    {
+                        "matnr": "11017114",
+                        "maktx": "ATEVIOR_500G_PL",
+                        "id": 4510210,
+                        "reportDataId": 28071
+                    },
+                    {
+                        "matnr": "11017105",
+                        "maktx": "ATEVIOR_1.5KG_BG",
+                        "id": 4510211,
+                        "reportDataId": 28071
+                    },
+                    {
+                        "matnr": "11017150",
+                        "maktx": "ATEVIOR_1.5KG_ES",
+                        "id": 4510212,
+                        "reportDataId": 28071
+                    },
+                    {
+                        "matnr": "11017109",
+                        "maktx": "ATEVIOR_1.5KG_MUL",
+                        "id": 4510213,
+                        "reportDataId": 28071
+                    }
+                ],
+                "id": 28071
+            },
+            {
+                "pdfname": "50000150_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50000150",
+                "path": "\\\\172.18.22.6\\sds_external/50000150_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "ROVRAL\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IPD 50 WP",
+                "cmr": "",
+                "publishdate": "02/17/2026",
+                "iupac": "",
+                "incode": "B4835",
+                "ehsversionno": "1.3",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "FO000029",
+                "legacysdsid": "FO000029-A",
+                "revisiondate": "02/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005072",
+                        "maktx": "ROVRAL WP_1KG_RU",
+                        "id": 4510434,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003252",
+                        "maktx": "ROVRAL WP_300G_TN_SEPCM",
+                        "id": 4510435,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "12001426",
+                        "maktx": "IPD 500WP_ISAG_SINN",
+                        "id": 4510436,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "12001536",
+                        "maktx": "IPD 500WP_MI_SINN",
+                        "id": 4510437,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003350",
+                        "maktx": "ROVRAL 50WP_500G_CN",
+                        "id": 4510438,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11000261",
+                        "maktx": "ROVRAL 500WP_1KG_BR",
+                        "id": 4510439,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "12000626",
+                        "maktx": "IPD 500WP_SZ_ALL",
+                        "id": 4510440,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11004967",
+                        "maktx": "ROVRAL WP_1KG_TN_SEPCM",
+                        "id": 4510441,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003276",
+                        "maktx": "ROVRAL 50WP_1KG_CN",
+                        "id": 4510442,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003284",
+                        "maktx": "ROVRAL 50WP_500G_MY",
+                        "id": 4510443,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11000277",
+                        "maktx": "ROVRAL_0.125KG_BR",
+                        "id": 4510444,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "12000878",
+                        "maktx": "IPD 500WP_UG_SINN",
+                        "id": 4510445,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11004893",
+                        "maktx": "ROVRAL 50WP_1KG_AR",
+                        "id": 4510446,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11014772",
+                        "maktx": "ROVRAL_500G_TW",
+                        "id": 4510447,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003218",
+                        "maktx": "ROVRAL 50WP_100G_PH",
+                        "id": 4510448,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11000526",
+                        "maktx": "ROVRAL 50WP_250G_TW",
+                        "id": 4510449,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11008937",
+                        "maktx": "ROVRAL 50WP_20KG_MA",
+                        "id": 4510450,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11013200",
+                        "maktx": "ROVRAL 50WP_25G_VN",
+                        "id": 4510451,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003251",
+                        "maktx": "ROVRAL 50WP_100G_ID",
+                        "id": 4510452,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003314",
+                        "maktx": "ROVRAL 50WP_25KG_TW",
+                        "id": 4510453,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11009845",
+                        "maktx": "ROVRAL 50WP_1KG_DO",
+                        "id": 4510454,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003228",
+                        "maktx": "ROVRAL 50WP_500G_TH",
+                        "id": 4510455,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11005677",
+                        "maktx": "ROVRAL 50WP_330KG_MX",
+                        "id": 4510456,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003270",
+                        "maktx": "ROVRAL 50%WP_1KG_PS_MAKALDE",
+                        "id": 4510457,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003253",
+                        "maktx": "ROVRAL SC50_1KG_IL_MERH",
+                        "id": 4510458,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11004362",
+                        "maktx": "ROVRAL WP50 1X15KG,E#WYONG#NZ",
+                        "id": 4510459,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003357",
+                        "maktx": "ROVRAL 50WP_50G_CN",
+                        "id": 4510460,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11013677",
+                        "maktx": "ROVRAL 50WP_100G_VN",
+                        "id": 4510461,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003585",
+                        "maktx": "ROVRAL 50WP_100G_CN",
+                        "id": 4510462,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "12006380",
+                        "maktx": "IPD 500WP_330KG_BR_MI_SINN",
+                        "id": 4510463,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11001864",
+                        "maktx": "ROVRAL 50PM_1KG_?",
+                        "id": 4510464,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11013210",
+                        "maktx": "ROVRAL 50WP_500G_VN",
+                        "id": 4510465,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003250",
+                        "maktx": "ROVRAL 50WP_100G_MM",
+                        "id": 4510466,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003263",
+                        "maktx": "ROVRAL 50WP_18KG_BD",
+                        "id": 4510467,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11004892",
+                        "maktx": "ROVRAL 50WP_1KG_JO",
+                        "id": 4510468,
+                        "reportDataId": 28072
+                    },
+                    {
+                        "matnr": "11003638",
+                        "maktx": "ROVRAL 50WP_25KG_VN",
+                        "id": 4510469,
+                        "reportDataId": 28072
+                    }
+                ],
+                "id": 28072
+            },
+            {
+                "pdfname": "50001593_SDS_US_1X.PDF",
+                "specificationid": "50001593",
+                "path": "\\\\172.18.22.6\\sds_external/50001593_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "CB-80 INSECTICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CB-80 INSECTICIDE",
+                "casnumber": "",
+                "commercialnames": "PIPERONYL-BUTOXIDE + PYT (35.4 + 4.425) G/L AE (W/ LPA-210)",
+                "cmr": "",
+                "publishdate": "02/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000715",
+                "legacysdsid": "",
+                "revisiondate": "02/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008370",
+                        "maktx": "CB 80_170Z_US",
+                        "id": 4510470,
+                        "reportDataId": 28073
+                    }
+                ],
+                "id": 28073
+            },
+            {
+                "pdfname": "50001593_SDS_US_EN.PDF",
+                "specificationid": "50001593",
+                "path": "\\\\172.18.22.6\\sds_external/50001593_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "CB-80 INSECTICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CB-80 INSECTICIDE",
+                "casnumber": "",
+                "commercialnames": "PIPERONYL-BUTOXIDE + PYT (35.4 + 4.425) G/L AE (W/ LPA-210)",
+                "cmr": "",
+                "publishdate": "02/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000715",
+                "legacysdsid": "",
+                "revisiondate": "02/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008370",
+                        "maktx": "CB 80_170Z_US",
+                        "id": 4510471,
+                        "reportDataId": 28074
+                    }
+                ],
+                "id": 28074
             }
         ],
         "isExportToExcel": false
