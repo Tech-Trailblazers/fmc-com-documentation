@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6250,
+        "totalCount": 6253,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,968 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000937_SDS_IE_6N.PDF",
-                "specificationid": "50000937",
-                "path": "\\\\172.18.22.6\\sds_external/50000937_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "ALLY\u00ae MAX SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ALLIE MAX (M)",
-                "casnumber": "",
-                "commercialnames": "LDY15 28.6 SG Blend",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "LDY15",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "A-44",
-                "legacysdsid": "130000015715",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006035",
-                        "maktx": "EXPRESS MAX SX_105G_CH_SYNGENTA",
-                        "id": 2191430,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11006136",
-                        "maktx": "ALLY MAX_42G_PK_SYNGENTA",
-                        "id": 2191431,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "12002151",
-                        "maktx": "TBM 143 + MEM 143WG_453KG_UF_ALL",
-                        "id": 2191432,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11000075",
-                        "maktx": "ALLY MAX SX_100G_HU",
-                        "id": 2191433,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005553",
-                        "maktx": "ALLY MAX SX_168G_GB",
-                        "id": 2191434,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005858",
-                        "maktx": "ALLIE MAX SX_625G_FR",
-                        "id": 2191435,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005816",
-                        "maktx": "ALLY MAX SX_84G_IE",
-                        "id": 2191436,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005875",
-                        "maktx": "ALLY MAX_105G_BG",
-                        "id": 2191437,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005939",
-                        "maktx": "ALLY MAX SX_84G_HU",
-                        "id": 2191438,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11006496",
-                        "maktx": "ALLY MAX SX_112G_HU",
-                        "id": 2191439,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "12001549",
-                        "maktx": "TBM 143 MEM 143WG_50KG_UF_ALL",
-                        "id": 2191440,
-                        "reportDataId": 26793
-                    },
-                    {
-                        "matnr": "11005782",
-                        "maktx": "ALLIE MAX SX_125G_FR",
-                        "id": 2191441,
-                        "reportDataId": 26793
-                    }
-                ],
-                "id": 26793
-            },
-            {
-                "pdfname": "50000700_SDS_IE_6N.PDF",
-                "specificationid": "50000700",
-                "path": "\\\\172.18.22.6\\sds_external/50000700_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "AZAKA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "AZO 250 g/L SC",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "YH688",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "FO002267",
-                "legacysdsid": "",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001764",
-                        "maktx": "IRIBIS_5L_CZ",
-                        "id": 3851064,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002293",
-                        "maktx": "AZAKA_5L_GB",
-                        "id": 3851065,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11014464",
-                        "maktx": "AZAKA_1000ML_TW",
-                        "id": 3851066,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002241",
-                        "maktx": "AZAKA_1L_IT",
-                        "id": 3851067,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11014482",
-                        "maktx": "AZAKA_500ML_TW",
-                        "id": 3851068,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002497",
-                        "maktx": "AZAKA_5L_SK",
-                        "id": 3851069,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002668",
-                        "maktx": "AZAKA_1L_ES",
-                        "id": 3851070,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002626",
-                        "maktx": "AZAKA_5L_PT",
-                        "id": 3851071,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11001716",
-                        "maktx": "AZAKA_1L_RO",
-                        "id": 3851072,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11014214",
-                        "maktx": "AZAKA_5L_BG",
-                        "id": 3851073,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002627",
-                        "maktx": "AZAKA_5L_ES",
-                        "id": 3851074,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11005679",
-                        "maktx": "AZOXY 250SC_5L_MUL",
-                        "id": 3851075,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002424",
-                        "maktx": "TORERO_5L_DE",
-                        "id": 3851076,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11004818",
-                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
-                        "id": 3851077,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "12000448",
-                        "maktx": "AZO 250SC_ST_PA",
-                        "id": 3851078,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "12001118",
-                        "maktx": "AZO 250SC_ST_SYT",
-                        "id": 3851079,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11001283",
-                        "maktx": "AZAKA_5L_BE_PROTEX",
-                        "id": 3851080,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11002640",
-                        "maktx": "AZAKA_5L_CZ",
-                        "id": 3851081,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11008985",
-                        "maktx": "AZAKA_200L",
-                        "id": 3851082,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "12006502",
-                        "maktx": "AZO 250SC_PHY_SYT",
-                        "id": 3851083,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11010731",
-                        "maktx": "AZAKA_1L_RO",
-                        "id": 3851084,
-                        "reportDataId": 26794
-                    },
-                    {
-                        "matnr": "11000746",
-                        "maktx": "AZAKA_5L_HU",
-                        "id": 3851085,
-                        "reportDataId": 26794
-                    }
-                ],
-                "id": 26794
-            },
-            {
-                "pdfname": "50000021_SDS_IE_6N.PDF",
-                "specificationid": "50000021",
-                "path": "\\\\172.18.22.6\\sds_external/50000021_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "BIPLAY\u00ae SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ALLIE STAR SX (M)",
-                "casnumber": "",
-                "commercialnames": "CDQ73 33.3 SG Blend",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "CDQ73",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "A-06.7",
-                "legacysdsid": "130000000397",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006379",
-                        "maktx": "TRATON SX_70G_IT",
-                        "id": 3844062,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11006006",
-                        "maktx": "TRATON SX_250G_NL",
-                        "id": 3844063,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11005992",
-                        "maktx": "CDQ SX_250G_SE",
-                        "id": 3844064,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11009014",
-                        "maktx": "TRATON SX_600G_SK_MV SERVIS",
-                        "id": 3844065,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11005003",
-                        "maktx": "CDQ SX_250G_FI",
-                        "id": 3844066,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11007445",
-                        "maktx": "BIPLAY SX_600G_SK",
-                        "id": 3844067,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11006464",
-                        "maktx": "BIPLAY SX_600G_CZ",
-                        "id": 3844068,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11005889",
-                        "maktx": "TRIMMER TRIO_105G_HU_ADAMA",
-                        "id": 3844069,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11016357",
-                        "maktx": "TRATON SX_225G_ES_KENOGARD",
-                        "id": 3844070,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11000058",
-                        "maktx": "BIPLAY 33SX_225G_ES",
-                        "id": 3844071,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11013606",
-                        "maktx": "CDQ SX_200G_MUL",
-                        "id": 3844072,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11007460",
-                        "maktx": "DP911 SX_225G_GB",
-                        "id": 3844073,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11005808",
-                        "maktx": "BIPLAY SX_135G_IE",
-                        "id": 3844074,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11007580",
-                        "maktx": "CDQ SX_250G_MUL",
-                        "id": 3844075,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11006197",
-                        "maktx": "CDQ SX_100G_NO",
-                        "id": 3844076,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11007521",
-                        "maktx": "EXPRESS GOLD SX_250G_NO",
-                        "id": 3844077,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "12001600",
-                        "maktx": "TBM 222 MEM 111SG_450KG_UF_ALL",
-                        "id": 3844078,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "12001539",
-                        "maktx": "TBM 222 MEM 111SG_50KG_UF_ALL",
-                        "id": 3844079,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11005860",
-                        "maktx": "BIPLAY SX_750G_FR",
-                        "id": 3844080,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11006110",
-                        "maktx": "BIPLAY SX_150G_FR",
-                        "id": 3844081,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11006090",
-                        "maktx": "EXPRESS GOLD 33SX_100G_DK",
-                        "id": 3844082,
-                        "reportDataId": 26795
-                    },
-                    {
-                        "matnr": "11016954",
-                        "maktx": "BIPLAY SX_225G_SK",
-                        "id": 3844083,
-                        "reportDataId": 26795
-                    }
-                ],
-                "id": 26795
-            },
-            {
-                "pdfname": "50000038_SDS_IE_6N.PDF",
-                "specificationid": "50000038",
-                "path": "\\\\172.18.22.6\\sds_external/50000038_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "CAMEO\u00ae SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AFFINITY 2 50SG (M)",
-                "casnumber": "",
-                "commercialnames": "TBM 50 SG",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "L5300",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "H-15.1",
-                "legacysdsid": "130000012165",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006274",
-                        "maktx": "EXPRESS 50SX_60G_RS_AGROMARKET",
-                        "id": 3557809,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009404",
-                        "maktx": "EXPRESS W-TOTAL SOL_35LB_US",
-                        "id": 3557810,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005540",
-                        "maktx": "EXPRESS 50SG_150G_RO",
-                        "id": 3557811,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004053",
-                        "maktx": "EXPRESS 50SX_100G_AT_SYN",
-                        "id": 3557812,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11015704",
-                        "maktx": "EXPRESS TREND_CP180G 1L_RS_AGROMARKET",
-                        "id": 3557813,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11010960",
-                        "maktx": "EXPRESS 50SG TARGA MAX_VP1.5KG 25L_RO",
-                        "id": 3557814,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11013313",
-                        "maktx": "EXPRESS 75PX_60G_RS",
-                        "id": 3557815,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006381",
-                        "maktx": "EXPRESS SX_90G_HR_AGROCHEM MAKS",
-                        "id": 3557816,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006403",
-                        "maktx": "EXPRESS 50SX_90G_CZ",
-                        "id": 3557817,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11013205",
-                        "maktx": "EXPRESS SX_60G_AT_KWIZDA",
-                        "id": 3557818,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014900",
-                        "maktx": "FLUENCE SX_100G_ES_SYNGENTA",
-                        "id": 3557819,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006354",
-                        "maktx": "GRANSTAR 50SG_100G_GR CY",
-                        "id": 3557820,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12002164",
-                        "maktx": "EXPRESS SG 486G BOTTLE CA",
-                        "id": 3557821,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005577",
-                        "maktx": "EXPRESS W-TOTAL SG_15OZ_US",
-                        "id": 3557822,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009671",
-                        "maktx": "EXPRESS 50SG_150G_RO",
-                        "id": 3557823,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12002079",
-                        "maktx": "TBM 500SG_100G_UF_ALL",
-                        "id": 3557824,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005551",
-                        "maktx": "EXPRESS 50SX_112.5G_SK",
-                        "id": 3557825,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12000618",
-                        "maktx": "TBM 500SG_50KG_UF_ALL",
-                        "id": 3557826,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009187",
-                        "maktx": "LUXXUR_243G_US",
-                        "id": 3557827,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009643",
-                        "maktx": "FLUENCE 50SX 10X90G JAR FR-SYN-SF",
-                        "id": 3557828,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11016008",
-                        "maktx": "EXPRESS SX_450G_FR",
-                        "id": 3557829,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009676",
-                        "maktx": "EXPRESS 50SG 10X112.5G JAR SK-CORTEVA",
-                        "id": 3557830,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11002091",
-                        "maktx": "GRANSTAR 50SX_50KG_CA",
-                        "id": 3557831,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014500",
-                        "maktx": "FLUENCE 50SX_90G_RS_SYNGENTA",
-                        "id": 3557832,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009657",
-                        "maktx": "EXPRESS 50SX 10X90G JAR FR-SYN-SF",
-                        "id": 3557833,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11015193",
-                        "maktx": "EXPRESS 50SX_180G_RS_AGROMARKET",
-                        "id": 3557834,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12002191",
-                        "maktx": "TBM 500SG_?_CA_DWDP",
-                        "id": 3557835,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009667",
-                        "maktx": "EXPRESS 50SX 10X90G JAR FR-COR-SF",
-                        "id": 3557836,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006290",
-                        "maktx": "TRIMMER 50SX_150G_HU_ADAMA",
-                        "id": 3557837,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009670",
-                        "maktx": "EXPRESS 50SG 10X112.5G JAR HU-CORTEVA",
-                        "id": 3557838,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005968",
-                        "maktx": "POINTER SX_200G_DE",
-                        "id": 3557839,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014581",
-                        "maktx": "EXPRESS 50SX_90G_HR_AGROCHEM MAKS",
-                        "id": 3557840,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11016340",
-                        "maktx": "GRANSTAR SX 50SG_60G_PL",
-                        "id": 3557841,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006514",
-                        "maktx": "GRANSTAR SX 50SG_500G_PL",
-                        "id": 3557842,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009655",
-                        "maktx": "EXPRESS 50SG_150G_RO",
-                        "id": 3557843,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12001505",
-                        "maktx": "GRANSTAR 50SX KG BULK",
-                        "id": 3557844,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11015695",
-                        "maktx": "EXPRESS 50SX_225G_HU",
-                        "id": 3557845,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12002134",
-                        "maktx": "TBM 500SG_500KG_UF_ALL",
-                        "id": 3557846,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009665",
-                        "maktx": "FLUENCE_150G_RO_SYNGENTA",
-                        "id": 3557847,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009664",
-                        "maktx": "FLUENCE_112.5G_HU",
-                        "id": 3557848,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004170",
-                        "maktx": "EXPRESS 50SX_90G_CZ_SYN",
-                        "id": 3557849,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005456",
-                        "maktx": "GRANSTAR 50SG_75G_GR CY",
-                        "id": 3557850,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004297",
-                        "maktx": "TRIMMER SX_100G_IT_MAI",
-                        "id": 3557851,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005581",
-                        "maktx": "EXPRESS SX_750G_AT_KWIZDA",
-                        "id": 3557852,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005928",
-                        "maktx": "EXPRESS 50SG_100G_BG",
-                        "id": 3557853,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004485",
-                        "maktx": "EXPRESS SG_243g_CA",
-                        "id": 3557854,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11007293",
-                        "maktx": "FLUENCE 50SX 10X60G JAR RS-SYN",
-                        "id": 3557855,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005571",
-                        "maktx": "EXPRESS SX_60G_CH_SYNGENTA",
-                        "id": 3557856,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006311",
-                        "maktx": "TRIMMER 50SG_100G_SE_ADAMA",
-                        "id": 3557857,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006081",
-                        "maktx": "TRIMMER SX_750G_DE_ADAMA",
-                        "id": 3557858,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004569",
-                        "maktx": "EXPRESS 50SX_750G_AT_CORTEVA",
-                        "id": 3557859,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004555",
-                        "maktx": "EXPRESS 50SX_100G_AT_CORTEVA",
-                        "id": 3557860,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014871",
-                        "maktx": "EXPRESS SX50SG_90G_PL",
-                        "id": 3557861,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005587",
-                        "maktx": "GRANSTAR 50SX_150G_ES",
-                        "id": 3557862,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11003970",
-                        "maktx": "EXPRESS 50SG_100G_BG_SYN",
-                        "id": 3557863,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11004139",
-                        "maktx": "EXPRESS 50SX_750G_AT_SYN",
-                        "id": 3557864,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11001745",
-                        "maktx": "TRIMMER 50SG_100G_FI_ADAMA",
-                        "id": 3557865,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005301",
-                        "maktx": "EXPRESS 50SG_100G_BG_CORTEVA",
-                        "id": 3557866,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11003288",
-                        "maktx": "GRANSTAR 50SX_225G_MUL",
-                        "id": 3557867,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009644",
-                        "maktx": "FLUENCE 50SX 10X100G JAR IT-SYN",
-                        "id": 3557868,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11000117",
-                        "maktx": "CAMEO_120G_GB",
-                        "id": 3557869,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005811",
-                        "maktx": "EXPRESS 50SX_112.5G_HU",
-                        "id": 3557870,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014926",
-                        "maktx": "FLUENCE SX_150G_ES_SYNGENTA",
-                        "id": 3557871,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009645",
-                        "maktx": "FLUENCE 50SX 10X150G JAR ES-SF-SYN",
-                        "id": 3557872,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009531",
-                        "maktx": "EXPRESS 50SG_160KG_CA",
-                        "id": 3557873,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006378",
-                        "maktx": "TRIMMER SX_150G_ES_MAI",
-                        "id": 3557874,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005497",
-                        "maktx": "EXPRESS 50SG_486G_CA",
-                        "id": 3557875,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005547",
-                        "maktx": "CAMEO_100G_BE LU",
-                        "id": 3557876,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014873",
-                        "maktx": "FLUENCE_100G_IT_SYNGENTA",
-                        "id": 3557877,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009656",
-                        "maktx": "EXPRESS 50SG 10X112.5G JAR SK-SYN",
-                        "id": 3557878,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11003404",
-                        "maktx": "EXPRESS W/TOTAL SOL 200LB_US",
-                        "id": 3557879,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "12001082",
-                        "maktx": "TBM 500SG_500KG_CA_UF_ALL",
-                        "id": 3557880,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11016326",
-                        "maktx": "GRANSTAR SX 50SG_150G_PL",
-                        "id": 3557881,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014923",
-                        "maktx": "EXPRESS50SX TREND90_CP90G 500ML_RS_AGMK",
-                        "id": 3557882,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005772",
-                        "maktx": "EXPRESS SX_90G_FR",
-                        "id": 3557883,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009654",
-                        "maktx": "EXPRESS 50SG 10X112.5G JAR HU-SYN",
-                        "id": 3557884,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11006089",
-                        "maktx": "EXPRESS 50SX_100G_DK",
-                        "id": 3557885,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11005802",
-                        "maktx": "POINTER SX_1KG_DE",
-                        "id": 3557886,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11003800",
-                        "maktx": "FLUENCE 50SX_90G_CZ_SYN",
-                        "id": 3557887,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014564",
-                        "maktx": "EXPRESS 50SX_90G_RS_AGROMARKET",
-                        "id": 3557888,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11009405",
-                        "maktx": "EXPRESS W-TOTAL SOL_540LB_US",
-                        "id": 3557889,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11014982",
-                        "maktx": "TRIMMER 50SG_240G_FI_ADAMA",
-                        "id": 3557890,
-                        "reportDataId": 26796
-                    },
-                    {
-                        "matnr": "11016902",
-                        "maktx": "CAMEO SX_100G_CH_STAHLER",
-                        "id": 3557891,
-                        "reportDataId": 26796
-                    }
-                ],
-                "id": 26796
-            },
             {
                 "pdfname": "50001073_EXT_SDS_IE_6N.PDF",
                 "specificationid": "50001073",
@@ -259209,6 +258247,2510 @@
                     }
                 ],
                 "id": 28088
+            },
+            {
+                "pdfname": "50000015_SDS_ES_6N.PDF",
+                "specificationid": "50000015",
+                "path": "\\\\172.18.22.6\\sds_external/50000015_SDS_ES_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "CORAGEN\u00ae 20 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 200 g/L SC (ACTICIDE)",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Spain",
+                "legacyspecid": "Q-1617",
+                "legacysdsid": "130000122718",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006939",
+                        "maktx": "CORAGEN 20SC CTN 2X10L BTL TW",
+                        "id": 4514439,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014882",
+                        "maktx": "SHENZI 200 SC_200ML_PE_ARYSTA",
+                        "id": 4514440,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014840",
+                        "maktx": "SOLACE 200SC_5L_AU",
+                        "id": 4514441,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014597",
+                        "maktx": "SHENZI_1L_AR_UPL",
+                        "id": 4514442,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014513",
+                        "maktx": "SHENZI 200 SC_1L_PE_ARYSTA",
+                        "id": 4514443,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014393",
+                        "maktx": "SHENZI 200 SC_1L_EC_ARYSTA",
+                        "id": 4514444,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013621",
+                        "maktx": "SHENZI 200 SC_200ML_MX",
+                        "id": 4514445,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013599",
+                        "maktx": "SHENZI 200 SC_1L_MX",
+                        "id": 4514446,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014115",
+                        "maktx": "SHENZI_5L_BR",
+                        "id": 4514447,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014114",
+                        "maktx": "SHENZI_1L_BR",
+                        "id": 4514448,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016476",
+                        "maktx": "CORAGEN 20SC_3L_ES",
+                        "id": 4514449,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005992",
+                        "maktx": "RYX 200SC_1000L_TU_JI",
+                        "id": 4514450,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013898",
+                        "maktx": "PREMIO_1L_EC",
+                        "id": 4514451,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014198",
+                        "maktx": "MIRAPRIN_1L_PE_DROKASA",
+                        "id": 4514452,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014205",
+                        "maktx": "MIRAPRIN_200ML_PE_DROKASA",
+                        "id": 4514453,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013897",
+                        "maktx": "MIRAPRIN_100ML_EC",
+                        "id": 4514454,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005602",
+                        "maktx": "RYX 200SC_1L_ST_MO",
+                        "id": 4514455,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000634",
+                        "maktx": "RYX 200SC ACTICIDE_200L_PHY_ALL",
+                        "id": 4514456,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005730",
+                        "maktx": "RYX 200SC_5L_ST_MO",
+                        "id": 4514457,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005800",
+                        "maktx": "RYX 200SC_1000L_TR_ST_MO",
+                        "id": 4514458,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013515",
+                        "maktx": "CORPRIMA 20SC_1L_HU",
+                        "id": 4514459,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013227",
+                        "maktx": "DUPONT CORAGEN_200ML_AE",
+                        "id": 4514460,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014842",
+                        "maktx": "CHLORANTRAGEN 200SC_5L_AU_GENFARM",
+                        "id": 4514461,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014889",
+                        "maktx": "CORAGEN 20SC_1L_CM_ROYAL CHIMIE",
+                        "id": 4514462,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014884",
+                        "maktx": "CORAGEN 20SC_50ML_TG_UPL",
+                        "id": 4514463,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014833",
+                        "maktx": "CORAGEN 20SC_50ML_CM_ROYAL CHIMIE",
+                        "id": 4514464,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014786",
+                        "maktx": "CORAGEN SC_200L_PE_FARMEX",
+                        "id": 4514465,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014729",
+                        "maktx": "CORAGEN_1L_IL_GADOT",
+                        "id": 4514466,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014696",
+                        "maktx": "CORAGEN 20SC_5L_BG",
+                        "id": 4514467,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013334",
+                        "maktx": "CORAGEN 20SC_50ML_BJ_SODECO",
+                        "id": 4514468,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013421",
+                        "maktx": "CORAGEN 20SC_5L_UA",
+                        "id": 4514469,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013223",
+                        "maktx": "CORAGEN 20SC_200ML_LY",
+                        "id": 4514470,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013180",
+                        "maktx": "CORAGEN 20SC_250ML_TW",
+                        "id": 4514471,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013130",
+                        "maktx": "CORAGEN 20SC_50ML_AL_AGROBLEND",
+                        "id": 4514472,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013151",
+                        "maktx": "CORAGEN SC_4L_PE",
+                        "id": 4514473,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005772",
+                        "maktx": "RYX 200SC_200ML_SC_ALL",
+                        "id": 4514474,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002166",
+                        "maktx": "RYX 200SC ACTICIDE_200L_PHY_ALL",
+                        "id": 4514475,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000963",
+                        "maktx": "RYX 200SC ACTICIDE_ST_MO",
+                        "id": 4514476,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009366",
+                        "maktx": "CORAGEN_50ML_MUL",
+                        "id": 4514477,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014693",
+                        "maktx": "CORAGEN 20SC_30ML_MK_HEMOMAK",
+                        "id": 4514478,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014676",
+                        "maktx": "CORAGEN 20SC_100ML_MK_HEMOMAK",
+                        "id": 4514479,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014415",
+                        "maktx": "CORAGEN 20SC_100ML_GN_ALM",
+                        "id": 4514480,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014349",
+                        "maktx": "CORAGEN_150ML_PK",
+                        "id": 4514481,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014224",
+                        "maktx": "CORAGEN_200L_RO",
+                        "id": 4514482,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014033",
+                        "maktx": "CORAGEN 20SC_30ML_MUL_ALM",
+                        "id": 4514483,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014111",
+                        "maktx": "CORAGEN 20SC_1000L_KE",
+                        "id": 4514484,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013565",
+                        "maktx": "CORAGEN_100ML_MX",
+                        "id": 4514485,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013668",
+                        "maktx": "CORAGEN 20SC_500ML_MUL",
+                        "id": 4514486,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009340",
+                        "maktx": "CORAGEN SC_200ML_MUL",
+                        "id": 4514487,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014052",
+                        "maktx": "CORAGEN SK_10L_MUL",
+                        "id": 4514488,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014045",
+                        "maktx": "CORAGEN 200SC_1L_PL",
+                        "id": 4514489,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009424",
+                        "maktx": "CORAGEN 20SC_100ML_SN_ALM",
+                        "id": 4514490,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014091",
+                        "maktx": "CORAGEN 20SC_1L_GR",
+                        "id": 4514491,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013896",
+                        "maktx": "CORAGEN 20SC_30ML_CI_ALM",
+                        "id": 4514492,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007233",
+                        "maktx": "CORAGEN_5L_AU",
+                        "id": 4514493,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007316",
+                        "maktx": "CORAGEN_5L_DE",
+                        "id": 4514494,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007234",
+                        "maktx": "CORAGEN_5L_UA",
+                        "id": 4514495,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013823",
+                        "maktx": "COREGIS_50ML_TN_PROMOCHIMIE",
+                        "id": 4514496,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009416",
+                        "maktx": "CORAGEN_50ML_MUL",
+                        "id": 4514497,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000549",
+                        "maktx": "RYX 200SC ACTICIDE_ST_MO",
+                        "id": 4514498,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002199",
+                        "maktx": "RYX 200SC_200L_MUL",
+                        "id": 4514499,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009342",
+                        "maktx": "CORAGEN_200ML_MUL",
+                        "id": 4514500,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009771",
+                        "maktx": "CORAGEN_200ML_MUL",
+                        "id": 4514501,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014457",
+                        "maktx": "KINSTA 200 SC_1L_PY_UPL",
+                        "id": 4514502,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007592",
+                        "maktx": "KORAGEN_500ML_AZ",
+                        "id": 4514503,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014202",
+                        "maktx": "AMICOR_1L_ZA",
+                        "id": 4514504,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013880",
+                        "maktx": "INECOR 20SC_100ML_RS_AGROMARKET",
+                        "id": 4514505,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013877",
+                        "maktx": "INECOR 20SC_1L_RS_AGROMARKET",
+                        "id": 4514506,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009523",
+                        "maktx": "AMICOR 20SC_1L_AR",
+                        "id": 4514507,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014074",
+                        "maktx": "ARATKA 20SC_1000L_KE",
+                        "id": 4514508,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014177",
+                        "maktx": "CORAGEN_950L_CA",
+                        "id": 4514509,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013960",
+                        "maktx": "CORAGEN_50ML_CM_ROYAL CHIMIE",
+                        "id": 4514510,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013874",
+                        "maktx": "COREGIS_200ML_TN_PROMOCHIMIE",
+                        "id": 4514511,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013585",
+                        "maktx": "CORAGEN_75ML_TD_ROYAL CHIMIE",
+                        "id": 4514512,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013805",
+                        "maktx": "INECOR 20SC_250ML_KE_JUANCO",
+                        "id": 4514513,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014721",
+                        "maktx": "CERTACOR_200ML_MX_ANAJALSA",
+                        "id": 4514514,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014742",
+                        "maktx": "CERTACOR_1L_MX_ANAJALSA",
+                        "id": 4514515,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014921",
+                        "maktx": "CORAGEN 20SC_1L_CZ SK",
+                        "id": 4514516,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006702",
+                        "maktx": "RYX 200SC ACTICIDE_PHY_JI",
+                        "id": 4514517,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016683",
+                        "maktx": "INECOR_1L_ES_BAYER",
+                        "id": 4514518,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016693",
+                        "maktx": "CORAGEN_1L_CL",
+                        "id": 4514519,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016681",
+                        "maktx": "CORAGEN_500ML_CN",
+                        "id": 4514520,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016647",
+                        "maktx": "CORAGEN 20SC_50ML_CI_SOLEVO",
+                        "id": 4514521,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016586",
+                        "maktx": "INECOR_1L_IT_CORTEVA",
+                        "id": 4514522,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006621",
+                        "maktx": "RYX 200SC_1000L_VN_ST_JI",
+                        "id": 4514523,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006630",
+                        "maktx": "RYX 200SC_1000L_MX_UB_JI",
+                        "id": 4514524,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006557",
+                        "maktx": "RYX 200SC ACTICIDE_200L_CO_MI_MO",
+                        "id": 4514525,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016382",
+                        "maktx": "CORAGEN_50ML_AE_AGRIMATCO",
+                        "id": 4514526,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006510",
+                        "maktx": "RYX 200SC ACTICIDE_ST_JI",
+                        "id": 4514527,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016214",
+                        "maktx": "CORAGEN 20SC_200ML_MK_HEMOMAK",
+                        "id": 4514528,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016232",
+                        "maktx": "PREVATHON 200SC_100ML_VN",
+                        "id": 4514529,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016201",
+                        "maktx": "PREVATHON 200SC_20ML_VN",
+                        "id": 4514530,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016175",
+                        "maktx": "PREVATHON 200SC_7ML_VN",
+                        "id": 4514531,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016747",
+                        "maktx": "INECOR_300ML_IT_CORTEVA",
+                        "id": 4514532,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016739",
+                        "maktx": "INECOR_500ML_IT_CORTEVA",
+                        "id": 4514533,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016890",
+                        "maktx": "COREGIS_1L_BR",
+                        "id": 4514534,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016891",
+                        "maktx": "CORAGEN_1L_BR",
+                        "id": 4514535,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016953",
+                        "maktx": "CORAGEN 20SC_200L_HU",
+                        "id": 4514536,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016928",
+                        "maktx": "VESTICOR MAIS_CP500ML 3L_IT",
+                        "id": 4514537,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016934",
+                        "maktx": "PANIRI_1L_ES",
+                        "id": 4514538,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016923",
+                        "maktx": "CORPRIMA_300ML_IT",
+                        "id": 4514539,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016907",
+                        "maktx": "ATSINA 200SC_1000L_MUL_BAYER",
+                        "id": 4514540,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11017132",
+                        "maktx": "AFFINEX_1L_ES_GOWAN",
+                        "id": 4514541,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006183",
+                        "maktx": "RYX 200SC ACTICIDE_200l_RIZO_JI",
+                        "id": 4514542,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016168",
+                        "maktx": "SHENZI_1L_BR",
+                        "id": 4514543,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11017108",
+                        "maktx": "AFFINEX_1L_IT",
+                        "id": 4514544,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007440",
+                        "maktx": "PREMIO_100ML_EC",
+                        "id": 4514545,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013242",
+                        "maktx": "VESTICOR_1L_AR",
+                        "id": 4514546,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013771",
+                        "maktx": "TWIN PACK MAIS_CP750ML 3L_IT",
+                        "id": 4514547,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014857",
+                        "maktx": "SUDOKU 20SC_1000L_KE",
+                        "id": 4514548,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014439",
+                        "maktx": "TECORLA 20SC_5L_UA",
+                        "id": 4514549,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014206",
+                        "maktx": "LEIMAY_5L_CZ",
+                        "id": 4514550,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014843",
+                        "maktx": "PEACEKEEPER HORT 200SC_5L_AU",
+                        "id": 4514551,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000019",
+                        "maktx": "PREMIO_0.2L_BR",
+                        "id": 4514552,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013895",
+                        "maktx": "CORAGEN 20SC_30ML_BJ_SODECO",
+                        "id": 4514553,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016171",
+                        "maktx": "PREMIO_1L_BR",
+                        "id": 4514554,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015417",
+                        "maktx": "TUVENTA_150ML_PH",
+                        "id": 4514555,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015678",
+                        "maktx": "CORAGEN_100ML_MY",
+                        "id": 4514556,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015676",
+                        "maktx": "CORAGEN_250ML_MY",
+                        "id": 4514557,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12006190",
+                        "maktx": "RYX 200SC_1000L_SV_ALL",
+                        "id": 4514558,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015650",
+                        "maktx": "CORAGEN_1000L_CN",
+                        "id": 4514559,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015596",
+                        "maktx": "CORAGEN 200SC_1000L_PL",
+                        "id": 4514560,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015586",
+                        "maktx": "MIRAPRIN_200L_PE_DROKASA",
+                        "id": 4514561,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015593",
+                        "maktx": "CORAGEN_5L_RO",
+                        "id": 4514562,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015552",
+                        "maktx": "ENFUSE 200SC_1000L_ID",
+                        "id": 4514563,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015538",
+                        "maktx": "CORAGEN_100ML_CN",
+                        "id": 4514564,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015017",
+                        "maktx": "TARALIN_200L_PE_FARMAGRO",
+                        "id": 4514565,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014975",
+                        "maktx": "CORAGEN_1L_AE_AGRIMATCO",
+                        "id": 4514566,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015022",
+                        "maktx": "CORAGEN_10ML_MM_ACG",
+                        "id": 4514567,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014940",
+                        "maktx": "CORAGEN 20SC_30ML_SN_RMG",
+                        "id": 4514568,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014927",
+                        "maktx": "LEIMAY_5L_AT",
+                        "id": 4514569,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014915",
+                        "maktx": "CORAGEN 20SC_75ML_TD_ROYAL CHIMIE",
+                        "id": 4514570,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015691",
+                        "maktx": "CORAGEN 20SC_50ML_AL_AGROMARKET",
+                        "id": 4514571,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015703",
+                        "maktx": "CORPRIMA 200SC_5L_AU",
+                        "id": 4514572,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015709",
+                        "maktx": "CORAGEN 20SC_100ML_GR",
+                        "id": 4514573,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015746",
+                        "maktx": "COREGIS_30ML_BJ_SODECO",
+                        "id": 4514574,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015381",
+                        "maktx": "CORAGEN_5L_BR",
+                        "id": 4514575,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015371",
+                        "maktx": "COREGIS_5L_BR",
+                        "id": 4514576,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015355",
+                        "maktx": "INECOR_1L_ZA",
+                        "id": 4514577,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015340",
+                        "maktx": "PREVATHON PRO 200SC_100ML_ID",
+                        "id": 4514578,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015171",
+                        "maktx": "CORAGEN PCT_CP500ML 5L_IT",
+                        "id": 4514579,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015129",
+                        "maktx": "CORAGEN_1L_UY",
+                        "id": 4514580,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005961",
+                        "maktx": "RYX 200SC ACTICIDE_52.8GAL_MI_MO",
+                        "id": 4514581,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015433",
+                        "maktx": "CORAGEN 20SC_200L_UA",
+                        "id": 4514582,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015059",
+                        "maktx": "SHENZI 200 SC_100ML_EC_UPL",
+                        "id": 4514583,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015992",
+                        "maktx": "VOLIAM 200SC_1000L_MUL_SYT",
+                        "id": 4514584,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016042",
+                        "maktx": "CORAGEN_4ML_LK_SUNAGRO",
+                        "id": 4514585,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015970",
+                        "maktx": "ENFUSE_100ML_ID",
+                        "id": 4514586,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015952",
+                        "maktx": "SHENZI 200SC_1000L_MUL_UPL",
+                        "id": 4514587,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015922",
+                        "maktx": "TARALIN_200L_EC",
+                        "id": 4514588,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015930",
+                        "maktx": "PREMIO_200L_EC",
+                        "id": 4514589,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11015794",
+                        "maktx": "TUVENTA_300ML_PH",
+                        "id": 4514590,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11016007",
+                        "maktx": "CORAGEN 200SC_200L_PL",
+                        "id": 4514591,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11013702",
+                        "maktx": "CORAGEN 20SC_500ML_NO",
+                        "id": 4514592,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014013",
+                        "maktx": "CORAGEN 200SC_500ML_PL",
+                        "id": 4514593,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014077",
+                        "maktx": "CORAGEN_10L_FR",
+                        "id": 4514594,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000107",
+                        "maktx": "CORAGEN_1L_BE LU",
+                        "id": 4514595,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006854",
+                        "maktx": "CORAGEN_500ML_BE LU",
+                        "id": 4514596,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006950",
+                        "maktx": "CORAGEN 20SC_30ML_KE_ELGON",
+                        "id": 4514597,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11002797",
+                        "maktx": "CORAGEN 20SC_50ML_MD",
+                        "id": 4514598,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006728",
+                        "maktx": "CORAGEN 20SC_500ML_SE",
+                        "id": 4514599,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000141",
+                        "maktx": "CORAGEN_1L_PE",
+                        "id": 4514600,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006838",
+                        "maktx": "CORAGEN_200ML_PE",
+                        "id": 4514601,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006877",
+                        "maktx": "CORAGEN 20SC_200ML_KE_ELGON",
+                        "id": 4514602,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007109",
+                        "maktx": "CORAGEN 20SC_50ML_ES",
+                        "id": 4514603,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006796",
+                        "maktx": "CORAGEN 20SC_300ML_CZ",
+                        "id": 4514604,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000127",
+                        "maktx": "CORAGEN_1L_NZ",
+                        "id": 4514605,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006714",
+                        "maktx": "CORAGEN 20SC_200ML_TR",
+                        "id": 4514606,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006731",
+                        "maktx": "CORAGEN_200ML_MX",
+                        "id": 4514607,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006701",
+                        "maktx": "CORAGEN_1GAL_US",
+                        "id": 4514608,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006863",
+                        "maktx": "CORAGEN 20SC_40ML_TW",
+                        "id": 4514609,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000125",
+                        "maktx": "CORAGEN_1L_CM_ROYAL CHIMIE",
+                        "id": 4514610,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007016",
+                        "maktx": "CORAGEN 20SC_50ML_DZ_ACI",
+                        "id": 4514611,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000054",
+                        "maktx": "CORAGEN_1L_FR",
+                        "id": 4514612,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006970",
+                        "maktx": "CORAGEN_350ML_FR",
+                        "id": 4514613,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006037",
+                        "maktx": "CORAGEN 20SC_200ML_KW_AGRIMATCO",
+                        "id": 4514614,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006879",
+                        "maktx": "CORAGEN 20SC_200ML_TZ_TCC",
+                        "id": 4514615,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007146",
+                        "maktx": "CORAGEN 20SC_30ML_TZ_TCC",
+                        "id": 4514616,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000059",
+                        "maktx": "CORAGEN_1L_UA",
+                        "id": 4514617,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006786",
+                        "maktx": "CORAGEN_200ML_UA",
+                        "id": 4514618,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006904",
+                        "maktx": "CORAGEN 20SC_200ML_OM",
+                        "id": 4514619,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000160",
+                        "maktx": "CORAGEN_1L_SI_PICOUNT",
+                        "id": 4514620,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11005107",
+                        "maktx": "CORAGEN CTN 20X100ML BTL CO",
+                        "id": 4514621,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006804",
+                        "maktx": "CORAGEN_200ML_TN_SEPCM",
+                        "id": 4514622,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007000",
+                        "maktx": "CORAGEN 20SC_30ML_RS_AGROMARKET",
+                        "id": 4514623,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006732",
+                        "maktx": "CORAGEN_300ML_IT",
+                        "id": 4514624,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006805",
+                        "maktx": "CORAGEN_200ML_IE",
+                        "id": 4514625,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000273",
+                        "maktx": "CORAGEN 20SC_50ML_BF_FASO COTON",
+                        "id": 4514626,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000055",
+                        "maktx": "CORAGEN_1L_NL",
+                        "id": 4514627,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006853",
+                        "maktx": "CORAGEN_500ML_DE",
+                        "id": 4514628,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007174",
+                        "maktx": "CORAGEN_3L_FR",
+                        "id": 4514629,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11002794",
+                        "maktx": "CORAGEN 20SC_50ML_ML_ALM",
+                        "id": 4514630,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006710",
+                        "maktx": "CORAGEN_200ML_MD",
+                        "id": 4514631,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006915",
+                        "maktx": "CORAGEN 20SC_60ML_TW",
+                        "id": 4514632,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000057",
+                        "maktx": "CORAGEN_1L_CL",
+                        "id": 4514633,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000558",
+                        "maktx": "CORAGEN 20SC_1L_SI",
+                        "id": 4514634,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000092",
+                        "maktx": "CORAGEN 20SC_1L_ES",
+                        "id": 4514635,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000557",
+                        "maktx": "CORAGEN 20SC CTN 25X60ML BTL MM",
+                        "id": 4514636,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000105",
+                        "maktx": "CORAGEN 20SC_1L_HU",
+                        "id": 4514637,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000248",
+                        "maktx": "CORAGEN 20SC_1L_PY_VIERCI",
+                        "id": 4514638,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006755",
+                        "maktx": "CORAGEN 200SC_500ML_CN",
+                        "id": 4514639,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000230",
+                        "maktx": "CORAGEN 200SC_1L_CN",
+                        "id": 4514640,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007165",
+                        "maktx": "CORAGEN 200SC_5L_CN",
+                        "id": 4514641,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000168",
+                        "maktx": "CORAGEN 20SC_1L_SK",
+                        "id": 4514642,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006715",
+                        "maktx": "CORAGEN 20SC_200ML_CY",
+                        "id": 4514643,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006717",
+                        "maktx": "CORAGEN 20SC_200ML_BG",
+                        "id": 4514644,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006711",
+                        "maktx": "CORAGEN 20SC_175ML_PL",
+                        "id": 4514645,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006713",
+                        "maktx": "CORAGEN 20SC_200ML_ES",
+                        "id": 4514646,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006729",
+                        "maktx": "CORAGEN 200SC_100ML_CN",
+                        "id": 4514647,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006791",
+                        "maktx": "CORAGEN 200SC_5ML_CN",
+                        "id": 4514648,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006707",
+                        "maktx": "CORAGEN 20SC_200ML_HU",
+                        "id": 4514649,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006952",
+                        "maktx": "CORAGEN 200SC_10ML_CN",
+                        "id": 4514650,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006798",
+                        "maktx": "CORAGEN 20SC_200ML_GR",
+                        "id": 4514651,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006878",
+                        "maktx": "CORAGEN 200SC _200ML_ET_CHEMTEX",
+                        "id": 4514652,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006485",
+                        "maktx": "CORAGEN 20SC_300ML_FR",
+                        "id": 4514653,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006726",
+                        "maktx": "CORAGEN_1GAL_?",
+                        "id": 4514654,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000077",
+                        "maktx": "CORAGEN_1QT_US",
+                        "id": 4514655,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006705",
+                        "maktx": "CORAGEN_3.79L_CA",
+                        "id": 4514656,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006960",
+                        "maktx": "CORAGEN 20SC_80ML_TW",
+                        "id": 4514657,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000093",
+                        "maktx": "CORAGEN_1L_MX",
+                        "id": 4514658,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000081",
+                        "maktx": "CORAGEN_1L_AU",
+                        "id": 4514659,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006799",
+                        "maktx": "CORAGEN 20SC_200ML_JO",
+                        "id": 4514660,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007092",
+                        "maktx": "CORAGEN 20SC_500ML_GR",
+                        "id": 4514661,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000104",
+                        "maktx": "CORAGEN 20SC_200ML_HR_AGROCHEM MAKS",
+                        "id": 4514662,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000169",
+                        "maktx": "CORAGEN 20SC_1L_RS_AGROMARKET",
+                        "id": 4514663,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006730",
+                        "maktx": "CORAGEN 20SC_100ML_RS_AGROMARKET",
+                        "id": 4514664,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000217",
+                        "maktx": "CORAGEN 20SC_1L_SN_ALM",
+                        "id": 4514665,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007164",
+                        "maktx": "CORAGEN 20SC_100ML_IQ_DEBBANE",
+                        "id": 4514666,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006795",
+                        "maktx": "CORAGEN 20SC_200ML_DZ_ACI",
+                        "id": 4514667,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000120",
+                        "maktx": "CORAGEN 20SC_1L_KE_ELGON",
+                        "id": 4514668,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11005755",
+                        "maktx": "CORAGEN 20SC_960ML_TW",
+                        "id": 4514669,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11017008",
+                        "maktx": "PANIRI_1000L_MUL_NUFARM",
+                        "id": 4514670,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006712",
+                        "maktx": "CORAGEN 20SC_200ML_SA_AL JAMMAZ",
+                        "id": 4514671,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006803",
+                        "maktx": "CORAGEN_200ML_PT_BAYER",
+                        "id": 4514672,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11008775",
+                        "maktx": "CORAGEN 200SC_3L_PL",
+                        "id": 4514673,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009418",
+                        "maktx": "CORAGEN 200SC_50ML_ET_CHEMTEX",
+                        "id": 4514674,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11010192",
+                        "maktx": "CORAGEN 200SC_50ML_PL",
+                        "id": 4514675,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007794",
+                        "maktx": "CORAGEN 20SC_1L_BG",
+                        "id": 4514676,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009533",
+                        "maktx": "CORAGEN 20SC_1L_PY_AGF",
+                        "id": 4514677,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009006",
+                        "maktx": "CORAGEN 20SC_200ML_BY",
+                        "id": 4514678,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009227",
+                        "maktx": "CORAGEN 200SC_2L_CN",
+                        "id": 4514679,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009023",
+                        "maktx": "CORAGEN 20SC_1L_CZ",
+                        "id": 4514680,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002175",
+                        "maktx": "CORAGEN 20SC (E2Y45CN) LA1209 1000L IBC",
+                        "id": 4514681,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002042",
+                        "maktx": "CORAGEN 20SC (E2Y45 US) LA1209  L BULK",
+                        "id": 4514682,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002044",
+                        "maktx": "CORAGEN (ACTICIDE) WIP BULK FORMULATION",
+                        "id": 4514683,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11008785",
+                        "maktx": "CORAGEN 20SC_200L_TW",
+                        "id": 4514684,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007533",
+                        "maktx": "CORAGEN 20SC_200L_GT",
+                        "id": 4514685,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005522",
+                        "maktx": "RYX 200SC ACTICIDE_UB_JI",
+                        "id": 4514686,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005470",
+                        "maktx": "RYX 200SC ACTICIDE_1000L_BR_TU_JI",
+                        "id": 4514687,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007446",
+                        "maktx": "CORAGEN 20SC_5L_HU",
+                        "id": 4514688,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007287",
+                        "maktx": "CORAGEN 20SC_50ML_CI_COIC",
+                        "id": 4514689,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12001616",
+                        "maktx": "CORAGEN GENERIC BULK EID",
+                        "id": 4514690,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009512",
+                        "maktx": "CORAGEN_1L_AR",
+                        "id": 4514691,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014398",
+                        "maktx": "CORAGEN MAIS_CP500ML 3L_IT",
+                        "id": 4514692,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009511",
+                        "maktx": "CORAGEN_400ML_AR",
+                        "id": 4514693,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009372",
+                        "maktx": "CORAGEN 20SC_80ML_PK",
+                        "id": 4514694,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000518",
+                        "maktx": "Coragen Acticide",
+                        "id": 4514695,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000611",
+                        "maktx": "CORAGEN 20SC_50ML_PK",
+                        "id": 4514696,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000510",
+                        "maktx": "CORAGEN 20SC_240ML_PK",
+                        "id": 4514697,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009378",
+                        "maktx": "CORAGEN SK_5L_MUL",
+                        "id": 4514698,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005361",
+                        "maktx": "RYX 200SC_200L_PK_GRYL_MO",
+                        "id": 4514699,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009377",
+                        "maktx": "CORAGEN SK_1L_MUL",
+                        "id": 4514700,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009022",
+                        "maktx": "CORAGEN 20SC_50ML_CI_IVOIRE COTON",
+                        "id": 4514701,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11008783",
+                        "maktx": "CORAGEN 20SC_50ML_BF_SOCOMA",
+                        "id": 4514702,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007286",
+                        "maktx": "CORAGEN 20SC_50ML_BF_SOFITEX",
+                        "id": 4514703,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007600",
+                        "maktx": "CORAGEN 20SC_200ML_QA",
+                        "id": 4514704,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007220",
+                        "maktx": "CORAGEN 20SC_250ML_HR_AGROCHEM MAKS",
+                        "id": 4514705,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11009624",
+                        "maktx": "CORAGEN 20SC_500ML_FI_BERNER",
+                        "id": 4514706,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11008784",
+                        "maktx": "CORAGEN 20SC_50ML_HR_AGROCHEM MAKS",
+                        "id": 4514707,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007283",
+                        "maktx": "CORAGEN_1L_PT_BAYER",
+                        "id": 4514708,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000272",
+                        "maktx": "CORAGEN_1L_MD",
+                        "id": 4514709,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002174",
+                        "maktx": "RYX 200SC ACTICIDE_50ML_CMRK_ALL",
+                        "id": 4514710,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002165",
+                        "maktx": "RYX 200SC ACTICIDE_200ML_CM_ALL",
+                        "id": 4514711,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11002490",
+                        "maktx": "CORAGEN_500ML_PS_MAKALDE",
+                        "id": 4514712,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007093",
+                        "maktx": "CORAGEN_500ML_IT",
+                        "id": 4514713,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006961",
+                        "maktx": "CORAGEN_500ML_GB",
+                        "id": 4514714,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006980",
+                        "maktx": "CORAGEN_6L_CA",
+                        "id": 4514715,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006817",
+                        "maktx": "DUPONT CORAGEN_50ML_AE_AGRIMATCO",
+                        "id": 4514716,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11001749",
+                        "maktx": "DUPONT CORAGEN_1L_AE_AGRIMATCO",
+                        "id": 4514717,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11007139",
+                        "maktx": "CORAGEN 20%SC_200ML_EG_WAVCO",
+                        "id": 4514718,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006727",
+                        "maktx": "CORAGEN_500ML_AT",
+                        "id": 4514719,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11003439",
+                        "maktx": "CORAGEN 20%SC_100ML_EG_WAVCO",
+                        "id": 4514720,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000080",
+                        "maktx": "CORAGEN_1L_MUL",
+                        "id": 4514721,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000247",
+                        "maktx": "CORAGEN_1L_IT",
+                        "id": 4514722,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006801",
+                        "maktx": "CORAGEN_200ML_MA_AGRIMATCO",
+                        "id": 4514723,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11000210",
+                        "maktx": "CORAGEN_1L_RO",
+                        "id": 4514724,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006787",
+                        "maktx": "CORAGEN_200ML_RO",
+                        "id": 4514725,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006800",
+                        "maktx": "CORAGEN 20SC_200ML_LB_DEBBANE",
+                        "id": 4514726,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006812",
+                        "maktx": "CORAGEN_50ML_RO",
+                        "id": 4514727,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006811",
+                        "maktx": "CORAGEN_50ML_MA_AGRIMATCO",
+                        "id": 4514728,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006967",
+                        "maktx": "CORAGEN_50ML_UA",
+                        "id": 4514729,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11002798",
+                        "maktx": "CORAGEN_50ML_SI_PICOUNT",
+                        "id": 4514730,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002145",
+                        "maktx": "RYX 200SC ACTICIDE_200L_CRN_ALL",
+                        "id": 4514731,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000728",
+                        "maktx": "RYX 200SC_1000L_ST_MO",
+                        "id": 4514732,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005414",
+                        "maktx": "RYX 200SC_200L_PK_MO_MO",
+                        "id": 4514733,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12001790",
+                        "maktx": "RYX 200SC_?_?_?",
+                        "id": 4514734,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000008",
+                        "maktx": "RYX 200SC_1000L_PHY_JI",
+                        "id": 4514735,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002168",
+                        "maktx": "RYX 200SC_1000L_PHY_ALL",
+                        "id": 4514736,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12001932",
+                        "maktx": "RYX 200SC_200L_MUL_GRYL_MO",
+                        "id": 4514737,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002167",
+                        "maktx": "RYX 200SC ACTICIDE_200L_PHY_JI",
+                        "id": 4514738,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12001626",
+                        "maktx": "RYX 200SC_200L_DUVA_MO",
+                        "id": 4514739,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002159",
+                        "maktx": "RYX 200SC_1000L_MUL_JI",
+                        "id": 4514740,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002197",
+                        "maktx": "RYX 200SC_200L_AG_JI",
+                        "id": 4514741,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005020",
+                        "maktx": "RYX 200SC_200L_BR_MO",
+                        "id": 4514742,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12005010",
+                        "maktx": "RYX 200SC_200L_BR_JI",
+                        "id": 4514743,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12000001",
+                        "maktx": "RYX 200SC ACTICIDE_1000L_BR",
+                        "id": 4514744,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11006774",
+                        "maktx": "CORAGEN_500ML_IL_GADOT",
+                        "id": 4514745,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11002802",
+                        "maktx": "CORAGEN_5L_FR",
+                        "id": 4514746,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "12002761",
+                        "maktx": "RYX 200SC ACTICIDE_200L_MUL_JI",
+                        "id": 4514747,
+                        "reportDataId": 28089
+                    },
+                    {
+                        "matnr": "11014167",
+                        "maktx": "VOLIAM_200L_AR",
+                        "id": 4514748,
+                        "reportDataId": 28089
+                    }
+                ],
+                "id": 28089
+            },
+            {
+                "pdfname": "50000613_SDS_TW_ZF.PDF",
+                "specificationid": "50000613",
+                "path": "\\\\172.18.22.6\\sds_external/50000613_SDS_TW_ZF.PDF",
+                "reptype": "MSDS",
+                "language": "ZF",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "FYFANON 50% W/W EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "MALATHION 526 g/L EC",
+                "casnumber": "",
+                "commercialnames": "FYF 526 g/L EC",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "15639",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO002037",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002827",
+                        "maktx": "FYFANON 50EC_1L_TW",
+                        "id": 4515059,
+                        "reportDataId": 28090
+                    },
+                    {
+                        "matnr": "12000126",
+                        "maktx": "FYF 526EC_RO_RO",
+                        "id": 4515060,
+                        "reportDataId": 28090
+                    },
+                    {
+                        "matnr": "12006507",
+                        "maktx": "FYF 526EC_1000L_RO_RO",
+                        "id": 4515061,
+                        "reportDataId": 28090
+                    }
+                ],
+                "id": 28090
+            },
+            {
+                "pdfname": "50000613_SDS_TW_EN.PDF",
+                "specificationid": "50000613",
+                "path": "\\\\172.18.22.6\\sds_external/50000613_SDS_TW_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "FYFANON 50% W/W EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "MALATHION 526 g/L EC",
+                "casnumber": "",
+                "commercialnames": "FYF 526 g/L EC",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "15639",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO002037",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11002827",
+                        "maktx": "FYFANON 50EC_1L_TW",
+                        "id": 4515062,
+                        "reportDataId": 28091
+                    },
+                    {
+                        "matnr": "12000126",
+                        "maktx": "FYF 526EC_RO_RO",
+                        "id": 4515063,
+                        "reportDataId": 28091
+                    },
+                    {
+                        "matnr": "12006507",
+                        "maktx": "FYF 526EC_1000L_RO_RO",
+                        "id": 4515064,
+                        "reportDataId": 28091
+                    }
+                ],
+                "id": 28091
+            },
+            {
+                "pdfname": "50002049_SDS_CA_3F.PDF",
+                "specificationid": "50002049",
+                "path": "\\\\172.18.22.6\\sds_external/50002049_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "PJ997 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG (NEW)",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO004353",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013613",
+                        "maktx": "WC-CFZ_33LB_US",
+                        "id": 4515065,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11014281",
+                        "maktx": "CF HERBICIDE_PP18G_CA",
+                        "id": 4515066,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "12005310",
+                        "maktx": "CFZ 400WG_350KG_WY_JB",
+                        "id": 4515067,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11014273",
+                        "maktx": "CF HERBICIDE_PP14G_CA",
+                        "id": 4515068,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11014428",
+                        "maktx": "WC-CFZ_200LB_US",
+                        "id": 4515069,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "12006610",
+                        "maktx": "CFZ 400WG_90KG_VN_WY_JB",
+                        "id": 4515070,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11014212",
+                        "maktx": "CARFENTRAZONE 40WG MUP_16KG_CA",
+                        "id": 4515071,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11003230",
+                        "maktx": "AIM 40DF_20G_KR",
+                        "id": 4515072,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11016610",
+                        "maktx": "SPOTLIGHT 40WG_35G_VN",
+                        "id": 4515073,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11016611",
+                        "maktx": "SPOTLIGHT 40WG_7G_VN",
+                        "id": 4515074,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "12000657",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515075,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11014279",
+                        "maktx": "CF HERBICIDE_PP9G_CA",
+                        "id": 4515076,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 4515077,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "11015482",
+                        "maktx": "CARFENTRAZONE 40 WG MUP_175 KG_CA",
+                        "id": 4515078,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "12005300",
+                        "maktx": "CFZ 400WG_90KG_CA_WY_JB",
+                        "id": 4515079,
+                        "reportDataId": 28092
+                    },
+                    {
+                        "matnr": "12000959",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515080,
+                        "reportDataId": 28092
+                    }
+                ],
+                "id": 28092
+            },
+            {
+                "pdfname": "50002049_SDS_CA_EN.PDF",
+                "specificationid": "50002049",
+                "path": "\\\\172.18.22.6\\sds_external/50002049_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "PJ997 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG (NEW)",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "FO004353",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013613",
+                        "maktx": "WC-CFZ_33LB_US",
+                        "id": 4515081,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11014281",
+                        "maktx": "CF HERBICIDE_PP18G_CA",
+                        "id": 4515082,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "12005310",
+                        "maktx": "CFZ 400WG_350KG_WY_JB",
+                        "id": 4515083,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11014273",
+                        "maktx": "CF HERBICIDE_PP14G_CA",
+                        "id": 4515084,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11014428",
+                        "maktx": "WC-CFZ_200LB_US",
+                        "id": 4515085,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "12006610",
+                        "maktx": "CFZ 400WG_90KG_VN_WY_JB",
+                        "id": 4515086,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11014212",
+                        "maktx": "CARFENTRAZONE 40WG MUP_16KG_CA",
+                        "id": 4515087,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11003230",
+                        "maktx": "AIM 40DF_20G_KR",
+                        "id": 4515088,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11016610",
+                        "maktx": "SPOTLIGHT 40WG_35G_VN",
+                        "id": 4515089,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11016611",
+                        "maktx": "SPOTLIGHT 40WG_7G_VN",
+                        "id": 4515090,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "12000657",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515091,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11014279",
+                        "maktx": "CF HERBICIDE_PP9G_CA",
+                        "id": 4515092,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 4515093,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "11015482",
+                        "maktx": "CARFENTRAZONE 40 WG MUP_175 KG_CA",
+                        "id": 4515094,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "12005300",
+                        "maktx": "CFZ 400WG_90KG_CA_WY_JB",
+                        "id": 4515095,
+                        "reportDataId": 28093
+                    },
+                    {
+                        "matnr": "12000959",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515096,
+                        "reportDataId": 28093
+                    }
+                ],
+                "id": 28093
+            },
+            {
+                "pdfname": "50002049_SDS_US_1X.PDF",
+                "specificationid": "50002049",
+                "path": "\\\\172.18.22.6\\sds_external/50002049_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "PJ997 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG (NEW)",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO004353",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013613",
+                        "maktx": "WC-CFZ_33LB_US",
+                        "id": 4515097,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11014281",
+                        "maktx": "CF HERBICIDE_PP18G_CA",
+                        "id": 4515098,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "12005310",
+                        "maktx": "CFZ 400WG_350KG_WY_JB",
+                        "id": 4515099,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11014273",
+                        "maktx": "CF HERBICIDE_PP14G_CA",
+                        "id": 4515100,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11014428",
+                        "maktx": "WC-CFZ_200LB_US",
+                        "id": 4515101,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "12006610",
+                        "maktx": "CFZ 400WG_90KG_VN_WY_JB",
+                        "id": 4515102,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11014212",
+                        "maktx": "CARFENTRAZONE 40WG MUP_16KG_CA",
+                        "id": 4515103,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11003230",
+                        "maktx": "AIM 40DF_20G_KR",
+                        "id": 4515104,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11016610",
+                        "maktx": "SPOTLIGHT 40WG_35G_VN",
+                        "id": 4515105,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11016611",
+                        "maktx": "SPOTLIGHT 40WG_7G_VN",
+                        "id": 4515106,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "12000657",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515107,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11014279",
+                        "maktx": "CF HERBICIDE_PP9G_CA",
+                        "id": 4515108,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 4515109,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "11015482",
+                        "maktx": "CARFENTRAZONE 40 WG MUP_175 KG_CA",
+                        "id": 4515110,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "12005300",
+                        "maktx": "CFZ 400WG_90KG_CA_WY_JB",
+                        "id": 4515111,
+                        "reportDataId": 28094
+                    },
+                    {
+                        "matnr": "12000959",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515112,
+                        "reportDataId": 28094
+                    }
+                ],
+                "id": 28094
+            },
+            {
+                "pdfname": "50002049_SDS_US_EN.PDF",
+                "specificationid": "50002049",
+                "path": "\\\\172.18.22.6\\sds_external/50002049_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "PJ997 Herbicide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 40 WG (NEW)",
+                "cmr": "",
+                "publishdate": "02/20/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO004353",
+                "legacysdsid": "",
+                "revisiondate": "02/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11013613",
+                        "maktx": "WC-CFZ_33LB_US",
+                        "id": 4515113,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11014281",
+                        "maktx": "CF HERBICIDE_PP18G_CA",
+                        "id": 4515114,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "12005310",
+                        "maktx": "CFZ 400WG_350KG_WY_JB",
+                        "id": 4515115,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11014273",
+                        "maktx": "CF HERBICIDE_PP14G_CA",
+                        "id": 4515116,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11014428",
+                        "maktx": "WC-CFZ_200LB_US",
+                        "id": 4515117,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "12006610",
+                        "maktx": "CFZ 400WG_90KG_VN_WY_JB",
+                        "id": 4515118,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11014212",
+                        "maktx": "CARFENTRAZONE 40WG MUP_16KG_CA",
+                        "id": 4515119,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11003230",
+                        "maktx": "AIM 40DF_20G_KR",
+                        "id": 4515120,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11016610",
+                        "maktx": "SPOTLIGHT 40WG_35G_VN",
+                        "id": 4515121,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11016611",
+                        "maktx": "SPOTLIGHT 40WG_7G_VN",
+                        "id": 4515122,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "12000657",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515123,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11014279",
+                        "maktx": "CF HERBICIDE_PP9G_CA",
+                        "id": 4515124,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11015743",
+                        "maktx": "AFFINITY_30G_ID",
+                        "id": 4515125,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "11015482",
+                        "maktx": "CARFENTRAZONE 40 WG MUP_175 KG_CA",
+                        "id": 4515126,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "12005300",
+                        "maktx": "CFZ 400WG_90KG_CA_WY_JB",
+                        "id": 4515127,
+                        "reportDataId": 28095
+                    },
+                    {
+                        "matnr": "12000959",
+                        "maktx": "CFZ 400WG_",
+                        "id": 4515128,
+                        "reportDataId": 28095
+                    }
+                ],
+                "id": 28095
             }
         ],
         "isExportToExcel": false
