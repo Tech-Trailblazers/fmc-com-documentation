@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6253,
+        "totalCount": 6257,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,252 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001073_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50001073",
-                "path": "\\\\172.18.22.6\\sds_external/50001073_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "QUANTUM\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "TBM 50 SG (CHILD)",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "L5300",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "H-15.1",
-                "legacysdsid": "130000036167",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11004898",
-                        "maktx": "FLUENCE 50SG_100G_AT_SYN",
-                        "id": 3253260,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11006312",
-                        "maktx": "EXPRESS_100G_IT",
-                        "id": 3253261,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11005970",
-                        "maktx": "GRANSTAR 50SX_100G_HU",
-                        "id": 3253262,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11016421",
-                        "maktx": "TAXI SX_100G_CH_OMYA",
-                        "id": 3253263,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11013282",
-                        "maktx": "FLUENCE SX_150G_BG_SYNGENTA",
-                        "id": 3253264,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11004431",
-                        "maktx": "FLUENCE SX_100G_BG_SYNGENTA",
-                        "id": 3253265,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11005284",
-                        "maktx": "FLUENCE 50SG_750G_AT_SYN",
-                        "id": 3253266,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11013427",
-                        "maktx": "GRANSTAR SX_100G_NO",
-                        "id": 3253267,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11006310",
-                        "maktx": "GRANSTAR 50SX_400G_SK_MV SERVIS",
-                        "id": 3253268,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11005659",
-                        "maktx": "TAXI_120G_GB",
-                        "id": 3253269,
-                        "reportDataId": 26797
-                    },
-                    {
-                        "matnr": "11009659",
-                        "maktx": "EXPRESS 50SX 10X150G JAR ES-SF-SYN",
-                        "id": 3253270,
-                        "reportDataId": 26797
-                    }
-                ],
-                "id": 26797
-            },
-            {
-                "pdfname": "50001074_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50001074",
-                "path": "\\\\172.18.22.6\\sds_external/50001074_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "TAXI",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "TBM 50 SG (CHILD)",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "L5300",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "H-15.1",
-                "legacysdsid": "130000036168",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11009013",
-                        "maktx": "CAMEO SX_150G_ES",
-                        "id": 2679185,
-                        "reportDataId": 26798
-                    },
-                    {
-                        "matnr": "11013861",
-                        "maktx": "QUANTUM SX_120G_GB",
-                        "id": 2679186,
-                        "reportDataId": 26798
-                    },
-                    {
-                        "matnr": "11000975",
-                        "maktx": "CAMEO SX_250G_DE",
-                        "id": 2679187,
-                        "reportDataId": 26798
-                    },
-                    {
-                        "matnr": "11001130",
-                        "maktx": "CAMEO SX_750G_DE",
-                        "id": 2679188,
-                        "reportDataId": 26798
-                    }
-                ],
-                "id": 26798
-            },
-            {
-                "pdfname": "50001075_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50001075",
-                "path": "\\\\172.18.22.6\\sds_external/50001075_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "THOR",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "TBM 50 SG (CHILD)",
-                "cmr": "",
-                "publishdate": "11/28/2024",
-                "iupac": "",
-                "incode": "L5300",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "H-15.1",
-                "legacysdsid": "130000050399",
-                "revisiondate": "11/28/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006027",
-                        "maktx": "TRIMMER SX_250G_DE_ADAMA",
-                        "id": 2684660,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11000270",
-                        "maktx": "TRIMMER 50SG_100G_NO_ADAMA",
-                        "id": 2684661,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11006306",
-                        "maktx": "TRIMMER SG_100G_DK_ADAMA",
-                        "id": 2684662,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11005588",
-                        "maktx": "GRANSTAR 50SX_150G_PT_ASCENZA AGRO",
-                        "id": 2684663,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11005909",
-                        "maktx": "TRIMMER SX_20G_IT_ADAMA",
-                        "id": 2684664,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11014967",
-                        "maktx": "TRIAD SX_50G_GB",
-                        "id": 2684665,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11005653",
-                        "maktx": "GRANSTAR PREMIA 50SX_1.5KG_MUL",
-                        "id": 2684666,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11006028",
-                        "maktx": "TRIMMER 50SG_150G_MUL_ADAMA",
-                        "id": 2684667,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11006029",
-                        "maktx": "TRIMMER 50SG_1.5KG_MUL_ADAMA",
-                        "id": 2684668,
-                        "reportDataId": 26799
-                    },
-                    {
-                        "matnr": "11014983",
-                        "maktx": "TRIAD SX_120G_GB",
-                        "id": 2684669,
-                        "reportDataId": 26799
-                    }
-                ],
-                "id": 26799
-            },
             {
                 "pdfname": "50000050_SDS_DK_6N.PDF",
                 "specificationid": "50000050",
@@ -260751,6 +260505,432 @@
                     }
                 ],
                 "id": 28095
+            },
+            {
+                "pdfname": "50002879_EXT_SDS_PT_1P.PDF",
+                "specificationid": "50002879",
+                "path": "\\\\172.18.22.6\\sds_external/50002879_EXT_SDS_PT_1P.PDF",
+                "reptype": "MSDS",
+                "language": "1P",
+                "genvariant": "EXT_SDS_PT",
+                "authorizedportal": "P3",
+                "productname": "CETUS\u00ae 360 CS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "GAMIT 36 CS",
+                "casnumber": "",
+                "commercialnames": "CLZ (HP) 360 g/L CS (CHILD)",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "U8R42",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PT",
+                "validityareadescription": "Portugal",
+                "legacyspecid": "FO004149",
+                "legacysdsid": "",
+                "revisiondate": "02/16/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001470",
+                        "maktx": "CLEARNCROP COVERT_1L_GB",
+                        "id": 4515131,
+                        "reportDataId": 28096
+                    },
+                    {
+                        "matnr": "11004036",
+                        "maktx": "GAMIT 360CS_0.5L_IT_ADAM",
+                        "id": 4515132,
+                        "reportDataId": 28096
+                    },
+                    {
+                        "matnr": "11016278",
+                        "maktx": "GAMIT 36CS_1L_IT",
+                        "id": 4515133,
+                        "reportDataId": 28096
+                    },
+                    {
+                        "matnr": "11015611",
+                        "maktx": "GAMIT 36CS_1L_IT_UPL",
+                        "id": 4515134,
+                        "reportDataId": 28096
+                    }
+                ],
+                "id": 28096
+            },
+            {
+                "pdfname": "50001155_SDS_LT_LT.PDF",
+                "specificationid": "50001155",
+                "path": "\\\\172.18.22.6\\sds_external/50001155_SDS_LT_LT.PDF",
+                "reptype": "MSDS",
+                "language": "LT",
+                "genvariant": "SDS_LT",
+                "authorizedportal": "P3",
+                "productname": "AGROPLUS Hu-Man",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0074",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "LT",
+                "validityareadescription": "Lithuania",
+                "legacyspecid": "NP-0074",
+                "legacysdsid": "NP-0074",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014728",
+                        "maktx": "HU-MAN 15_10L_IE",
+                        "id": 4515135,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11014852",
+                        "maktx": "HU-MAN 15_10L_AT",
+                        "id": 4515136,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11002307",
+                        "maktx": "HU MAN 15_10L_BE_ALLIANCE",
+                        "id": 4515137,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11013961",
+                        "maktx": "HU-MAN 15_10L_DE",
+                        "id": 4515138,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "12000304",
+                        "maktx": "MN 15-S 21.8-MG 2-ZN 1-P2O5 19SL_FL_ALL",
+                        "id": 4515139,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11001765",
+                        "maktx": "VC HU MAN 15_GB IE",
+                        "id": 4515140,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11014887",
+                        "maktx": "HU-MAN 15_10L_FI",
+                        "id": 4515141,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11015646",
+                        "maktx": "HUMAN-15_600L_NL_HOLLAND FYTO",
+                        "id": 4515142,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11002110",
+                        "maktx": "HUMAN 15_10L_NL_HOLL FYTO",
+                        "id": 4515143,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11015861",
+                        "maktx": "HU-MAN 15_10L_BE",
+                        "id": 4515144,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11002519",
+                        "maktx": "HUMAN 15_10L_BO",
+                        "id": 4515145,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11001963",
+                        "maktx": "VC HU MAN 15_10L_GB IE",
+                        "id": 4515146,
+                        "reportDataId": 28097
+                    },
+                    {
+                        "matnr": "11013941",
+                        "maktx": "HU-MAN 15_600L_DE",
+                        "id": 4515147,
+                        "reportDataId": 28097
+                    }
+                ],
+                "id": 28097
+            },
+            {
+                "pdfname": "50003161_EXT_SDS_CA_EN.PDF",
+                "specificationid": "50003161",
+                "path": "\\\\172.18.22.6\\sds_external/50003161_EXT_SDS_CA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "PF-83-18 Herbicide",
+                "chemicalname": "",
+                "commonname": "CFZ + PYR (9.4 + 65.1) WG Ppac Blend",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PF-83-18 Herbicide",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "ZDW61",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28098
+            },
+            {
+                "pdfname": "50003161_EXT_SDS_CA_3F.PDF",
+                "specificationid": "50003161",
+                "path": "\\\\172.18.22.6\\sds_external/50003161_EXT_SDS_CA_3F.PDF",
+                "reptype": "MSDS",
+                "language": "3F",
+                "genvariant": "EXT_SDS_CA",
+                "authorizedportal": "P3",
+                "productname": "PF-83-18 Herbicide",
+                "chemicalname": "",
+                "commonname": "CFZ + PYR (9.4 + 65.1) WG Ppac Blend",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PF-83-18 Herbicide",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "ZDW61",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "CA",
+                "validityareadescription": "Canada",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28099
+            },
+            {
+                "pdfname": "50000479_SDS_US_1X.PDF",
+                "specificationid": "50000479",
+                "path": "\\\\172.18.22.6\\sds_external/50000479_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "SDS_US",
+                "authorizedportal": "P3",
+                "productname": "DRAGNET\u00ae 36.8 EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "DRAGNET\u00ae SFR",
+                "casnumber": "",
+                "commercialnames": "PER 385 g/L EC",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000143",
+                "legacysdsid": "",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008640",
+                        "maktx": "DRAGNET FT_20L_KE_JUANCO",
+                        "id": 4515161,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008440",
+                        "maktx": "DRAGNET SFR_32OZ",
+                        "id": 4515162,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008439",
+                        "maktx": "DRAGNET SFR_1.25GAL",
+                        "id": 4515163,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008173",
+                        "maktx": "DRAGNET EC_4L_MX",
+                        "id": 4515164,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008422",
+                        "maktx": "ASTRO_1GAL_US",
+                        "id": 4515165,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11007901",
+                        "maktx": "DRAGNET PLUS 36.8EC_200L_CR",
+                        "id": 4515166,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11003003",
+                        "maktx": "DRAGNET 360EC_1L_MX",
+                        "id": 4515167,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11004455",
+                        "maktx": "DRAGNET,36.8EC,200LT,E,S#DOM REP/LAN",
+                        "id": 4515168,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008333",
+                        "maktx": "DRAGNET_200L_MX",
+                        "id": 4515169,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "12001795",
+                        "maktx": "PER 384EC_?_?_?",
+                        "id": 4515170,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "12001744",
+                        "maktx": "PER 384EC_?_?_?",
+                        "id": 4515171,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "12001909",
+                        "maktx": "PER 384EC_?_?_?",
+                        "id": 4515172,
+                        "reportDataId": 28100
+                    },
+                    {
+                        "matnr": "11008444",
+                        "maktx": "DRAGNET 36.8EC_200L_CR",
+                        "id": 4515173,
+                        "reportDataId": 28100
+                    }
+                ],
+                "id": 28100
+            },
+            {
+                "pdfname": "50003162_EXT_SDS_US_EN.PDF",
+                "specificationid": "50003162",
+                "path": "\\\\172.18.22.6\\sds_external/50003162_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Dragnet SFR Termiticide/Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PER 385 g/L EC (CHILD)",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000143",
+                "legacysdsid": "",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008440",
+                        "maktx": "DRAGNET SFR_32OZ",
+                        "id": 4515187,
+                        "reportDataId": 28101
+                    },
+                    {
+                        "matnr": "11008439",
+                        "maktx": "DRAGNET SFR_1.25GAL",
+                        "id": 4515188,
+                        "reportDataId": 28101
+                    }
+                ],
+                "id": 28101
+            },
+            {
+                "pdfname": "50003162_EXT_SDS_US_1X.PDF",
+                "specificationid": "50003162",
+                "path": "\\\\172.18.22.6\\sds_external/50003162_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Dragnet SFR Termiticide/Insecticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PER 385 g/L EC (CHILD)",
+                "cmr": "",
+                "publishdate": "02/23/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000143",
+                "legacysdsid": "",
+                "revisiondate": "02/23/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008440",
+                        "maktx": "DRAGNET SFR_32OZ",
+                        "id": 4515189,
+                        "reportDataId": 28102
+                    },
+                    {
+                        "matnr": "11008439",
+                        "maktx": "DRAGNET SFR_1.25GAL",
+                        "id": 4515190,
+                        "reportDataId": 28102
+                    }
+                ],
+                "id": 28102
             }
         ],
         "isExportToExcel": false
