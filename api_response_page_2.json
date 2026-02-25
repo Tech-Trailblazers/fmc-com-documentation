@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6257,
+        "totalCount": 6268,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,62 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000050_SDS_DK_6N.PDF",
-                "specificationid": "50000050",
-                "path": "\\\\172.18.22.6\\sds_external/50000050_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "Metsulfuron-methyl 29 g/kg + Thifensulfuron-methyl 429 g/kg SG blend",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "KAZ22 45.7 SG Blend",
-                "cmr": "",
-                "publishdate": "11/29/2024",
-                "iupac": "",
-                "incode": "KAZ22",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "K-36",
-                "legacysdsid": "130000015598",
-                "revisiondate": "11/29/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12001584",
-                        "maktx": "TIM 429 - MEM 29SG_UF_ALL",
-                        "id": 2191611,
-                        "reportDataId": 26800
-                    },
-                    {
-                        "matnr": "11005752",
-                        "maktx": "HARMONY MAX SX_400G_IE",
-                        "id": 2191612,
-                        "reportDataId": 26800
-                    },
-                    {
-                        "matnr": "11005856",
-                        "maktx": "CHIMERA SX_400G_GB",
-                        "id": 2191613,
-                        "reportDataId": 26800
-                    },
-                    {
-                        "matnr": "12001631",
-                        "maktx": "TIM 429 MEM 29SG_450KG_UF_ALL",
-                        "id": 2191614,
-                        "reportDataId": 26800
-                    }
-                ],
-                "id": 26800
-            },
             {
                 "pdfname": "50000912_SDS_FR_FR.PDF",
                 "specificationid": "50000912",
@@ -260931,6 +260875,693 @@
                     }
                 ],
                 "id": 28102
+            },
+            {
+                "pdfname": "50003132_SDS_HU_HU.PDF",
+                "specificationid": "50003132",
+                "path": "\\\\172.18.22.6\\sds_external/50003132_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "NUYARD",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "DECIS 100 EC (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017034",
+                        "maktx": "NUYARD_1L_CZ SK",
+                        "id": 4515197,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017118",
+                        "maktx": "NUYARD_1L_DE",
+                        "id": 4515198,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017107",
+                        "maktx": "NUYARD_5L_DE",
+                        "id": 4515199,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017138",
+                        "maktx": "NUYARD_1L_FR",
+                        "id": 4515200,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017045",
+                        "maktx": "NUYARD_1L_HU",
+                        "id": 4515201,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017046",
+                        "maktx": "NUYARD_1L_PL",
+                        "id": 4515202,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017012",
+                        "maktx": "NUYARD_1L_RO",
+                        "id": 4515203,
+                        "reportDataId": 28105
+                    },
+                    {
+                        "matnr": "11017117",
+                        "maktx": "NUYARD_250ML_PL",
+                        "id": 4515204,
+                        "reportDataId": 28105
+                    }
+                ],
+                "id": 28105
+            },
+            {
+                "pdfname": "50003154_SDS_IT_IT.PDF",
+                "specificationid": "50003154",
+                "path": "\\\\172.18.22.6\\sds_external/50003154_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "PERFIL PB",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PERFIL PB (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015805",
+                        "maktx": "PERFIL PB_0.5KG_IT",
+                        "id": 4515205,
+                        "reportDataId": 28106
+                    }
+                ],
+                "id": 28106
+            },
+            {
+                "pdfname": "50000460_SDS_IT_IT.PDF",
+                "specificationid": "50000460",
+                "path": "\\\\172.18.22.6\\sds_external/50000460_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "CODACIDE\u2122",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "CODACIDE (MICROCIDE)",
+                "casnumber": "",
+                "commercialnames": "CODACIDE (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "FO004323",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11014459",
+                        "maktx": "CODACIDE_1L_SI_PICOUNT",
+                        "id": 4515206,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11013303",
+                        "maktx": "CODACIDE_1L_SI",
+                        "id": 4515207,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "12002003",
+                        "maktx": "CODACIDE_1000L_?",
+                        "id": 4515208,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11006862",
+                        "maktx": "CODACIDE EC_3L_GR",
+                        "id": 4515209,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11000227",
+                        "maktx": "CODACIDE_1L_TR",
+                        "id": 4515210,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11000173",
+                        "maktx": "CODACIDE_1L_UA",
+                        "id": 4515211,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "12001971",
+                        "maktx": "CODACIDE_4L_?",
+                        "id": 4515212,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11007664",
+                        "maktx": "CODACIDE_1L_MD",
+                        "id": 4515213,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11001520",
+                        "maktx": "CODACIDE_1L_HR_AGROCHEM MAKS",
+                        "id": 4515214,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11006788",
+                        "maktx": "CODACIDE EC_1.5L_GR",
+                        "id": 4515215,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11013602",
+                        "maktx": "CODACIDE_1L_AE_MIC",
+                        "id": 4515216,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11006842",
+                        "maktx": "CODACIDE_2.5L_IT",
+                        "id": 4515217,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11007752",
+                        "maktx": "CODACIDE 10X1L BTL RO-HSB",
+                        "id": 4515218,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11006673",
+                        "maktx": "CODACIDE 10L_IT",
+                        "id": 4515219,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11009423",
+                        "maktx": "CODACIDE_5L_RU",
+                        "id": 4515220,
+                        "reportDataId": 28107
+                    },
+                    {
+                        "matnr": "11001440",
+                        "maktx": "CODACIDE 4X5L BTL DE-HSB",
+                        "id": 4515221,
+                        "reportDataId": 28107
+                    }
+                ],
+                "id": 28107
+            },
+            {
+                "pdfname": "50003116_EXT_SDS_GR_6N.PDF",
+                "specificationid": "50003116",
+                "path": "\\\\172.18.22.6\\sds_external/50003116_EXT_SDS_GR_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GR",
+                "authorizedportal": "P3",
+                "productname": "OpteraPro",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 200 g/L SC (Acticide) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GR",
+                "validityareadescription": "Greece",
+                "legacyspecid": "Q-1617",
+                "legacysdsid": "130000122718",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28108
+            },
+            {
+                "pdfname": "50003116_EXT_SDS_GR_EL.PDF",
+                "specificationid": "50003116",
+                "path": "\\\\172.18.22.6\\sds_external/50003116_EXT_SDS_GR_EL.PDF",
+                "reptype": "MSDS",
+                "language": "EL",
+                "genvariant": "EXT_SDS_GR",
+                "authorizedportal": "P3",
+                "productname": "OpteraPro",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "RYX 200 g/L SC (Acticide) (CHILD)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GR",
+                "validityareadescription": "Greece",
+                "legacyspecid": "Q-1617",
+                "legacysdsid": "130000122718",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28109
+            },
+            {
+                "pdfname": "50000459_SDS_HU_HU.PDF",
+                "specificationid": "50000459",
+                "path": "\\\\172.18.22.6\\sds_external/50000459_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "ALL CLEAR EXTRA",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ALL CLEAR EXTRA",
+                "casnumber": "",
+                "commercialnames": "ALL CLEAR EXTRA (3PP REPACK)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "FO004322",
+                "legacysdsid": "130000000547",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009392",
+                        "maktx": "ALL CLEAR EXTRA_5L_DK",
+                        "id": 4515222,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11007124",
+                        "maktx": "ALL CLEAR EXTRA_5L_UA",
+                        "id": 4515223,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009400",
+                        "maktx": "ALL CLEAR EXTRA_5L_MUL",
+                        "id": 4515224,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009383",
+                        "maktx": "ALL CLEAR EXTRA_5L_GB",
+                        "id": 4515225,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11017036",
+                        "maktx": "ALL CLEAR EXTRA_5L_HU",
+                        "id": 4515226,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11007013",
+                        "maktx": "ALL CLEAR EXTRA_5L_IL_GADOT",
+                        "id": 4515227,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009394",
+                        "maktx": "ALL CLEAR EXTRA_5L_CH_STAHLER",
+                        "id": 4515228,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009390",
+                        "maktx": "ALL CLEAR EXTRA_5L_SE",
+                        "id": 4515229,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009395",
+                        "maktx": "ALL CLEAR EXTRA NF_5L_FR",
+                        "id": 4515230,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009391",
+                        "maktx": "ALL CLEAR EXTRA_5L_NO",
+                        "id": 4515231,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009385",
+                        "maktx": "ALL CLEAR EXTRA_5L_DE",
+                        "id": 4515232,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009393",
+                        "maktx": "ALL CLEAR EXTRA_5L_BE NL",
+                        "id": 4515233,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009399",
+                        "maktx": "ALL CLEAR EXTRA_5L_PL",
+                        "id": 4515234,
+                        "reportDataId": 28110
+                    },
+                    {
+                        "matnr": "11009384",
+                        "maktx": "ALL CLEAR EXTRA_5L_FI",
+                        "id": 4515235,
+                        "reportDataId": 28110
+                    }
+                ],
+                "id": 28110
+            },
+            {
+                "pdfname": "50003037_SDS_HU_HU.PDF",
+                "specificationid": "50003037",
+                "path": "\\\\172.18.22.6\\sds_external/50003037_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "FIDUM XTRA",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PROMINO XTRA (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017040",
+                        "maktx": "PROMINO EXTRA_5L_PL",
+                        "id": 4515238,
+                        "reportDataId": 28111
+                    },
+                    {
+                        "matnr": "11016966",
+                        "maktx": "PROMINO XTRA_5L_IT",
+                        "id": 4515239,
+                        "reportDataId": 28111
+                    },
+                    {
+                        "matnr": "11017033",
+                        "maktx": "FIDUM XTRA_5L_HU",
+                        "id": 4515240,
+                        "reportDataId": 28111
+                    },
+                    {
+                        "matnr": "11016358",
+                        "maktx": "PROMINO XTRA_5L_RO",
+                        "id": 4515241,
+                        "reportDataId": 28111
+                    }
+                ],
+                "id": 28111
+            },
+            {
+                "pdfname": "50002909_SDS_PH_EN.PDF",
+                "specificationid": "50002909",
+                "path": "\\\\172.18.22.6\\sds_external/50002909_SDS_PH_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_PH",
+                "authorizedportal": "P3",
+                "productname": "ATTRACT",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "MAGNET/ATTRACT",
+                "casnumber": "",
+                "commercialnames": "MAGNET/ATTRACT (3PP BUY SELL)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PH",
+                "validityareadescription": "Philippines",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28112
+            },
+            {
+                "pdfname": "40000833_EXT_SDS_MX_EN.PDF",
+                "specificationid": "40000833",
+                "path": "\\\\172.18.22.6\\sds_external/40000833_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "MANCOZEB TECHNICAL",
+                "chemicalname": "",
+                "commonname": "MANCOZEB",
+                "tradename": "MANCOZEB TECHNICAL",
+                "casnumber": "8018-01-7",
+                "commercialnames": "MAZ TECHNICAL (DOW)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "MANGANESE ETHYLENEBIS(DITHIOCARBAMATE) (POLYMERIC) COMPLEX WITH ZINC SALT",
+                "incode": "",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "RM0001450",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "13000007",
+                        "maktx": "MANCOZEB _25KG_LIMN",
+                        "id": 4515242,
+                        "reportDataId": 28113
+                    },
+                    {
+                        "matnr": "13000499",
+                        "maktx": "MANCOZEB_25KG_BR_DWDP",
+                        "id": 4515243,
+                        "reportDataId": 28113
+                    }
+                ],
+                "id": 28113
+            },
+            {
+                "pdfname": "40000833_EXT_SDS_MX_1X.PDF",
+                "specificationid": "40000833",
+                "path": "\\\\172.18.22.6\\sds_external/40000833_EXT_SDS_MX_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "MANCOZEB T\u00c9CNICO",
+                "chemicalname": "",
+                "commonname": "MANCOZEB",
+                "tradename": "MANCOZEB TECHNICAL",
+                "casnumber": "8018-01-7",
+                "commercialnames": "MAZ TECHNICAL (DOW)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "MANGANESE ETHYLENEBIS(DITHIOCARBAMATE) (POLYMERIC) COMPLEX WITH ZINC SALT",
+                "incode": "",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "RM0001450",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "13000007",
+                        "maktx": "MANCOZEB _25KG_LIMN",
+                        "id": 4515244,
+                        "reportDataId": 28114
+                    },
+                    {
+                        "matnr": "13000499",
+                        "maktx": "MANCOZEB_25KG_BR_DWDP",
+                        "id": 4515245,
+                        "reportDataId": 28114
+                    }
+                ],
+                "id": 28114
+            },
+            {
+                "pdfname": "40000833_EXT_SDS_BR_PT.PDF",
+                "specificationid": "40000833",
+                "path": "\\\\172.18.22.6\\sds_external/40000833_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "MANCOZEB TECHNICAL",
+                "chemicalname": "",
+                "commonname": "MANCOZEB",
+                "tradename": "MANCOZEB TECHNICAL",
+                "casnumber": "8018-01-7",
+                "commercialnames": "MAZ TECHNICAL (DOW)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "MANGANESE ETHYLENEBIS(DITHIOCARBAMATE) (POLYMERIC) COMPLEX WITH ZINC SALT",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "RM0001450",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "13000007",
+                        "maktx": "MANCOZEB _25KG_LIMN",
+                        "id": 4515246,
+                        "reportDataId": 28115
+                    },
+                    {
+                        "matnr": "13000499",
+                        "maktx": "MANCOZEB_25KG_BR_DWDP",
+                        "id": 4515247,
+                        "reportDataId": 28115
+                    }
+                ],
+                "id": 28115
+            },
+            {
+                "pdfname": "40000833_EXT_SDS_BR_EN.PDF",
+                "specificationid": "40000833",
+                "path": "\\\\172.18.22.6\\sds_external/40000833_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "MANCOZEB TECHNICAL",
+                "chemicalname": "",
+                "commonname": "MANCOZEB",
+                "tradename": "MANCOZEB TECHNICAL",
+                "casnumber": "8018-01-7",
+                "commercialnames": "MAZ TECHNICAL (DOW)",
+                "cmr": "",
+                "publishdate": "02/24/2026",
+                "iupac": "MANGANESE ETHYLENEBIS(DITHIOCARBAMATE) (POLYMERIC) COMPLEX WITH ZINC SALT",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "RM0001450",
+                "legacysdsid": "",
+                "revisiondate": "02/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "13000007",
+                        "maktx": "MANCOZEB _25KG_LIMN",
+                        "id": 4515248,
+                        "reportDataId": 28116
+                    },
+                    {
+                        "matnr": "13000499",
+                        "maktx": "MANCOZEB_25KG_BR_DWDP",
+                        "id": 4515249,
+                        "reportDataId": 28116
+                    }
+                ],
+                "id": 28116
             }
         ],
         "isExportToExcel": false
