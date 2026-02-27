@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6268,
+        "totalCount": 6270,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -261569,6 +261569,886 @@
                     }
                 ],
                 "id": 28116
+            },
+            {
+                "pdfname": "50000117_SDS_HU_HU.PDF",
+                "specificationid": "50000117",
+                "path": "\\\\172.18.22.6\\sds_external/50000117_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "VERIMARK\u00ae 200 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE)",
+                "cmr": "",
+                "publishdate": "02/26/2026",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "Q-1945",
+                "legacysdsid": "130000145292",
+                "revisiondate": "02/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017062",
+                        "maktx": "VERIMARK 200SC_100ML_HU",
+                        "id": 4515278,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11009539",
+                        "maktx": "VERIMARK_2.365L_CA",
+                        "id": 4515279,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11006822",
+                        "maktx": "VERIMARK 20SC_100ML_JP_KUMIAI",
+                        "id": 4515280,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006565",
+                        "maktx": "CZP 200SC_200L_JP_ST_JI",
+                        "id": 4515281,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11016275",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 4515282,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11013150",
+                        "maktx": "VERIMARK 200SC_50ML_CN_DHZ",
+                        "id": 4515283,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006760",
+                        "maktx": "CZP 200SC_200L_GT_UB_ALL",
+                        "id": 4515284,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006505",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_JI",
+                        "id": 4515285,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006596",
+                        "maktx": "CZP 200SC_200L_VN_ST_JI",
+                        "id": 4515286,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007537",
+                        "maktx": "VERIMARK 200SC_100ML_ID",
+                        "id": 4515287,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015657",
+                        "maktx": "VERIMARK 20SC_250ML_TW",
+                        "id": 4515288,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006194",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MI_MO",
+                        "id": 4515289,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007218",
+                        "maktx": "VERIMARK 20SC_100ML_PH",
+                        "id": 4515290,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12000736",
+                        "maktx": "CZP 200SC_200L_JP",
+                        "id": 4515291,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11009438",
+                        "maktx": "VERIMARK_1L_RU KZ",
+                        "id": 4515292,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11013221",
+                        "maktx": "VERIMARK 20SC_100ML_KH",
+                        "id": 4515293,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006634",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_JI",
+                        "id": 4515294,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11016646",
+                        "maktx": "VERIMARK_1L_AT",
+                        "id": 4515295,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006182",
+                        "maktx": "CZP 200SC CITRIC ACID_MI_MO",
+                        "id": 4515296,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11006923",
+                        "maktx": "BENEVIA 200SC_100ML_VN",
+                        "id": 4515297,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11017122",
+                        "maktx": "OKINA_5L_BE",
+                        "id": 4515298,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11013123",
+                        "maktx": "VERIMARK 20 SC_200 L_GT",
+                        "id": 4515299,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11013141",
+                        "maktx": "VERIMARK 200SC_10ML_CN_DHZ",
+                        "id": 4515300,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11016730",
+                        "maktx": "CIRCADEN 200SC_50ML_ZW_POLACHEM",
+                        "id": 4515301,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12002277",
+                        "maktx": "CZP 200SC_200L_MUL_JI",
+                        "id": 4515302,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12005771",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_MO",
+                        "id": 4515303,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007055",
+                        "maktx": "VERIMARK 20SC_100ML_JP_MBC",
+                        "id": 4515304,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11000031",
+                        "maktx": "VERIMARK 200SC_100ML_MY",
+                        "id": 4515305,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12005822",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_MO",
+                        "id": 4515306,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015898",
+                        "maktx": "VERIMARK_1L_MX",
+                        "id": 4515307,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007219",
+                        "maktx": "VERIMARK (ACTICIDE) 200SC_100ML_TH",
+                        "id": 4515308,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015618",
+                        "maktx": "OKINA_40ML_TN_SSCC",
+                        "id": 4515309,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11009437",
+                        "maktx": "VERIMARK_375ML_RU KZ",
+                        "id": 4515310,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015899",
+                        "maktx": "VERIMARK_500ML_MX",
+                        "id": 4515311,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007367",
+                        "maktx": "VERIMARK_100ML_UA",
+                        "id": 4515312,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006310",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_MO",
+                        "id": 4515313,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12005925",
+                        "maktx": "CZP 200SC_BR_UB_ALL",
+                        "id": 4515314,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015087",
+                        "maktx": "VERIMARK_20L_BR",
+                        "id": 4515315,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006592",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_JI",
+                        "id": 4515316,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007280",
+                        "maktx": "VERIMARK 20SC_100ML_JP_NISSO",
+                        "id": 4515317,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007123",
+                        "maktx": "VERIMARK 200SC_50ML_CN",
+                        "id": 4515318,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015920",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 4515319,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11007021",
+                        "maktx": "CIRCADEN 200SC_50ML_TR",
+                        "id": 4515320,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006232",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MX_MI_MO",
+                        "id": 4515321,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12006620",
+                        "maktx": "CZP 200SC_1000L_MX_UB_JI",
+                        "id": 4515322,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11016169",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 4515323,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015086",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 4515324,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11013503",
+                        "maktx": "DAHEZAN_200L_CN",
+                        "id": 4515325,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11016687",
+                        "maktx": "VERIMARK_1000L_BR",
+                        "id": 4515326,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "11015097",
+                        "maktx": "VERIMARK_200ML_BR",
+                        "id": 4515327,
+                        "reportDataId": 28117
+                    },
+                    {
+                        "matnr": "12000749",
+                        "maktx": "CZP 200SC_200L_VN_JI",
+                        "id": 4515328,
+                        "reportDataId": 28117
+                    }
+                ],
+                "id": 28117
+            },
+            {
+                "pdfname": "50000092_SDS_HU_HU.PDF",
+                "specificationid": "50000092",
+                "path": "\\\\172.18.22.6\\sds_external/50000092_SDS_HU_HU.PDF",
+                "reptype": "MSDS",
+                "language": "HU",
+                "genvariant": "SDS_HU",
+                "authorizedportal": "P3",
+                "productname": "TECORLA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "PREVATHON (ACTICIDE LA1209) (M)",
+                "casnumber": "",
+                "commercialnames": "RYX 5 SC (ACTICIDE)",
+                "cmr": "",
+                "publishdate": "02/26/2026",
+                "iupac": "",
+                "incode": "E2Y45",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HU",
+                "validityareadescription": "Hungary",
+                "legacyspecid": "Q-1618",
+                "legacysdsid": "130000141068",
+                "revisiondate": "02/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015580",
+                        "maktx": "ELICOR 50SC_250ML_ID",
+                        "id": 4515329,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016051",
+                        "maktx": "TECORLA_5L_IT",
+                        "id": 4515330,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006583",
+                        "maktx": "RYX 50SC_1000L_ST_JI",
+                        "id": 4515331,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016228",
+                        "maktx": "TECORLA_1L_PT_FITOSISTEMA",
+                        "id": 4515332,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016494",
+                        "maktx": "TECORLA_3L_BE",
+                        "id": 4515333,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007644",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-COIC",
+                        "id": 4515334,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11013982",
+                        "maktx": "PREVATHON 5SC_1000L_MUL",
+                        "id": 4515335,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009422",
+                        "maktx": "PREVATHON 50SC_20ML_CN_TIANFU",
+                        "id": 4515336,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006550",
+                        "maktx": "RYX 50SC_5L_ST_MO",
+                        "id": 4515337,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006504",
+                        "maktx": "RYX 50SC ACTICIDE_ST_JI",
+                        "id": 4515338,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007661",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BJ-FMC",
+                        "id": 4515339,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11008999",
+                        "maktx": "PREVATHON 5SC_500ML_ID MY",
+                        "id": 4515340,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12002170",
+                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_JI",
+                        "id": 4515341,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12001791",
+                        "maktx": "RYX 50SC_?_?_?",
+                        "id": 4515342,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007584",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOCOMA",
+                        "id": 4515343,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015745",
+                        "maktx": "PREVATHON_1000L_MA_AMAROC",
+                        "id": 4515344,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007166",
+                        "maktx": "PREVATHON 5SC_250ML_TH",
+                        "id": 4515345,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006779",
+                        "maktx": "PREVATHON 5SC_500ML_PH",
+                        "id": 4515346,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000108",
+                        "maktx": "PREVATHON TM 5SC_15ML_KH_SCH",
+                        "id": 4515347,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007180",
+                        "maktx": "PREVATHON 5SC_150ML_VN",
+                        "id": 4515348,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000113",
+                        "maktx": "PREVATHON_110GAL_US",
+                        "id": 4515349,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12001608",
+                        "maktx": "PREVATHON 5SC (E2Y45 CN) L BULK LA1209",
+                        "id": 4515350,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015581",
+                        "maktx": "PREVATHON 5SC_250ML_VN_LOC",
+                        "id": 4515351,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006737",
+                        "maktx": "PREVATHON 5SC_25ML_VN_SAH",
+                        "id": 4515352,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016182",
+                        "maktx": "SELEBEL_5L_ES_BASF",
+                        "id": 4515353,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006855",
+                        "maktx": "PREVATHON 5SC_250ML_MY",
+                        "id": 4515354,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11014106",
+                        "maktx": "STAMPEDE 5SC_250ML_PH_BASF",
+                        "id": 4515355,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006782",
+                        "maktx": "PREVATHON 5SC_250ML_PH",
+                        "id": 4515356,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009663",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-SOFITEX",
+                        "id": 4515357,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000078",
+                        "maktx": "PREVATHON 5SC_15ML_VN_SCH",
+                        "id": 4515358,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000142",
+                        "maktx": "PREVATHON_2.5GAL_US",
+                        "id": 4515359,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006792",
+                        "maktx": "PREVATHON 50SC_15ML_CN",
+                        "id": 4515360,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000152",
+                        "maktx": "PREVATHON 50SC_10ML_TH_SCH",
+                        "id": 4515361,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11002799",
+                        "maktx": "PREVATHON 5SC_15ML_TH",
+                        "id": 4515362,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015842",
+                        "maktx": "TECORLA_1L_BG",
+                        "id": 4515363,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007646",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-CIDT",
+                        "id": 4515364,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015565",
+                        "maktx": "PREVATHON 5SC_200L_PH_TU_JI",
+                        "id": 4515365,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009652",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL ML-FMC",
+                        "id": 4515366,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015822",
+                        "maktx": "TECORLA_1L_GR",
+                        "id": 4515367,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015962",
+                        "maktx": "ELICOR 50SC_100ML_ID",
+                        "id": 4515368,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007015",
+                        "maktx": "PREVATHON 5SC_200ML_CM_ARYSTA",
+                        "id": 4515369,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006233",
+                        "maktx": "RYX 50SC ACTICIDE_ST_MO",
+                        "id": 4515370,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006725",
+                        "maktx": "PREVATHON 5SC_500ML_TH",
+                        "id": 4515371,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11014830",
+                        "maktx": "PREVATHON_100ML_TH",
+                        "id": 4515372,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006780",
+                        "maktx": "PREVATHON 50SC_250ML_ID",
+                        "id": 4515373,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016628",
+                        "maktx": "PREVATHON_500ML_CN",
+                        "id": 4515374,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12002045",
+                        "maktx": "PREVATHON (ACTICIDE) WI BULK FORMULATION",
+                        "id": 4515375,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006738",
+                        "maktx": "PREVATHON_100ML_NZ",
+                        "id": 4515376,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015856",
+                        "maktx": "TECORLA_5L_BE",
+                        "id": 4515377,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11002800",
+                        "maktx": "PREVATHON 5SC_1L_TH",
+                        "id": 4515378,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009417",
+                        "maktx": "PREVATHON 50SC_500ML_CN_TIANFU",
+                        "id": 4515379,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016175",
+                        "maktx": "PREVATHON 200SC_7ML_VN",
+                        "id": 4515380,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006843",
+                        "maktx": "PREVATHON 5SC_250ML_TH",
+                        "id": 4515381,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007635",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL BF-FASOCOTON",
+                        "id": 4515382,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11014931",
+                        "maktx": "PREVATHON 5SC_15ML_VN_LOC",
+                        "id": 4515383,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006785",
+                        "maktx": "PREVATHON 50SC_100ML_ID",
+                        "id": 4515384,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12002144",
+                        "maktx": "RYX 50SC_200L_FR_HU_JI",
+                        "id": 4515385,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006594",
+                        "maktx": "RYX 50SC_1L_ST_JI",
+                        "id": 4515386,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015677",
+                        "maktx": "COREGIS_500ML_MY",
+                        "id": 4515387,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006284",
+                        "maktx": "RYX 50SC_1000L_ST_MO",
+                        "id": 4515388,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006542",
+                        "maktx": "RYX 50SC_1L_ST_MO",
+                        "id": 4515389,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007056",
+                        "maktx": "PREVATHON 50SC_500ML_CN",
+                        "id": 4515390,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000123",
+                        "maktx": "INTOREL 5SC_250ML_PH",
+                        "id": 4515391,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016305",
+                        "maktx": "TECORLA_1L_IT",
+                        "id": 4515392,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015686",
+                        "maktx": "ELICOR 50SC_500ML_ID",
+                        "id": 4515393,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12000723",
+                        "maktx": "Prevathon Acticide",
+                        "id": 4515394,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11013882",
+                        "maktx": "PREVATHON_20ML_TH",
+                        "id": 4515395,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007145",
+                        "maktx": "PREVATHON 5SC_500ML_MUL_ULP",
+                        "id": 4515396,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11006844",
+                        "maktx": "PREVATHON 50SC_200ML_CN",
+                        "id": 4515397,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007657",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL TG-FMC",
+                        "id": 4515398,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007067",
+                        "maktx": "PREVATHON 5SC_250ML_MY ID_SIPP",
+                        "id": 4515399,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015545",
+                        "maktx": "FREECOR 50SC_250ML_ID",
+                        "id": 4515400,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007373",
+                        "maktx": "PREVATHON 5SC_250ML_MM",
+                        "id": 4515401,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006564",
+                        "maktx": "RYX 50SC ACTICIDE_1000L_MUL_ST_JI",
+                        "id": 4515402,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007120",
+                        "maktx": "PREVATHON 5SC_100ML_KH",
+                        "id": 4515403,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "12006584",
+                        "maktx": "RYX 50SC_5L_ST_JI",
+                        "id": 4515404,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009662",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL SN-FMC",
+                        "id": 4515405,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11001696",
+                        "maktx": "PREVATHON 5SC_1000L_CN",
+                        "id": 4515406,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11000578",
+                        "maktx": "PREVATHON 5SC_200ML_MUL",
+                        "id": 4515407,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016153",
+                        "maktx": "PREVATHON 5SC_250ML_VN",
+                        "id": 4515408,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11009414",
+                        "maktx": "PREVATHON 50SC_200ML_CN_TIANFU",
+                        "id": 4515409,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007654",
+                        "maktx": "PREVATHON 5SC 20X200ML BTL CI-IVOIRE.C",
+                        "id": 4515410,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11007071",
+                        "maktx": "PREVATHON 5SC_500ML_ID",
+                        "id": 4515411,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11016511",
+                        "maktx": "SELEBEL_5L_IT",
+                        "id": 4515412,
+                        "reportDataId": 28118
+                    },
+                    {
+                        "matnr": "11015690",
+                        "maktx": "COREGIS_250ML_MY",
+                        "id": 4515413,
+                        "reportDataId": 28118
+                    }
+                ],
+                "id": 28118
             }
         ],
         "isExportToExcel": false
