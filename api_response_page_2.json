@@ -3525,63 +3525,69 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11009077",
-                        "maktx": "BRIGADE 100EC_250ML_EC",
-                        "id": 4510185,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "12001865",
-                        "maktx": "BIF 100EC_?_?_?",
-                        "id": 4510186,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007799",
-                        "maktx": "BRIGADA 100EC_1L_CO",
-                        "id": 4510187,
+                        "matnr": "11009075",
+                        "maktx": "BRIGADE 100EC_1L_EC",
+                        "id": 4515958,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007801",
                         "maktx": "BRIGADA 100EC_200ML_CO",
-                        "id": 4510188,
+                        "id": 4515959,
                         "reportDataId": 26834
                     },
                     {
-                        "matnr": "11009075",
-                        "maktx": "BRIGADE 100EC_1L_EC",
-                        "id": 4510189,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11008471",
-                        "maktx": "BRIGADA 100EC_200L_CO",
-                        "id": 4510190,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11009081",
-                        "maktx": "BRIGADE 100EC_500ML_EC",
-                        "id": 4510191,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007899",
-                        "maktx": "BRIGADE 100EC_200L_EC",
-                        "id": 4510192,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007800",
-                        "maktx": "BRIGADA 100EC_400ML_CO",
-                        "id": 4510193,
+                        "matnr": "12001865",
+                        "maktx": "BIF 100EC_?_?_?",
+                        "id": 4515960,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11017199",
                         "maktx": "TALSTAR 10EC_200L_DO",
-                        "id": 4510194,
+                        "id": 4515961,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007800",
+                        "maktx": "BRIGADA 100EC_400ML_CO",
+                        "id": 4515962,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11009081",
+                        "maktx": "BRIGADE 100EC_500ML_EC",
+                        "id": 4515963,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007899",
+                        "maktx": "BRIGADE 100EC_200L_EC",
+                        "id": 4515964,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11009077",
+                        "maktx": "BRIGADE 100EC_250ML_EC",
+                        "id": 4515965,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11008471",
+                        "maktx": "BRIGADA 100EC_200L_CO",
+                        "id": 4515966,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007799",
+                        "maktx": "BRIGADA 100EC_1L_CO",
+                        "id": 4515967,
+                        "reportDataId": 26834
+                    },
+                    {
+                        "matnr": "11007844",
+                        "maktx": "FURY 10EC_5L_AL",
+                        "id": 4515968,
                         "reportDataId": 26834
                     }
                 ],
@@ -162126,48 +162132,48 @@
                 "casnumber": "",
                 "commercialnames": "NP-0044 (CHILD)",
                 "cmr": "",
-                "publishdate": "07/17/2025",
+                "publishdate": "03/02/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.3",
+                "ehsversionno": "1.4",
                 "fileformat": "PDF",
                 "validityarea": "SE",
                 "validityareadescription": "Sweden",
                 "legacyspecid": "NP-0044",
                 "legacysdsid": "NP-0044-5-A",
-                "revisiondate": "02/14/2024",
+                "revisiondate": "03/02/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11001863",
-                        "maktx": "MANGANS_5L_LI LV_AGKO",
-                        "id": 3249127,
-                        "reportDataId": 27491
-                    },
-                    {
                         "matnr": "11008762",
                         "maktx": "MANGANESE 500_5L_PL",
-                        "id": 3249128,
+                        "id": 4515974,
                         "reportDataId": 27491
                     },
                     {
                         "matnr": "11002079",
                         "maktx": "MANGAN 500_5L_NL_AGVI",
-                        "id": 3249129,
-                        "reportDataId": 27491
-                    },
-                    {
-                        "matnr": "11001852",
-                        "maktx": "MANCAB 500_5L_SE",
-                        "id": 3249130,
+                        "id": 4515975,
                         "reportDataId": 27491
                     },
                     {
                         "matnr": "11002080",
                         "maktx": "MANGANESE 500_5L_GB",
-                        "id": 3249131,
+                        "id": 4515976,
+                        "reportDataId": 27491
+                    },
+                    {
+                        "matnr": "11001852",
+                        "maktx": "MANCAB 500_5L_SE",
+                        "id": 4515977,
+                        "reportDataId": 27491
+                    },
+                    {
+                        "matnr": "11001863",
+                        "maktx": "MANGANS_5L_LI LV_AGKO",
+                        "id": 4515978,
                         "reportDataId": 27491
                     }
                 ],
