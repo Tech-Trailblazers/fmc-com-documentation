@@ -58,93 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000050_SDS_IE_6N.PDF",
-                "specificationid": "50000050",
-                "path": "\\\\172.18.22.6\\sds_external/50000050_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "HARMONY\u00ae MAX SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "KAZ22 45.7 SG Blend",
-                "cmr": "",
-                "publishdate": "12/02/2024",
-                "iupac": "",
-                "incode": "KAZ22",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "K-36",
-                "legacysdsid": "130000015598",
-                "revisiondate": "12/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005752",
-                        "maktx": "HARMONY MAX SX_400G_IE",
-                        "id": 2216057,
-                        "reportDataId": 26802
-                    },
-                    {
-                        "matnr": "12001631",
-                        "maktx": "TIM 429 MEM 29SG_450KG_UF_ALL",
-                        "id": 2216058,
-                        "reportDataId": 26802
-                    },
-                    {
-                        "matnr": "11005856",
-                        "maktx": "CHIMERA SX_400G_GB",
-                        "id": 2216059,
-                        "reportDataId": 26802
-                    },
-                    {
-                        "matnr": "12001584",
-                        "maktx": "TIM 429 - MEM 29SG_UF_ALL",
-                        "id": 2216060,
-                        "reportDataId": 26802
-                    }
-                ],
-                "id": 26802
-            },
-            {
-                "pdfname": "50003027_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50003027",
-                "path": "\\\\172.18.22.6\\sds_external/50003027_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "PRESITE\u00ae MAX SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "KAZ22 45.7 SG Blend (CHILD)",
-                "cmr": "",
-                "publishdate": "12/02/2024",
-                "iupac": "",
-                "incode": "KAZ22",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "K-36",
-                "legacysdsid": "130000015598",
-                "revisiondate": "12/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26803
-            },
-            {
                 "pdfname": "50000821_SDS_IE_6N.PDF",
                 "specificationid": "50000821",
                 "path": "\\\\172.18.22.6\\sds_external/50000821_SDS_IE_6N.PDF",
@@ -3527,67 +3440,55 @@
                     {
                         "matnr": "11009075",
                         "maktx": "BRIGADE 100EC_1L_EC",
-                        "id": 4515958,
+                        "id": 4542502,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007801",
                         "maktx": "BRIGADA 100EC_200ML_CO",
-                        "id": 4515959,
+                        "id": 4542503,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "12001865",
                         "maktx": "BIF 100EC_?_?_?",
-                        "id": 4515960,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11017199",
-                        "maktx": "TALSTAR 10EC_200L_DO",
-                        "id": 4515961,
+                        "id": 4542504,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007800",
                         "maktx": "BRIGADA 100EC_400ML_CO",
-                        "id": 4515962,
+                        "id": 4542505,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11009081",
                         "maktx": "BRIGADE 100EC_500ML_EC",
-                        "id": 4515963,
+                        "id": 4542506,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007899",
                         "maktx": "BRIGADE 100EC_200L_EC",
-                        "id": 4515964,
+                        "id": 4542507,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11009077",
                         "maktx": "BRIGADE 100EC_250ML_EC",
-                        "id": 4515965,
+                        "id": 4542508,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11008471",
                         "maktx": "BRIGADA 100EC_200L_CO",
-                        "id": 4515966,
+                        "id": 4542509,
                         "reportDataId": 26834
                     },
                     {
                         "matnr": "11007799",
                         "maktx": "BRIGADA 100EC_1L_CO",
-                        "id": 4515967,
-                        "reportDataId": 26834
-                    },
-                    {
-                        "matnr": "11007844",
-                        "maktx": "FURY 10EC_5L_AL",
-                        "id": 4515968,
+                        "id": 4542510,
                         "reportDataId": 26834
                     }
                 ],
@@ -262009,6 +261910,118 @@
                     }
                 ],
                 "id": 28119
+            },
+            {
+                "pdfname": "50001657_EXT_SDS_US_1X.PDF",
+                "specificationid": "50001657",
+                "path": "\\\\172.18.22.6\\sds_external/50001657_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "TALSTAR\u00ae 10 EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BRIGADA\u00ae 100 EC",
+                "casnumber": "",
+                "commercialnames": "BIF 100 g/L EC (v1) (CHILD)",
+                "cmr": "",
+                "publishdate": "03/04/2026",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000026",
+                "legacysdsid": "0681-1-A",
+                "revisiondate": "03/04/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008630",
+                        "maktx": "TALSTAR_200L_CR",
+                        "id": 4542521,
+                        "reportDataId": 28120
+                    },
+                    {
+                        "matnr": "11008434",
+                        "maktx": "TALSTAR 10 EC_20L_MUL",
+                        "id": 4542522,
+                        "reportDataId": 28120
+                    },
+                    {
+                        "matnr": "11008130",
+                        "maktx": "TALSTAR 10EC_200L_PA",
+                        "id": 4542523,
+                        "reportDataId": 28120
+                    },
+                    {
+                        "matnr": "11017199",
+                        "maktx": "TALSTAR 10EC_200L_DO",
+                        "id": 4542524,
+                        "reportDataId": 28120
+                    }
+                ],
+                "id": 28120
+            },
+            {
+                "pdfname": "50001657_EXT_SDS_US_EN.PDF",
+                "specificationid": "50001657",
+                "path": "\\\\172.18.22.6\\sds_external/50001657_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "TALSTAR\u00ae 10 EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BRIGADA\u00ae 100 EC",
+                "casnumber": "",
+                "commercialnames": "BIF 100 g/L EC (v1) (CHILD)",
+                "cmr": "",
+                "publishdate": "03/04/2026",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000026",
+                "legacysdsid": "0681-1-A",
+                "revisiondate": "03/04/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008630",
+                        "maktx": "TALSTAR_200L_CR",
+                        "id": 4542517,
+                        "reportDataId": 28121
+                    },
+                    {
+                        "matnr": "11008434",
+                        "maktx": "TALSTAR 10 EC_20L_MUL",
+                        "id": 4542518,
+                        "reportDataId": 28121
+                    },
+                    {
+                        "matnr": "11008130",
+                        "maktx": "TALSTAR 10EC_200L_PA",
+                        "id": 4542519,
+                        "reportDataId": 28121
+                    },
+                    {
+                        "matnr": "11017199",
+                        "maktx": "TALSTAR 10EC_200L_DO",
+                        "id": 4542520,
+                        "reportDataId": 28121
+                    }
+                ],
+                "id": 28121
             }
         ],
         "isExportToExcel": false
