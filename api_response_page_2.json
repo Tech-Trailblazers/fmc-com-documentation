@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6274,
+        "totalCount": 6277,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -87,327 +87,333 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 3135740,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 3135741,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 3135742,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 3135743,
+                        "matnr": "11014813",
+                        "maktx": "GAMIT 36CS_1L_IE",
+                        "id": 4543796,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11016451",
                         "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 3135744,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 3135745,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 3135746,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 3135747,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 3135748,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 3135749,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 3135750,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11015672",
-                        "maktx": "REACTOR_500ML_AT",
-                        "id": 3135751,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 3135752,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 3135753,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 3135754,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 3135755,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 3135756,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 3135757,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 3135758,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11003147",
-                        "maktx": "CIRRUS CS_2L_IT",
-                        "id": 3135759,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 3135760,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 3135761,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 3135762,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 3135763,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 3135764,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 3135765,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 3135766,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 3135767,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 3135768,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 3135769,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 3135770,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 3135771,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 3135772,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 3135773,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 3135774,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 3135775,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 3135776,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 3135777,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 3135778,
+                        "id": 4543797,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11008125",
                         "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 3135779,
+                        "id": 4543798,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 3135780,
+                        "matnr": "11014941",
+                        "maktx": "COMMAND 36CS_2L_CZ SK",
+                        "id": 4543799,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11001472",
-                        "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 3135781,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 3135782,
+                        "matnr": "11003147",
+                        "maktx": "CIRRUS CS_2L_IT",
+                        "id": 4543800,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11000993",
                         "maktx": "COMMAND CS_1L_ES",
-                        "id": 3135783,
+                        "id": 4543801,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 3135784,
+                        "matnr": "11008927",
+                        "maktx": "COMMAND CS_5L_ES",
+                        "id": 4543802,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 3135785,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 3135786,
+                        "matnr": "11014668",
+                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
+                        "id": 4543803,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11015543",
                         "maktx": "CETUS 36CS_5L_FR",
-                        "id": 3135787,
+                        "id": 4543804,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001504",
+                        "maktx": "CENTIUM 36 CS_5L_SE",
+                        "id": 4543805,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014136",
+                        "maktx": "CENTIUM 36CS_10L_FR",
+                        "id": 4543806,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008237",
+                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
+                        "id": 4543807,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001022",
+                        "maktx": "CENTIUM 36CS_1000L_GB",
+                        "id": 4543808,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014456",
+                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
+                        "id": 4543809,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008208",
+                        "maktx": "CENTIUM_200L_MUL",
+                        "id": 4543810,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11003085",
                         "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 3135788,
+                        "id": 4543811,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11002718",
-                        "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 3135789,
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 4543812,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 3135790,
+                        "matnr": "12001661",
+                        "maktx": "CLZ 360CS HP_KWIZ_JL",
+                        "id": 4543813,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 3135791,
+                        "matnr": "11008207",
+                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
+                        "id": 4543814,
                         "reportDataId": 26804
                     },
                     {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 3135792,
+                        "matnr": "11005386",
+                        "maktx": "CENTIUM_5L_FI",
+                        "id": 4543815,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11005356",
+                        "maktx": "GAMIT_2L_SK",
+                        "id": 4543816,
                         "reportDataId": 26804
                     },
                     {
                         "matnr": "11016712",
                         "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 3135793,
+                        "id": 4543817,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11007908",
+                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
+                        "id": 4543818,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11000995",
+                        "maktx": "CENTIUM CS_500ML_AT",
+                        "id": 4543819,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014990",
+                        "maktx": "REACTOR 36CS_500ML_TR",
+                        "id": 4543820,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001472",
+                        "maktx": "CENTIUM 360CS_3L_GB IE",
+                        "id": 4543821,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11000901",
+                        "maktx": "CENTIUM 36CS_3L_DE",
+                        "id": 4543822,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11002718",
+                        "maktx": "CENTIUM 36CS_1L_SE",
+                        "id": 4543823,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008733",
+                        "maktx": "CENTIUM 360CS_1L_BE",
+                        "id": 4543824,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11000393",
+                        "maktx": "REACTOR 36CS_5L_TR",
+                        "id": 4543825,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11005513",
+                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
+                        "id": 4543826,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001624",
+                        "maktx": "CENTIUM 36CS_3L_FR",
+                        "id": 4543827,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11015672",
+                        "maktx": "REACTOR_500ML_AT",
+                        "id": 4543828,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11013595",
+                        "maktx": "CENTIUM 36CS_1L_DK",
+                        "id": 4543829,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11003086",
+                        "maktx": "CENTIUM 360CS_3L_NL",
+                        "id": 4543830,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11005346",
+                        "maktx": "CENTIUM 360CS_1L_FI",
+                        "id": 4543831,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008126",
+                        "maktx": "COMMAND 36CS_2L_SK",
+                        "id": 4543832,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014855",
+                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
+                        "id": 4543833,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11007914",
+                        "maktx": "CENTIUM 36CS_200L_SI",
+                        "id": 4543834,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001471",
+                        "maktx": "CENTIUM 360CS_1L_GB IE",
+                        "id": 4543835,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11009070",
+                        "maktx": "CENTIUM 360CS_1L_NO",
+                        "id": 4543836,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008127",
+                        "maktx": "COMMAND 36CS_0.5L_CZ",
+                        "id": 4543837,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11017233",
+                        "maktx": "COMMAND 36CS_1L_CZ SK",
+                        "id": 4543838,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008699",
+                        "maktx": "CENTIUM 360CS_3L_BE",
+                        "id": 4543839,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "12000591",
+                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
+                        "id": 4543840,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014102",
+                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
+                        "id": 4543841,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001322",
+                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
+                        "id": 4543842,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11005399",
+                        "maktx": "GAMIT 36CS_1L_FR",
+                        "id": 4543843,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11004403",
+                        "maktx": "REACTOR 360CS_1L_HU",
+                        "id": 4543844,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11014812",
+                        "maktx": "CENTIUM 360CS_1L_IE",
+                        "id": 4543845,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11000998",
+                        "maktx": "CENTIUM 36CS_1L_DE",
+                        "id": 4543846,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11001569",
+                        "maktx": "CENTIUM 36CS_1L_FR",
+                        "id": 4543847,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11008206",
+                        "maktx": "COMMAND 36CS_2L_CZ",
+                        "id": 4543848,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11005385",
+                        "maktx": "CENTIUM_3L_BE_BELCHIM",
+                        "id": 4543849,
+                        "reportDataId": 26804
+                    },
+                    {
+                        "matnr": "11000622",
+                        "maktx": "CIRRUS CS_2L_SK_DOW",
+                        "id": 4543850,
                         "reportDataId": 26804
                     }
                 ],
@@ -31772,327 +31778,333 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 3135848,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 3135849,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 3135850,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 3135851,
+                        "matnr": "11014813",
+                        "maktx": "GAMIT 36CS_1L_IE",
+                        "id": 4542971,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11016451",
                         "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 3135852,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 3135853,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 3135854,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 3135855,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 3135856,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 3135857,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 3135858,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11015672",
-                        "maktx": "REACTOR_500ML_AT",
-                        "id": 3135859,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 3135860,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 3135861,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 3135862,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 3135863,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 3135864,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 3135865,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 3135866,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11003147",
-                        "maktx": "CIRRUS CS_2L_IT",
-                        "id": 3135867,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 3135868,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 3135869,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 3135870,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 3135871,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 3135872,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 3135873,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 3135874,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 3135875,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 3135876,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 3135877,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 3135878,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 3135879,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 3135880,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 3135881,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 3135882,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 3135883,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 3135884,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 3135885,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 3135886,
+                        "id": 4542972,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11008125",
                         "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 3135887,
+                        "id": 4542973,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 3135888,
+                        "matnr": "11014941",
+                        "maktx": "COMMAND 36CS_2L_CZ SK",
+                        "id": 4542974,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11001472",
-                        "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 3135889,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 3135890,
+                        "matnr": "11003147",
+                        "maktx": "CIRRUS CS_2L_IT",
+                        "id": 4542975,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11000993",
                         "maktx": "COMMAND CS_1L_ES",
-                        "id": 3135891,
+                        "id": 4542976,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 3135892,
+                        "matnr": "11008927",
+                        "maktx": "COMMAND CS_5L_ES",
+                        "id": 4542977,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 3135893,
-                        "reportDataId": 26984
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 3135894,
+                        "matnr": "11014668",
+                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
+                        "id": 4542978,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11015543",
                         "maktx": "CETUS 36CS_5L_FR",
-                        "id": 3135895,
+                        "id": 4542979,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001504",
+                        "maktx": "CENTIUM 36 CS_5L_SE",
+                        "id": 4542980,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014136",
+                        "maktx": "CENTIUM 36CS_10L_FR",
+                        "id": 4542981,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008237",
+                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
+                        "id": 4542982,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001022",
+                        "maktx": "CENTIUM 36CS_1000L_GB",
+                        "id": 4542983,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014456",
+                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
+                        "id": 4542984,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008208",
+                        "maktx": "CENTIUM_200L_MUL",
+                        "id": 4542985,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11003085",
                         "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 3135896,
+                        "id": 4542986,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11002718",
-                        "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 3135897,
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 4542987,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 3135898,
+                        "matnr": "12001661",
+                        "maktx": "CLZ 360CS HP_KWIZ_JL",
+                        "id": 4542988,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 3135899,
+                        "matnr": "11008207",
+                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
+                        "id": 4542989,
                         "reportDataId": 26984
                     },
                     {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 3135900,
+                        "matnr": "11005386",
+                        "maktx": "CENTIUM_5L_FI",
+                        "id": 4542990,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11005356",
+                        "maktx": "GAMIT_2L_SK",
+                        "id": 4542991,
                         "reportDataId": 26984
                     },
                     {
                         "matnr": "11016712",
                         "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 3135901,
+                        "id": 4542992,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11007908",
+                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
+                        "id": 4542993,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11000995",
+                        "maktx": "CENTIUM CS_500ML_AT",
+                        "id": 4542994,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014990",
+                        "maktx": "REACTOR 36CS_500ML_TR",
+                        "id": 4542995,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001472",
+                        "maktx": "CENTIUM 360CS_3L_GB IE",
+                        "id": 4542996,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11000901",
+                        "maktx": "CENTIUM 36CS_3L_DE",
+                        "id": 4542997,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11002718",
+                        "maktx": "CENTIUM 36CS_1L_SE",
+                        "id": 4542998,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008733",
+                        "maktx": "CENTIUM 360CS_1L_BE",
+                        "id": 4542999,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11000393",
+                        "maktx": "REACTOR 36CS_5L_TR",
+                        "id": 4543000,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11005513",
+                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
+                        "id": 4543001,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001624",
+                        "maktx": "CENTIUM 36CS_3L_FR",
+                        "id": 4543002,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11015672",
+                        "maktx": "REACTOR_500ML_AT",
+                        "id": 4543003,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11013595",
+                        "maktx": "CENTIUM 36CS_1L_DK",
+                        "id": 4543004,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11003086",
+                        "maktx": "CENTIUM 360CS_3L_NL",
+                        "id": 4543005,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11005346",
+                        "maktx": "CENTIUM 360CS_1L_FI",
+                        "id": 4543006,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008126",
+                        "maktx": "COMMAND 36CS_2L_SK",
+                        "id": 4543007,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014855",
+                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
+                        "id": 4543008,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11007914",
+                        "maktx": "CENTIUM 36CS_200L_SI",
+                        "id": 4543009,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001471",
+                        "maktx": "CENTIUM 360CS_1L_GB IE",
+                        "id": 4543010,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11009070",
+                        "maktx": "CENTIUM 360CS_1L_NO",
+                        "id": 4543011,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008127",
+                        "maktx": "COMMAND 36CS_0.5L_CZ",
+                        "id": 4543012,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11017233",
+                        "maktx": "COMMAND 36CS_1L_CZ SK",
+                        "id": 4543013,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008699",
+                        "maktx": "CENTIUM 360CS_3L_BE",
+                        "id": 4543014,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "12000591",
+                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
+                        "id": 4543015,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014102",
+                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
+                        "id": 4543016,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001322",
+                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
+                        "id": 4543017,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11005399",
+                        "maktx": "GAMIT 36CS_1L_FR",
+                        "id": 4543018,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11004403",
+                        "maktx": "REACTOR 360CS_1L_HU",
+                        "id": 4543019,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11014812",
+                        "maktx": "CENTIUM 360CS_1L_IE",
+                        "id": 4543020,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11000998",
+                        "maktx": "CENTIUM 36CS_1L_DE",
+                        "id": 4543021,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11001569",
+                        "maktx": "CENTIUM 36CS_1L_FR",
+                        "id": 4543022,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11008206",
+                        "maktx": "COMMAND 36CS_2L_CZ",
+                        "id": 4543023,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11005385",
+                        "maktx": "CENTIUM_3L_BE_BELCHIM",
+                        "id": 4543024,
+                        "reportDataId": 26984
+                    },
+                    {
+                        "matnr": "11000622",
+                        "maktx": "CIRRUS CS_2L_SK_DOW",
+                        "id": 4543025,
                         "reportDataId": 26984
                     }
                 ],
@@ -94720,327 +94732,333 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 3135956,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 3135957,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 3135958,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 3135959,
+                        "matnr": "11014813",
+                        "maktx": "GAMIT 36CS_1L_IE",
+                        "id": 4543081,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11016451",
                         "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 3135960,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 3135961,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 3135962,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 3135963,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 3135964,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 3135965,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 3135966,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11015672",
-                        "maktx": "REACTOR_500ML_AT",
-                        "id": 3135967,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 3135968,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 3135969,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 3135970,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 3135971,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 3135972,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 3135973,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 3135974,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11003147",
-                        "maktx": "CIRRUS CS_2L_IT",
-                        "id": 3135975,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 3135976,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 3135977,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 3135978,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 3135979,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 3135980,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 3135981,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 3135982,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 3135983,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 3135984,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 3135985,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 3135986,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 3135987,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 3135988,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 3135989,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 3135990,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 3135991,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 3135992,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 3135993,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 3135994,
+                        "id": 4543082,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11008125",
                         "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 3135995,
+                        "id": 4543083,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 3135996,
+                        "matnr": "11014941",
+                        "maktx": "COMMAND 36CS_2L_CZ SK",
+                        "id": 4543084,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11001472",
-                        "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 3135997,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 3135998,
+                        "matnr": "11003147",
+                        "maktx": "CIRRUS CS_2L_IT",
+                        "id": 4543085,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11000993",
                         "maktx": "COMMAND CS_1L_ES",
-                        "id": 3135999,
+                        "id": 4543086,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 3136000,
+                        "matnr": "11008927",
+                        "maktx": "COMMAND CS_5L_ES",
+                        "id": 4543087,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 3136001,
-                        "reportDataId": 27111
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 3136002,
+                        "matnr": "11014668",
+                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
+                        "id": 4543088,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11015543",
                         "maktx": "CETUS 36CS_5L_FR",
-                        "id": 3136003,
+                        "id": 4543089,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001504",
+                        "maktx": "CENTIUM 36 CS_5L_SE",
+                        "id": 4543090,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014136",
+                        "maktx": "CENTIUM 36CS_10L_FR",
+                        "id": 4543091,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008237",
+                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
+                        "id": 4543092,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001022",
+                        "maktx": "CENTIUM 36CS_1000L_GB",
+                        "id": 4543093,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014456",
+                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
+                        "id": 4543094,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008208",
+                        "maktx": "CENTIUM_200L_MUL",
+                        "id": 4543095,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11003085",
                         "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 3136004,
+                        "id": 4543096,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11002718",
-                        "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 3136005,
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 4543097,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 3136006,
+                        "matnr": "12001661",
+                        "maktx": "CLZ 360CS HP_KWIZ_JL",
+                        "id": 4543098,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 3136007,
+                        "matnr": "11008207",
+                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
+                        "id": 4543099,
                         "reportDataId": 27111
                     },
                     {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 3136008,
+                        "matnr": "11005386",
+                        "maktx": "CENTIUM_5L_FI",
+                        "id": 4543100,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11005356",
+                        "maktx": "GAMIT_2L_SK",
+                        "id": 4543101,
                         "reportDataId": 27111
                     },
                     {
                         "matnr": "11016712",
                         "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 3136009,
+                        "id": 4543102,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11007908",
+                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
+                        "id": 4543103,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11000995",
+                        "maktx": "CENTIUM CS_500ML_AT",
+                        "id": 4543104,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014990",
+                        "maktx": "REACTOR 36CS_500ML_TR",
+                        "id": 4543105,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001472",
+                        "maktx": "CENTIUM 360CS_3L_GB IE",
+                        "id": 4543106,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11000901",
+                        "maktx": "CENTIUM 36CS_3L_DE",
+                        "id": 4543107,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11002718",
+                        "maktx": "CENTIUM 36CS_1L_SE",
+                        "id": 4543108,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008733",
+                        "maktx": "CENTIUM 360CS_1L_BE",
+                        "id": 4543109,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11000393",
+                        "maktx": "REACTOR 36CS_5L_TR",
+                        "id": 4543110,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11005513",
+                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
+                        "id": 4543111,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001624",
+                        "maktx": "CENTIUM 36CS_3L_FR",
+                        "id": 4543112,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11015672",
+                        "maktx": "REACTOR_500ML_AT",
+                        "id": 4543113,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11013595",
+                        "maktx": "CENTIUM 36CS_1L_DK",
+                        "id": 4543114,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11003086",
+                        "maktx": "CENTIUM 360CS_3L_NL",
+                        "id": 4543115,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11005346",
+                        "maktx": "CENTIUM 360CS_1L_FI",
+                        "id": 4543116,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008126",
+                        "maktx": "COMMAND 36CS_2L_SK",
+                        "id": 4543117,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014855",
+                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
+                        "id": 4543118,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11007914",
+                        "maktx": "CENTIUM 36CS_200L_SI",
+                        "id": 4543119,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001471",
+                        "maktx": "CENTIUM 360CS_1L_GB IE",
+                        "id": 4543120,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11009070",
+                        "maktx": "CENTIUM 360CS_1L_NO",
+                        "id": 4543121,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008127",
+                        "maktx": "COMMAND 36CS_0.5L_CZ",
+                        "id": 4543122,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11017233",
+                        "maktx": "COMMAND 36CS_1L_CZ SK",
+                        "id": 4543123,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008699",
+                        "maktx": "CENTIUM 360CS_3L_BE",
+                        "id": 4543124,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "12000591",
+                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
+                        "id": 4543125,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014102",
+                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
+                        "id": 4543126,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001322",
+                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
+                        "id": 4543127,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11005399",
+                        "maktx": "GAMIT 36CS_1L_FR",
+                        "id": 4543128,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11004403",
+                        "maktx": "REACTOR 360CS_1L_HU",
+                        "id": 4543129,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11014812",
+                        "maktx": "CENTIUM 360CS_1L_IE",
+                        "id": 4543130,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11000998",
+                        "maktx": "CENTIUM 36CS_1L_DE",
+                        "id": 4543131,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11001569",
+                        "maktx": "CENTIUM 36CS_1L_FR",
+                        "id": 4543132,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11008206",
+                        "maktx": "COMMAND 36CS_2L_CZ",
+                        "id": 4543133,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11005385",
+                        "maktx": "CENTIUM_3L_BE_BELCHIM",
+                        "id": 4543134,
+                        "reportDataId": 27111
+                    },
+                    {
+                        "matnr": "11000622",
+                        "maktx": "CIRRUS CS_2L_SK_DOW",
+                        "id": 4543135,
                         "reportDataId": 27111
                     }
                 ],
@@ -104388,327 +104406,333 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 3136064,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 3136065,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11016451",
-                        "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 3136066,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 3136067,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 3136068,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 3136069,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 3136070,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 3136071,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 3136072,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 3136073,
-                        "reportDataId": 27184
-                    },
-                    {
                         "matnr": "11015672",
                         "maktx": "REACTOR_500ML_AT",
-                        "id": 3136074,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 3136075,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 3136076,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 3136077,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 3136078,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 3136079,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 3136080,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 3136081,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 3136082,
+                        "id": 4543851,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11003147",
                         "maktx": "CIRRUS CS_2L_IT",
-                        "id": 3136083,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 3136084,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 3136085,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 3136086,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 3136087,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 3136088,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 3136089,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 3136090,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 3136091,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 3136092,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 3136093,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 3136094,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 3136095,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 3136096,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 3136097,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 3136098,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 3136099,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 3136100,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 3136101,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 3136102,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11008125",
-                        "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 3136103,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 3136104,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 3136105,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 3136106,
+                        "id": 4543852,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11000993",
                         "maktx": "COMMAND CS_1L_ES",
-                        "id": 3136107,
+                        "id": 4543853,
                         "reportDataId": 27184
                     },
                     {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 3136108,
+                        "matnr": "11008927",
+                        "maktx": "COMMAND CS_5L_ES",
+                        "id": 4543854,
                         "reportDataId": 27184
                     },
                     {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 3136109,
-                        "reportDataId": 27184
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 3136110,
+                        "matnr": "11014668",
+                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
+                        "id": 4543855,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11015543",
                         "maktx": "CETUS 36CS_5L_FR",
-                        "id": 3136111,
+                        "id": 4543856,
                         "reportDataId": 27184
                     },
                     {
-                        "matnr": "11003085",
-                        "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 3136112,
+                        "matnr": "11001504",
+                        "maktx": "CENTIUM 36 CS_5L_SE",
+                        "id": 4543857,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11002718",
                         "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 3136113,
+                        "id": 4543858,
                         "reportDataId": 27184
                     },
                     {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 3136114,
+                        "matnr": "11014136",
+                        "maktx": "CENTIUM 36CS_10L_FR",
+                        "id": 4543859,
                         "reportDataId": 27184
                     },
                     {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 3136115,
+                        "matnr": "11009070",
+                        "maktx": "CENTIUM 360CS_1L_NO",
+                        "id": 4543860,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008237",
+                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
+                        "id": 4543861,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014456",
+                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
+                        "id": 4543862,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014941",
+                        "maktx": "COMMAND 36CS_2L_CZ SK",
+                        "id": 4543863,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11001472",
                         "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 3136116,
+                        "id": 4543864,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11003085",
+                        "maktx": "CENTIUM 360CS_1L_NL",
+                        "id": 4543865,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001301",
+                        "maktx": "GAMIT 36CS_1L_GB IE",
+                        "id": 4543866,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "12001661",
+                        "maktx": "CLZ 360CS HP_KWIZ_JL",
+                        "id": 4543867,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008207",
+                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
+                        "id": 4543868,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005386",
+                        "maktx": "CENTIUM_5L_FI",
+                        "id": 4543869,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005356",
+                        "maktx": "GAMIT_2L_SK",
+                        "id": 4543870,
                         "reportDataId": 27184
                     },
                     {
                         "matnr": "11016712",
                         "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 3136117,
+                        "id": 4543871,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11007908",
+                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
+                        "id": 4543872,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11000995",
+                        "maktx": "CENTIUM CS_500ML_AT",
+                        "id": 4543873,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008733",
+                        "maktx": "CENTIUM 360CS_1L_BE",
+                        "id": 4543874,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014990",
+                        "maktx": "REACTOR 36CS_500ML_TR",
+                        "id": 4543875,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008208",
+                        "maktx": "CENTIUM_200L_MUL",
+                        "id": 4543876,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11000901",
+                        "maktx": "CENTIUM 36CS_3L_DE",
+                        "id": 4543877,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008125",
+                        "maktx": "COMMAND 3ME_200L_CH",
+                        "id": 4543878,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001022",
+                        "maktx": "CENTIUM 36CS_1000L_GB",
+                        "id": 4543879,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11013595",
+                        "maktx": "CENTIUM 36CS_1L_DK",
+                        "id": 4543880,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11003086",
+                        "maktx": "CENTIUM 360CS_3L_NL",
+                        "id": 4543881,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005346",
+                        "maktx": "CENTIUM 360CS_1L_FI",
+                        "id": 4543882,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008126",
+                        "maktx": "COMMAND 36CS_2L_SK",
+                        "id": 4543883,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014855",
+                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
+                        "id": 4543884,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11007914",
+                        "maktx": "CENTIUM 36CS_200L_SI",
+                        "id": 4543885,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001471",
+                        "maktx": "CENTIUM 360CS_1L_GB IE",
+                        "id": 4543886,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008127",
+                        "maktx": "COMMAND 36CS_0.5L_CZ",
+                        "id": 4543887,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005385",
+                        "maktx": "CENTIUM_3L_BE_BELCHIM",
+                        "id": 4543888,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11017233",
+                        "maktx": "COMMAND 36CS_1L_CZ SK",
+                        "id": 4543889,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008699",
+                        "maktx": "CENTIUM 360CS_3L_BE",
+                        "id": 4543890,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11016451",
+                        "maktx": "REACTOR MICRO_1L_HU",
+                        "id": 4543891,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005513",
+                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
+                        "id": 4543892,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "12000591",
+                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
+                        "id": 4543893,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014102",
+                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
+                        "id": 4543894,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001322",
+                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
+                        "id": 4543895,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11000393",
+                        "maktx": "REACTOR 36CS_5L_TR",
+                        "id": 4543896,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11005399",
+                        "maktx": "GAMIT 36CS_1L_FR",
+                        "id": 4543897,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11004403",
+                        "maktx": "REACTOR 360CS_1L_HU",
+                        "id": 4543898,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014812",
+                        "maktx": "CENTIUM 360CS_1L_IE",
+                        "id": 4543899,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11014813",
+                        "maktx": "GAMIT 36CS_1L_IE",
+                        "id": 4543900,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11000998",
+                        "maktx": "CENTIUM 36CS_1L_DE",
+                        "id": 4543901,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001569",
+                        "maktx": "CENTIUM 36CS_1L_FR",
+                        "id": 4543902,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11008206",
+                        "maktx": "COMMAND 36CS_2L_CZ",
+                        "id": 4543903,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11000622",
+                        "maktx": "CIRRUS CS_2L_SK_DOW",
+                        "id": 4543904,
+                        "reportDataId": 27184
+                    },
+                    {
+                        "matnr": "11001624",
+                        "maktx": "CENTIUM 36CS_3L_FR",
+                        "id": 4543905,
                         "reportDataId": 27184
                     }
                 ],
@@ -114503,45 +114527,57 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015128",
-                        "maktx": "HALOX_10L_BR",
-                        "id": 3429510,
+                        "matnr": "11016850",
+                        "maktx": "AMETISTA_5L_PY_SIPCAM",
+                        "id": 4543979,
                         "reportDataId": 27250
                     },
                     {
-                        "matnr": "12001368",
-                        "maktx": "BIF 180 + ZCY 200EC_BR",
-                        "id": 3429511,
+                        "matnr": "11017231",
+                        "maktx": "HERO_20L_BR",
+                        "id": 4543980,
                         "reportDataId": 27250
                     },
                     {
-                        "matnr": "11013527",
-                        "maktx": "HERO_10L_BR",
-                        "id": 3429512,
-                        "reportDataId": 27250
-                    },
-                    {
-                        "matnr": "12005371",
-                        "maktx": "BIF 180 ZCY 200EC_200L_BR_CHTE_VIAK MEG",
-                        "id": 3429513,
+                        "matnr": "11017234",
+                        "maktx": "AMETISTA_20L_BR",
+                        "id": 4543981,
                         "reportDataId": 27250
                     },
                     {
                         "matnr": "11004549",
                         "maktx": "HERO_5L_BR",
-                        "id": 3429514,
+                        "id": 4543982,
+                        "reportDataId": 27250
+                    },
+                    {
+                        "matnr": "11013527",
+                        "maktx": "HERO_10L_BR",
+                        "id": 4543983,
                         "reportDataId": 27250
                     },
                     {
                         "matnr": "11004671",
                         "maktx": "HERO_1L_BR",
-                        "id": 3429515,
+                        "id": 4543984,
                         "reportDataId": 27250
                     },
                     {
-                        "matnr": "11016850",
-                        "maktx": "AMETISTA_5L_PY_SIPCAM",
-                        "id": 3429516,
+                        "matnr": "12005371",
+                        "maktx": "BIF 180 ZCY 200EC_200L_BR_CHTE_VIAK MEG",
+                        "id": 4543985,
+                        "reportDataId": 27250
+                    },
+                    {
+                        "matnr": "11015128",
+                        "maktx": "HALOX_10L_BR",
+                        "id": 4543986,
+                        "reportDataId": 27250
+                    },
+                    {
+                        "matnr": "12001368",
+                        "maktx": "BIF 180 + ZCY 200EC_BR",
+                        "id": 4543987,
                         "reportDataId": 27250
                     }
                 ],
@@ -262069,16 +262105,16 @@
                 "casnumber": "",
                 "commercialnames": "BIF + ETHIPROLE (200 + 100) g/L SC",
                 "cmr": "",
-                "publishdate": "03/05/2026",
+                "publishdate": "03/06/2026",
                 "iupac": "",
                 "incode": "YWA21",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "BR",
                 "validityareadescription": "Brazil",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "03/05/2026",
+                "revisiondate": "03/06/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -262146,6 +262182,924 @@
                 "fmcbusiness": "",
                 "materials": [],
                 "id": 28125
+            },
+            {
+                "pdfname": "50000117_SDS_DE_DE.PDF",
+                "specificationid": "50000117",
+                "path": "\\\\172.18.22.6\\sds_external/50000117_SDS_DE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "VERIMARK\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE)",
+                "cmr": "",
+                "publishdate": "03/06/2026",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.1",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Deutschland",
+                "legacyspecid": "Q-1945",
+                "legacysdsid": "130000145292",
+                "revisiondate": "03/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11006923",
+                        "maktx": "BENEVIA 200SC_100ML_VN",
+                        "id": 4543988,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015086",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 4543989,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11009437",
+                        "maktx": "VERIMARK_375ML_RU KZ",
+                        "id": 4543990,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11016687",
+                        "maktx": "VERIMARK_1000L_BR",
+                        "id": 4543991,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11013150",
+                        "maktx": "VERIMARK 200SC_50ML_CN_DHZ",
+                        "id": 4543992,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007055",
+                        "maktx": "VERIMARK 20SC_100ML_JP_MBC",
+                        "id": 4543993,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015657",
+                        "maktx": "VERIMARK 20SC_250ML_TW",
+                        "id": 4543994,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015920",
+                        "maktx": "VERIMARK_150ML_MX",
+                        "id": 4543995,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12000749",
+                        "maktx": "CZP 200SC_200L_VN_JI",
+                        "id": 4543996,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006760",
+                        "maktx": "CZP 200SC_200L_GT_UB_ALL",
+                        "id": 4543997,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12005822",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_MO",
+                        "id": 4543998,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12000736",
+                        "maktx": "CZP 200SC_200L_JP",
+                        "id": 4543999,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006596",
+                        "maktx": "CZP 200SC_200L_VN_ST_JI",
+                        "id": 4544000,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006505",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_JI",
+                        "id": 4544001,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006194",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MI_MO",
+                        "id": 4544002,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11017062",
+                        "maktx": "VERIMARK 200SC_100ML_HU",
+                        "id": 4544003,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006592",
+                        "maktx": "CZP 200SC CITRIC ACID_1000L_ST_JI",
+                        "id": 4544004,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007280",
+                        "maktx": "VERIMARK 20SC_100ML_JP_NISSO",
+                        "id": 4544005,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12005771",
+                        "maktx": "CZP 200SC CITRIC ACID_ST_MO",
+                        "id": 4544006,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11006822",
+                        "maktx": "VERIMARK 20SC_100ML_JP_KUMIAI",
+                        "id": 4544007,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11016275",
+                        "maktx": "VERIMARK 20%SC_200ML_EG_SANABEL",
+                        "id": 4544008,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006565",
+                        "maktx": "CZP 200SC_200L_JP_ST_JI",
+                        "id": 4544009,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006310",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_MO",
+                        "id": 4544010,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015087",
+                        "maktx": "VERIMARK_20L_BR",
+                        "id": 4544011,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015097",
+                        "maktx": "VERIMARK_200ML_BR",
+                        "id": 4544012,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12005925",
+                        "maktx": "CZP 200SC_BR_UB_ALL",
+                        "id": 4544013,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015618",
+                        "maktx": "OKINA_40ML_TN_SSCC",
+                        "id": 4544014,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007367",
+                        "maktx": "VERIMARK_100ML_UA",
+                        "id": 4544015,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11017122",
+                        "maktx": "OKINA_5L_BE",
+                        "id": 4544016,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11013123",
+                        "maktx": "VERIMARK 20 SC_200 L_GT",
+                        "id": 4544017,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007219",
+                        "maktx": "VERIMARK (ACTICIDE) 200SC_100ML_TH",
+                        "id": 4544018,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015899",
+                        "maktx": "VERIMARK_500ML_MX",
+                        "id": 4544019,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11013141",
+                        "maktx": "VERIMARK 200SC_10ML_CN_DHZ",
+                        "id": 4544020,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11016730",
+                        "maktx": "CIRCADEN 200SC_50ML_ZW_POLACHEM",
+                        "id": 4544021,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11015898",
+                        "maktx": "VERIMARK_1L_MX",
+                        "id": 4544022,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007218",
+                        "maktx": "VERIMARK 20SC_100ML_PH",
+                        "id": 4544023,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007537",
+                        "maktx": "VERIMARK 200SC_100ML_ID",
+                        "id": 4544024,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11000031",
+                        "maktx": "VERIMARK 200SC_100ML_MY",
+                        "id": 4544025,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006232",
+                        "maktx": "CZP 200SC CITRIC ACID_200L_MX_MI_MO",
+                        "id": 4544026,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12002277",
+                        "maktx": "CZP 200SC_200L_MUL_JI",
+                        "id": 4544027,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11009438",
+                        "maktx": "VERIMARK_1L_RU KZ",
+                        "id": 4544028,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11013221",
+                        "maktx": "VERIMARK 20SC_100ML_KH",
+                        "id": 4544029,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006620",
+                        "maktx": "CZP 200SC_1000L_MX_UB_JI",
+                        "id": 4544030,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11016646",
+                        "maktx": "VERIMARK_1L_AT",
+                        "id": 4544031,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11009539",
+                        "maktx": "VERIMARK_2.365L_CA",
+                        "id": 4544032,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006182",
+                        "maktx": "CZP 200SC CITRIC ACID_MI_MO",
+                        "id": 4544033,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "12006634",
+                        "maktx": "CZP 200SC CITRIC ACID_1L_ST_JI",
+                        "id": 4544034,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007123",
+                        "maktx": "VERIMARK 200SC_50ML_CN",
+                        "id": 4544035,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11013503",
+                        "maktx": "DAHEZAN_200L_CN",
+                        "id": 4544036,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11007021",
+                        "maktx": "CIRCADEN 200SC_50ML_TR",
+                        "id": 4544037,
+                        "reportDataId": 28126
+                    },
+                    {
+                        "matnr": "11016169",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 4544038,
+                        "reportDataId": 28126
+                    }
+                ],
+                "id": 28126
+            },
+            {
+                "pdfname": "50001122_SDS_TW_ZF.PDF",
+                "specificationid": "50001122",
+                "path": "\\\\172.18.22.6\\sds_external/50001122_SDS_TW_ZF.PDF",
+                "reptype": "MSDS",
+                "language": "ZF",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "HI-PHOS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0034",
+                "cmr": "",
+                "publishdate": "03/06/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "NP-0034",
+                "legacysdsid": "NP-0034",
+                "revisiondate": "03/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001575",
+                        "maktx": "HI PHOS_10L_EG_TIBA",
+                        "id": 4544039,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 4544040,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 4544041,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 4544042,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 4544043,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 4544044,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 4544045,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 4544046,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 4544047,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 4544048,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 4544049,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 4544050,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 4544051,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 4544052,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 4544053,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 4544054,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 4544055,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 4544056,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 4544057,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 4544058,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 4544059,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 4544060,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 4544061,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 4544062,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 4544063,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 4544064,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 4544065,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001604",
+                        "maktx": "HI PHOS_5L_TN_AGDI",
+                        "id": 4544066,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 4544067,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 4544068,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 4544069,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 4544070,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 4544071,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 4544072,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 4544073,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 4544074,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 4544075,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 4544076,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 4544077,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 4544078,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 4544079,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 4544080,
+                        "reportDataId": 28127
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 4544081,
+                        "reportDataId": 28127
+                    }
+                ],
+                "id": 28127
+            },
+            {
+                "pdfname": "50001122_SDS_TW_EN.PDF",
+                "specificationid": "50001122",
+                "path": "\\\\172.18.22.6\\sds_external/50001122_SDS_TW_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "HI-PHOS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NP-0034",
+                "cmr": "",
+                "publishdate": "03/06/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "NP-0034",
+                "legacysdsid": "NP-0034",
+                "revisiondate": "03/06/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001575",
+                        "maktx": "HI PHOS_10L_EG_TIBA",
+                        "id": 4544082,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001414",
+                        "maktx": "HI-PHOS_1L_DZ_AGROSEED",
+                        "id": 4544083,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11016002",
+                        "maktx": "HI PHOS_1L_DZ_CASAP",
+                        "id": 4544084,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001303",
+                        "maktx": "HI-PHOS_1000L_CR",
+                        "id": 4544085,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11015989",
+                        "maktx": "HI PHOS_20L_DZ_CASAP",
+                        "id": 4544086,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001206",
+                        "maktx": "HI PHOS_600L_GB",
+                        "id": 4544087,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11015974",
+                        "maktx": "VYTEGRIS HI-PHOS_10L_IT",
+                        "id": 4544088,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "12000248",
+                        "maktx": "0-44-7.4-MG 8SL_FL_ALL",
+                        "id": 4544089,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001641",
+                        "maktx": "HI PHOS_1L_TN_AGDI",
+                        "id": 4544090,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001205",
+                        "maktx": "HI-PHOS_10L_GB",
+                        "id": 4544091,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001463",
+                        "maktx": "HI PHOS_10L_FR",
+                        "id": 4544092,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001487",
+                        "maktx": "HI-PHOS_1000L_EC",
+                        "id": 4544093,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001486",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 4544094,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001469",
+                        "maktx": "HI-PHOS_640L_FI_BERNER",
+                        "id": 4544095,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001204",
+                        "maktx": "HI PHOS_1000L_GB",
+                        "id": 4544096,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001556",
+                        "maktx": "HI PHOS_1L_CN",
+                        "id": 4544097,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11008742",
+                        "maktx": "HI PHOS_20L_FR",
+                        "id": 4544098,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11014822",
+                        "maktx": "HI PHOS_10L_AT",
+                        "id": 4544099,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001430",
+                        "maktx": "HI-PHOS_10L_FI_BERNER",
+                        "id": 4544100,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001089",
+                        "maktx": "HI PHOS_10L_ES",
+                        "id": 4544101,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11014903",
+                        "maktx": "HI-PHOS_1000L_GT_MAXIAGRO",
+                        "id": 4544102,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001289",
+                        "maktx": "HI PHOS_1000L_GR",
+                        "id": 4544103,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11009110",
+                        "maktx": "HI-PHOS_1L_TW",
+                        "id": 4544104,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001203",
+                        "maktx": "HI PHOS_10L_NL_AGVI",
+                        "id": 4544105,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11005473",
+                        "maktx": "HI PHOS_10L_HU",
+                        "id": 4544106,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001604",
+                        "maktx": "HI PHOS_5L_TN_AGDI",
+                        "id": 4544107,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001413",
+                        "maktx": "HI PHOS_5L_DZ_AGSE",
+                        "id": 4544108,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11008880",
+                        "maktx": "HI PHOS EC_1L_EC",
+                        "id": 4544109,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11007264",
+                        "maktx": "HI PHOS_10L_TZ KE_TRI-HYG",
+                        "id": 4544110,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001478",
+                        "maktx": "HI PHOS_20L_DZ_AGSE",
+                        "id": 4544111,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11015988",
+                        "maktx": "HI PHOS_5L_DZ_CASAP",
+                        "id": 4544112,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001612",
+                        "maktx": "HI PHOS_10L_DE",
+                        "id": 4544113,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11014989",
+                        "maktx": "HI-PHOS_1000L_HU",
+                        "id": 4544114,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001202",
+                        "maktx": "HI PHOS_1L_IQ_REEF",
+                        "id": 4544115,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11000771",
+                        "maktx": "HI PHOS_5L_GR",
+                        "id": 4544116,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "12001165",
+                        "maktx": "0-44-7.4-TE SL_FL_ALL",
+                        "id": 4544117,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11003089",
+                        "maktx": "HI PHOS_1000L_DE",
+                        "id": 4544118,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11008892",
+                        "maktx": "HI PHOS EC_250CC_EC",
+                        "id": 4544119,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11008881",
+                        "maktx": "HI PHOS EC_500CC_EC",
+                        "id": 4544120,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001255",
+                        "maktx": "HI PHOS_10L_PL",
+                        "id": 4544121,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11003060",
+                        "maktx": "HI PHOS_1000L_TW",
+                        "id": 4544122,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11016956",
+                        "maktx": "TOP PHOS_10L_CH_STAHLER",
+                        "id": 4544123,
+                        "reportDataId": 28128
+                    },
+                    {
+                        "matnr": "11001233",
+                        "maktx": "HI-PHOS_1000L_PK_SWAT",
+                        "id": 4544124,
+                        "reportDataId": 28128
+                    }
+                ],
+                "id": 28128
             }
         ],
         "isExportToExcel": false
