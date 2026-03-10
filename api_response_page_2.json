@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6277,
+        "totalCount": 6291,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -263100,6 +263100,982 @@
                     }
                 ],
                 "id": 28128
+            },
+            {
+                "pdfname": "50003158_SDS_DE_DE.PDF",
+                "specificationid": "50003158",
+                "path": "\\\\172.18.22.6\\sds_external/50003158_SDS_DE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "NAFABO",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NAFABO (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Deutschland",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017061",
+                        "maktx": "NAFABO_5L_DE",
+                        "id": 4544125,
+                        "reportDataId": 28129
+                    }
+                ],
+                "id": 28129
+            },
+            {
+                "pdfname": "50003158_SDS_DE_6N.PDF",
+                "specificationid": "50003158",
+                "path": "\\\\172.18.22.6\\sds_external/50003158_SDS_DE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "NAFABO",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "NAFABO (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Germany",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017061",
+                        "maktx": "NAFABO_5L_DE",
+                        "id": 4544126,
+                        "reportDataId": 28130
+                    }
+                ],
+                "id": 28130
+            },
+            {
+                "pdfname": "50003159_SDS_DE_6N.PDF",
+                "specificationid": "50003159",
+                "path": "\\\\172.18.22.6\\sds_external/50003159_SDS_DE_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "ALTIVATE 6 WG",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "ALTIVATE 6 WG (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Germany",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017161",
+                        "maktx": "ALTIVATE 6 WG_1KG_DE",
+                        "id": 4544127,
+                        "reportDataId": 28131
+                    }
+                ],
+                "id": 28131
+            },
+            {
+                "pdfname": "50003159_SDS_DE_DE.PDF",
+                "specificationid": "50003159",
+                "path": "\\\\172.18.22.6\\sds_external/50003159_SDS_DE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_DE",
+                "authorizedportal": "P3",
+                "productname": "ALTIVATE 6 WG",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "ALTIVATE 6 WG (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DE",
+                "validityareadescription": "Deutschland",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11017161",
+                        "maktx": "ALTIVATE 6 WG_1KG_DE",
+                        "id": 4544128,
+                        "reportDataId": 28132
+                    }
+                ],
+                "id": 28132
+            },
+            {
+                "pdfname": "50002836_EXT_SDS_BR_PT.PDF",
+                "specificationid": "50002836",
+                "path": "\\\\172.18.22.6\\sds_external/50002836_EXT_SDS_BR_PT.PDF",
+                "reptype": "MSDS",
+                "language": "PT",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "DINAMO\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (50 + 250) g/L SC",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "Z0W99",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015551",
+                        "maktx": "DINAMO_20L_BR",
+                        "id": 4544129,
+                        "reportDataId": 28133
+                    },
+                    {
+                        "matnr": "12006094",
+                        "maktx": "BIF 50 + IDC 250 SC_BR_UB_ALL",
+                        "id": 4544130,
+                        "reportDataId": 28133
+                    }
+                ],
+                "id": 28133
+            },
+            {
+                "pdfname": "50002836_EXT_SDS_BR_EN.PDF",
+                "specificationid": "50002836",
+                "path": "\\\\172.18.22.6\\sds_external/50002836_EXT_SDS_BR_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_BR",
+                "authorizedportal": "P3",
+                "productname": "DINAMO\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (50 + 250) g/L SC",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "Z0W99",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BR",
+                "validityareadescription": "Brazil",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015551",
+                        "maktx": "DINAMO_20L_BR",
+                        "id": 4544131,
+                        "reportDataId": 28134
+                    },
+                    {
+                        "matnr": "12006094",
+                        "maktx": "BIF 50 + IDC 250 SC_BR_UB_ALL",
+                        "id": 4544132,
+                        "reportDataId": 28134
+                    }
+                ],
+                "id": 28134
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_NI_EN.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_NI_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_NI",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "NI",
+                "validityareadescription": "Nicaragua",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544133,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544134,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544135,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544136,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544137,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544138,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544139,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544140,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544141,
+                        "reportDataId": 28135
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544142,
+                        "reportDataId": 28135
+                    }
+                ],
+                "id": 28135
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_NI_1X.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_NI_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_NI",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "NI",
+                "validityareadescription": "Nicaragua",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544143,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544144,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544145,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544146,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544147,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544148,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544149,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544150,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544151,
+                        "reportDataId": 28136
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544152,
+                        "reportDataId": 28136
+                    }
+                ],
+                "id": 28136
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_HN_1X.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_HN_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_HN",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HN",
+                "validityareadescription": "Honduras",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544153,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544154,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544155,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544156,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544157,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544158,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544159,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544160,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544161,
+                        "reportDataId": 28137
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544162,
+                        "reportDataId": 28137
+                    }
+                ],
+                "id": 28137
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_HN_EN.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_HN_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_HN",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "HN",
+                "validityareadescription": "Honduras",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544163,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544164,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544165,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544166,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544167,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544168,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544169,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544170,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544171,
+                        "reportDataId": 28138
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544172,
+                        "reportDataId": 28138
+                    }
+                ],
+                "id": 28138
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_SV_EN.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_SV_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_SV",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "SV",
+                "validityareadescription": "El Salvador",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544173,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544174,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544175,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544176,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544177,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544178,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544179,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544180,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544181,
+                        "reportDataId": 28139
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544182,
+                        "reportDataId": 28139
+                    }
+                ],
+                "id": 28139
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_SV_1X.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_SV_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_SV",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "SV",
+                "validityareadescription": "El Salvador",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544183,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544184,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544185,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544186,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544187,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544188,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544189,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544190,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544191,
+                        "reportDataId": 28140
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544192,
+                        "reportDataId": 28140
+                    }
+                ],
+                "id": 28140
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_PA_1X.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_PA_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_PA",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PA",
+                "validityareadescription": "Panama",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544193,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544194,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544195,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544196,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544197,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544198,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544199,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544200,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544201,
+                        "reportDataId": 28141
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544202,
+                        "reportDataId": 28141
+                    }
+                ],
+                "id": 28141
+            },
+            {
+                "pdfname": "50001327_EXT_SDS_PA_EN.PDF",
+                "specificationid": "50001327",
+                "path": "\\\\172.18.22.6\\sds_external/50001327_EXT_SDS_PA_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_PA",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 0.7 GR",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN +  IMIDACLOPRID (0.3 + 0.4) W/W% GR",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (0.3 + 0.4) GR",
+                "cmr": "",
+                "publishdate": "03/09/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "PA",
+                "validityareadescription": "Panama",
+                "legacyspecid": "FO004343",
+                "legacysdsid": "",
+                "revisiondate": "03/09/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008066",
+                        "maktx": "ALLECTUS 0.7GR_20KG_NI",
+                        "id": 4544203,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11000529",
+                        "maktx": "ALLECTUS 0.7GR_20KG_SV",
+                        "id": 4544204,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11015953",
+                        "maktx": "ALLECTUS 0.7GR_20KG_PA",
+                        "id": 4544205,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11008014",
+                        "maktx": "ALLECTUS GR_5KG_MX",
+                        "id": 4544206,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11016450",
+                        "maktx": "ALCANDER GR_20KG_MX_PETRO",
+                        "id": 4544207,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11015296",
+                        "maktx": "ARRANGE_20KG_MX_CIAGRO",
+                        "id": 4544208,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11008251",
+                        "maktx": "ESCUDO GR_20KG_MX",
+                        "id": 4544209,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11008061",
+                        "maktx": "ALLECTUS 0.7GR_20KG_MUL",
+                        "id": 4544210,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11008041",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544211,
+                        "reportDataId": 28142
+                    },
+                    {
+                        "matnr": "11008058",
+                        "maktx": "ALLECTUS GR_20KG_MX",
+                        "id": 4544212,
+                        "reportDataId": 28142
+                    }
+                ],
+                "id": 28142
             }
         ],
         "isExportToExcel": false
