@@ -58,496 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50000821_SDS_IE_6N.PDF",
-                "specificationid": "50000821",
-                "path": "\\\\172.18.22.6\\sds_external/50000821_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "CENTIUM\u00ae 360 CS",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CIRRUS",
-                "casnumber": "",
-                "commercialnames": "CLZ (HP) 360 g/L CS",
-                "cmr": "",
-                "publishdate": "12/02/2024",
-                "iupac": "",
-                "incode": "U8R42",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "FO004149",
-                "legacysdsid": "",
-                "revisiondate": "12/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014813",
-                        "maktx": "GAMIT 36CS_1L_IE",
-                        "id": 4543796,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11016451",
-                        "maktx": "REACTOR MICRO_1L_HU",
-                        "id": 4543797,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008125",
-                        "maktx": "COMMAND 3ME_200L_CH",
-                        "id": 4543798,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014941",
-                        "maktx": "COMMAND 36CS_2L_CZ SK",
-                        "id": 4543799,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11003147",
-                        "maktx": "CIRRUS CS_2L_IT",
-                        "id": 4543800,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000993",
-                        "maktx": "COMMAND CS_1L_ES",
-                        "id": 4543801,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008927",
-                        "maktx": "COMMAND CS_5L_ES",
-                        "id": 4543802,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014668",
-                        "maktx": "CENTIUM 36CS_1L_SI_KARSIA",
-                        "id": 4543803,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11015543",
-                        "maktx": "CETUS 36CS_5L_FR",
-                        "id": 4543804,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001504",
-                        "maktx": "CENTIUM 36 CS_5L_SE",
-                        "id": 4543805,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014136",
-                        "maktx": "CENTIUM 36CS_10L_FR",
-                        "id": 4543806,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008237",
-                        "maktx": "CENTIUM 36CS_1000L_FR_BELCHIM",
-                        "id": 4543807,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001022",
-                        "maktx": "CENTIUM 36CS_1000L_GB",
-                        "id": 4543808,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014456",
-                        "maktx": "CENTIUM 36CS_250ML_SI_KARSIA",
-                        "id": 4543809,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008208",
-                        "maktx": "CENTIUM_200L_MUL",
-                        "id": 4543810,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11003085",
-                        "maktx": "CENTIUM 360CS_1L_NL",
-                        "id": 4543811,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001301",
-                        "maktx": "GAMIT 36CS_1L_GB IE",
-                        "id": 4543812,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "12001661",
-                        "maktx": "CLZ 360CS HP_KWIZ_JL",
-                        "id": 4543813,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008207",
-                        "maktx": "CENTIUM 36CS_3L_FR_BELCHIM",
-                        "id": 4543814,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005386",
-                        "maktx": "CENTIUM_5L_FI",
-                        "id": 4543815,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005356",
-                        "maktx": "GAMIT_2L_SK",
-                        "id": 4543816,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11016712",
-                        "maktx": "CENTIUM 360CS_5L_NL",
-                        "id": 4543817,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11007908",
-                        "maktx": "CENTIUM_1L_PT_SERVAGRONIS",
-                        "id": 4543818,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000995",
-                        "maktx": "CENTIUM CS_500ML_AT",
-                        "id": 4543819,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014990",
-                        "maktx": "REACTOR 36CS_500ML_TR",
-                        "id": 4543820,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001472",
-                        "maktx": "CENTIUM 360CS_3L_GB IE",
-                        "id": 4543821,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000901",
-                        "maktx": "CENTIUM 36CS_3L_DE",
-                        "id": 4543822,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11002718",
-                        "maktx": "CENTIUM 36CS_1L_SE",
-                        "id": 4543823,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008733",
-                        "maktx": "CENTIUM 360CS_1L_BE",
-                        "id": 4543824,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000393",
-                        "maktx": "REACTOR 36CS_5L_TR",
-                        "id": 4543825,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005513",
-                        "maktx": "CENTIUM,360CS,0.5L,6#CROATIA",
-                        "id": 4543826,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001624",
-                        "maktx": "CENTIUM 36CS_3L_FR",
-                        "id": 4543827,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11015672",
-                        "maktx": "REACTOR_500ML_AT",
-                        "id": 4543828,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11013595",
-                        "maktx": "CENTIUM 36CS_1L_DK",
-                        "id": 4543829,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11003086",
-                        "maktx": "CENTIUM 360CS_3L_NL",
-                        "id": 4543830,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005346",
-                        "maktx": "CENTIUM 360CS_1L_FI",
-                        "id": 4543831,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008126",
-                        "maktx": "COMMAND 36CS_2L_SK",
-                        "id": 4543832,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014855",
-                        "maktx": "REACTOR CS_1L_IT_SYNGENTA",
-                        "id": 4543833,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11007914",
-                        "maktx": "CENTIUM 36CS_200L_SI",
-                        "id": 4543834,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001471",
-                        "maktx": "CENTIUM 360CS_1L_GB IE",
-                        "id": 4543835,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11009070",
-                        "maktx": "CENTIUM 360CS_1L_NO",
-                        "id": 4543836,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008127",
-                        "maktx": "COMMAND 36CS_0.5L_CZ",
-                        "id": 4543837,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11017233",
-                        "maktx": "COMMAND 36CS_1L_CZ SK",
-                        "id": 4543838,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008699",
-                        "maktx": "CENTIUM 360CS_3L_BE",
-                        "id": 4543839,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "12000591",
-                        "maktx": "CLZ 360CS HP_KWIZ_CYND",
-                        "id": 4543840,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014102",
-                        "maktx": "CENTIUM 36CS_500ML_HR_AGROCHEM MAKS",
-                        "id": 4543841,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001322",
-                        "maktx": "REACTOR 360CS_1L_HR_AGROC",
-                        "id": 4543842,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005399",
-                        "maktx": "GAMIT 36CS_1L_FR",
-                        "id": 4543843,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11004403",
-                        "maktx": "REACTOR 360CS_1L_HU",
-                        "id": 4543844,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11014812",
-                        "maktx": "CENTIUM 360CS_1L_IE",
-                        "id": 4543845,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000998",
-                        "maktx": "CENTIUM 36CS_1L_DE",
-                        "id": 4543846,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11001569",
-                        "maktx": "CENTIUM 36CS_1L_FR",
-                        "id": 4543847,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11008206",
-                        "maktx": "COMMAND 36CS_2L_CZ",
-                        "id": 4543848,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11005385",
-                        "maktx": "CENTIUM_3L_BE_BELCHIM",
-                        "id": 4543849,
-                        "reportDataId": 26804
-                    },
-                    {
-                        "matnr": "11000622",
-                        "maktx": "CIRRUS CS_2L_SK_DOW",
-                        "id": 4543850,
-                        "reportDataId": 26804
-                    }
-                ],
-                "id": 26804
-            },
-            {
-                "pdfname": "50002685_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50002685",
-                "path": "\\\\172.18.22.6\\sds_external/50002685_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "GAMIT\u00ae 36 CS",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CLZ (HP) 360 g/L CS (CHILD)",
-                "cmr": "",
-                "publishdate": "12/02/2024",
-                "iupac": "",
-                "incode": "U8R42",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "FO004149",
-                "legacysdsid": "",
-                "revisiondate": "12/02/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001620",
-                        "maktx": "GAMMIT 36 AMT_3L_DE",
-                        "id": 2741851,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11004347",
-                        "maktx": "COMMAND 36CS_1L_PT",
-                        "id": 2741852,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11015574",
-                        "maktx": "COMMAND 36CS_800ML_IT",
-                        "id": 2741853,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11000727",
-                        "maktx": "GAMIT 360CS_3L_BE",
-                        "id": 2741854,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11000900",
-                        "maktx": "COMMAND 36CS_1L_IT",
-                        "id": 2741855,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11013733",
-                        "maktx": "COMMAND 36CS_3L_IT",
-                        "id": 2741856,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11001619",
-                        "maktx": "GAMMIT 36 AMT_10L_DE",
-                        "id": 2741857,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11016478",
-                        "maktx": "GAMIT_1L_PT_SYNGENTA",
-                        "id": 2741858,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11007915",
-                        "maktx": "CIRRUS CS_2L_CZ_DOW",
-                        "id": 2741859,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11016350",
-                        "maktx": "GAMIT_1L_ES_SYNGENTA",
-                        "id": 2741860,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11005387",
-                        "maktx": "GAMIT_3L_DE",
-                        "id": 2741861,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11001499",
-                        "maktx": "GAMIT 36CS_3L_DE",
-                        "id": 2741862,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11005389",
-                        "maktx": "GAMIT_10L_DE",
-                        "id": 2741863,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11014204",
-                        "maktx": "CIRRUS CS_2L_CZ_CORTEVA",
-                        "id": 2741864,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11001291",
-                        "maktx": "CIRRUS CLZM_3L_GB",
-                        "id": 2741865,
-                        "reportDataId": 26805
-                    },
-                    {
-                        "matnr": "11001505",
-                        "maktx": "CENTIUM 36CS_5L_DK",
-                        "id": 2741866,
-                        "reportDataId": 26805
-                    }
-                ],
-                "id": 26805
-            },
-            {
                 "pdfname": "50002399_SDS_IE_6N.PDF",
                 "specificationid": "50002399",
                 "path": "\\\\172.18.22.6\\sds_external/50002399_SDS_IE_6N.PDF",
@@ -209982,195 +209492,195 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12005364",
-                        "maktx": "CSU 750 WG_500KG_CA_UF_ALL",
-                        "id": 3562688,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11005726",
-                        "maktx": "GLEAN 75DF_100G_RO",
-                        "id": 3562689,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006516",
-                        "maktx": "AVENIR 75PX_50G_ES_SYNGENTA",
-                        "id": 3562690,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12002089",
-                        "maktx": "GLEAN 75DF KG VAR WT PALLET BOX",
-                        "id": 3562691,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006105",
-                        "maktx": "GLEAN PX75_100G_IL_GADOT",
-                        "id": 3562692,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11005352",
-                        "maktx": "EAGLE 75WG_100G_BG_ABT",
-                        "id": 3562693,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12002110",
-                        "maktx": "CSU 750 WG_50KG_UF_ALL",
-                        "id": 3562694,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006053",
-                        "maktx": "GLEAN 75WG_100G_PL",
-                        "id": 3562695,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12001554",
-                        "maktx": "CHLORSULFURON XP KG BULK",
-                        "id": 3562696,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12005110",
-                        "maktx": "CSU 750WG_500KG_UF_ALL",
-                        "id": 3562697,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11015245",
-                        "maktx": "TELAR_100G_AU",
-                        "id": 3562698,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006201",
-                        "maktx": "GLEAN 75PX_100G_CZ",
-                        "id": 3562699,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11000567",
-                        "maktx": "PPAC GLEAN XP_PP_US",
-                        "id": 3562700,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006483",
-                        "maktx": "GLEAN 75XP_500G_ZA",
-                        "id": 3562701,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11014784",
-                        "maktx": "CHLORSULFURON 75_1LB_US",
-                        "id": 3562702,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11005768",
-                        "maktx": "GLEAN 75WG_8G_PL",
-                        "id": 3562703,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12002085",
-                        "maktx": "GLEAN 75DF 10X50 GR JAR NEUTRAL",
-                        "id": 3562704,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12005472",
-                        "maktx": "CSU 750 WG_500KG_AU_UF_ALL",
-                        "id": 3562705,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12002098",
-                        "maktx": "GLEAN 75DF_50KG_EEC",
-                        "id": 3562706,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11007577",
-                        "maktx": "GLEAN 75PX_50G_IT",
-                        "id": 3562707,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11005116",
-                        "maktx": "GLEAN 75DF_100G_SA_AL JAMMAZ",
-                        "id": 3562708,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11005329",
-                        "maktx": "GLEAN 75DF_ 200G_NZ",
-                        "id": 3562709,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "12002113",
-                        "maktx": "CSU 750 WG_600KG_AU",
-                        "id": 3562710,
+                        "matnr": "11006653",
+                        "maktx": "GLEAN 75PX_100G_ES",
+                        "id": 4544571,
                         "reportDataId": 27741
                     },
                     {
                         "matnr": "11006047",
                         "maktx": "GLEAN XP_20OZ_US",
-                        "id": 3562711,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006570",
-                        "maktx": "PPAC GLEAN XP_35LB_CA US",
-                        "id": 3562712,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006568",
-                        "maktx": "GLEAN 75PX_100G_SK",
-                        "id": 3562713,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11007486",
-                        "maktx": "GLEAN XP_100G_KE_ELGON",
-                        "id": 3562714,
-                        "reportDataId": 27741
-                    },
-                    {
-                        "matnr": "11006202",
-                        "maktx": "GLEAN XP_540LB_CA US",
-                        "id": 3562715,
+                        "id": 4544572,
                         "reportDataId": 27741
                     },
                     {
                         "matnr": "11015238",
                         "maktx": "TELAR_20G_AU",
-                        "id": 3562716,
+                        "id": 4544573,
                         "reportDataId": 27741
                     },
                     {
-                        "matnr": "12002099",
-                        "maktx": "GLEAN 75DF 10X100 GR JAR NEUTRAL",
-                        "id": 3562717,
+                        "matnr": "11006201",
+                        "maktx": "GLEAN 75PX_100G_CZ",
+                        "id": 4544574,
                         "reportDataId": 27741
                     },
                     {
-                        "matnr": "11006653",
-                        "maktx": "GLEAN 75PX_100G_ES",
-                        "id": 3562718,
+                        "matnr": "12005110",
+                        "maktx": "CSU 750WG_500KG_UF_ALL",
+                        "id": 4544575,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006568",
+                        "maktx": "GLEAN 75PX_100G_SK",
+                        "id": 4544576,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002085",
+                        "maktx": "GLEAN 75DF 10X50 GR JAR NEUTRAL",
+                        "id": 4544577,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002098",
+                        "maktx": "GLEAN 75DF_50KG_EEC",
+                        "id": 4544578,
                         "reportDataId": 27741
                     },
                     {
                         "matnr": "11005223",
                         "maktx": "GLEAN 75DF_50G_IT",
-                        "id": 3562719,
+                        "id": 4544579,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002099",
+                        "maktx": "GLEAN 75DF 10X100 GR JAR NEUTRAL",
+                        "id": 4544580,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002110",
+                        "maktx": "CSU 750 WG_50KG_UF_ALL",
+                        "id": 4544581,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006570",
+                        "maktx": "PPAC GLEAN XP_35LB_CA US",
+                        "id": 4544582,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11005352",
+                        "maktx": "EAGLE 75WG_100G_BG_ABT",
+                        "id": 4544583,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12005364",
+                        "maktx": "CSU 750 WG_500KG_CA_UF_ALL",
+                        "id": 4544584,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11015245",
+                        "maktx": "TELAR_100G_AU",
+                        "id": 4544585,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006053",
+                        "maktx": "GLEAN 75WG_100G_PL",
+                        "id": 4544586,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002113",
+                        "maktx": "CSU 750 WG_600KG_AU",
+                        "id": 4544587,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11007486",
+                        "maktx": "GLEAN XP_100G_KE_ELGON",
+                        "id": 4544588,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11005768",
+                        "maktx": "GLEAN 75WG_8G_PL",
+                        "id": 4544589,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12005472",
+                        "maktx": "CSU 750 WG_500KG_AU_UF_ALL",
+                        "id": 4544590,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006105",
+                        "maktx": "GLEAN PX75_100G_IL_GADOT",
+                        "id": 4544591,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006483",
+                        "maktx": "GLEAN 75XP_500G_ZA",
+                        "id": 4544592,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11000567",
+                        "maktx": "PPAC GLEAN XP_PP_US",
+                        "id": 4544593,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11005726",
+                        "maktx": "GLEAN 75DF_100G_RO",
+                        "id": 4544594,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11005329",
+                        "maktx": "GLEAN 75DF_ 200G_NZ",
+                        "id": 4544595,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11014784",
+                        "maktx": "CHLORSULFURON 75_1LB_US",
+                        "id": 4544596,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12001554",
+                        "maktx": "CHLORSULFURON XP KG BULK",
+                        "id": 4544597,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "12002089",
+                        "maktx": "GLEAN 75DF KG VAR WT PALLET BOX",
+                        "id": 4544598,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11005116",
+                        "maktx": "GLEAN 75DF_100G_SA_AL JAMMAZ",
+                        "id": 4544599,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006202",
+                        "maktx": "GLEAN XP_540LB_CA US",
+                        "id": 4544600,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11006516",
+                        "maktx": "AVENIR 75PX_50G_ES_SYNGENTA",
+                        "id": 4544601,
+                        "reportDataId": 27741
+                    },
+                    {
+                        "matnr": "11007577",
+                        "maktx": "GLEAN 75PX_50G_IT",
+                        "id": 4544602,
                         "reportDataId": 27741
                     }
                 ],
@@ -251854,73 +251364,73 @@
                 "language": "6N",
                 "genvariant": "SDS_MA",
                 "authorizedportal": "P3",
-                "productname": "Seamac PCT\u00ae Biostimulant",
+                "productname": "Seamac\u00ae PCT Biostimulant",
                 "chemicalname": "",
                 "commonname": "",
                 "tradename": "",
                 "casnumber": "",
                 "commercialnames": "NP-0058",
                 "cmr": "",
-                "publishdate": "02/04/2026",
+                "publishdate": "03/10/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "MA",
                 "validityareadescription": "Morocco",
                 "legacyspecid": "NP-0058",
                 "legacysdsid": "NP-0058",
-                "revisiondate": "02/04/2026",
+                "revisiondate": "03/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015448",
-                        "maktx": "SEAMAC PCT_5L_MA_AGRIMATCO",
-                        "id": 4492634,
-                        "reportDataId": 28040
-                    },
-                    {
-                        "matnr": "12000298",
-                        "maktx": "SEA 15SL_FL_ALL",
-                        "id": 4492635,
-                        "reportDataId": 28040
-                    },
-                    {
                         "matnr": "11000232",
                         "maktx": "SEAMAC 525SC_5L_IT",
-                        "id": 4492636,
+                        "id": 4544649,
                         "reportDataId": 28040
                     },
                     {
                         "matnr": "11002868",
                         "maktx": "SEAMAC PCT_5L_ES",
-                        "id": 4492637,
+                        "id": 4544650,
                         "reportDataId": 28040
                     },
                     {
-                        "matnr": "22024855",
-                        "maktx": "MSC_STRETCH_WRAP",
-                        "id": 4492638,
-                        "reportDataId": 28040
-                    },
-                    {
-                        "matnr": "11008269",
-                        "maktx": "SEAMAC PCT_2.5GAL_US_SYMA",
-                        "id": 4492639,
+                        "matnr": "11015448",
+                        "maktx": "SEAMAC PCT_5L_MA_AGRIMATCO",
+                        "id": 4544651,
                         "reportDataId": 28040
                     },
                     {
                         "matnr": "11015546",
                         "maktx": "SEAMAC PCT_5L_IT",
-                        "id": 4492640,
+                        "id": 4544652,
+                        "reportDataId": 28040
+                    },
+                    {
+                        "matnr": "12000298",
+                        "maktx": "SEA 15SL_FL_ALL",
+                        "id": 4544653,
+                        "reportDataId": 28040
+                    },
+                    {
+                        "matnr": "11008269",
+                        "maktx": "SEAMAC PCT_2.5GAL_US_SYMA",
+                        "id": 4544654,
+                        "reportDataId": 28040
+                    },
+                    {
+                        "matnr": "22024855",
+                        "maktx": "MSC_STRETCH_WRAP",
+                        "id": 4544655,
                         "reportDataId": 28040
                     },
                     {
                         "matnr": "11002830",
                         "maktx": "SEAMAC PCT_10L_GB",
-                        "id": 4492641,
+                        "id": 4544656,
                         "reportDataId": 28040
                     }
                 ],
@@ -251934,73 +251444,73 @@
                 "language": "FR",
                 "genvariant": "SDS_MA",
                 "authorizedportal": "P3",
-                "productname": "Seamac PCT\u00ae Biostimulant",
+                "productname": "Seamac\u00ae PCT Biostimulant",
                 "chemicalname": "",
                 "commonname": "",
                 "tradename": "",
                 "casnumber": "",
                 "commercialnames": "NP-0058",
                 "cmr": "",
-                "publishdate": "02/04/2026",
+                "publishdate": "03/10/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "MA",
                 "validityareadescription": "Morocco",
                 "legacyspecid": "NP-0058",
                 "legacysdsid": "NP-0058",
-                "revisiondate": "02/04/2026",
+                "revisiondate": "03/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015448",
-                        "maktx": "SEAMAC PCT_5L_MA_AGRIMATCO",
-                        "id": 4492642,
-                        "reportDataId": 28041
-                    },
-                    {
-                        "matnr": "12000298",
-                        "maktx": "SEA 15SL_FL_ALL",
-                        "id": 4492643,
-                        "reportDataId": 28041
-                    },
-                    {
                         "matnr": "11000232",
                         "maktx": "SEAMAC 525SC_5L_IT",
-                        "id": 4492644,
+                        "id": 4544641,
                         "reportDataId": 28041
                     },
                     {
                         "matnr": "11002868",
                         "maktx": "SEAMAC PCT_5L_ES",
-                        "id": 4492645,
+                        "id": 4544642,
                         "reportDataId": 28041
                     },
                     {
-                        "matnr": "22024855",
-                        "maktx": "MSC_STRETCH_WRAP",
-                        "id": 4492646,
-                        "reportDataId": 28041
-                    },
-                    {
-                        "matnr": "11008269",
-                        "maktx": "SEAMAC PCT_2.5GAL_US_SYMA",
-                        "id": 4492647,
+                        "matnr": "11015448",
+                        "maktx": "SEAMAC PCT_5L_MA_AGRIMATCO",
+                        "id": 4544643,
                         "reportDataId": 28041
                     },
                     {
                         "matnr": "11015546",
                         "maktx": "SEAMAC PCT_5L_IT",
-                        "id": 4492648,
+                        "id": 4544644,
+                        "reportDataId": 28041
+                    },
+                    {
+                        "matnr": "12000298",
+                        "maktx": "SEA 15SL_FL_ALL",
+                        "id": 4544645,
+                        "reportDataId": 28041
+                    },
+                    {
+                        "matnr": "11008269",
+                        "maktx": "SEAMAC PCT_2.5GAL_US_SYMA",
+                        "id": 4544646,
+                        "reportDataId": 28041
+                    },
+                    {
+                        "matnr": "22024855",
+                        "maktx": "MSC_STRETCH_WRAP",
+                        "id": 4544647,
                         "reportDataId": 28041
                     },
                     {
                         "matnr": "11002830",
                         "maktx": "SEAMAC PCT_10L_GB",
-                        "id": 4492649,
+                        "id": 4544648,
                         "reportDataId": 28041
                     }
                 ],
@@ -263116,16 +262626,16 @@
                 "casnumber": "",
                 "commercialnames": "NAFABO (3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "03/09/2026",
+                "publishdate": "03/10/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "DE",
                 "validityareadescription": "Deutschland",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "03/09/2026",
+                "revisiondate": "03/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -263133,7 +262643,7 @@
                     {
                         "matnr": "11017061",
                         "maktx": "NAFABO_5L_DE",
-                        "id": 4544125,
+                        "id": 4544635,
                         "reportDataId": 28129
                     }
                 ],
@@ -263154,16 +262664,16 @@
                 "casnumber": "",
                 "commercialnames": "NAFABO (3PP BUY-SELL)",
                 "cmr": "",
-                "publishdate": "03/09/2026",
+                "publishdate": "03/10/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "DE",
                 "validityareadescription": "Germany",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "03/09/2026",
+                "revisiondate": "03/10/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -263171,7 +262681,7 @@
                     {
                         "matnr": "11017061",
                         "maktx": "NAFABO_5L_DE",
-                        "id": 4544126,
+                        "id": 4544636,
                         "reportDataId": 28130
                     }
                 ],
@@ -264076,6 +263586,274 @@
                     }
                 ],
                 "id": 28142
+            },
+            {
+                "pdfname": "50000939_SDS_DK_6N.PDF",
+                "specificationid": "50000939",
+                "path": "\\\\172.18.22.6\\sds_external/50000939_SDS_DK_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_DK",
+                "authorizedportal": "P3",
+                "productname": "Chlorsulfuron 75 ww% WG",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AVENIR 75PX (M)",
+                "casnumber": "",
+                "commercialnames": "CSU 75 WG (PASTE EXTRUDED)",
+                "cmr": "",
+                "publishdate": "03/10/2026",
+                "iupac": "",
+                "incode": "W4189",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "DK",
+                "validityareadescription": "Denmark",
+                "legacyspecid": "G-06.2",
+                "legacysdsid": "130000033378",
+                "revisiondate": "03/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11007577",
+                        "maktx": "GLEAN 75PX_50G_IT",
+                        "id": 4544603,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005116",
+                        "maktx": "GLEAN 75DF_100G_SA_AL JAMMAZ",
+                        "id": 4544604,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002089",
+                        "maktx": "GLEAN 75DF KG VAR WT PALLET BOX",
+                        "id": 4544605,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12001554",
+                        "maktx": "CHLORSULFURON XP KG BULK",
+                        "id": 4544606,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11014784",
+                        "maktx": "CHLORSULFURON 75_1LB_US",
+                        "id": 4544607,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005329",
+                        "maktx": "GLEAN 75DF_ 200G_NZ",
+                        "id": 4544608,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005726",
+                        "maktx": "GLEAN 75DF_100G_RO",
+                        "id": 4544609,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11000567",
+                        "maktx": "PPAC GLEAN XP_PP_US",
+                        "id": 4544610,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006483",
+                        "maktx": "GLEAN 75XP_500G_ZA",
+                        "id": 4544611,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006105",
+                        "maktx": "GLEAN PX75_100G_IL_GADOT",
+                        "id": 4544612,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12005472",
+                        "maktx": "CSU 750 WG_500KG_AU_UF_ALL",
+                        "id": 4544613,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005768",
+                        "maktx": "GLEAN 75WG_8G_PL",
+                        "id": 4544614,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11007486",
+                        "maktx": "GLEAN XP_100G_KE_ELGON",
+                        "id": 4544615,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002113",
+                        "maktx": "CSU 750 WG_600KG_AU",
+                        "id": 4544616,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006053",
+                        "maktx": "GLEAN 75WG_100G_PL",
+                        "id": 4544617,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11015245",
+                        "maktx": "TELAR_100G_AU",
+                        "id": 4544618,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12005364",
+                        "maktx": "CSU 750 WG_500KG_CA_UF_ALL",
+                        "id": 4544619,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005352",
+                        "maktx": "EAGLE 75WG_100G_BG_ABT",
+                        "id": 4544620,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006570",
+                        "maktx": "PPAC GLEAN XP_35LB_CA US",
+                        "id": 4544621,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002110",
+                        "maktx": "CSU 750 WG_50KG_UF_ALL",
+                        "id": 4544622,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002099",
+                        "maktx": "GLEAN 75DF 10X100 GR JAR NEUTRAL",
+                        "id": 4544623,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11005223",
+                        "maktx": "GLEAN 75DF_50G_IT",
+                        "id": 4544624,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002098",
+                        "maktx": "GLEAN 75DF_50KG_EEC",
+                        "id": 4544625,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12002085",
+                        "maktx": "GLEAN 75DF 10X50 GR JAR NEUTRAL",
+                        "id": 4544626,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006568",
+                        "maktx": "GLEAN 75PX_100G_SK",
+                        "id": 4544627,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "12005110",
+                        "maktx": "CSU 750WG_500KG_UF_ALL",
+                        "id": 4544628,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006201",
+                        "maktx": "GLEAN 75PX_100G_CZ",
+                        "id": 4544629,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11015238",
+                        "maktx": "TELAR_20G_AU",
+                        "id": 4544630,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006047",
+                        "maktx": "GLEAN XP_20OZ_US",
+                        "id": 4544631,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006516",
+                        "maktx": "AVENIR 75PX_50G_ES_SYNGENTA",
+                        "id": 4544632,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006202",
+                        "maktx": "GLEAN XP_540LB_CA US",
+                        "id": 4544633,
+                        "reportDataId": 28143
+                    },
+                    {
+                        "matnr": "11006653",
+                        "maktx": "GLEAN 75PX_100G_ES",
+                        "id": 4544634,
+                        "reportDataId": 28143
+                    }
+                ],
+                "id": 28143
+            },
+            {
+                "pdfname": "50000380_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50000380",
+                "path": "\\\\172.18.22.6\\sds_external/50000380_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "ARRIVO\u00ae 200 EC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "SCUD 200 LT",
+                "casnumber": "",
+                "commercialnames": "CYP 200 g/L EC (v2)",
+                "cmr": "",
+                "publishdate": "03/10/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO000378",
+                "legacysdsid": "",
+                "revisiondate": "03/10/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008628",
+                        "maktx": "ARRIVO 20 EC_200L_PA",
+                        "id": 4544639,
+                        "reportDataId": 28144
+                    },
+                    {
+                        "matnr": "12001867",
+                        "maktx": "CYP 200EC_?_?_?",
+                        "id": 4544640,
+                        "reportDataId": 28144
+                    }
+                ],
+                "id": 28144
             }
         ],
         "isExportToExcel": false
