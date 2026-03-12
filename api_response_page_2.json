@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6291,
+        "totalCount": 6293,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -205693,75 +205693,69 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11000190",
-                        "maktx": "RAPSIMS 10L_CZ",
-                        "id": 3513499,
-                        "reportDataId": 27711
-                    },
-                    {
-                        "matnr": "12000257",
-                        "maktx": "S 16-MN 9-ZN 7-B 5-N 8.2-MO 0.4SC_FL_ALL",
-                        "id": 3513500,
-                        "reportDataId": 27711
-                    },
-                    {
-                        "matnr": "11002237",
-                        "maktx": "MULTIMIX SC_5L_MA_SIPP",
-                        "id": 3513501,
-                        "reportDataId": 27711
-                    },
-                    {
-                        "matnr": "11000358",
-                        "maktx": "RAPSIM_10L_FR",
-                        "id": 3513502,
-                        "reportDataId": 27711
-                    },
-                    {
-                        "matnr": "11001969",
-                        "maktx": "ZOOM ZINC_1000L_HU",
-                        "id": 3513503,
-                        "reportDataId": 27711
-                    },
-                    {
-                        "matnr": "11002545",
-                        "maktx": "RAPSIMS_1L_CN",
-                        "id": 3513504,
+                        "matnr": "11002357",
+                        "maktx": "RAPSIMS_5L_GB",
+                        "id": 4544806,
                         "reportDataId": 27711
                     },
                     {
                         "matnr": "11015031",
                         "maktx": "HANLANHELECHANG_1000L_CN",
-                        "id": 3513505,
+                        "id": 4544807,
                         "reportDataId": 27711
                     },
                     {
-                        "matnr": "11002357",
-                        "maktx": "RAPSIMS_5L_GB",
-                        "id": 3513506,
+                        "matnr": "11001969",
+                        "maktx": "ZOOM ZINC_1000L_HU",
+                        "id": 4544808,
                         "reportDataId": 27711
                     },
                     {
-                        "matnr": "11001741",
-                        "maktx": "RAPSIMS RAPSAMS N_5L_LV LT",
-                        "id": 3513507,
+                        "matnr": "11000190",
+                        "maktx": "RAPSIMS 10L_CZ",
+                        "id": 4544809,
                         "reportDataId": 27711
                     },
                     {
                         "matnr": "11014354",
                         "maktx": "RAPSAMS_5L_LT_AGROKONCERNAS",
-                        "id": 3513508,
+                        "id": 4544810,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11001741",
+                        "maktx": "RAPSIMS RAPSAMS N_5L_LV LT",
+                        "id": 4544811,
                         "reportDataId": 27711
                     },
                     {
                         "matnr": "12005571",
                         "maktx": "S16+MN9+ZN7+B5+N8.2+MO0.4SC_1000L_FL_ALL",
-                        "id": 3513509,
+                        "id": 4544812,
                         "reportDataId": 27711
                     },
                     {
                         "matnr": "11016692",
                         "maktx": "HANLANHELECHANG_100ML_CN",
-                        "id": 3513510,
+                        "id": 4544813,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "12000257",
+                        "maktx": "S 16-MN 9-ZN 7-B 5-N 8.2-MO 0.4SC_FL_ALL",
+                        "id": 4544814,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11000358",
+                        "maktx": "RAPSIM_10L_FR",
+                        "id": 4544815,
+                        "reportDataId": 27711
+                    },
+                    {
+                        "matnr": "11002545",
+                        "maktx": "RAPSIMS_1L_CN",
+                        "id": 4544816,
                         "reportDataId": 27711
                     }
                 ],
@@ -263812,48 +263806,136 @@
                 "id": 28143
             },
             {
-                "pdfname": "50000380_EXT_SDS_MX_EN.PDF",
-                "specificationid": "50000380",
-                "path": "\\\\172.18.22.6\\sds_external/50000380_EXT_SDS_MX_EN.PDF",
+                "pdfname": "50001628_EXT_SDS_GT_EN.PDF",
+                "specificationid": "50001628",
+                "path": "\\\\172.18.22.6\\sds_external/50001628_EXT_SDS_GT_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_GT",
+                "authorizedportal": "P3",
+                "productname": "OREGON\u00ae 60 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ABAMECTIN 60 G/L SC",
+                "casnumber": "",
+                "commercialnames": "ABA 60 g/L SC",
+                "cmr": "",
+                "publishdate": "03/11/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "GT",
+                "validityareadescription": "Guatemala",
+                "legacyspecid": "FO001016",
+                "legacysdsid": "",
+                "revisiondate": "03/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005201",
+                        "maktx": "OREGON 60SC_1L_MX",
+                        "id": 4544661,
+                        "reportDataId": 28145
+                    },
+                    {
+                        "matnr": "11008681",
+                        "maktx": "OREGON 60SC_5L_MX",
+                        "id": 4544662,
+                        "reportDataId": 28145
+                    }
+                ],
+                "id": 28145
+            },
+            {
+                "pdfname": "50001628_EXT_SDS_HN_EN.PDF",
+                "specificationid": "50001628",
+                "path": "\\\\172.18.22.6\\sds_external/50001628_EXT_SDS_HN_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_HN",
+                "authorizedportal": "P3",
+                "productname": "OREGON\u00ae 60 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "ABAMECTIN 60 G/L SC",
+                "casnumber": "",
+                "commercialnames": "ABA 60 g/L SC",
+                "cmr": "",
+                "publishdate": "03/11/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "HN",
+                "validityareadescription": "Honduras",
+                "legacyspecid": "FO001016",
+                "legacysdsid": "",
+                "revisiondate": "03/11/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005201",
+                        "maktx": "OREGON 60SC_1L_MX",
+                        "id": 4544663,
+                        "reportDataId": 28146
+                    },
+                    {
+                        "matnr": "11008681",
+                        "maktx": "OREGON 60SC_5L_MX",
+                        "id": 4544664,
+                        "reportDataId": 28146
+                    }
+                ],
+                "id": 28146
+            },
+            {
+                "pdfname": "50001628_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50001628",
+                "path": "\\\\172.18.22.6\\sds_external/50001628_EXT_SDS_MX_EN.PDF",
                 "reptype": "MSDS",
                 "language": "EN",
                 "genvariant": "EXT_SDS_MX",
                 "authorizedportal": "P3",
-                "productname": "ARRIVO\u00ae 200 EC",
+                "productname": "OREGON\u00ae 60 SC",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "SCUD 200 LT",
+                "tradename": "ABAMECTIN 60 G/L SC",
                 "casnumber": "",
-                "commercialnames": "CYP 200 g/L EC (v2)",
+                "commercialnames": "ABA 60 g/L SC",
                 "cmr": "",
-                "publishdate": "03/10/2026",
+                "publishdate": "03/11/2026",
                 "iupac": "",
                 "incode": "",
                 "ehsversionno": "3.0",
                 "fileformat": "PDF",
                 "validityarea": "MX",
                 "validityareadescription": "Mexico",
-                "legacyspecid": "FO000378",
+                "legacyspecid": "FO001016",
                 "legacysdsid": "",
-                "revisiondate": "03/10/2026",
+                "revisiondate": "03/11/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008628",
-                        "maktx": "ARRIVO 20 EC_200L_PA",
-                        "id": 4544639,
-                        "reportDataId": 28144
+                        "matnr": "11005201",
+                        "maktx": "OREGON 60SC_1L_MX",
+                        "id": 4544669,
+                        "reportDataId": 28147
                     },
                     {
-                        "matnr": "12001867",
-                        "maktx": "CYP 200EC_?_?_?",
-                        "id": 4544640,
-                        "reportDataId": 28144
+                        "matnr": "11008681",
+                        "maktx": "OREGON 60SC_5L_MX",
+                        "id": 4544670,
+                        "reportDataId": 28147
                     }
                 ],
-                "id": 28144
+                "id": 28147
             }
         ],
         "isExportToExcel": false
