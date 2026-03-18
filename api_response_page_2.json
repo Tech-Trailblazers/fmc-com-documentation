@@ -58,260 +58,6 @@
         },
         "items": [
             {
-                "pdfname": "50002995_EXT_SDS_BE_FR.PDF",
-                "specificationid": "50002995",
-                "path": "\\\\172.18.22.6\\sds_external/50002995_EXT_SDS_BE_FR.PDF",
-                "reptype": "MSDS",
-                "language": "FR",
-                "genvariant": "EXT_SDS_BE",
-                "authorizedportal": "P3",
-                "productname": "OKINA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE) (CHILD)",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BE",
-                "validityareadescription": "Belgium",
-                "legacyspecid": "Q-1945",
-                "legacysdsid": "130000145292",
-                "revisiondate": "10/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26815
-            },
-            {
-                "pdfname": "50002995_EXT_SDS_BE_NL.PDF",
-                "specificationid": "50002995",
-                "path": "\\\\172.18.22.6\\sds_external/50002995_EXT_SDS_BE_NL.PDF",
-                "reptype": "MSDS",
-                "language": "NL",
-                "genvariant": "EXT_SDS_BE",
-                "authorizedportal": "P3",
-                "productname": "OKINA\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "CZP 200 g/L SC (CITRIC ACID, ACTICIDE) (CHILD)",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "HGW86",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BE",
-                "validityareadescription": "Belgium",
-                "legacyspecid": "Q-1945",
-                "legacysdsid": "130000145292",
-                "revisiondate": "10/07/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [],
-                "id": 26816
-            },
-            {
-                "pdfname": "50003014_EXT_SDS_BR_EN.PDF",
-                "specificationid": "50003014",
-                "path": "\\\\172.18.22.6\\sds_external/50003014_EXT_SDS_BR_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "EVEDAR\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "BI2003/16",
-                "casnumber": "",
-                "commercialnames": "EVEDAR (3PP BUY-SELL)",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016112",
-                        "maktx": "EVEDAR_5KG_BR",
-                        "id": 2216972,
-                        "reportDataId": 26817
-                    },
-                    {
-                        "matnr": "11016111",
-                        "maktx": "EVEDAR_1KG_BR",
-                        "id": 2216973,
-                        "reportDataId": 26817
-                    }
-                ],
-                "id": 26817
-            },
-            {
-                "pdfname": "50003014_EXT_SDS_BR_PT.PDF",
-                "specificationid": "50003014",
-                "path": "\\\\172.18.22.6\\sds_external/50003014_EXT_SDS_BR_PT.PDF",
-                "reptype": "MSDS",
-                "language": "PT",
-                "genvariant": "EXT_SDS_BR",
-                "authorizedportal": "P3",
-                "productname": "EVEDAR\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "BI2003/16",
-                "casnumber": "",
-                "commercialnames": "EVEDAR (3PP BUY-SELL)",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "BR",
-                "validityareadescription": "Brazil",
-                "legacyspecid": "",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11016112",
-                        "maktx": "EVEDAR_5KG_BR",
-                        "id": 2216974,
-                        "reportDataId": 26818
-                    },
-                    {
-                        "matnr": "11016111",
-                        "maktx": "EVEDAR_1KG_BR",
-                        "id": 2216975,
-                        "reportDataId": 26818
-                    }
-                ],
-                "id": 26818
-            },
-            {
-                "pdfname": "50001287_SDS_SE_SV.PDF",
-                "specificationid": "50001287",
-                "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_SE_SV.PDF",
-                "reptype": "MSDS",
-                "language": "SV",
-                "genvariant": "SDS_SE",
-                "authorizedportal": "P3",
-                "productname": "GLYPHOSATE 360 g/L SL",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CLEAR",
-                "casnumber": "",
-                "commercialnames": "GLY 360 g/L SL",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "B2856",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "SE",
-                "validityareadescription": "Sweden",
-                "legacyspecid": "FO002204",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000108",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2216976,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12003023",
-                        "maktx": "GLY 360SL_SC_GOW",
-                        "id": 2216977,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12001945",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2216978,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12002253",
-                        "maktx": "GLY 360SL_1000L_JP_RO_RO",
-                        "id": 2216979,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "11005777",
-                        "maktx": "GLY 360SL_200L",
-                        "id": 2216980,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "11001884",
-                        "maktx": "GLYFOS 48SL_5L_TR_AGRI",
-                        "id": 2216981,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12000487",
-                        "maktx": "GLY 360SL_1000L_RO_RO",
-                        "id": 2216982,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "11003079",
-                        "maktx": "GLYFOS 480SL_20L_TR",
-                        "id": 2216983,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "11001988",
-                        "maktx": "GLYFO_1L_AT",
-                        "id": 2216984,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "11002115",
-                        "maktx": "GLYFOS 48SL_1L_TR_AGRI",
-                        "id": 2216985,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12000080",
-                        "maktx": "GLYFOS ULTRA 200L??",
-                        "id": 2216986,
-                        "reportDataId": 26819
-                    },
-                    {
-                        "matnr": "12000287",
-                        "maktx": "GLY 360SL_RO_RO",
-                        "id": 2216987,
-                        "reportDataId": 26819
-                    }
-                ],
-                "id": 26819
-            },
-            {
                 "pdfname": "50001287_SDS_DK_6N.PDF",
                 "specificationid": "50001287",
                 "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_DK_6N.PDF",
@@ -97494,94 +97240,94 @@
                 "productname": "EXPRESS\u00ae SX\u00ae",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "AFFINITY 2 50SG (M)",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "TBM 50 SG (CHILD)",
                 "cmr": "",
-                "publishdate": "03/31/2025",
+                "publishdate": "03/17/2026",
                 "iupac": "",
                 "incode": "L5300",
-                "ehsversionno": "1.0",
+                "ehsversionno": "1.1",
                 "fileformat": "PDF",
                 "validityarea": "ES",
                 "validityareadescription": "Spain",
                 "legacyspecid": "H-15.1",
                 "legacysdsid": "130000115153",
-                "revisiondate": "03/31/2025",
+                "revisiondate": "03/17/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006072",
-                        "maktx": "EXPRESS SX_150G_NO",
-                        "id": 2745907,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11007662",
-                        "maktx": "EXPRESS 50SX 10X60G JAR RS-CORTEVA",
-                        "id": 2745908,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11009012",
-                        "maktx": "EXPRESS_100G_IT",
-                        "id": 2745909,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11007488",
-                        "maktx": "EXPRESS 50SX 10X60G JAR RS-SYN",
-                        "id": 2745910,
-                        "reportDataId": 27143
-                    },
-                    {
                         "matnr": "11009213",
                         "maktx": "EXPRESS 50SX_500G_FI",
-                        "id": 2745911,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11009668",
-                        "maktx": "EXPRESS_100G_IT_CORTEVA",
-                        "id": 2745912,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11006238",
-                        "maktx": "EXPRESS 50 SX_100G",
-                        "id": 2745913,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11006107",
-                        "maktx": "EXPRESS 50SX_150G_ES",
-                        "id": 2745914,
-                        "reportDataId": 27143
-                    },
-                    {
-                        "matnr": "11013111",
-                        "maktx": "EXPRESS SX_150G_ES_CORTEVA",
-                        "id": 2745915,
+                        "id": 4545985,
                         "reportDataId": 27143
                     },
                     {
                         "matnr": "11006158",
                         "maktx": "EXPRESS 50SX_150G_FI",
-                        "id": 2745916,
+                        "id": 4545986,
                         "reportDataId": 27143
                     },
                     {
-                        "matnr": "11005896",
-                        "maktx": "EXPRESS 50SX_150G_SE",
-                        "id": 2745917,
+                        "matnr": "11006107",
+                        "maktx": "EXPRESS 50SX_150G_ES",
+                        "id": 4545987,
                         "reportDataId": 27143
                     },
                     {
                         "matnr": "11009658",
                         "maktx": "EXPRESS 10X100G JAR IT-SYN",
-                        "id": 2745918,
+                        "id": 4545988,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11009012",
+                        "maktx": "EXPRESS_100G_IT",
+                        "id": 4545989,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11006238",
+                        "maktx": "EXPRESS 50 SX_100G",
+                        "id": 4545990,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11009668",
+                        "maktx": "EXPRESS_100G_IT_CORTEVA",
+                        "id": 4545991,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11007662",
+                        "maktx": "EXPRESS 50SX 10X60G JAR RS-CORTEVA",
+                        "id": 4545992,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11005896",
+                        "maktx": "EXPRESS 50SX_150G_SE",
+                        "id": 4545993,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11013111",
+                        "maktx": "EXPRESS SX_150G_ES_CORTEVA",
+                        "id": 4545994,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11007488",
+                        "maktx": "EXPRESS 50SX 10X60G JAR RS-SYN",
+                        "id": 4545995,
+                        "reportDataId": 27143
+                    },
+                    {
+                        "matnr": "11006072",
+                        "maktx": "EXPRESS SX_150G_NO",
+                        "id": 4545996,
                         "reportDataId": 27143
                     }
                 ],
@@ -136387,7 +136133,7 @@
                 "productname": "TVE29-R 400 SC herbicide",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "TETFLUPYROLIMET 400 g/L SC",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "TTF 400 g/L SC",
                 "cmr": "",
@@ -136408,85 +136154,97 @@
                     {
                         "matnr": "11016550",
                         "maktx": "KEENALI_125ML_PH",
-                        "id": 3262299,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "12006263",
-                        "maktx": "TTF 400SC_WY_MA",
-                        "id": 3262300,
+                        "id": 4545524,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "11016762",
                         "maktx": "KEENALI_1L_CO",
-                        "id": 3262301,
+                        "id": 4545525,
                         "reportDataId": 27356
                     },
                     {
-                        "matnr": "12006676",
-                        "maktx": "TTF 400SC_SARA_ALL",
-                        "id": 3262302,
+                        "matnr": "12006263",
+                        "maktx": "TTF 400SC_WY_MA",
+                        "id": 4545526,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "11016769",
                         "maktx": "KEENALI_1GAL_US",
-                        "id": 3262303,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "12006500",
-                        "maktx": "TTF 400SC_200L_ID_WY_MA",
-                        "id": 3262304,
+                        "id": 4545527,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "11016774",
                         "maktx": "KEENALI_300ML_IN",
-                        "id": 3262305,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "11016738",
-                        "maktx": "KEENALI_100ML_IN",
-                        "id": 3262306,
+                        "id": 4545528,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "12006391",
                         "maktx": "TTF 400SC_200L_WY_MA",
-                        "id": 3262307,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "12006392",
-                        "maktx": "TTF 400SC_950L_WY_MA",
-                        "id": 3262308,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "11016592",
-                        "maktx": "KEENALI_200L_PE",
-                        "id": 3262309,
-                        "reportDataId": 27356
-                    },
-                    {
-                        "matnr": "11016560",
-                        "maktx": "KEENALI_250ML_PH",
-                        "id": 3262310,
+                        "id": 4545529,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "12006475",
                         "maktx": "TTF 400SC_950L_ID_WY_MA",
-                        "id": 3262311,
+                        "id": 4545530,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "11016738",
+                        "maktx": "KEENALI_100ML_IN",
+                        "id": 4545531,
                         "reportDataId": 27356
                     },
                     {
                         "matnr": "12006441",
                         "maktx": "TTF 400SC_200L_CO_WY_MA",
-                        "id": 3262312,
+                        "id": 4545532,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "11016592",
+                        "maktx": "KEENALI_200L_PE",
+                        "id": 4545533,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "12006392",
+                        "maktx": "TTF 400SC_950L_WY_MA",
+                        "id": 4545534,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "12006500",
+                        "maktx": "TTF 400SC_200L_ID_WY_MA",
+                        "id": 4545535,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "11016831",
+                        "maktx": "KEENALI_1L_EC",
+                        "id": 4545536,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "11017228",
+                        "maktx": "KEENALI_200L_EC",
+                        "id": 4545537,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "11016560",
+                        "maktx": "KEENALI_250ML_PH",
+                        "id": 4545538,
+                        "reportDataId": 27356
+                    },
+                    {
+                        "matnr": "12006676",
+                        "maktx": "TTF 400SC_SARA_ALL",
+                        "id": 4545539,
                         "reportDataId": 27356
                     }
                 ],
@@ -136503,7 +136261,7 @@
                 "productname": "TVE29-R 400 SC herbicide",
                 "chemicalname": "",
                 "commonname": "",
-                "tradename": "TETFLUPYROLIMET 400 g/L SC",
+                "tradename": "",
                 "casnumber": "",
                 "commercialnames": "TTF 400 g/L SC",
                 "cmr": "",
@@ -136524,85 +136282,97 @@
                     {
                         "matnr": "11016550",
                         "maktx": "KEENALI_125ML_PH",
-                        "id": 3262313,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "12006263",
-                        "maktx": "TTF 400SC_WY_MA",
-                        "id": 3262314,
+                        "id": 4545540,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "11016762",
                         "maktx": "KEENALI_1L_CO",
-                        "id": 3262315,
+                        "id": 4545541,
                         "reportDataId": 27357
                     },
                     {
-                        "matnr": "12006676",
-                        "maktx": "TTF 400SC_SARA_ALL",
-                        "id": 3262316,
+                        "matnr": "12006263",
+                        "maktx": "TTF 400SC_WY_MA",
+                        "id": 4545542,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "11016769",
                         "maktx": "KEENALI_1GAL_US",
-                        "id": 3262317,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "12006500",
-                        "maktx": "TTF 400SC_200L_ID_WY_MA",
-                        "id": 3262318,
+                        "id": 4545543,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "11016774",
                         "maktx": "KEENALI_300ML_IN",
-                        "id": 3262319,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "11016738",
-                        "maktx": "KEENALI_100ML_IN",
-                        "id": 3262320,
+                        "id": 4545544,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "12006391",
                         "maktx": "TTF 400SC_200L_WY_MA",
-                        "id": 3262321,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "12006392",
-                        "maktx": "TTF 400SC_950L_WY_MA",
-                        "id": 3262322,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "11016592",
-                        "maktx": "KEENALI_200L_PE",
-                        "id": 3262323,
-                        "reportDataId": 27357
-                    },
-                    {
-                        "matnr": "11016560",
-                        "maktx": "KEENALI_250ML_PH",
-                        "id": 3262324,
+                        "id": 4545545,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "12006475",
                         "maktx": "TTF 400SC_950L_ID_WY_MA",
-                        "id": 3262325,
+                        "id": 4545546,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "11016738",
+                        "maktx": "KEENALI_100ML_IN",
+                        "id": 4545547,
                         "reportDataId": 27357
                     },
                     {
                         "matnr": "12006441",
                         "maktx": "TTF 400SC_200L_CO_WY_MA",
-                        "id": 3262326,
+                        "id": 4545548,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "11016592",
+                        "maktx": "KEENALI_200L_PE",
+                        "id": 4545549,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "12006392",
+                        "maktx": "TTF 400SC_950L_WY_MA",
+                        "id": 4545550,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "12006500",
+                        "maktx": "TTF 400SC_200L_ID_WY_MA",
+                        "id": 4545551,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "11016831",
+                        "maktx": "KEENALI_1L_EC",
+                        "id": 4545552,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "11017228",
+                        "maktx": "KEENALI_200L_EC",
+                        "id": 4545553,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "11016560",
+                        "maktx": "KEENALI_250ML_PH",
+                        "id": 4545554,
+                        "reportDataId": 27357
+                    },
+                    {
+                        "matnr": "12006676",
+                        "maktx": "TTF 400SC_SARA_ALL",
+                        "id": 4545555,
                         "reportDataId": 27357
                     }
                 ],
@@ -145547,21 +145317,27 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11007874",
-                        "maktx": "PROSTORE 420EC_5L_UA",
-                        "id": 3125521,
+                        "matnr": "11008250",
+                        "maktx": "PROSTORE EC_5L_BY",
+                        "id": 4545793,
                         "reportDataId": 27417
                     },
                     {
                         "matnr": "12001466",
                         "maktx": "BIF 20-FYF 400EC_KWIZ_JL",
-                        "id": 3125522,
+                        "id": 4545794,
                         "reportDataId": 27417
                     },
                     {
-                        "matnr": "11008250",
-                        "maktx": "PROSTORE EC_5L_BY",
-                        "id": 3125523,
+                        "matnr": "11007874",
+                        "maktx": "PROSTORE 420EC_5L_UA",
+                        "id": 4545795,
+                        "reportDataId": 27417
+                    },
+                    {
+                        "matnr": "12006873",
+                        "maktx": "BIF 20 + FYF 400EC_1000L_KWIZ_JL",
+                        "id": 4545796,
                         "reportDataId": 27417
                     }
                 ],
@@ -238810,39 +238586,45 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12001047",
-                        "maktx": "BIF 250EC_WG_YN JL ACCN",
-                        "id": 4325828,
-                        "reportDataId": 27938
-                    },
-                    {
-                        "matnr": "11003831",
-                        "maktx": "TALSTAR 250EC_1L_AU",
-                        "id": 4325829,
-                        "reportDataId": 27938
-                    },
-                    {
-                        "matnr": "11003872",
-                        "maktx": "TALSTAR 250EC_110L_AU",
-                        "id": 4325830,
-                        "reportDataId": 27938
-                    },
-                    {
                         "matnr": "11003871",
                         "maktx": "RELYON STARLET 250EC_ 20L_ AU",
-                        "id": 4325831,
+                        "id": 4545786,
                         "reportDataId": 27938
                     },
                     {
                         "matnr": "11003842",
                         "maktx": "TALSTAR 250EC_20L_AU",
-                        "id": 4325832,
+                        "id": 4545787,
                         "reportDataId": 27938
                     },
                     {
                         "matnr": "11003830",
                         "maktx": "TALSTAR 250EC_5L _AU",
-                        "id": 4325833,
+                        "id": 4545788,
+                        "reportDataId": 27938
+                    },
+                    {
+                        "matnr": "12001047",
+                        "maktx": "BIF 250EC_WG_YN JL ACCN",
+                        "id": 4545789,
+                        "reportDataId": 27938
+                    },
+                    {
+                        "matnr": "12006862",
+                        "maktx": "BIF 250WG_GOWA_YN",
+                        "id": 4545790,
+                        "reportDataId": 27938
+                    },
+                    {
+                        "matnr": "11003831",
+                        "maktx": "TALSTAR 250EC_1L_AU",
+                        "id": 4545791,
+                        "reportDataId": 27938
+                    },
+                    {
+                        "matnr": "11003872",
+                        "maktx": "TALSTAR 250EC_110L_AU",
+                        "id": 4545792,
                         "reportDataId": 27938
                     }
                 ],
@@ -244560,93 +244342,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016774",
-                        "maktx": "KEENALI_300ML_IN",
-                        "id": 4420992,
+                        "matnr": "12006263",
+                        "maktx": "TTF 400SC_WY_MA",
+                        "id": 4545572,
                         "reportDataId": 27979
                     },
                     {
                         "matnr": "11016550",
                         "maktx": "KEENALI_125ML_PH",
-                        "id": 4420993,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "11016592",
-                        "maktx": "KEENALI_200L_PE",
-                        "id": 4420994,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "11016831",
-                        "maktx": "KEENALI_1L_EC",
-                        "id": 4420995,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "12006676",
-                        "maktx": "TTF 400SC_SARA_ALL",
-                        "id": 4420996,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "11016769",
-                        "maktx": "KEENALI_1GAL_US",
-                        "id": 4420997,
+                        "id": 4545573,
                         "reportDataId": 27979
                     },
                     {
                         "matnr": "11016560",
                         "maktx": "KEENALI_250ML_PH",
-                        "id": 4420998,
+                        "id": 4545574,
                         "reportDataId": 27979
                     },
                     {
-                        "matnr": "12006392",
-                        "maktx": "TTF 400SC_950L_WY_MA",
-                        "id": 4420999,
+                        "matnr": "11017228",
+                        "maktx": "KEENALI_200L_EC",
+                        "id": 4545575,
                         "reportDataId": 27979
                     },
                     {
-                        "matnr": "11016738",
-                        "maktx": "KEENALI_100ML_IN",
-                        "id": 4421000,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "12006263",
-                        "maktx": "TTF 400SC_WY_MA",
-                        "id": 4421001,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "12006391",
-                        "maktx": "TTF 400SC_200L_WY_MA",
-                        "id": 4421002,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "12006441",
-                        "maktx": "TTF 400SC_200L_CO_WY_MA",
-                        "id": 4421003,
-                        "reportDataId": 27979
-                    },
-                    {
-                        "matnr": "11016762",
-                        "maktx": "KEENALI_1L_CO",
-                        "id": 4421004,
+                        "matnr": "11016831",
+                        "maktx": "KEENALI_1L_EC",
+                        "id": 4545576,
                         "reportDataId": 27979
                     },
                     {
                         "matnr": "12006500",
                         "maktx": "TTF 400SC_200L_ID_WY_MA",
-                        "id": 4421005,
+                        "id": 4545577,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "12006392",
+                        "maktx": "TTF 400SC_950L_WY_MA",
+                        "id": 4545578,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "11016592",
+                        "maktx": "KEENALI_200L_PE",
+                        "id": 4545579,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "12006676",
+                        "maktx": "TTF 400SC_SARA_ALL",
+                        "id": 4545580,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "12006441",
+                        "maktx": "TTF 400SC_200L_CO_WY_MA",
+                        "id": 4545581,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "11016738",
+                        "maktx": "KEENALI_100ML_IN",
+                        "id": 4545582,
                         "reportDataId": 27979
                     },
                     {
                         "matnr": "12006475",
                         "maktx": "TTF 400SC_950L_ID_WY_MA",
-                        "id": 4421006,
+                        "id": 4545583,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "12006391",
+                        "maktx": "TTF 400SC_200L_WY_MA",
+                        "id": 4545584,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "11016774",
+                        "maktx": "KEENALI_300ML_IN",
+                        "id": 4545585,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "11016769",
+                        "maktx": "KEENALI_1GAL_US",
+                        "id": 4545586,
+                        "reportDataId": 27979
+                    },
+                    {
+                        "matnr": "11016762",
+                        "maktx": "KEENALI_1L_CO",
+                        "id": 4545587,
                         "reportDataId": 27979
                     }
                 ],
@@ -244682,93 +244470,99 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11016774",
-                        "maktx": "KEENALI_300ML_IN",
-                        "id": 4421007,
+                        "matnr": "12006263",
+                        "maktx": "TTF 400SC_WY_MA",
+                        "id": 4545556,
                         "reportDataId": 27980
                     },
                     {
                         "matnr": "11016550",
                         "maktx": "KEENALI_125ML_PH",
-                        "id": 4421008,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "11016592",
-                        "maktx": "KEENALI_200L_PE",
-                        "id": 4421009,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "11016831",
-                        "maktx": "KEENALI_1L_EC",
-                        "id": 4421010,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "12006676",
-                        "maktx": "TTF 400SC_SARA_ALL",
-                        "id": 4421011,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "11016769",
-                        "maktx": "KEENALI_1GAL_US",
-                        "id": 4421012,
+                        "id": 4545557,
                         "reportDataId": 27980
                     },
                     {
                         "matnr": "11016560",
                         "maktx": "KEENALI_250ML_PH",
-                        "id": 4421013,
+                        "id": 4545558,
                         "reportDataId": 27980
                     },
                     {
-                        "matnr": "12006392",
-                        "maktx": "TTF 400SC_950L_WY_MA",
-                        "id": 4421014,
+                        "matnr": "11017228",
+                        "maktx": "KEENALI_200L_EC",
+                        "id": 4545559,
                         "reportDataId": 27980
                     },
                     {
-                        "matnr": "11016738",
-                        "maktx": "KEENALI_100ML_IN",
-                        "id": 4421015,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "12006263",
-                        "maktx": "TTF 400SC_WY_MA",
-                        "id": 4421016,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "12006391",
-                        "maktx": "TTF 400SC_200L_WY_MA",
-                        "id": 4421017,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "12006441",
-                        "maktx": "TTF 400SC_200L_CO_WY_MA",
-                        "id": 4421018,
-                        "reportDataId": 27980
-                    },
-                    {
-                        "matnr": "11016762",
-                        "maktx": "KEENALI_1L_CO",
-                        "id": 4421019,
+                        "matnr": "11016831",
+                        "maktx": "KEENALI_1L_EC",
+                        "id": 4545560,
                         "reportDataId": 27980
                     },
                     {
                         "matnr": "12006500",
                         "maktx": "TTF 400SC_200L_ID_WY_MA",
-                        "id": 4421020,
+                        "id": 4545561,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "12006392",
+                        "maktx": "TTF 400SC_950L_WY_MA",
+                        "id": 4545562,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "11016592",
+                        "maktx": "KEENALI_200L_PE",
+                        "id": 4545563,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "12006676",
+                        "maktx": "TTF 400SC_SARA_ALL",
+                        "id": 4545564,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "12006441",
+                        "maktx": "TTF 400SC_200L_CO_WY_MA",
+                        "id": 4545565,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "11016738",
+                        "maktx": "KEENALI_100ML_IN",
+                        "id": 4545566,
                         "reportDataId": 27980
                     },
                     {
                         "matnr": "12006475",
                         "maktx": "TTF 400SC_950L_ID_WY_MA",
-                        "id": 4421021,
+                        "id": 4545567,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "12006391",
+                        "maktx": "TTF 400SC_200L_WY_MA",
+                        "id": 4545568,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "11016774",
+                        "maktx": "KEENALI_300ML_IN",
+                        "id": 4545569,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "11016769",
+                        "maktx": "KEENALI_1GAL_US",
+                        "id": 4545570,
+                        "reportDataId": 27980
+                    },
+                    {
+                        "matnr": "11016762",
+                        "maktx": "KEENALI_1L_CO",
+                        "id": 4545571,
                         "reportDataId": 27980
                     }
                 ],
@@ -255593,69 +255387,75 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12006255",
-                        "maktx": "ABA 18EW_190L_TW_RO_ALL",
-                        "id": 4514417,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11014771",
-                        "maktx": "ABAMECTIN_500ML_TW",
-                        "id": 4514418,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11002374",
-                        "maktx": "IMERA 18EW_200L_TR_AGRI",
-                        "id": 4514419,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11004751",
-                        "maktx": "IMERA 18EW_250ML_TR",
-                        "id": 4514420,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11002163",
-                        "maktx": "ABAMECTIN 18EW_200L_MUL",
-                        "id": 4514421,
-                        "reportDataId": 28087
-                    },
-                    {
                         "matnr": "12000263",
                         "maktx": "ABA 18EW_MUL_RO_ALL",
-                        "id": 4514422,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11015471",
-                        "maktx": "ZORO_200L_MA_AMAROC",
-                        "id": 4514423,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11004696",
-                        "maktx": "IMERA 18EW_1L_TR",
-                        "id": 4514424,
-                        "reportDataId": 28087
-                    },
-                    {
-                        "matnr": "11014801",
-                        "maktx": "ABAMECTIN_1L_TW",
-                        "id": 4514425,
+                        "id": 4545436,
                         "reportDataId": 28087
                     },
                     {
                         "matnr": "11015845",
                         "maktx": "ZORO_190L_MA_AMAROC",
-                        "id": 4514426,
+                        "id": 4545437,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "12006255",
+                        "maktx": "ABA 18EW_190L_TW_RO_ALL",
+                        "id": 4545438,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11002374",
+                        "maktx": "IMERA 18EW_200L_TR_AGRI",
+                        "id": 4545439,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11002163",
+                        "maktx": "ABAMECTIN 18EW_200L_MUL",
+                        "id": 4545440,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11004751",
+                        "maktx": "IMERA 18EW_250ML_TR",
+                        "id": 4545441,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "12006860",
+                        "maktx": "ABA 18EW OIL PHASE_RO_RO",
+                        "id": 4545442,
                         "reportDataId": 28087
                     },
                     {
                         "matnr": "12000443",
                         "maktx": "ABA 18EW_1000L_TW TR_RO_ALL",
-                        "id": 4514427,
+                        "id": 4545443,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11004696",
+                        "maktx": "IMERA 18EW_1L_TR",
+                        "id": 4545444,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11014801",
+                        "maktx": "ABAMECTIN_1L_TW",
+                        "id": 4545445,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11014771",
+                        "maktx": "ABAMECTIN_500ML_TW",
+                        "id": 4545446,
+                        "reportDataId": 28087
+                    },
+                    {
+                        "matnr": "11015471",
+                        "maktx": "ZORO_200L_MA_AMAROC",
+                        "id": 4545447,
                         "reportDataId": 28087
                     }
                 ],
@@ -255691,69 +255491,75 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "12006255",
-                        "maktx": "ABA 18EW_190L_TW_RO_ALL",
-                        "id": 4514428,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11014771",
-                        "maktx": "ABAMECTIN_500ML_TW",
-                        "id": 4514429,
-                        "reportDataId": 28088
-                    },
-                    {
                         "matnr": "11002374",
                         "maktx": "IMERA 18EW_200L_TR_AGRI",
-                        "id": 4514430,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11004751",
-                        "maktx": "IMERA 18EW_250ML_TR",
-                        "id": 4514431,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11002163",
-                        "maktx": "ABAMECTIN 18EW_200L_MUL",
-                        "id": 4514432,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "12000263",
-                        "maktx": "ABA 18EW_MUL_RO_ALL",
-                        "id": 4514433,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11015471",
-                        "maktx": "ZORO_200L_MA_AMAROC",
-                        "id": 4514434,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11004696",
-                        "maktx": "IMERA 18EW_1L_TR",
-                        "id": 4514435,
-                        "reportDataId": 28088
-                    },
-                    {
-                        "matnr": "11014801",
-                        "maktx": "ABAMECTIN_1L_TW",
-                        "id": 4514436,
+                        "id": 4545448,
                         "reportDataId": 28088
                     },
                     {
                         "matnr": "11015845",
                         "maktx": "ZORO_190L_MA_AMAROC",
-                        "id": 4514437,
+                        "id": 4545449,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "12006255",
+                        "maktx": "ABA 18EW_190L_TW_RO_ALL",
+                        "id": 4545450,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "12000263",
+                        "maktx": "ABA 18EW_MUL_RO_ALL",
+                        "id": 4545451,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11002163",
+                        "maktx": "ABAMECTIN 18EW_200L_MUL",
+                        "id": 4545452,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11004751",
+                        "maktx": "IMERA 18EW_250ML_TR",
+                        "id": 4545453,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "12006860",
+                        "maktx": "ABA 18EW OIL PHASE_RO_RO",
+                        "id": 4545454,
                         "reportDataId": 28088
                     },
                     {
                         "matnr": "12000443",
                         "maktx": "ABA 18EW_1000L_TW TR_RO_ALL",
-                        "id": 4514438,
+                        "id": 4545455,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11004696",
+                        "maktx": "IMERA 18EW_1L_TR",
+                        "id": 4545456,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11014801",
+                        "maktx": "ABAMECTIN_1L_TW",
+                        "id": 4545457,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11014771",
+                        "maktx": "ABAMECTIN_500ML_TW",
+                        "id": 4545458,
+                        "reportDataId": 28088
+                    },
+                    {
+                        "matnr": "11015471",
+                        "maktx": "ZORO_200L_MA_AMAROC",
+                        "id": 4545459,
                         "reportDataId": 28088
                     }
                 ],
@@ -265955,6 +265761,538 @@
                     }
                 ],
                 "id": 28160
+            },
+            {
+                "pdfname": "50001298_SDS_BE_FR.PDF",
+                "specificationid": "50001298",
+                "path": "\\\\172.18.22.6\\sds_external/50001298_SDS_BE_FR.PDF",
+                "reptype": "MSDS",
+                "language": "FR",
+                "genvariant": "SDS_BE",
+                "authorizedportal": "P3",
+                "productname": "BORDER\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MES 100 g/L SC",
+                "cmr": "",
+                "publishdate": "03/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BE",
+                "validityareadescription": "Belgium",
+                "legacyspecid": "FO004104",
+                "legacysdsid": "",
+                "revisiondate": "03/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009046",
+                        "maktx": "BORDER 100SC_1L_GR",
+                        "id": 4545588,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002377",
+                        "maktx": "BORDER_5L_BE",
+                        "id": 4545589,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11009442",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545590,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11009315",
+                        "maktx": "BORDER 10_1L_ES",
+                        "id": 4545591,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11015708",
+                        "maktx": "BORDER_5L_SK",
+                        "id": 4545592,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11001652",
+                        "maktx": "CALLISTO_5L_DE",
+                        "id": 4545593,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11009036",
+                        "maktx": "BORDER_5L_AT",
+                        "id": 4545594,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "12000450",
+                        "maktx": "MES 100SC_ST_SYT",
+                        "id": 4545595,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11015510",
+                        "maktx": "BORDER_5L_RO",
+                        "id": 4545596,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11013927",
+                        "maktx": "BORDER_1L_BE LU",
+                        "id": 4545597,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002376",
+                        "maktx": "BORDER_5L_FR",
+                        "id": 4545598,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002572",
+                        "maktx": "BORDER_10L_CZ",
+                        "id": 4545599,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002232",
+                        "maktx": "BORDER 100SC_5L_SE",
+                        "id": 4545600,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11005414",
+                        "maktx": "BORDER_5L_PT_CADUBAL",
+                        "id": 4545601,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11014066",
+                        "maktx": "BORDER 480SC_1L_BG",
+                        "id": 4545602,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002546",
+                        "maktx": "BORDER 10_5L_ES",
+                        "id": 4545603,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11002171",
+                        "maktx": "BORDER_1L_IT",
+                        "id": 4545604,
+                        "reportDataId": 28161
+                    },
+                    {
+                        "matnr": "11009072",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545605,
+                        "reportDataId": 28161
+                    }
+                ],
+                "id": 28161
+            },
+            {
+                "pdfname": "50001298_SDS_BE_NL.PDF",
+                "specificationid": "50001298",
+                "path": "\\\\172.18.22.6\\sds_external/50001298_SDS_BE_NL.PDF",
+                "reptype": "MSDS",
+                "language": "NL",
+                "genvariant": "SDS_BE",
+                "authorizedportal": "P3",
+                "productname": "BORDER\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MES 100 g/L SC",
+                "cmr": "",
+                "publishdate": "03/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BE",
+                "validityareadescription": "Belgium",
+                "legacyspecid": "FO004104",
+                "legacysdsid": "",
+                "revisiondate": "03/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009046",
+                        "maktx": "BORDER 100SC_1L_GR",
+                        "id": 4545606,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002377",
+                        "maktx": "BORDER_5L_BE",
+                        "id": 4545607,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11009442",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545608,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11009315",
+                        "maktx": "BORDER 10_1L_ES",
+                        "id": 4545609,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11015708",
+                        "maktx": "BORDER_5L_SK",
+                        "id": 4545610,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11001652",
+                        "maktx": "CALLISTO_5L_DE",
+                        "id": 4545611,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11009036",
+                        "maktx": "BORDER_5L_AT",
+                        "id": 4545612,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "12000450",
+                        "maktx": "MES 100SC_ST_SYT",
+                        "id": 4545613,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11015510",
+                        "maktx": "BORDER_5L_RO",
+                        "id": 4545614,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11013927",
+                        "maktx": "BORDER_1L_BE LU",
+                        "id": 4545615,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002376",
+                        "maktx": "BORDER_5L_FR",
+                        "id": 4545616,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002572",
+                        "maktx": "BORDER_10L_CZ",
+                        "id": 4545617,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002232",
+                        "maktx": "BORDER 100SC_5L_SE",
+                        "id": 4545618,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11005414",
+                        "maktx": "BORDER_5L_PT_CADUBAL",
+                        "id": 4545619,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11014066",
+                        "maktx": "BORDER 480SC_1L_BG",
+                        "id": 4545620,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002546",
+                        "maktx": "BORDER 10_5L_ES",
+                        "id": 4545621,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11002171",
+                        "maktx": "BORDER_1L_IT",
+                        "id": 4545622,
+                        "reportDataId": 28162
+                    },
+                    {
+                        "matnr": "11009072",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545623,
+                        "reportDataId": 28162
+                    }
+                ],
+                "id": 28162
+            },
+            {
+                "pdfname": "50001298_SDS_BE_DE.PDF",
+                "specificationid": "50001298",
+                "path": "\\\\172.18.22.6\\sds_external/50001298_SDS_BE_DE.PDF",
+                "reptype": "MSDS",
+                "language": "DE",
+                "genvariant": "SDS_BE",
+                "authorizedportal": "P3",
+                "productname": "BORDER\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "MES 100 g/L SC",
+                "cmr": "",
+                "publishdate": "03/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "BE",
+                "validityareadescription": "Belgien",
+                "legacyspecid": "FO004104",
+                "legacysdsid": "",
+                "revisiondate": "03/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11009046",
+                        "maktx": "BORDER 100SC_1L_GR",
+                        "id": 4545624,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002377",
+                        "maktx": "BORDER_5L_BE",
+                        "id": 4545625,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11009442",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545626,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11009315",
+                        "maktx": "BORDER 10_1L_ES",
+                        "id": 4545627,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11015708",
+                        "maktx": "BORDER_5L_SK",
+                        "id": 4545628,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11001652",
+                        "maktx": "CALLISTO_5L_DE",
+                        "id": 4545629,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11009036",
+                        "maktx": "BORDER_5L_AT",
+                        "id": 4545630,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "12000450",
+                        "maktx": "MES 100SC_ST_SYT",
+                        "id": 4545631,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11015510",
+                        "maktx": "BORDER_5L_RO",
+                        "id": 4545632,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11013927",
+                        "maktx": "BORDER_1L_BE LU",
+                        "id": 4545633,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002376",
+                        "maktx": "BORDER_5L_FR",
+                        "id": 4545634,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002572",
+                        "maktx": "BORDER_10L_CZ",
+                        "id": 4545635,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002232",
+                        "maktx": "BORDER 100SC_5L_SE",
+                        "id": 4545636,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11005414",
+                        "maktx": "BORDER_5L_PT_CADUBAL",
+                        "id": 4545637,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11014066",
+                        "maktx": "BORDER 480SC_1L_BG",
+                        "id": 4545638,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002546",
+                        "maktx": "BORDER 10_5L_ES",
+                        "id": 4545639,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11002171",
+                        "maktx": "BORDER_1L_IT",
+                        "id": 4545640,
+                        "reportDataId": 28163
+                    },
+                    {
+                        "matnr": "11009072",
+                        "maktx": "BORDER_5L_DE",
+                        "id": 4545641,
+                        "reportDataId": 28163
+                    }
+                ],
+                "id": 28163
+            },
+            {
+                "pdfname": "50003037_SDS_IT_IT.PDF",
+                "specificationid": "50003037",
+                "path": "\\\\172.18.22.6\\sds_external/50003037_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "PROMINO XTRA",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PROMINO XTRA (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016358",
+                        "maktx": "PROMINO XTRA_5L_RO",
+                        "id": 4545954,
+                        "reportDataId": 28164
+                    },
+                    {
+                        "matnr": "11016966",
+                        "maktx": "PROMINO XTRA_5L_IT",
+                        "id": 4545955,
+                        "reportDataId": 28164
+                    },
+                    {
+                        "matnr": "11017040",
+                        "maktx": "PROMINO EXTRA_5L_PL",
+                        "id": 4545956,
+                        "reportDataId": 28164
+                    },
+                    {
+                        "matnr": "11017033",
+                        "maktx": "FIDUM XTRA_5L_HU",
+                        "id": 4545957,
+                        "reportDataId": 28164
+                    }
+                ],
+                "id": 28164
+            },
+            {
+                "pdfname": "50003037_SDS_IT_6N.PDF",
+                "specificationid": "50003037",
+                "path": "\\\\172.18.22.6\\sds_external/50003037_SDS_IT_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "PROMINO XTRA",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PROMINO XTRA (3PP BUY-SELL)",
+                "cmr": "",
+                "publishdate": "03/17/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/17/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016358",
+                        "maktx": "PROMINO XTRA_5L_RO",
+                        "id": 4545958,
+                        "reportDataId": 28165
+                    },
+                    {
+                        "matnr": "11016966",
+                        "maktx": "PROMINO XTRA_5L_IT",
+                        "id": 4545959,
+                        "reportDataId": 28165
+                    },
+                    {
+                        "matnr": "11017040",
+                        "maktx": "PROMINO EXTRA_5L_PL",
+                        "id": 4545960,
+                        "reportDataId": 28165
+                    },
+                    {
+                        "matnr": "11017033",
+                        "maktx": "FIDUM XTRA_5L_HU",
+                        "id": 4545961,
+                        "reportDataId": 28165
+                    }
+                ],
+                "id": 28165
             }
         ],
         "isExportToExcel": false
