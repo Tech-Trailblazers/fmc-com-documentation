@@ -207649,123 +207649,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015619",
-                        "maktx": "VISICOR 70WG_240G_TR",
-                        "id": 3562537,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11014575",
-                        "maktx": "ALTACOR X-FORCE_90G_AU",
-                        "id": 3562538,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11015674",
-                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
-                        "id": 3562539,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11015742",
-                        "maktx": "SOLACE 700WG_2KG_AU",
-                        "id": 3562540,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "12005604",
-                        "maktx": "RYX 700WG_50KG_GOWA_MO",
-                        "id": 3562541,
+                        "matnr": "11016901",
+                        "maktx": "ALTACOR X-FORCE_360G_NZ",
+                        "id": 4546107,
                         "reportDataId": 27734
                     },
                     {
                         "matnr": "11015627",
                         "maktx": "VISICOR 70WG_60G_TR",
-                        "id": 3562542,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "12006730",
-                        "maktx": "RYX 700WG_STIS_JI",
-                        "id": 3562543,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11016127",
-                        "maktx": "KUANXI_100G_CN",
-                        "id": 3562544,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11016901",
-                        "maktx": "ALTACOR X-FORCE_360G_NZ",
-                        "id": 3562545,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11016892",
-                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
-                        "id": 3562546,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "12006116",
-                        "maktx": "RYX 700WG_50KG_TR",
-                        "id": 3562547,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11014510",
-                        "maktx": "ALTACOR EVO_18OZ_US",
-                        "id": 3562548,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11014570",
-                        "maktx": "ALTACOR X-FORCE_2KG_AU",
-                        "id": 3562549,
-                        "reportDataId": 27734
-                    },
-                    {
-                        "matnr": "11015768",
-                        "maktx": "ALTACOR EVO_400LB_US",
-                        "id": 3562550,
+                        "id": 4546108,
                         "reportDataId": 27734
                     },
                     {
                         "matnr": "11015689",
                         "maktx": "INECOR 700WG_2KG_AU",
-                        "id": 3562551,
+                        "id": 4546109,
                         "reportDataId": 27734
                     },
                     {
-                        "matnr": "12005495",
-                        "maktx": "RYX 700WG_MO_SYT",
-                        "id": 3562552,
+                        "matnr": "11015619",
+                        "maktx": "VISICOR 70WG_240G_TR",
+                        "id": 4546110,
                         "reportDataId": 27734
                     },
                     {
-                        "matnr": "11015700",
-                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
-                        "id": 3562553,
+                        "matnr": "11015742",
+                        "maktx": "SOLACE 700WG_2KG_AU",
+                        "id": 4546111,
                         "reportDataId": 27734
                     },
                     {
-                        "matnr": "12006272",
-                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
-                        "id": 3562554,
+                        "matnr": "11015768",
+                        "maktx": "ALTACOR EVO_400LB_US",
+                        "id": 4546112,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006870",
+                        "maktx": "RYX 700WG_50KG_CN_STIS_JI",
+                        "id": 4546113,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016892",
+                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
+                        "id": 4546114,
                         "reportDataId": 27734
                     },
                     {
                         "matnr": "11016128",
                         "maktx": "KUANXI_500G_CN",
-                        "id": 3562555,
+                        "id": 4546115,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014510",
+                        "maktx": "ALTACOR EVO_18OZ_US",
+                        "id": 4546116,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006272",
+                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
+                        "id": 4546117,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015674",
+                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
+                        "id": 4546118,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 4546119,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006116",
+                        "maktx": "RYX 700WG_50KG_TR",
+                        "id": 4546120,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12006730",
+                        "maktx": "RYX 700WG_STIS_JI",
+                        "id": 4546121,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014570",
+                        "maktx": "ALTACOR X-FORCE_2KG_AU",
+                        "id": 4546122,
                         "reportDataId": 27734
                     },
                     {
                         "matnr": "11014605",
                         "maktx": "ALTACOR MAX_510G_CA",
-                        "id": 3562556,
+                        "id": 4546123,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12005604",
+                        "maktx": "RYX 700WG_50KG_GOWA_MO",
+                        "id": 4546124,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "12005495",
+                        "maktx": "RYX 700WG_MO_SYT",
+                        "id": 4546125,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11016127",
+                        "maktx": "KUANXI_100G_CN",
+                        "id": 4546126,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11015700",
+                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
+                        "id": 4546127,
+                        "reportDataId": 27734
+                    },
+                    {
+                        "matnr": "11014575",
+                        "maktx": "ALTACOR X-FORCE_90G_AU",
+                        "id": 4546128,
                         "reportDataId": 27734
                     }
                 ],
@@ -235919,123 +235931,135 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015619",
-                        "maktx": "VISICOR 70WG_240G_TR",
-                        "id": 4261988,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11016127",
-                        "maktx": "KUANXI_100G_CN",
-                        "id": 4261989,
+                        "matnr": "11016901",
+                        "maktx": "ALTACOR X-FORCE_360G_NZ",
+                        "id": 4546129,
                         "reportDataId": 27930
                     },
                     {
                         "matnr": "11015627",
                         "maktx": "VISICOR 70WG_60G_TR",
-                        "id": 4261990,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11014510",
-                        "maktx": "ALTACOR EVO_18OZ_US",
-                        "id": 4261991,
+                        "id": 4546130,
                         "reportDataId": 27930
                     },
                     {
                         "matnr": "11015689",
                         "maktx": "INECOR 700WG_2KG_AU",
-                        "id": 4261992,
+                        "id": 4546131,
                         "reportDataId": 27930
                     },
                     {
-                        "matnr": "12005495",
-                        "maktx": "RYX 700WG_MO_SYT",
-                        "id": 4261993,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "12006116",
-                        "maktx": "RYX 700WG_50KG_TR",
-                        "id": 4261994,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "12006730",
-                        "maktx": "RYX 700WG_STIS_JI",
-                        "id": 4261995,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "12005604",
-                        "maktx": "RYX 700WG_50KG_GOWA_MO",
-                        "id": 4261996,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11015700",
-                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
-                        "id": 4261997,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11014605",
-                        "maktx": "ALTACOR MAX_510G_CA",
-                        "id": 4261998,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11016901",
-                        "maktx": "ALTACOR X-FORCE_360G_NZ",
-                        "id": 4261999,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11016892",
-                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
-                        "id": 4262000,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11016128",
-                        "maktx": "KUANXI_500G_CN",
-                        "id": 4262001,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11015768",
-                        "maktx": "ALTACOR EVO_400LB_US",
-                        "id": 4262002,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11015674",
-                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
-                        "id": 4262003,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11014570",
-                        "maktx": "ALTACOR X-FORCE_2KG_AU",
-                        "id": 4262004,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "11014575",
-                        "maktx": "ALTACOR X-FORCE_90G_AU",
-                        "id": 4262005,
-                        "reportDataId": 27930
-                    },
-                    {
-                        "matnr": "12006272",
-                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
-                        "id": 4262006,
+                        "matnr": "11015619",
+                        "maktx": "VISICOR 70WG_240G_TR",
+                        "id": 4546132,
                         "reportDataId": 27930
                     },
                     {
                         "matnr": "11015742",
                         "maktx": "SOLACE 700WG_2KG_AU",
-                        "id": 4262007,
+                        "id": 4546133,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11015768",
+                        "maktx": "ALTACOR EVO_400LB_US",
+                        "id": 4546134,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12006870",
+                        "maktx": "RYX 700WG_50KG_CN_STIS_JI",
+                        "id": 4546135,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11016892",
+                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
+                        "id": 4546136,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11016128",
+                        "maktx": "KUANXI_500G_CN",
+                        "id": 4546137,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11014510",
+                        "maktx": "ALTACOR EVO_18OZ_US",
+                        "id": 4546138,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12006272",
+                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
+                        "id": 4546139,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11015674",
+                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
+                        "id": 4546140,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 4546141,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12006116",
+                        "maktx": "RYX 700WG_50KG_TR",
+                        "id": 4546142,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12006730",
+                        "maktx": "RYX 700WG_STIS_JI",
+                        "id": 4546143,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11014570",
+                        "maktx": "ALTACOR X-FORCE_2KG_AU",
+                        "id": 4546144,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11014605",
+                        "maktx": "ALTACOR MAX_510G_CA",
+                        "id": 4546145,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12005604",
+                        "maktx": "RYX 700WG_50KG_GOWA_MO",
+                        "id": 4546146,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "12005495",
+                        "maktx": "RYX 700WG_MO_SYT",
+                        "id": 4546147,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11016127",
+                        "maktx": "KUANXI_100G_CN",
+                        "id": 4546148,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11015700",
+                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
+                        "id": 4546149,
+                        "reportDataId": 27930
+                    },
+                    {
+                        "matnr": "11014575",
+                        "maktx": "ALTACOR X-FORCE_90G_AU",
+                        "id": 4546150,
                         "reportDataId": 27930
                     }
                 ],
@@ -236071,135 +236095,147 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015619",
-                        "maktx": "VISICOR 70WG_240G_TR",
-                        "id": 4262008,
-                        "reportDataId": 27931
-                    },
-                    {
                         "matnr": "11016127",
-                        "maktx": "KUANXI_100G_CN",
-                        "id": 4262009,
+                        "maktx": "\u5bbd\u79a7_100G_CN",
+                        "id": 4546151,
                         "reportDataId": 27931
                     },
                     {
                         "matnr": "11015627",
                         "maktx": "VISICOR 70WG_60G_TR",
-                        "id": 4262010,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11014510",
-                        "maktx": "ALTACOR EVO_18OZ_US",
-                        "id": 4262011,
+                        "id": 4546152,
                         "reportDataId": 27931
                     },
                     {
                         "matnr": "11015689",
                         "maktx": "INECOR 700WG_2KG_AU",
-                        "id": 4262012,
+                        "id": 4546153,
                         "reportDataId": 27931
                     },
                     {
-                        "matnr": "12005495",
-                        "maktx": "RYX 700WG_MO_SYT",
-                        "id": 4262013,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11016127",
-                        "maktx": "\u5bbd\u79a7_100G_CN",
-                        "id": 4262014,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "12006116",
-                        "maktx": "RYX 700WG_50KG_TR",
-                        "id": 4262015,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "12006730",
-                        "maktx": "RYX 700WG_STIS_JI",
-                        "id": 4262016,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "12005604",
-                        "maktx": "RYX 700WG_50KG_GOWA_MO",
-                        "id": 4262017,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11015700",
-                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
-                        "id": 4262018,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11014605",
-                        "maktx": "ALTACOR MAX_510G_CA",
-                        "id": 4262019,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11016901",
-                        "maktx": "ALTACOR X-FORCE_360G_NZ",
-                        "id": 4262020,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11016128",
-                        "maktx": "\u5bbd\u79a7_500G_CN",
-                        "id": 4262021,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11016892",
-                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
-                        "id": 4262022,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11016128",
-                        "maktx": "KUANXI_500G_CN",
-                        "id": 4262023,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11015768",
-                        "maktx": "ALTACOR EVO_400LB_US",
-                        "id": 4262024,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11015674",
-                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
-                        "id": 4262025,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11014570",
-                        "maktx": "ALTACOR X-FORCE_2KG_AU",
-                        "id": 4262026,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "11014575",
-                        "maktx": "ALTACOR X-FORCE_90G_AU",
-                        "id": 4262027,
-                        "reportDataId": 27931
-                    },
-                    {
-                        "matnr": "12006272",
-                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
-                        "id": 4262028,
+                        "matnr": "11015619",
+                        "maktx": "VISICOR 70WG_240G_TR",
+                        "id": 4546154,
                         "reportDataId": 27931
                     },
                     {
                         "matnr": "11015742",
                         "maktx": "SOLACE 700WG_2KG_AU",
-                        "id": 4262029,
+                        "id": 4546155,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11015768",
+                        "maktx": "ALTACOR EVO_400LB_US",
+                        "id": 4546156,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12006870",
+                        "maktx": "RYX 700WG_50KG_CN_STIS_JI",
+                        "id": 4546157,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11016892",
+                        "maktx": "ALTACOR X-FORCE_2KG_NZ",
+                        "id": 4546158,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11016128",
+                        "maktx": "KUANXI_500G_CN",
+                        "id": 4546159,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11014510",
+                        "maktx": "ALTACOR EVO_18OZ_US",
+                        "id": 4546160,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12006272",
+                        "maktx": "RYX 700WG_50KG_CN_GOWA_MO",
+                        "id": 4546161,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11015674",
+                        "maktx": "PEACEKEEPER 700WG_2KG_AU",
+                        "id": 4546162,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11014462",
+                        "maktx": "ALTACOR EVO_45OZ_US",
+                        "id": 4546163,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12006116",
+                        "maktx": "RYX 700WG_50KG_TR",
+                        "id": 4546164,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12006730",
+                        "maktx": "RYX 700WG_STIS_JI",
+                        "id": 4546165,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11014570",
+                        "maktx": "ALTACOR X-FORCE_2KG_AU",
+                        "id": 4546166,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11014605",
+                        "maktx": "ALTACOR MAX_510G_CA",
+                        "id": 4546167,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12005604",
+                        "maktx": "RYX 700WG_50KG_GOWA_MO",
+                        "id": 4546168,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "12005495",
+                        "maktx": "RYX 700WG_MO_SYT",
+                        "id": 4546169,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11016127",
+                        "maktx": "KUANXI_100G_CN",
+                        "id": 4546170,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11015700",
+                        "maktx": "CHLORANTRAGEN 700WG_2KG_AU_GENFARM",
+                        "id": 4546171,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11016128",
+                        "maktx": "\u5bbd\u79a7_500G_CN",
+                        "id": 4546172,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11014575",
+                        "maktx": "ALTACOR X-FORCE_90G_AU",
+                        "id": 4546173,
+                        "reportDataId": 27931
+                    },
+                    {
+                        "matnr": "11016901",
+                        "maktx": "ALTACOR X-FORCE_360G_NZ",
+                        "id": 4546174,
                         "reportDataId": 27931
                     }
                 ],
