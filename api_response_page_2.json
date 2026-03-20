@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6297,
+        "totalCount": 6290,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,1298 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001287_SDS_DK_6N.PDF",
-                "specificationid": "50001287",
-                "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "GLYPHOSATE 360 g/L SL",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CLEAR",
-                "casnumber": "",
-                "commercialnames": "GLY 360 g/L SL",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "B2856",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "FO002204",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000108",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2216988,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12003023",
-                        "maktx": "GLY 360SL_SC_GOW",
-                        "id": 2216989,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12001945",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2216990,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12002253",
-                        "maktx": "GLY 360SL_1000L_JP_RO_RO",
-                        "id": 2216991,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "11005777",
-                        "maktx": "GLY 360SL_200L",
-                        "id": 2216992,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "11001884",
-                        "maktx": "GLYFOS 48SL_5L_TR_AGRI",
-                        "id": 2216993,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12000487",
-                        "maktx": "GLY 360SL_1000L_RO_RO",
-                        "id": 2216994,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "11003079",
-                        "maktx": "GLYFOS 480SL_20L_TR",
-                        "id": 2216995,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "11002115",
-                        "maktx": "GLYFOS 48SL_1L_TR_AGRI",
-                        "id": 2216996,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12000287",
-                        "maktx": "GLY 360SL_RO_RO",
-                        "id": 2216997,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "11001988",
-                        "maktx": "GLYFO_1L_AT",
-                        "id": 2216998,
-                        "reportDataId": 26820
-                    },
-                    {
-                        "matnr": "12000080",
-                        "maktx": "GLYFOS ULTRA 200L??",
-                        "id": 2216999,
-                        "reportDataId": 26820
-                    }
-                ],
-                "id": 26820
-            },
-            {
-                "pdfname": "50001287_SDS_US_1X.PDF",
-                "specificationid": "50001287",
-                "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "SDS_US",
-                "authorizedportal": "P3",
-                "productname": "Forza Silvicultural Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CLEAR",
-                "casnumber": "",
-                "commercialnames": "GLY 360 g/L SL",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "B2856",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO002204",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000108",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217000,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12003023",
-                        "maktx": "GLY 360SL_SC_GOW",
-                        "id": 2217001,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12001945",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217002,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12002253",
-                        "maktx": "GLY 360SL_1000L_JP_RO_RO",
-                        "id": 2217003,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "11005777",
-                        "maktx": "GLY 360SL_200L",
-                        "id": 2217004,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "11001884",
-                        "maktx": "GLYFOS 48SL_5L_TR_AGRI",
-                        "id": 2217005,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12000487",
-                        "maktx": "GLY 360SL_1000L_RO_RO",
-                        "id": 2217006,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "11003079",
-                        "maktx": "GLYFOS 480SL_20L_TR",
-                        "id": 2217007,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "11002115",
-                        "maktx": "GLYFOS 48SL_1L_TR_AGRI",
-                        "id": 2217008,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12000287",
-                        "maktx": "GLY 360SL_RO_RO",
-                        "id": 2217009,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "11001988",
-                        "maktx": "GLYFO_1L_AT",
-                        "id": 2217010,
-                        "reportDataId": 26821
-                    },
-                    {
-                        "matnr": "12000080",
-                        "maktx": "GLYFOS ULTRA 200L??",
-                        "id": 2217011,
-                        "reportDataId": 26821
-                    }
-                ],
-                "id": 26821
-            },
-            {
-                "pdfname": "50001287_SDS_CA_3F.PDF",
-                "specificationid": "50001287",
-                "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_CA_3F.PDF",
-                "reptype": "MSDS",
-                "language": "3F",
-                "genvariant": "SDS_CA",
-                "authorizedportal": "P3",
-                "productname": "Forza Silvicultural Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CLEAR",
-                "casnumber": "",
-                "commercialnames": "GLY 360 g/L SL",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "B2856",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "CA",
-                "validityareadescription": "Canada",
-                "legacyspecid": "FO002204",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000108",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217024,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12003023",
-                        "maktx": "GLY 360SL_SC_GOW",
-                        "id": 2217025,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12001945",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217026,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12002253",
-                        "maktx": "GLY 360SL_1000L_JP_RO_RO",
-                        "id": 2217027,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "11005777",
-                        "maktx": "GLY 360SL_200L",
-                        "id": 2217028,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "11001884",
-                        "maktx": "GLYFOS 48SL_5L_TR_AGRI",
-                        "id": 2217029,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12000487",
-                        "maktx": "GLY 360SL_1000L_RO_RO",
-                        "id": 2217030,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "11003079",
-                        "maktx": "GLYFOS 480SL_20L_TR",
-                        "id": 2217031,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "11002115",
-                        "maktx": "GLYFOS 48SL_1L_TR_AGRI",
-                        "id": 2217032,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12000287",
-                        "maktx": "GLY 360SL_RO_RO",
-                        "id": 2217033,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "11001988",
-                        "maktx": "GLYFO_1L_AT",
-                        "id": 2217034,
-                        "reportDataId": 26822
-                    },
-                    {
-                        "matnr": "12000080",
-                        "maktx": "GLYFOS ULTRA 200L??",
-                        "id": 2217035,
-                        "reportDataId": 26822
-                    }
-                ],
-                "id": 26822
-            },
-            {
-                "pdfname": "50001287_SDS_CA_EN.PDF",
-                "specificationid": "50001287",
-                "path": "\\\\172.18.22.6\\sds_external/50001287_SDS_CA_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_CA",
-                "authorizedportal": "P3",
-                "productname": "Forza Silvicultural Herbicide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "CLEAR",
-                "casnumber": "",
-                "commercialnames": "GLY 360 g/L SL",
-                "cmr": "",
-                "publishdate": "12/05/2024",
-                "iupac": "",
-                "incode": "B2856",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "CA",
-                "validityareadescription": "Canada",
-                "legacyspecid": "FO002204",
-                "legacysdsid": "",
-                "revisiondate": "12/05/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000108",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217036,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12003023",
-                        "maktx": "GLY 360SL_SC_GOW",
-                        "id": 2217037,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12001945",
-                        "maktx": "GLY 360SL_TC20000_?_?",
-                        "id": 2217038,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12002253",
-                        "maktx": "GLY 360SL_1000L_JP_RO_RO",
-                        "id": 2217039,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "11005777",
-                        "maktx": "GLY 360SL_200L",
-                        "id": 2217040,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "11001884",
-                        "maktx": "GLYFOS 48SL_5L_TR_AGRI",
-                        "id": 2217041,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12000487",
-                        "maktx": "GLY 360SL_1000L_RO_RO",
-                        "id": 2217042,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "11003079",
-                        "maktx": "GLYFOS 480SL_20L_TR",
-                        "id": 2217043,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "11002115",
-                        "maktx": "GLYFOS 48SL_1L_TR_AGRI",
-                        "id": 2217044,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12000287",
-                        "maktx": "GLY 360SL_RO_RO",
-                        "id": 2217045,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "11001988",
-                        "maktx": "GLYFO_1L_AT",
-                        "id": 2217046,
-                        "reportDataId": 26823
-                    },
-                    {
-                        "matnr": "12000080",
-                        "maktx": "GLYFOS ULTRA 200L??",
-                        "id": 2217047,
-                        "reportDataId": 26823
-                    }
-                ],
-                "id": 26823
-            },
-            {
-                "pdfname": "50000797_SDS_IN_EN.PDF",
-                "specificationid": "50000797",
-                "path": "\\\\172.18.22.6\\sds_external/50000797_SDS_IN_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_IN",
-                "authorizedportal": "P3",
-                "productname": "RHYME",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "FLUTRIAFOL 250 g/L SC",
-                "casnumber": "",
-                "commercialnames": "FLT 250 g/L SC (v2)",
-                "cmr": "",
-                "publishdate": "12/09/2024",
-                "iupac": "",
-                "incode": "Y6981",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IN",
-                "validityareadescription": "India",
-                "legacyspecid": "FO004102",
-                "legacysdsid": "",
-                "revisiondate": "12/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11009445",
-                        "maktx": "IMPACT 250SC_5L_PT_SERVAG",
-                        "id": 3432849,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11002016",
-                        "maktx": "IMPACT SC_5L_MUL",
-                        "id": 3432850,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11008986",
-                        "maktx": "POINTER 25SC_5L_PH",
-                        "id": 3432851,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11010816",
-                        "maktx": "IMPACT 250SC_1L_IT",
-                        "id": 3432852,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11001925",
-                        "maktx": "IMPACT_5L_BY",
-                        "id": 3432853,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11005215",
-                        "maktx": "IMPACT_500ML_MUL",
-                        "id": 3432854,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11002807",
-                        "maktx": "POINTER 250SC_1L_MX",
-                        "id": 3432855,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11001739",
-                        "maktx": "IMPACT SC_5L_MUL",
-                        "id": 3432856,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12005653",
-                        "maktx": "FLT 250SC_ST_RO",
-                        "id": 3432857,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12005655",
-                        "maktx": "FLT 250SC_MUL_ST_RO",
-                        "id": 3432858,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11016279",
-                        "maktx": "RHYME_250ML_IN",
-                        "id": 3432859,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006155",
-                        "maktx": "FLT 250SC_1000L_MUL_ST_RO",
-                        "id": 3432860,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12000566",
-                        "maktx": "FLT 250SC_ST_7C",
-                        "id": 3432861,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11016291",
-                        "maktx": "RHYME_500ML_IN",
-                        "id": 3432862,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006156",
-                        "maktx": "FLT 250SC_1000L_TR_ST_RO",
-                        "id": 3432863,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006370",
-                        "maktx": "FLT 250SC_1000L_IN_ALL",
-                        "id": 3432864,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11001757",
-                        "maktx": "IMPACT 25SC_1L_MD",
-                        "id": 3432865,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11002953",
-                        "maktx": "IMPACT 250SC_1L_MX",
-                        "id": 3432866,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006150",
-                        "maktx": "FLT 250SC_1000L_MUL_ST_7C",
-                        "id": 3432867,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11005524",
-                        "maktx": "FLUTRIAFOL_200L_MUL",
-                        "id": 3432868,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11003894",
-                        "maktx": "POINTER 250SC_1L_CO",
-                        "id": 3432869,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11016285",
-                        "maktx": "RHYME_100ML_IN",
-                        "id": 3432870,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11001842",
-                        "maktx": "IMPACT SC_5L_UA",
-                        "id": 3432871,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006143",
-                        "maktx": "FLT 250SC_1000L_TR_ST_7C",
-                        "id": 3432872,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11009319",
-                        "maktx": "IMPACT 250SC_5L_ZA NA",
-                        "id": 3432873,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11000175",
-                        "maktx": "POINTER 250SC_200L_CO",
-                        "id": 3432874,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11000613",
-                        "maktx": "POINTER 25SC_200L_PH",
-                        "id": 3432875,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11013663",
-                        "maktx": "IMPACT_1L_DZ_AGROSEED",
-                        "id": 3432876,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12006442",
-                        "maktx": "FLT 250SC_1000L_SV_ALL",
-                        "id": 3432877,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11010277",
-                        "maktx": "POINTER 250SC_1L_MY_CROP",
-                        "id": 3432878,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11016300",
-                        "maktx": "RHYME_1L_IN",
-                        "id": 3432879,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "12000267",
-                        "maktx": "FLT 250SC_PH RU_ST_CALA",
-                        "id": 3432880,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11009294",
-                        "maktx": "CONCEPT 25%SC_200ML_EG_LOTUS",
-                        "id": 3432881,
-                        "reportDataId": 26824
-                    },
-                    {
-                        "matnr": "11003895",
-                        "maktx": "POINTER 250SC_20L_CO",
-                        "id": 3432882,
-                        "reportDataId": 26824
-                    }
-                ],
-                "id": 26824
-            },
-            {
-                "pdfname": "50000041_SDS_IE_6N.PDF",
-                "specificationid": "50000041",
-                "path": "\\\\172.18.22.6\\sds_external/50000041_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "CALIBRE\u00ae MAX SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AFFINITY TANK MIX HERBICIDE (M)",
-                "casnumber": "",
-                "commercialnames": "JMQ48 50 SG Blend",
-                "cmr": "",
-                "publishdate": "12/09/2024",
-                "iupac": "",
-                "incode": "JMQ48",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "H-19",
-                "legacysdsid": "130000015716",
-                "revisiondate": "12/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005710",
-                        "maktx": "AFFINITY TANKMIX HERBICIDE_48OZ_US",
-                        "id": 2591742,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11006033",
-                        "maktx": "CALIBRE MAX SX_450G_IE",
-                        "id": 2591743,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11008773",
-                        "maktx": "MAROX PRIME SX_200G_IT",
-                        "id": 2591744,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11006018",
-                        "maktx": "AFFINITY TANKMIX HERBICIDE_20OZ_US",
-                        "id": 2591745,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "12001548",
-                        "maktx": "TIM 400 TBM 100SG_50KG_UF_ALL",
-                        "id": 2591746,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11016172",
-                        "maktx": "T-MIX_48OZ_US",
-                        "id": 2591747,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11009027",
-                        "maktx": "COUNTER SX_450G_GB",
-                        "id": 2591748,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11006385",
-                        "maktx": "ANEKS SX_50SG_480G_PL",
-                        "id": 2591749,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "12001580",
-                        "maktx": "TIM 400 TBM 100SG_435KG_UF_ALL",
-                        "id": 2591750,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11015110",
-                        "maktx": "COUNTERACT SX_450G_GB",
-                        "id": 2591751,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11006391",
-                        "maktx": "RUBIN SX 50SG_200G_IT",
-                        "id": 2591752,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11006246",
-                        "maktx": "ANEKS SX_50SG_120G_PL",
-                        "id": 2591753,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "11005489",
-                        "maktx": "AFFINITY TANKMIX HERBICIDE_480OZ_US",
-                        "id": 2591754,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "12005272",
-                        "maktx": "TIM 400 TBM 100SG_450KG_CA_UF_ALL",
-                        "id": 2591755,
-                        "reportDataId": 26825
-                    },
-                    {
-                        "matnr": "12001599",
-                        "maktx": "TIM 400 TBM 100SG_450KG_UF_ALL",
-                        "id": 2591756,
-                        "reportDataId": 26825
-                    }
-                ],
-                "id": 26825
-            },
-            {
-                "pdfname": "50000803_SDS_IE_6N.PDF",
-                "specificationid": "50000803",
-                "path": "\\\\172.18.22.6\\sds_external/50000803_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "NAVIGATE\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "NAVIGATE",
-                "casnumber": "",
-                "commercialnames": "DFF + FFC (200 + 400) g/L SC",
-                "cmr": "",
-                "publishdate": "12/09/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "FO004112",
-                "legacysdsid": "",
-                "revisiondate": "12/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11003959",
-                        "maktx": "BATTLE DELTA_5L_NL",
-                        "id": 3245231,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11014559",
-                        "maktx": "BATTLE DELTA_1L_BG",
-                        "id": 3245232,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12006440",
-                        "maktx": "FFC 400 + DFF 200SC_1000L_ST_BYER ADAM",
-                        "id": 3245233,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11014669",
-                        "maktx": "BATTLE DELTA_1L_ES",
-                        "id": 3245234,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002979",
-                        "maktx": "BATTLE DELTA_5L_ES",
-                        "id": 3245235,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002886",
-                        "maktx": "BATTLE DELTA_5L_FR",
-                        "id": 3245236,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11014911",
-                        "maktx": "BATTLE DELTA_5L_CZ SK",
-                        "id": 3245237,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11015573",
-                        "maktx": "BATTLE DELTA 600SC_5L_LT EE",
-                        "id": 3245238,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11014504",
-                        "maktx": "NUCLEUS_5L_BE",
-                        "id": 3245239,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002543",
-                        "maktx": "BATTLE DELTA_5L_SK",
-                        "id": 3245240,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11014306",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245241,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002429",
-                        "maktx": "BATTLE DELTA_1L",
-                        "id": 3245242,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11016121",
-                        "maktx": "BATTLE DELTA MAX_VP5L 100G_HU",
-                        "id": 3245243,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11015197",
-                        "maktx": "NUCLEUS_5L_BG",
-                        "id": 3245244,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11013715",
-                        "maktx": "BATTLE DELTA 600SC_3L_PL",
-                        "id": 3245245,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11004461",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245246,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12000946",
-                        "maktx": "FFC 400-DFF 200SC_ST_CRTI HF",
-                        "id": 3245247,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11000337",
-                        "maktx": "BATTLE DELTA_3L_AT",
-                        "id": 3245248,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11013732",
-                        "maktx": "BATTLE DELTA_5L_BG",
-                        "id": 3245249,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002246",
-                        "maktx": "BATTLE DELTA 600SC_500ML_PL",
-                        "id": 3245250,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11010878",
-                        "maktx": "BATTLE DELTA_5L_AT",
-                        "id": 3245251,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12006200",
-                        "maktx": "FFC 400 + DFF 200SC_ST_BYER ADAM",
-                        "id": 3245252,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12000934",
-                        "maktx": "FFC 400 + DFF 200SC_5L_ST_ALL",
-                        "id": 3245253,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002435",
-                        "maktx": "NAVIGATE_3L_GB",
-                        "id": 3245254,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12000464",
-                        "maktx": "FFC 400-DFF 200SC_ST_BYER HF",
-                        "id": 3245255,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002472",
-                        "maktx": "BATTLE DELTA 600SC_5L_PL",
-                        "id": 3245256,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11005651",
-                        "maktx": "BATTLE DELTA_1L_DE",
-                        "id": 3245257,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11000313",
-                        "maktx": "FUGA DELTA_0.5L_HR_CHROM",
-                        "id": 3245258,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "12000686",
-                        "maktx": "FFC 400 - DFF 200SC_ST_BYER ZICC",
-                        "id": 3245259,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002944",
-                        "maktx": "BATTLE DELTA_5L_DE",
-                        "id": 3245260,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11002118",
-                        "maktx": "BATTLE DELTA_1L_AT",
-                        "id": 3245261,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11015489",
-                        "maktx": "NUCLEUS_1L_IT",
-                        "id": 3245262,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11000290",
-                        "maktx": "BATTLE DELTA_1L_RO",
-                        "id": 3245263,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11006153",
-                        "maktx": "DEPHEND_20L_FR",
-                        "id": 3245264,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11003320",
-                        "maktx": "BATTLE DELTA_5L_HU",
-                        "id": 3245265,
-                        "reportDataId": 26826
-                    },
-                    {
-                        "matnr": "11000292",
-                        "maktx": "BATTLE DELTA_5L_CZ",
-                        "id": 3245266,
-                        "reportDataId": 26826
-                    }
-                ],
-                "id": 26826
-            },
-            {
-                "pdfname": "50000994_SDS_IE_6N.PDF",
-                "specificationid": "50000994",
-                "path": "\\\\172.18.22.6\\sds_external/50000994_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "PRESITE\u00ae SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ALLIE DUO SX (M)",
-                "casnumber": "",
-                "commercialnames": "CDQ74 40 SG Blend",
-                "cmr": "",
-                "publishdate": "12/09/2024",
-                "iupac": "",
-                "incode": "CDQ74",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "A-06.8",
-                "legacysdsid": "130000012123",
-                "revisiondate": "12/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006297",
-                        "maktx": "ALLIE DUO SX_900G_FR",
-                        "id": 2743090,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "11006505",
-                        "maktx": "FINISH SX_225G_DE",
-                        "id": 2743091,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "11009142",
-                        "maktx": "FINISH SX_900G_DE",
-                        "id": 2743092,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "11005790",
-                        "maktx": "ALLIE DUO SX_300G_FR",
-                        "id": 2743093,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "12001630",
-                        "maktx": "TIM 333 MEM 67SG_450KG_UF_ALL",
-                        "id": 2743094,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "12001583",
-                        "maktx": "TIM 333 MEM 67SG_453KG_UF_ALL",
-                        "id": 2743095,
-                        "reportDataId": 26827
-                    },
-                    {
-                        "matnr": "11005476",
-                        "maktx": "PRESITE SX_225G_GB",
-                        "id": 2743096,
-                        "reportDataId": 26827
-                    }
-                ],
-                "id": 26827
-            },
-            {
-                "pdfname": "50000995_EXT_SDS_IE_6N.PDF",
-                "specificationid": "50000995",
-                "path": "\\\\172.18.22.6\\sds_external/50000995_EXT_SDS_IE_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IE",
-                "authorizedportal": "P3",
-                "productname": "FINISH\u00ae SX\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ALLIE DUO SX (M)",
-                "casnumber": "",
-                "commercialnames": "CDQ74 40 SG Blend (CHILD)",
-                "cmr": "",
-                "publishdate": "12/09/2024",
-                "iupac": "",
-                "incode": "CDQ74",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IE",
-                "validityareadescription": "Ireland",
-                "legacyspecid": "A-06.8",
-                "legacysdsid": "130000025566",
-                "revisiondate": "12/09/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11005480",
-                        "maktx": "FINISH SX_375G_GB",
-                        "id": 2217380,
-                        "reportDataId": 26828
-                    },
-                    {
-                        "matnr": "11006066",
-                        "maktx": "PRESITE SX_300G_FR",
-                        "id": 2217381,
-                        "reportDataId": 26828
-                    }
-                ],
-                "id": 26828
-            },
-            {
-                "pdfname": "50000049_SDS_DK_6N.PDF",
-                "specificationid": "50000049",
-                "path": "\\\\172.18.22.6\\sds_external/50000049_SDS_DK_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_DK",
-                "authorizedportal": "P3",
-                "productname": "CARFENTRAZONE-ETHYL 400 G/KG + METSULFURON-METHYL 100 G/KG WG",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AFFINITY FORCE (M)",
-                "casnumber": "",
-                "commercialnames": "CFZ + MEM (40 + 10) WG",
-                "cmr": "",
-                "publishdate": "12/10/2024",
-                "iupac": "",
-                "incode": "KW025",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "DK",
-                "validityareadescription": "Denmark",
-                "legacyspecid": "K-17",
-                "legacysdsid": "130000000606",
-                "revisiondate": "12/10/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006423",
-                        "maktx": "INNOPROTECT ARTUS_2.5KG_DE_INNOPROTECT",
-                        "id": 2298582,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11006622",
-                        "maktx": "INNOPROTECT ARTUS_250G_DE_INNOPROTECT",
-                        "id": 2298583,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12002091",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_500KG_UF_ALL",
-                        "id": 2298584,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005426",
-                        "maktx": "ALLIE EXPRESS_500G_FR",
-                        "id": 2298585,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12002102",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_50KG_UF_ALL",
-                        "id": 2298586,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005278",
-                        "maktx": "ALLIE EXPRESS_100G_BE",
-                        "id": 2298587,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12002103",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_100G_UF_ALL",
-                        "id": 2298588,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11006103",
-                        "maktx": "ARTUS_2.5KG_DE",
-                        "id": 2298589,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005370",
-                        "maktx": "ALLY CLASS 50WG_500G_SE",
-                        "id": 2298590,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005759",
-                        "maktx": "ARTUS_160G_AT",
-                        "id": 2298591,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12001355",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_50KG_IN_UF_ALL",
-                        "id": 2298592,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12001503",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_1000KG_UF_ALL",
-                        "id": 2298593,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005548",
-                        "maktx": "ARTUS_250G_DE",
-                        "id": 2298594,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005707",
-                        "maktx": "ARTUS_100G_AT_KWIZDA",
-                        "id": 2298595,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11002759",
-                        "maktx": "ALLY CLASS 50WG_250G_FI",
-                        "id": 2298596,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005632",
-                        "maktx": "ALLY CLASS 50WG_100G_NO",
-                        "id": 2298597,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005549",
-                        "maktx": "ARTUS_1KG_DE",
-                        "id": 2298598,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11005425",
-                        "maktx": "ALLIE EXPRESS_100G_FR",
-                        "id": 2298599,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "12001138",
-                        "maktx": "LANFIDA 30 20G SAH SEMI-PACK IN",
-                        "id": 2298600,
-                        "reportDataId": 26829
-                    },
-                    {
-                        "matnr": "11007441",
-                        "maktx": "LANFIDA 30 20G SAH IN",
-                        "id": 2298601,
-                        "reportDataId": 26829
-                    }
-                ],
-                "id": 26829
-            },
             {
                 "pdfname": "50000049_SDS_DE_DE.PDF",
                 "specificationid": "50000049",
@@ -109443,320 +108151,6 @@
                 "id": 27217
             },
             {
-                "pdfname": "50000661_SDS_IT_6N.PDF",
-                "specificationid": "50000661",
-                "path": "\\\\172.18.22.6\\sds_external/50000661_SDS_IT_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IT",
-                "authorizedportal": "P3",
-                "productname": "MOJANG\u00ae 600",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "ROMIN 600",
-                "casnumber": "",
-                "commercialnames": "PXA 600 g/L EC",
-                "cmr": "",
-                "publishdate": "04/24/2025",
-                "iupac": "",
-                "incode": "45263",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IT",
-                "validityareadescription": "Italy",
-                "legacyspecid": "FO002146",
-                "legacysdsid": "",
-                "revisiondate": "04/24/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12006635",
-                        "maktx": "PXA 600EC_TC_MUL_RO_CAFF",
-                        "id": 3246783,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11000366",
-                        "maktx": "SUCCESSOR 600_5L_AT",
-                        "id": 3246784,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001537",
-                        "maktx": "FORMAX_5L_BE_PROTEX",
-                        "id": 3246785,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001588",
-                        "maktx": "PETHOXAMIDE_1000L_MUL",
-                        "id": 3246786,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001319",
-                        "maktx": "QUANTUM_6L_DE",
-                        "id": 3246787,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11014468",
-                        "maktx": "SUCCESSOR 600_5L_FR",
-                        "id": 3246788,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001217",
-                        "maktx": "SUCCESSOR 600_5L_ES",
-                        "id": 3246789,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015980",
-                        "maktx": "KOBAN_1L_IT",
-                        "id": 3246790,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015932",
-                        "maktx": "SUCCESSOR_5L_RS",
-                        "id": 3246791,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11003848",
-                        "maktx": "SUCCESSOR 600_5L_BE LU",
-                        "id": 3246792,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001178",
-                        "maktx": "SUCCESSOR 600_5L_FR_BASF",
-                        "id": 3246793,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11014424",
-                        "maktx": "SUCCESSOR 600_5L_SI_KARSIA",
-                        "id": 3246794,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11013660",
-                        "maktx": "DEBASCO_5L_TR",
-                        "id": 3246795,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001238",
-                        "maktx": "SUCCESSOR 600EC_5L_FR",
-                        "id": 3246796,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001372",
-                        "maktx": "QUANTUM EVO_5L_ES",
-                        "id": 3246797,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11016031",
-                        "maktx": "DUAL NEXT_5L_HU_SYNGENTA",
-                        "id": 3246798,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11010308",
-                        "maktx": "SUCCESSOR PRO_5L_RO",
-                        "id": 3246799,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015748",
-                        "maktx": "SUCCESSOR EC_10L_UA",
-                        "id": 3246800,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001093",
-                        "maktx": "SUCCESSOR 600_1L_SI",
-                        "id": 3246801,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015983",
-                        "maktx": "DUAL NEXT_5L_IT_SYNGENTA",
-                        "id": 3246802,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001239",
-                        "maktx": "SUCCESSOR 600_5L_HU",
-                        "id": 3246803,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "12006587",
-                        "maktx": "PXA 600EC_1000L_FR_RO_RO",
-                        "id": 3246804,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001269",
-                        "maktx": "SUCCESSOR 600EC_5L_PL",
-                        "id": 3246805,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015069",
-                        "maktx": "MOJANG_5L_BE",
-                        "id": 3246806,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015140",
-                        "maktx": "SUCCESSOR 600_10L_DE",
-                        "id": 3246807,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015999",
-                        "maktx": "KOBAN_5L_IT",
-                        "id": 3246808,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015584",
-                        "maktx": "MOJANG 600_4L_IT",
-                        "id": 3246809,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "12000360",
-                        "maktx": "PXA 600EC_CZ_ST_RO",
-                        "id": 3246810,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11016057",
-                        "maktx": "DUAL NEXT_5L_DE_SYNGENTA",
-                        "id": 3246811,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001094",
-                        "maktx": "SUCCESSOR 600_1L_CH_STAHL",
-                        "id": 3246812,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015342",
-                        "maktx": "SUCCESSOR EC_5L_UA",
-                        "id": 3246813,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015772",
-                        "maktx": "INDAVIUS_5L_PT_SYN",
-                        "id": 3246814,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015851",
-                        "maktx": "MOJANG 600_1L_IT",
-                        "id": 3246815,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11016005",
-                        "maktx": "DUAL NEXT_5L_CZ_SYNGENTA",
-                        "id": 3246816,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "12006650",
-                        "maktx": "PXA 600EC_1000L_MUL_RO_CAFF",
-                        "id": 3246817,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015119",
-                        "maktx": "SUCCESSOR 600_5L_DE",
-                        "id": 3246818,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001257",
-                        "maktx": "QUANTUM_10L_DE",
-                        "id": 3246819,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11016089",
-                        "maktx": "DUAL NEXT_4L_DE_SYNGENTA",
-                        "id": 3246820,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015931",
-                        "maktx": "MOJANG_5L_HR_AGROCHEM MAKS",
-                        "id": 3246821,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11009035",
-                        "maktx": "MOJANG 600_5L_IT",
-                        "id": 3246822,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001237",
-                        "maktx": "SUCCESSOR 600_5L_CZ_AGROPROTEC",
-                        "id": 3246823,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015651",
-                        "maktx": "SUCCESSOR 600_4L_AT",
-                        "id": 3246824,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11015774",
-                        "maktx": "DEBASCO_1L_TR",
-                        "id": 3246825,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11003646",
-                        "maktx": "SUCCESSOR 600_5L_IT",
-                        "id": 3246826,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "12000355",
-                        "maktx": "PXA 600EC_TC_RO_RO",
-                        "id": 3246827,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11001235",
-                        "maktx": "SUCCESSOR 600_5L_BE",
-                        "id": 3246828,
-                        "reportDataId": 27218
-                    },
-                    {
-                        "matnr": "11014569",
-                        "maktx": "ROMIN_5L_ES_ADAMA",
-                        "id": 3246829,
-                        "reportDataId": 27218
-                    }
-                ],
-                "id": 27218
-            },
-            {
                 "pdfname": "50000812_SDS_DK_6N.PDF",
                 "specificationid": "50000812",
                 "path": "\\\\172.18.22.6\\sds_external/50000812_SDS_DK_6N.PDF",
@@ -110231,50 +108625,6 @@
                     }
                 ],
                 "id": 27224
-            },
-            {
-                "pdfname": "50002763_EXT_SDS_IT_6N.PDF",
-                "specificationid": "50002763",
-                "path": "\\\\172.18.22.6\\sds_external/50002763_EXT_SDS_IT_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "EXT_SDS_IT",
-                "authorizedportal": "P3",
-                "productname": "Stallion\u00ae IT Sync Tec\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "Stallion\u00ae IT Sync Tec\u00ae",
-                "casnumber": "",
-                "commercialnames": "CLZ(HP) + PEN (43 + 298) G/L CS (CHILD)",
-                "cmr": "",
-                "publishdate": "04/29/2025",
-                "iupac": "",
-                "incode": "YEX87",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "IT",
-                "validityareadescription": "Italy",
-                "legacyspecid": "FO004133",
-                "legacysdsid": "",
-                "revisiondate": "04/24/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11015844",
-                        "maktx": "STALLION IT SYNC TEC_10L_IT",
-                        "id": 2924509,
-                        "reportDataId": 27225
-                    },
-                    {
-                        "matnr": "11001813",
-                        "maktx": "STALLION IT SYNCTEC _5L_IT",
-                        "id": 2924510,
-                        "reportDataId": 27225
-                    }
-                ],
-                "id": 27225
             },
             {
                 "pdfname": "50001327_EXT_SDS_MX_1X.PDF",
@@ -122625,470 +120975,6 @@
                     }
                 ],
                 "id": 27287
-            },
-            {
-                "pdfname": "50000505_SDS_IT_6N.PDF",
-                "specificationid": "50000505",
-                "path": "\\\\172.18.22.6\\sds_external/50000505_SDS_IT_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_IT",
-                "authorizedportal": "P3",
-                "productname": "SPOTLIGHT\u00ae PLUS",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "SHARK",
-                "casnumber": "",
-                "commercialnames": "CFZ 60 g/L ME",
-                "cmr": "",
-                "publishdate": "05/22/2025",
-                "iupac": "",
-                "incode": "PJ997",
-                "ehsversionno": "1.2",
-                "fileformat": "PDF",
-                "validityarea": "IT",
-                "validityareadescription": "Italy",
-                "legacyspecid": "FO000487",
-                "legacysdsid": "",
-                "revisiondate": "05/22/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11001335",
-                        "maktx": "SPOTLIGHT PLUS_1L_SK",
-                        "id": 4125217,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001276",
-                        "maktx": "CARFENTRAZONE 60EW_1000L_MUL",
-                        "id": 4125218,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014438",
-                        "maktx": "SPOTLIGHT PLUS_1L_TN_SSCC",
-                        "id": 4125219,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014565",
-                        "maktx": "SPOTLIGHT PLUS_5L_BG",
-                        "id": 4125220,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001561",
-                        "maktx": "SPOTLIGHT PLUS_5L_FR",
-                        "id": 4125221,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11013573",
-                        "maktx": "SPOTLIGHT PLUS ME_5L_RU",
-                        "id": 4125222,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11013584",
-                        "maktx": "SPOTLIGHT PLUS_5L_CZ",
-                        "id": 4125223,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014436",
-                        "maktx": "SPOTLIGHT PLUS_1L_MK_RADOMAK",
-                        "id": 4125224,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016736",
-                        "maktx": "AFFINITY PLUS_10L_NL",
-                        "id": 4125225,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11008177",
-                        "maktx": "SPOTLIGHT PLUS_1000L_GB",
-                        "id": 4125226,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015264",
-                        "maktx": "SPOTLIGHT NEXT_5L_HU",
-                        "id": 4125227,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015642",
-                        "maktx": "SPOTLIGHT PLUS_1L_AM",
-                        "id": 4125228,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016905",
-                        "maktx": "SPOTLIGHT PLUS_1L_DZ_CASAP",
-                        "id": 4125229,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000914",
-                        "maktx": "SPOTLIGHT PLUS_1L_CH_SYT",
-                        "id": 4125230,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000946",
-                        "maktx": "SPOTLIGHT PLUS_0.1L_ES",
-                        "id": 4125231,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001011",
-                        "maktx": "SPOTLIGHT PLUS_5L_ES",
-                        "id": 4125232,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000999",
-                        "maktx": "SPOTLIGHT PLUS_5L_HU",
-                        "id": 4125233,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014437",
-                        "maktx": "AFFINITY PLUS_1L_RS_AGROMARKET",
-                        "id": 4125234,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000915",
-                        "maktx": "SPOTLIGHT_200L_IL_LUXE",
-                        "id": 4125235,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006185",
-                        "maktx": "CFZ 60EW_RO_JB",
-                        "id": 4125236,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11013644",
-                        "maktx": "EGNIT_5L_TR",
-                        "id": 4125237,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11004357",
-                        "maktx": "SPOTLIGHT PLUS_5L_NO",
-                        "id": 4125238,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015408",
-                        "maktx": "SPOTLIGHT PLUS_1L_MK_AGROMARKET",
-                        "id": 4125239,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006220",
-                        "maktx": "CFZ 60EW_RO_JL",
-                        "id": 4125240,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001343",
-                        "maktx": "SPOTLIGHT PLUS_5L_IT",
-                        "id": 4125241,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006113",
-                        "maktx": "CFZ 60EW_SC_JL",
-                        "id": 4125242,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11005392",
-                        "maktx": "SPOTLIGHT PLUS_5L_DK_NORDISK ALKALI",
-                        "id": 4125243,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000630",
-                        "maktx": "SPOTLIGHT PLUS_15L_ES",
-                        "id": 4125244,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000948",
-                        "maktx": "SPOTLIGHT PLUS 060EO_1L_PL",
-                        "id": 4125245,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001568",
-                        "maktx": "SPOTLIGHT PLUS_1L_FR",
-                        "id": 4125246,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11013954",
-                        "maktx": "SPOTLIGHT PLUS_500ML_IT",
-                        "id": 4125247,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001010",
-                        "maktx": "SPOTLIGHT PLUS_1L_ES",
-                        "id": 4125248,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001311",
-                        "maktx": "SPOTLIGHT PLUS_5L_GB",
-                        "id": 4125249,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11009063",
-                        "maktx": "SPOTLIGHT PLUS_5L_CH_SYT",
-                        "id": 4125250,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12005620",
-                        "maktx": "CFZ 60EW_1000L_RO_JB JL",
-                        "id": 4125251,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006195",
-                        "maktx": "CFZ 60EW_1000L_SC_JL",
-                        "id": 4125252,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001474",
-                        "maktx": "SPOTLIGHT PLUS_5L_IE",
-                        "id": 4125253,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015803",
-                        "maktx": "RIVET PLUS_1L_IT_GOWAN",
-                        "id": 4125254,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006381",
-                        "maktx": "CFZ 60EW_SC_JB",
-                        "id": 4125255,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015186",
-                        "maktx": "SPOTLIGHT PLUS_15L_BE",
-                        "id": 4125256,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11004363",
-                        "maktx": "SPOTLIGHT PLUS_5L_MUL",
-                        "id": 4125257,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000884",
-                        "maktx": "SPOTLIGHT PLUS_5L_AU",
-                        "id": 4125258,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001579",
-                        "maktx": "SPOTLIGHT PLUS_15L_FR",
-                        "id": 4125259,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11000471",
-                        "maktx": "TOBOOGI_500ML_KR",
-                        "id": 4125260,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12006240",
-                        "maktx": "CFZ 60EW_ST_JL",
-                        "id": 4125261,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11008695",
-                        "maktx": "SPOTLIGHT PLUS_5L_BE",
-                        "id": 4125262,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014453",
-                        "maktx": "SPOTLIGHT PLUS_1L_MA_AMAROC",
-                        "id": 4125263,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014427",
-                        "maktx": "SPOTLIGHT PLUS_5L_TN_SSCC",
-                        "id": 4125264,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015792",
-                        "maktx": "AFFINITY_5L_ES_GOWAN",
-                        "id": 4125265,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016974",
-                        "maktx": "PLATFORM PLUS_1L_IT",
-                        "id": 4125266,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015804",
-                        "maktx": "RIVET PLUS_5L_IT_GOWAN",
-                        "id": 4125267,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11004195",
-                        "maktx": "AFFINITY_1L_GR",
-                        "id": 4125268,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12001345",
-                        "maktx": "CFZ 60EW_TC_RO_JB JL",
-                        "id": 4125269,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015582",
-                        "maktx": "EGNIT_250ML_TR",
-                        "id": 4125270,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11004826",
-                        "maktx": "SPOTLIGHT PLUS,60EO,15L,F#MO GB",
-                        "id": 4125271,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11003035",
-                        "maktx": "SPOTLIGHT PLUS_5L_NL",
-                        "id": 4125272,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016210",
-                        "maktx": "SPOTLIGHT PLUS_1L_DZ_RIVALE",
-                        "id": 4125273,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001023",
-                        "maktx": "SPOTLIGHT PLUS_5L_PT_BELCHIM",
-                        "id": 4125274,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001529",
-                        "maktx": "SPOTLIGHT PLUS_5L_SE",
-                        "id": 4125275,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001344",
-                        "maktx": "SPOTLIGHT PLUS_1L_IT",
-                        "id": 4125276,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014139",
-                        "maktx": "SPOTLIGHT PLUS_5L_SK",
-                        "id": 4125277,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11014064",
-                        "maktx": "EGNIT_1L_TR",
-                        "id": 4125278,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11005405",
-                        "maktx": "SPOTLIGHT PLUS_10L_MUL",
-                        "id": 4125279,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016180",
-                        "maktx": "PLATFORM PLUS_1L_IT_GOWAN",
-                        "id": 4125280,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001024",
-                        "maktx": "SPOTLIGHT PLUS 060EO_5L_PL",
-                        "id": 4125281,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015337",
-                        "maktx": "SPOTLIGHT_5L_AT",
-                        "id": 4125282,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11015566",
-                        "maktx": "SPOTLIGHT PLUS_5L_MD",
-                        "id": 4125283,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "12001662",
-                        "maktx": "CFZ 60EW_JB JL",
-                        "id": 4125284,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11004846",
-                        "maktx": "SPOTLIGHT_1L_AT",
-                        "id": 4125285,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11005511",
-                        "maktx": "AFFINITY PLUS_1L_RS",
-                        "id": 4125286,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11001586",
-                        "maktx": "SPOTLIGHT PLUS_5L_FI",
-                        "id": 4125287,
-                        "reportDataId": 27288
-                    },
-                    {
-                        "matnr": "11016991",
-                        "maktx": "PLATFORM PLUS_5L_IT",
-                        "id": 4125288,
-                        "reportDataId": 27288
-                    }
-                ],
-                "id": 27288
             },
             {
                 "pdfname": "50001179_SDS_MY_MS.PDF",
@@ -220374,54 +218260,54 @@
                 "casnumber": "",
                 "commercialnames": "CFZ 240 g/l EC (CHILD)",
                 "cmr": "",
-                "publishdate": "11/12/2025",
+                "publishdate": "03/19/2026",
                 "iupac": "",
                 "incode": "PJ007",
-                "ehsversionno": "1.10",
+                "ehsversionno": "1.11",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "FO000460",
                 "legacysdsid": "6165-A",
-                "revisiondate": "11/12/2025",
+                "revisiondate": "03/19/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008445",
-                        "maktx": "AIM EC_1QT_US",
-                        "id": 3851582,
-                        "reportDataId": 27799
-                    },
-                    {
-                        "matnr": "11008585",
-                        "maktx": "AIM EC_250GAL_US",
-                        "id": 3851583,
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 4546305,
                         "reportDataId": 27799
                     },
                     {
                         "matnr": "11008411",
                         "maktx": "AIM EC_4.8L_CA",
-                        "id": 3851584,
+                        "id": 4546306,
                         "reportDataId": 27799
                     },
                     {
-                        "matnr": "11008591",
-                        "maktx": "AIM EC_1.2L_CA",
-                        "id": 3851585,
-                        "reportDataId": 27799
-                    },
-                    {
-                        "matnr": "11008330",
-                        "maktx": "AIM EC_250GAL_CA",
-                        "id": 3851586,
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 4546307,
                         "reportDataId": 27799
                     },
                     {
                         "matnr": "11008508",
                         "maktx": "AIM EC_2L_CA",
-                        "id": 3851587,
+                        "id": 4546308,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 4546309,
+                        "reportDataId": 27799
+                    },
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 4546310,
                         "reportDataId": 27799
                     }
                 ],
@@ -220442,54 +218328,54 @@
                 "casnumber": "",
                 "commercialnames": "CFZ 240 g/l EC (CHILD)",
                 "cmr": "",
-                "publishdate": "11/12/2025",
+                "publishdate": "03/19/2026",
                 "iupac": "",
                 "incode": "PJ007",
-                "ehsversionno": "1.10",
+                "ehsversionno": "1.11",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "FO000460",
                 "legacysdsid": "6165-A",
-                "revisiondate": "11/12/2025",
+                "revisiondate": "03/19/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11008445",
-                        "maktx": "AIM EC_1QT_US",
-                        "id": 3851588,
-                        "reportDataId": 27800
-                    },
-                    {
-                        "matnr": "11008585",
-                        "maktx": "AIM EC_250GAL_US",
-                        "id": 3851589,
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 4546311,
                         "reportDataId": 27800
                     },
                     {
                         "matnr": "11008411",
                         "maktx": "AIM EC_4.8L_CA",
-                        "id": 3851590,
+                        "id": 4546312,
                         "reportDataId": 27800
                     },
                     {
-                        "matnr": "11008591",
-                        "maktx": "AIM EC_1.2L_CA",
-                        "id": 3851591,
-                        "reportDataId": 27800
-                    },
-                    {
-                        "matnr": "11008330",
-                        "maktx": "AIM EC_250GAL_CA",
-                        "id": 3851592,
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 4546313,
                         "reportDataId": 27800
                     },
                     {
                         "matnr": "11008508",
                         "maktx": "AIM EC_2L_CA",
-                        "id": 3851593,
+                        "id": 4546314,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 4546315,
+                        "reportDataId": 27800
+                    },
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 4546316,
                         "reportDataId": 27800
                     }
                 ],
@@ -221126,18 +219012,18 @@
                 "commonname": "",
                 "tradename": "",
                 "casnumber": "",
-                "commercialnames": "",
+                "commercialnames": "CARFENTRAZONE + TOLPYRALATE (240 + 400)  EC + SC",
                 "cmr": "",
-                "publishdate": "11/17/2025",
+                "publishdate": "03/19/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/17/2025",
+                "revisiondate": "03/19/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -221157,18 +219043,18 @@
                 "commonname": "",
                 "tradename": "AVIREO CO-PACK (CFZ 240 EC + TOLPYRALATE 400 SC)",
                 "casnumber": "",
-                "commercialnames": "",
+                "commercialnames": "CARFENTRAZONE + TOLPYRALATE (240 + 400)  EC + SC",
                 "cmr": "",
-                "publishdate": "11/17/2025",
+                "publishdate": "03/19/2026",
                 "iupac": "",
                 "incode": "",
-                "ehsversionno": "1.1",
+                "ehsversionno": "1.2",
                 "fileformat": "PDF",
                 "validityarea": "CA",
                 "validityareadescription": "Canada",
                 "legacyspecid": "",
                 "legacysdsid": "",
-                "revisiondate": "11/17/2025",
+                "revisiondate": "03/19/2026",
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
@@ -266329,6 +264215,562 @@
                     }
                 ],
                 "id": 28165
+            },
+            {
+                "pdfname": "50002756_EXT_SDS_IT_IT.PDF",
+                "specificationid": "50002756",
+                "path": "\\\\172.18.22.6\\sds_external/50002756_EXT_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "EXT_SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "MOJANG\u00ae 600",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "PXA 600 g/L EC (CHILD)",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "45263",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "FO002146",
+                "legacysdsid": "",
+                "revisiondate": "03/18/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11001637",
+                        "maktx": "SOMERO_5L_CZ_AGNOVACHEM",
+                        "id": 4546296,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11015597",
+                        "maktx": "MOJANG_5L_ES",
+                        "id": 4546297,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11016056",
+                        "maktx": "DUAL NEXT_4L_AT_SYNGENTA",
+                        "id": 4546298,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11015984",
+                        "maktx": "DUAL NEXT_5L_FR_SYNGENTA",
+                        "id": 4546299,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11010331",
+                        "maktx": "JUAN_5L_BE LU",
+                        "id": 4546300,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11016077",
+                        "maktx": "DUAL NEXT_5L_AT_SYNGENTA",
+                        "id": 4546301,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11015894",
+                        "maktx": "MOJANG 600EC_5L_PL",
+                        "id": 4546302,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11016014",
+                        "maktx": "DUAL NEXT_5L_RO_SYNGENTA",
+                        "id": 4546303,
+                        "reportDataId": 28166
+                    },
+                    {
+                        "matnr": "11001092",
+                        "maktx": "JUAN_5L_FR",
+                        "id": 4546304,
+                        "reportDataId": 28166
+                    }
+                ],
+                "id": 28166
+            },
+            {
+                "pdfname": "50003170_EXT_SDS_IT_IT.PDF",
+                "specificationid": "50003170",
+                "path": "\\\\172.18.22.6\\sds_external/50003170_EXT_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "EXT_SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "SPOTLIGHT\u00ae PLUS",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 60 g/L ME (CHILD)",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "PJ997",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "FO000487",
+                "legacysdsid": "",
+                "revisiondate": "03/18/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28167
+            },
+            {
+                "pdfname": "50003171_EXT_SDS_IT_IT.PDF",
+                "specificationid": "50003171",
+                "path": "\\\\172.18.22.6\\sds_external/50003171_EXT_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "EXT_SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "STALLION\u00ae IT Sync Tec\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CLZ(HP) + PEN (43 + 298) G/L CS (CHILD)",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "YEX87",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "FO004133",
+                "legacysdsid": "",
+                "revisiondate": "03/18/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28168
+            },
+            {
+                "pdfname": "50000042_SDS_ES_ES.PDF",
+                "specificationid": "50000042",
+                "path": "\\\\172.18.22.6\\sds_external/50000042_SDS_ES_ES.PDF",
+                "reptype": "MSDS",
+                "language": "ES",
+                "genvariant": "SDS_ES",
+                "authorizedportal": "P3",
+                "productname": "GRANSTAR\u00ae SUPER 50 SX\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AFFINITY (TM) BROADSPEC HERB (M)",
+                "casnumber": "",
+                "commercialnames": "GBF92 50 SG Blend",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "GBF92",
+                "ehsversionno": "2.1",
+                "fileformat": "PDF",
+                "validityarea": "ES",
+                "validityareadescription": "Espa\u00f1a",
+                "legacyspecid": "H-20",
+                "legacysdsid": "130000027529",
+                "revisiondate": "03/19/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005998",
+                        "maktx": "POTACUR SX_500G_DE",
+                        "id": 4546379,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006296",
+                        "maktx": "GRANSTAR SUPER 50SG_1KG_RO",
+                        "id": 4546380,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12006096",
+                        "maktx": "TIM 250 + TBM 250SG_450KG_MA_ALL",
+                        "id": 4546381,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11016173",
+                        "maktx": "T-PAC_20OZ_US",
+                        "id": 4546382,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11016970",
+                        "maktx": "BARRICADE III_CP972G 10L_CA",
+                        "id": 4546383,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11001662",
+                        "maktx": "GRANSTAR SUPER 50SG_1KG_MD",
+                        "id": 4546384,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11014039",
+                        "maktx": "CAMEO MAX_200G_BG_SYNGENTA",
+                        "id": 4546385,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006164",
+                        "maktx": "GRANSTAR SUPER 50SX_250G_ES",
+                        "id": 4546386,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005586",
+                        "maktx": "INKA SX_240G_GB",
+                        "id": 4546387,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006160",
+                        "maktx": "GRANSTAR SUPER SX_150G_HU",
+                        "id": 4546388,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11000207",
+                        "maktx": "RATIO SUPER SX_200G_NO",
+                        "id": 4546389,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005937",
+                        "maktx": "FIRSTSHOT HERBICIDE SG_480OZ_US",
+                        "id": 4546390,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12002141",
+                        "maktx": "TIM 250 TBM 250SG_454KG_UF_ALL",
+                        "id": 4546391,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11016471",
+                        "maktx": "FIRSTSHOT_3LB 2OZ_US",
+                        "id": 4546392,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11009134",
+                        "maktx": "RATIO SUPER SX_300G_SE",
+                        "id": 4546393,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12005271",
+                        "maktx": "TIM 250 TBM 250SG_450KG_CA_UF_ALL",
+                        "id": 4546394,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005873",
+                        "maktx": "GRANSTAR SUPER 50SG_200G_RO",
+                        "id": 4546395,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11014816",
+                        "maktx": "GRANSTAR ULTRA SX 50SG_40G_PL",
+                        "id": 4546396,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12002127",
+                        "maktx": "TIM 250 TBM 250SG_50KG_UF_ALL",
+                        "id": 4546397,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006302",
+                        "maktx": "GRANSTAR SUPER 50SG_200G_BG",
+                        "id": 4546398,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005656",
+                        "maktx": "GRANSTAR SUPER 50SX_240G_HU",
+                        "id": 4546399,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006396",
+                        "maktx": "GRANSTAR ULTRA SX 50SG_20G_PL",
+                        "id": 4546400,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006085",
+                        "maktx": "GRANSTARSUPERDISCOV_CP100G 1.5L_RO_ADAMA",
+                        "id": 4546401,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006034",
+                        "maktx": "CAMEO MAX SX_180G_IE",
+                        "id": 4546402,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11003348",
+                        "maktx": "REFINE SUPER SX_300G_FI",
+                        "id": 4546403,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11014743",
+                        "maktx": "GRANSTAR ULTRA SX 50SG_20G_PL",
+                        "id": 4546404,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12001581",
+                        "maktx": "TIM 250 TBM 250SG_200KG_UF_ALL",
+                        "id": 4546405,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005966",
+                        "maktx": "PICARO SX_240G_FR",
+                        "id": 4546406,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005975",
+                        "maktx": "GRANSTAR ULTRA SX_50G_IT",
+                        "id": 4546407,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005974",
+                        "maktx": "GRANSTAR ULTRA SX_200G_IT",
+                        "id": 4546408,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006335",
+                        "maktx": "REFINE SUPER SX_220G_FI",
+                        "id": 4546409,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005935",
+                        "maktx": "FIRSTSHOT HERBICIDE TM _20OZ_SG",
+                        "id": 4546410,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12001596",
+                        "maktx": "TIM 250 TBM 250SG_450KG_UF_ALL",
+                        "id": 4546411,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006495",
+                        "maktx": "GRANSTAR SUPER 50SX_200G_HU",
+                        "id": 4546412,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11015540",
+                        "maktx": "GRANSTAR VIP_VP200G 1L_IT",
+                        "id": 4546413,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "12006703",
+                        "maktx": "TIM 250 + TBM 250SG_972G_CG_UF",
+                        "id": 4546414,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11010174",
+                        "maktx": "GRANSTAR SUPER 50SX_ 100G_HU",
+                        "id": 4546415,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11006145",
+                        "maktx": "GRANSTAR ULTRA SX_50SG_240G_PL",
+                        "id": 4546416,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11010174",
+                        "maktx": "GRANSTAR SUPER 50SX_100G_HU",
+                        "id": 4546417,
+                        "reportDataId": 28169
+                    },
+                    {
+                        "matnr": "11005872",
+                        "maktx": "GRANSTAR SUPER 50SG_40G_RO",
+                        "id": 4546418,
+                        "reportDataId": 28169
+                    }
+                ],
+                "id": 28169
+            },
+            {
+                "pdfname": "50001765_EXT_SDS_US_EN.PDF",
+                "specificationid": "50001765",
+                "path": "\\\\172.18.22.6\\sds_external/50001765_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "AIM\u00ae EC HERBICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-A",
+                "revisiondate": "03/19/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 4546419,
+                        "reportDataId": 28170
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 4546420,
+                        "reportDataId": 28170
+                    },
+                    {
+                        "matnr": "11008508",
+                        "maktx": "AIM EC_2L_CA",
+                        "id": 4546421,
+                        "reportDataId": 28170
+                    },
+                    {
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 4546422,
+                        "reportDataId": 28170
+                    },
+                    {
+                        "matnr": "11008411",
+                        "maktx": "AIM EC_4.8L_CA",
+                        "id": 4546423,
+                        "reportDataId": 28170
+                    },
+                    {
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 4546424,
+                        "reportDataId": 28170
+                    }
+                ],
+                "id": 28170
+            },
+            {
+                "pdfname": "50001765_EXT_SDS_US_1X.PDF",
+                "specificationid": "50001765",
+                "path": "\\\\172.18.22.6\\sds_external/50001765_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "AIM\u00ae EC HERBICIDE",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CFZ 240 g/l EC (CHILD)",
+                "cmr": "",
+                "publishdate": "03/19/2026",
+                "iupac": "",
+                "incode": "PJ007",
+                "ehsversionno": "1.2",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000460",
+                "legacysdsid": "6165-A",
+                "revisiondate": "03/19/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008585",
+                        "maktx": "AIM EC_250GAL_US",
+                        "id": 4546425,
+                        "reportDataId": 28171
+                    },
+                    {
+                        "matnr": "11008330",
+                        "maktx": "AIM EC_250GAL_CA",
+                        "id": 4546426,
+                        "reportDataId": 28171
+                    },
+                    {
+                        "matnr": "11008508",
+                        "maktx": "AIM EC_2L_CA",
+                        "id": 4546427,
+                        "reportDataId": 28171
+                    },
+                    {
+                        "matnr": "11008445",
+                        "maktx": "AIM EC_1QT_US",
+                        "id": 4546428,
+                        "reportDataId": 28171
+                    },
+                    {
+                        "matnr": "11008411",
+                        "maktx": "AIM EC_4.8L_CA",
+                        "id": 4546429,
+                        "reportDataId": 28171
+                    },
+                    {
+                        "matnr": "11008591",
+                        "maktx": "AIM EC_1.2L_CA",
+                        "id": 4546430,
+                        "reportDataId": 28171
+                    }
+                ],
+                "id": 28171
             }
         ],
         "isExportToExcel": false
