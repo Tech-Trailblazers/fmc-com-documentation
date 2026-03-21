@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6290,
+        "totalCount": 6291,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -735,291 +735,285 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 2222076,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 2222077,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 2222078,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 2222079,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 2222080,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 2222081,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 2222082,
-                        "reportDataId": 26836
-                    },
-                    {
                         "matnr": "11009446",
                         "maktx": "TREND 90_5L_MUL",
-                        "id": 2222083,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 2222084,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 2222085,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 2222086,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 2222087,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 2222088,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 2222089,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 2222090,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 2222091,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007617",
-                        "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 2222092,
+                        "id": 4547657,
                         "reportDataId": 26836
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 2222093,
+                        "id": 4547658,
                         "reportDataId": 26836
                     },
                     {
                         "matnr": "11007111",
                         "maktx": "TREND 90_750ML_TR",
-                        "id": 2222094,
+                        "id": 4547659,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 2222095,
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4547660,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 2222096,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 2222097,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 2222098,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 2222099,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 2222100,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 2222101,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000184",
-                        "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 2222102,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 2222103,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 2222104,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 2222105,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007618",
-                        "maktx": "TREND 90_5L_MD",
-                        "id": 2222106,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 2222107,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 2222108,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 2222109,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 2222110,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11000101",
-                        "maktx": "TREND 90SL_1L_MUL",
-                        "id": 2222111,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11014611",
-                        "maktx": "TREND 90_1L_RS",
-                        "id": 2222112,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 2222113,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 2222114,
+                        "matnr": "11007617",
+                        "maktx": "TREND 90EC_0.5L_PL",
+                        "id": 4547661,
                         "reportDataId": 26836
                     },
                     {
                         "matnr": "11009439",
                         "maktx": "TREND 90_5L_KZ",
-                        "id": 2222115,
+                        "id": 4547662,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 2222116,
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4547663,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 2222117,
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4547664,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 2222118,
+                        "matnr": "11014611",
+                        "maktx": "TREND 90_1L_RS",
+                        "id": 4547665,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 2222119,
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4547666,
                         "reportDataId": 26836
                     },
                     {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 2222120,
-                        "reportDataId": 26836
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 2222121,
+                        "matnr": "11000184",
+                        "maktx": "TREND 90_1L_RS_AGROMARKET",
+                        "id": 4547667,
                         "reportDataId": 26836
                     },
                     {
                         "matnr": "11000041",
                         "maktx": "TREND 90_1L_DE",
-                        "id": 2222122,
+                        "id": 4547668,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4547669,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4547670,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007618",
+                        "maktx": "TREND 90_5L_MD",
+                        "id": 4547671,
                         "reportDataId": 26836
                     },
                     {
                         "matnr": "11007054",
                         "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 2222123,
+                        "id": 4547672,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4547673,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4547674,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4547675,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4547676,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4547677,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4547678,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4547679,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4547680,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4547681,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4547682,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4547683,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4547684,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4547685,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4547686,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4547687,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4547688,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4547689,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4547690,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4547691,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000101",
+                        "maktx": "TREND 90SL_1L_MUL",
+                        "id": 4547692,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4547693,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4547694,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4547695,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4547696,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4547697,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4547698,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4547699,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4547700,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4547701,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4547702,
+                        "reportDataId": 26836
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4547703,
                         "reportDataId": 26836
                     }
                 ],
@@ -96071,291 +96065,285 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3272730,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007054",
-                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3272731,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3272732,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3272733,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11014611",
-                        "maktx": "TREND 90_1L_RS",
-                        "id": 3272734,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3272735,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3272736,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3272737,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007617",
-                        "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3272738,
-                        "reportDataId": 27144
-                    },
-                    {
                         "matnr": "11009446",
                         "maktx": "TREND 90_5L_MUL",
-                        "id": 3272739,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3272740,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3272741,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3272742,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3272743,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3272744,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3272745,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 3272746,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3272747,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3272748,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3272749,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3272750,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007618",
-                        "maktx": "TREND 90_5L_MD",
-                        "id": 3272751,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3272752,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3272753,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3272754,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3272755,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3272756,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3272757,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3272758,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000101",
-                        "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3272759,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3272760,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3272761,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3272762,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3272763,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3272764,
+                        "id": 4547704,
                         "reportDataId": 27144
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3272765,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11009439",
-                        "maktx": "TREND 90_5L_KZ",
-                        "id": 3272766,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3272767,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3272768,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3272769,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3272770,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3272771,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000184",
-                        "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3272772,
+                        "id": 4547705,
                         "reportDataId": 27144
                     },
                     {
                         "matnr": "11007111",
                         "maktx": "TREND 90_750ML_TR",
-                        "id": 3272773,
-                        "reportDataId": 27144
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3272774,
+                        "id": 4547706,
                         "reportDataId": 27144
                     },
                     {
                         "matnr": "11000041",
                         "maktx": "TREND 90_1L_DE",
-                        "id": 3272775,
+                        "id": 4547707,
                         "reportDataId": 27144
                     },
                     {
                         "matnr": "11013773",
                         "maktx": "TREND 90_250ML_MD",
-                        "id": 3272776,
+                        "id": 4547708,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11014611",
+                        "maktx": "TREND 90_1L_RS",
+                        "id": 4547709,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007617",
+                        "maktx": "TREND 90EC_0.5L_PL",
+                        "id": 4547710,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4547711,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11009439",
+                        "maktx": "TREND 90_5L_KZ",
+                        "id": 4547712,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4547713,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000184",
+                        "maktx": "TREND 90_1L_RS_AGROMARKET",
+                        "id": 4547714,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4547715,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4547716,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4547717,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007618",
+                        "maktx": "TREND 90_5L_MD",
+                        "id": 4547718,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007054",
+                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
+                        "id": 4547719,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4547720,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4547721,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4547722,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4547723,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4547724,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4547725,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4547726,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4547727,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4547728,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4547729,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4547730,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4547731,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4547732,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4547733,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4547734,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4547735,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4547736,
                         "reportDataId": 27144
                     },
                     {
                         "matnr": "11006734",
                         "maktx": "TREND 90_500ML_FR",
-                        "id": 3272777,
+                        "id": 4547737,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4547738,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4547739,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4547740,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4547741,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4547742,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4547743,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4547744,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4547745,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000101",
+                        "maktx": "TREND 90SL_1L_MUL",
+                        "id": 4547746,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4547747,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4547748,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4547749,
+                        "reportDataId": 27144
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4547750,
                         "reportDataId": 27144
                     }
                 ],
@@ -204593,291 +204581,285 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3558760,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3558761,
+                        "matnr": "11009446",
+                        "maktx": "TREND 90_5L_MUL",
+                        "id": 4547798,
                         "reportDataId": 27728
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3558762,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3558763,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3558764,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3558765,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3558766,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3558767,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3558768,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3558769,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3558770,
+                        "id": 4547799,
                         "reportDataId": 27728
                     },
                     {
                         "matnr": "11007111",
                         "maktx": "TREND 90_750ML_TR",
-                        "id": 3558771,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3558772,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3558773,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3558774,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3558775,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3558776,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11009446",
-                        "maktx": "TREND 90_5L_MUL",
-                        "id": 3558777,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 3558778,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3558779,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11009439",
-                        "maktx": "TREND 90_5L_KZ",
-                        "id": 3558780,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3558781,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3558782,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3558783,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11014611",
-                        "maktx": "TREND 90_1L_RS",
-                        "id": 3558784,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000184",
-                        "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3558785,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3558786,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3558787,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3558788,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3558789,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000041",
-                        "maktx": "TREND 90_1L_DE",
-                        "id": 3558790,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3558791,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3558792,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3558793,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3558794,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11007618",
-                        "maktx": "TREND 90_5L_MD",
-                        "id": 3558795,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3558796,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 3558797,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3558798,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3558799,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3558800,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3558801,
+                        "id": 4547800,
                         "reportDataId": 27728
                     },
                     {
                         "matnr": "11007620",
                         "maktx": "TREND 90_5L_BE",
-                        "id": 3558802,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3558803,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3558804,
-                        "reportDataId": 27728
-                    },
-                    {
-                        "matnr": "11000101",
-                        "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3558805,
+                        "id": 4547801,
                         "reportDataId": 27728
                     },
                     {
                         "matnr": "11007617",
                         "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3558806,
+                        "id": 4547802,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11009439",
+                        "maktx": "TREND 90_5L_KZ",
+                        "id": 4547803,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4547804,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4547805,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11014611",
+                        "maktx": "TREND 90_1L_RS",
+                        "id": 4547806,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4547807,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000184",
+                        "maktx": "TREND 90_1L_RS_AGROMARKET",
+                        "id": 4547808,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000041",
+                        "maktx": "TREND 90_1L_DE",
+                        "id": 4547809,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4547810,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4547811,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007618",
+                        "maktx": "TREND 90_5L_MD",
+                        "id": 4547812,
                         "reportDataId": 27728
                     },
                     {
                         "matnr": "11007054",
                         "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3558807,
+                        "id": 4547813,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4547814,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4547815,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4547816,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4547817,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4547818,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4547819,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4547820,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4547821,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4547822,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4547823,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4547824,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4547825,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4547826,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4547827,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4547828,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4547829,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4547830,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4547831,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4547832,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000101",
+                        "maktx": "TREND 90SL_1L_MUL",
+                        "id": 4547833,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4547834,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4547835,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4547836,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4547837,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4547838,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4547839,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4547840,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4547841,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4547842,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4547843,
+                        "reportDataId": 27728
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4547844,
                         "reportDataId": 27728
                     }
                 ],
@@ -210526,291 +210508,285 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3680227,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3680228,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3680229,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3680230,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007054",
-                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3680231,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3680232,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 3680233,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3680234,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3680235,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3680236,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3680237,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3680238,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3680239,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007111",
-                        "maktx": "TREND 90_750ML_TR",
-                        "id": 3680240,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3680241,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 3680242,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000101",
-                        "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3680243,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3680244,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3680245,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3680246,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3680247,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3680248,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3680249,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3680250,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3680251,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3680252,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3680253,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3680254,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11007617",
-                        "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3680255,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3680256,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3680257,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3680258,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3680259,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000041",
-                        "maktx": "TREND 90_1L_DE",
-                        "id": 3680260,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3680261,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3680262,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3680263,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 3680264,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11009439",
-                        "maktx": "TREND 90_5L_KZ",
-                        "id": 3680265,
-                        "reportDataId": 27758
-                    },
-                    {
-                        "matnr": "11014611",
-                        "maktx": "TREND 90_1L_RS",
-                        "id": 3680266,
+                        "matnr": "11009446",
+                        "maktx": "TREND 90_5L_MUL",
+                        "id": 4546431,
                         "reportDataId": 27758
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3680267,
+                        "id": 4546432,
                         "reportDataId": 27758
                     },
                     {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3680268,
+                        "matnr": "11007111",
+                        "maktx": "TREND 90_750ML_TR",
+                        "id": 4546433,
                         "reportDataId": 27758
                     },
                     {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3680269,
+                        "matnr": "11000041",
+                        "maktx": "TREND 90_1L_DE",
+                        "id": 4546434,
                         "reportDataId": 27758
                     },
                     {
-                        "matnr": "11009446",
-                        "maktx": "TREND 90_5L_MUL",
-                        "id": 3680270,
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4546435,
                         "reportDataId": 27758
                     },
                     {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3680271,
+                        "matnr": "11014611",
+                        "maktx": "TREND 90_1L_RS",
+                        "id": 4546436,
                         "reportDataId": 27758
                     },
                     {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3680272,
+                        "matnr": "11007617",
+                        "maktx": "TREND 90EC_0.5L_PL",
+                        "id": 4546437,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4546438,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11009439",
+                        "maktx": "TREND 90_5L_KZ",
+                        "id": 4546439,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4546440,
                         "reportDataId": 27758
                     },
                     {
                         "matnr": "11000184",
                         "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3680273,
+                        "id": 4546441,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4546442,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4546443,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4546444,
                         "reportDataId": 27758
                     },
                     {
                         "matnr": "11007618",
                         "maktx": "TREND 90_5L_MD",
-                        "id": 3680274,
+                        "id": 4546445,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007054",
+                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
+                        "id": 4546446,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4546447,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4546448,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4546449,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4546450,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4546451,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4546452,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4546453,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4546454,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4546455,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4546456,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4546457,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4546458,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4546459,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4546460,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4546461,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4546462,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4546463,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4546464,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4546465,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4546466,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4546467,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4546468,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4546469,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4546470,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4546471,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4546472,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000101",
+                        "maktx": "TREND 90SL_1L_MUL",
+                        "id": 4546473,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4546474,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4546475,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4546476,
+                        "reportDataId": 27758
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4546477,
                         "reportDataId": 27758
                     }
                 ],
@@ -210846,297 +210822,291 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3680275,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007618",
-                        "maktx": "TREND 90_5L_MD",
-                        "id": 3680276,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3680277,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3680278,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3680279,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3680280,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3680281,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007054",
-                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3680282,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3680283,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 3680284,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3680285,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3680286,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3680287,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3680288,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3680289,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3680290,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3680291,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000184",
-                        "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3680292,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3680293,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007111",
-                        "maktx": "TREND 90_750ML_TR",
-                        "id": 3680294,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3680295,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3680296,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3680297,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 3680298,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3680299,
+                        "matnr": "11009446",
+                        "maktx": "TREND 90_5L_MUL",
+                        "id": 4546478,
                         "reportDataId": 27759
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3680300,
+                        "id": 4546479,
                         "reportDataId": 27759
                     },
                     {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3680301,
+                        "matnr": "11007111",
+                        "maktx": "TREND 90_750ML_TR",
+                        "id": 4546480,
                         "reportDataId": 27759
                     },
                     {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3680302,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3680303,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3680304,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "\u0422\u0440\u0435\u043d\u0434 90, \u0416, 5 \u043b",
-                        "id": 3680305,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3680306,
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4546481,
                         "reportDataId": 27759
                     },
                     {
                         "matnr": "11007617",
                         "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3680307,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3680308,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3680309,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3680310,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3680311,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3680312,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000041",
-                        "maktx": "TREND 90_1L_DE",
-                        "id": 3680313,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3680314,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3680315,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3680316,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3680317,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 3680318,
-                        "reportDataId": 27759
-                    },
-                    {
-                        "matnr": "11009446",
-                        "maktx": "TREND 90_5L_MUL",
-                        "id": 3680319,
+                        "id": 4546482,
                         "reportDataId": 27759
                     },
                     {
                         "matnr": "11009439",
                         "maktx": "TREND 90_5L_KZ",
-                        "id": 3680320,
+                        "id": 4546483,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4546484,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4546485,
                         "reportDataId": 27759
                     },
                     {
                         "matnr": "11014611",
                         "maktx": "TREND 90_1L_RS",
-                        "id": 3680321,
+                        "id": 4546486,
                         "reportDataId": 27759
                     },
                     {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3680322,
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4546487,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000184",
+                        "maktx": "TREND 90_1L_RS_AGROMARKET",
+                        "id": 4546488,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000041",
+                        "maktx": "TREND 90_1L_DE",
+                        "id": 4546489,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4546490,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4546491,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007618",
+                        "maktx": "TREND 90_5L_MD",
+                        "id": 4546492,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007054",
+                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
+                        "id": 4546493,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4546494,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4546495,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4546496,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4546497,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4546498,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4546499,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4546500,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4546501,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4546502,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4546503,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4546504,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4546505,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4546506,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4546507,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4546508,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4546509,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "\u0422\u0440\u0435\u043d\u0434 90, \u0416, 5 \u043b",
+                        "id": 4546510,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4546511,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4546512,
                         "reportDataId": 27759
                     },
                     {
                         "matnr": "11000101",
                         "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3680323,
+                        "id": 4546513,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4546514,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4546515,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4546516,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4546517,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4546518,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4546519,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4546520,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4546521,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4546522,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4546523,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4546524,
+                        "reportDataId": 27759
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4546525,
                         "reportDataId": 27759
                     }
                 ],
@@ -211172,297 +211142,291 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3680324,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007618",
-                        "maktx": "TREND 90_5L_MD",
-                        "id": 3680325,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3680326,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3680327,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3680328,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3680329,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3680330,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007054",
-                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3680331,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3680332,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 3680333,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3680334,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3680335,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3680336,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3680337,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3680338,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3680339,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3680340,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000184",
-                        "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3680341,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3680342,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007111",
-                        "maktx": "TREND 90_750ML_TR",
-                        "id": 3680343,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3680344,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3680345,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3680346,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 3680347,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3680348,
+                        "matnr": "11009446",
+                        "maktx": "TREND 90_5L_MUL",
+                        "id": 4546526,
                         "reportDataId": 27760
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3680349,
+                        "id": 4546527,
                         "reportDataId": 27760
                     },
                     {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3680350,
+                        "matnr": "11007111",
+                        "maktx": "TREND 90_750ML_TR",
+                        "id": 4546528,
                         "reportDataId": 27760
                     },
                     {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3680351,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3680352,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3680353,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "\u0422\u0440\u0435\u043d\u0434 90, \u0416, 5 \u043b",
-                        "id": 3680354,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3680355,
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4546529,
                         "reportDataId": 27760
                     },
                     {
                         "matnr": "11007617",
                         "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3680356,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3680357,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3680358,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3680359,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3680360,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3680361,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000041",
-                        "maktx": "TREND 90_1L_DE",
-                        "id": 3680362,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3680363,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3680364,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3680365,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3680366,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 3680367,
-                        "reportDataId": 27760
-                    },
-                    {
-                        "matnr": "11009446",
-                        "maktx": "TREND 90_5L_MUL",
-                        "id": 3680368,
+                        "id": 4546530,
                         "reportDataId": 27760
                     },
                     {
                         "matnr": "11009439",
                         "maktx": "TREND 90_5L_KZ",
-                        "id": 3680369,
+                        "id": 4546531,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4546532,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4546533,
                         "reportDataId": 27760
                     },
                     {
                         "matnr": "11014611",
                         "maktx": "TREND 90_1L_RS",
-                        "id": 3680370,
+                        "id": 4546534,
                         "reportDataId": 27760
                     },
                     {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3680371,
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4546535,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000184",
+                        "maktx": "TREND 90_1L_RS_AGROMARKET",
+                        "id": 4546536,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000041",
+                        "maktx": "TREND 90_1L_DE",
+                        "id": 4546537,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4546538,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4546539,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007618",
+                        "maktx": "TREND 90_5L_MD",
+                        "id": 4546540,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007054",
+                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
+                        "id": 4546541,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4546542,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4546543,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4546544,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4546545,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4546546,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4546547,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4546548,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4546549,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4546550,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4546551,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4546552,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4546553,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4546554,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4546555,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4546556,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4546557,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "\u0422\u0440\u0435\u043d\u0434 90, \u0416, 5 \u043b",
+                        "id": 4546558,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4546559,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4546560,
                         "reportDataId": 27760
                     },
                     {
                         "matnr": "11000101",
                         "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3680372,
+                        "id": 4546561,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4546562,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4546563,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4546564,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4546565,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4546566,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4546567,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4546568,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4546569,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4546570,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4546571,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4546572,
+                        "reportDataId": 27760
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4546573,
                         "reportDataId": 27760
                     }
                 ],
@@ -211498,291 +211462,285 @@
                 "fmcbusiness": "",
                 "materials": [
                     {
-                        "matnr": "11006680",
-                        "maktx": "TREND 90_700ML_UZ",
-                        "id": 3680373,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007559",
-                        "maktx": "TREND 90_5L_UA",
-                        "id": 3680374,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007615",
-                        "maktx": "TREND 90_250ML_RO",
-                        "id": 3680375,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11006743",
-                        "maktx": "TREND 90_800ML_KZ",
-                        "id": 3680376,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007054",
-                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
-                        "id": 3680377,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11006659",
-                        "maktx": "TREND_5L_DE",
-                        "id": 3680378,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11013773",
-                        "maktx": "TREND 90_250ML_MD",
-                        "id": 3680379,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000179",
-                        "maktx": "TREND 90_1L_CZ",
-                        "id": 3680380,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11009447",
-                        "maktx": "TREND 90_5L_BY",
-                        "id": 3680381,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007213",
-                        "maktx": "TREND 90_500ML_HU",
-                        "id": 3680382,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007161",
-                        "maktx": "TREND 90_500ML_TR",
-                        "id": 3680383,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11014594",
-                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
-                        "id": 3680384,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007663",
-                        "maktx": "TREND_1L_DE",
-                        "id": 3680385,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007111",
-                        "maktx": "TREND 90_750ML_TR",
-                        "id": 3680386,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000180",
-                        "maktx": "TREND 90_1L_ES",
-                        "id": 3680387,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007620",
-                        "maktx": "TREND 90_5L_BE",
-                        "id": 3680388,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000101",
-                        "maktx": "TREND 90SL_1L_MUL",
-                        "id": 3680389,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11015599",
-                        "maktx": "TREND 90_5L_UA_SYNGENTA",
-                        "id": 3680390,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11015632",
-                        "maktx": "TREND 90_1L_UA",
-                        "id": 3680391,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11015536",
-                        "maktx": "TREND 90SL_5L_MUL",
-                        "id": 3680392,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "12006064",
-                        "maktx": "TREND 90_1000L_TR_SC",
-                        "id": 3680393,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11013207",
-                        "maktx": "VIVOLT 90_1L_ES_CORTEVA",
-                        "id": 3680394,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11001254",
-                        "maktx": "TREND 90_500ML_SI_PICOUNT",
-                        "id": 3680395,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "12002142",
-                        "maktx": "TREND 90 VAR WT L BULK",
-                        "id": 3680396,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000246",
-                        "maktx": "TREND 90_1L_IT",
-                        "id": 3680397,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000183",
-                        "maktx": "TREND 90_1L_RO",
-                        "id": 3680398,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000185",
-                        "maktx": "TREND 90_1L_FR",
-                        "id": 3680399,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000243",
-                        "maktx": "TREND 90_1L_HU",
-                        "id": 3680400,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11007617",
-                        "maktx": "TREND 90EC_0.5L_PL",
-                        "id": 3680401,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000245",
-                        "maktx": "TREND 90_1L_BE",
-                        "id": 3680402,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "12006252",
-                        "maktx": "TREND 90_1000L_RO_SOLV",
-                        "id": 3680403,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000182",
-                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
-                        "id": 3680404,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11015453",
-                        "maktx": "TREND 90_1L_SI_PICOUNT",
-                        "id": 3680405,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000041",
-                        "maktx": "TREND 90_1L_DE",
-                        "id": 3680406,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11014433",
-                        "maktx": "TREND 90EC_100ML_PL",
-                        "id": 3680407,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000242",
-                        "maktx": "TREND 90_1L_BG",
-                        "id": 3680408,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11000244",
-                        "maktx": "TREND 90_1L_SK",
-                        "id": 3680409,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11006734",
-                        "maktx": "TREND 90_500ML_FR",
-                        "id": 3680410,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11009439",
-                        "maktx": "TREND 90_5L_KZ",
-                        "id": 3680411,
-                        "reportDataId": 27761
-                    },
-                    {
-                        "matnr": "11014611",
-                        "maktx": "TREND 90_1L_RS",
-                        "id": 3680412,
+                        "matnr": "11009446",
+                        "maktx": "TREND 90_5L_MUL",
+                        "id": 4546574,
                         "reportDataId": 27761
                     },
                     {
                         "matnr": "11007209",
                         "maktx": "TREND 90EC_150ML_PL",
-                        "id": 3680413,
+                        "id": 4546575,
                         "reportDataId": 27761
                     },
                     {
-                        "matnr": "11014914",
-                        "maktx": "TREND 90_5L_AT",
-                        "id": 3680414,
+                        "matnr": "11007111",
+                        "maktx": "TREND 90_750ML_TR",
+                        "id": 4546576,
                         "reportDataId": 27761
                     },
                     {
-                        "matnr": "11014918",
-                        "maktx": "TREND 90_1L_ES_SYNGENTA",
-                        "id": 3680415,
+                        "matnr": "11000041",
+                        "maktx": "TREND 90_1L_DE",
+                        "id": 4546577,
                         "reportDataId": 27761
                     },
                     {
-                        "matnr": "11009446",
-                        "maktx": "TREND 90_5L_MUL",
-                        "id": 3680416,
+                        "matnr": "11013773",
+                        "maktx": "TREND 90_250ML_MD",
+                        "id": 4546578,
                         "reportDataId": 27761
                     },
                     {
-                        "matnr": "12005553",
-                        "maktx": "TREND 90_1000L_RO_ALL",
-                        "id": 3680417,
+                        "matnr": "11014611",
+                        "maktx": "TREND 90_1L_RS",
+                        "id": 4546579,
                         "reportDataId": 27761
                     },
                     {
-                        "matnr": "11007114",
-                        "maktx": "TREND 90_5L_RO",
-                        "id": 3680418,
+                        "matnr": "11007617",
+                        "maktx": "TREND 90EC_0.5L_PL",
+                        "id": 4546580,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007620",
+                        "maktx": "TREND 90_5L_BE",
+                        "id": 4546581,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11009439",
+                        "maktx": "TREND 90_5L_KZ",
+                        "id": 4546582,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11015453",
+                        "maktx": "TREND 90_1L_SI_PICOUNT",
+                        "id": 4546583,
                         "reportDataId": 27761
                     },
                     {
                         "matnr": "11000184",
                         "maktx": "TREND 90_1L_RS_AGROMARKET",
-                        "id": 3680419,
+                        "id": 4546584,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007213",
+                        "maktx": "TREND 90_500ML_HU",
+                        "id": 4546585,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "12006064",
+                        "maktx": "TREND 90_1000L_TR_SC",
+                        "id": 4546586,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000180",
+                        "maktx": "TREND 90_1L_ES",
+                        "id": 4546587,
                         "reportDataId": 27761
                     },
                     {
                         "matnr": "11007618",
                         "maktx": "TREND 90_5L_MD",
-                        "id": 3680420,
+                        "id": 4546588,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007054",
+                        "maktx": "TREND 90_100ML_RS_AGROMARKET",
+                        "id": 4546589,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000245",
+                        "maktx": "TREND 90_1L_BE",
+                        "id": 4546590,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "12005553",
+                        "maktx": "TREND 90_1000L_RO_ALL",
+                        "id": 4546591,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11015599",
+                        "maktx": "TREND 90_5L_UA_SYNGENTA",
+                        "id": 4546592,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11014433",
+                        "maktx": "TREND 90EC_100ML_PL",
+                        "id": 4546593,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000179",
+                        "maktx": "TREND 90_1L_CZ",
+                        "id": 4546594,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000244",
+                        "maktx": "TREND 90_1L_SK",
+                        "id": 4546595,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11006680",
+                        "maktx": "TREND 90_700ML_UZ",
+                        "id": 4546596,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11009447",
+                        "maktx": "TREND 90_5L_BY",
+                        "id": 4546597,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "12006252",
+                        "maktx": "TREND 90_1000L_RO_SOLV",
+                        "id": 4546598,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11014594",
+                        "maktx": "TREND 90_500ML_RS_AGROMARKET",
+                        "id": 4546599,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "12002142",
+                        "maktx": "TREND 90 VAR WT L BULK",
+                        "id": 4546600,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007663",
+                        "maktx": "TREND_1L_DE",
+                        "id": 4546601,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000183",
+                        "maktx": "TREND 90_1L_RO",
+                        "id": 4546602,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007559",
+                        "maktx": "TREND 90_5L_UA",
+                        "id": 4546603,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007615",
+                        "maktx": "TREND 90_250ML_RO",
+                        "id": 4546604,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11006743",
+                        "maktx": "TREND 90_800ML_KZ",
+                        "id": 4546605,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000242",
+                        "maktx": "TREND 90_1L_BG",
+                        "id": 4546606,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11006734",
+                        "maktx": "TREND 90_500ML_FR",
+                        "id": 4546607,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11006659",
+                        "maktx": "TREND_5L_DE",
+                        "id": 4546608,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11001254",
+                        "maktx": "TREND 90_500ML_SI_PICOUNT",
+                        "id": 4546609,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000246",
+                        "maktx": "TREND 90_1L_IT",
+                        "id": 4546610,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11015536",
+                        "maktx": "TREND 90SL_5L_MUL",
+                        "id": 4546611,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007114",
+                        "maktx": "TREND 90_5L_RO",
+                        "id": 4546612,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000243",
+                        "maktx": "TREND 90_1L_HU",
+                        "id": 4546613,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11007161",
+                        "maktx": "TREND 90_500ML_TR",
+                        "id": 4546614,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000185",
+                        "maktx": "TREND 90_1L_FR",
+                        "id": 4546615,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000101",
+                        "maktx": "TREND 90SL_1L_MUL",
+                        "id": 4546616,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11014914",
+                        "maktx": "TREND 90_5L_AT",
+                        "id": 4546617,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11014918",
+                        "maktx": "TREND 90_1L_ES_SYNGENTA",
+                        "id": 4546618,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11015632",
+                        "maktx": "TREND 90_1L_UA",
+                        "id": 4546619,
+                        "reportDataId": 27761
+                    },
+                    {
+                        "matnr": "11000182",
+                        "maktx": "TREND 90_1L_PT_ASCENZA AGRO",
+                        "id": 4546620,
                         "reportDataId": 27761
                     }
                 ],
@@ -264771,6 +264729,44 @@
                     }
                 ],
                 "id": 28171
+            },
+            {
+                "pdfname": "50003126_EXT_SDS_GB_6N.PDF",
+                "specificationid": "50003126",
+                "path": "\\\\172.18.22.6\\sds_external/50003126_EXT_SDS_GB_6N.PDF",
+                "reptype": "MSDS",
+                "language": "6N",
+                "genvariant": "EXT_SDS_GB",
+                "authorizedportal": "P3",
+                "productname": "AMPATO\u00ae LQM\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "FRX + TIM (150 + 30) g/L OD (CHILD)",
+                "cmr": "",
+                "publishdate": "03/20/2026",
+                "iupac": "",
+                "incode": "R7U12",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "GB",
+                "validityareadescription": "Great Britain",
+                "legacyspecid": "",
+                "legacysdsid": "130000121320",
+                "revisiondate": "03/20/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11016940",
+                        "maktx": "AMPATO LQM_5L_RO_BAYER",
+                        "id": 4547845,
+                        "reportDataId": 28172
+                    }
+                ],
+                "id": 28172
             }
         ],
         "isExportToExcel": false
