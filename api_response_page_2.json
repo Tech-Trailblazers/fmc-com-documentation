@@ -242552,7 +242552,14 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [],
+                "materials": [
+                    {
+                        "matnr": "11017226",
+                        "maktx": "TRAVALLAS COMPLETE_CP8L 10L_CA",
+                        "id": 4547847,
+                        "reportDataId": 27983
+                    }
+                ],
                 "id": 27983
             },
             {
@@ -242583,7 +242590,14 @@
                 "wercsrevisionno": "",
                 "wercssubformat": "",
                 "fmcbusiness": "",
-                "materials": [],
+                "materials": [
+                    {
+                        "matnr": "11017226",
+                        "maktx": "TRAVALLAS COMPLETE_CP8L 10L_CA",
+                        "id": 4547846,
+                        "reportDataId": 27984
+                    }
+                ],
                 "id": 27984
             },
             {
