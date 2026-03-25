@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6291,
+        "totalCount": 6293,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,158 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50000049_SDS_DE_DE.PDF",
-                "specificationid": "50000049",
-                "path": "\\\\172.18.22.6\\sds_external/50000049_SDS_DE_DE.PDF",
-                "reptype": "MSDS",
-                "language": "DE",
-                "genvariant": "SDS_DE",
-                "authorizedportal": "P3",
-                "productname": "ARTUS\u00ae",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "AFFINITY FORCE (M)",
-                "casnumber": "",
-                "commercialnames": "CFZ + MEM (40 + 10) WG",
-                "cmr": "",
-                "publishdate": "12/10/2024",
-                "iupac": "",
-                "incode": "KW025",
-                "ehsversionno": "1.1",
-                "fileformat": "PDF",
-                "validityarea": "DE",
-                "validityareadescription": "Deutschland",
-                "legacyspecid": "K-17",
-                "legacysdsid": "130000000606",
-                "revisiondate": "12/10/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11006423",
-                        "maktx": "INNOPROTECT ARTUS_2.5KG_DE_INNOPROTECT",
-                        "id": 2298602,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11006622",
-                        "maktx": "INNOPROTECT ARTUS_250G_DE_INNOPROTECT",
-                        "id": 2298603,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12002091",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_500KG_UF_ALL",
-                        "id": 2298604,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005426",
-                        "maktx": "ALLIE EXPRESS_500G_FR",
-                        "id": 2298605,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12002102",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_50KG_UF_ALL",
-                        "id": 2298606,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005278",
-                        "maktx": "ALLIE EXPRESS_100G_BE",
-                        "id": 2298607,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12002103",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_100G_UF_ALL",
-                        "id": 2298608,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11006103",
-                        "maktx": "ARTUS_2.5KG_DE",
-                        "id": 2298609,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005370",
-                        "maktx": "ALLY CLASS 50WG_500G_SE",
-                        "id": 2298610,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005759",
-                        "maktx": "ARTUS_160G_AT",
-                        "id": 2298611,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12001355",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_50KG_IN_UF_ALL",
-                        "id": 2298612,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12001503",
-                        "maktx": "MEM 100 CFZ 400WG - PASTE_1000KG_UF_ALL",
-                        "id": 2298613,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005548",
-                        "maktx": "ARTUS_250G_DE",
-                        "id": 2298614,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005707",
-                        "maktx": "ARTUS_100G_AT_KWIZDA",
-                        "id": 2298615,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11002759",
-                        "maktx": "ALLY CLASS 50WG_250G_FI",
-                        "id": 2298616,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005632",
-                        "maktx": "ALLY CLASS 50WG_100G_NO",
-                        "id": 2298617,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005549",
-                        "maktx": "ARTUS_1KG_DE",
-                        "id": 2298618,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11005425",
-                        "maktx": "ALLIE EXPRESS_100G_FR",
-                        "id": 2298619,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "12001138",
-                        "maktx": "LANFIDA 30 20G SAH SEMI-PACK IN",
-                        "id": 2298620,
-                        "reportDataId": 26830
-                    },
-                    {
-                        "matnr": "11007441",
-                        "maktx": "LANFIDA 30 20G SAH IN",
-                        "id": 2298621,
-                        "reportDataId": 26830
-                    }
-                ],
-                "id": 26830
-            },
             {
                 "pdfname": "50001215_SDS_NZ_6N.PDF",
                 "specificationid": "50001215",
@@ -264781,6 +264629,444 @@
                     }
                 ],
                 "id": 28172
+            },
+            {
+                "pdfname": "50001006_EXT_SDS_IT_IT.PDF",
+                "specificationid": "50001006",
+                "path": "\\\\172.18.22.6\\sds_external/50001006_EXT_SDS_IT_IT.PDF",
+                "reptype": "MSDS",
+                "language": "IT",
+                "genvariant": "EXT_SDS_IT",
+                "authorizedportal": "P3",
+                "productname": "VERIMARK\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "CZP 200 g/L SC (PROXEL) (CHILD)",
+                "cmr": "",
+                "publishdate": "03/24/2026",
+                "iupac": "",
+                "incode": "HGW86",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "IT",
+                "validityareadescription": "Italy",
+                "legacyspecid": "Q-1366",
+                "legacysdsid": "130000050054",
+                "revisiondate": "03/19/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11010195",
+                        "maktx": "VERIMARK_500ML_RS_AGROMARKET",
+                        "id": 4547921,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11010193",
+                        "maktx": "VERIMARK 20X500ML BTL HR-FMC",
+                        "id": 4547922,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11007588",
+                        "maktx": "VERIMARK_5L_NL",
+                        "id": 4547923,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11000231",
+                        "maktx": "VERIMARK_1L_HU",
+                        "id": 4547924,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11000176",
+                        "maktx": "VERIMARK_1L_ES",
+                        "id": 4547925,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11008779",
+                        "maktx": "VERIMARK 200 SC_1L_IT",
+                        "id": 4547926,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "12002051",
+                        "maktx": "CZP 200SC_200L_BR",
+                        "id": 4547927,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11000025",
+                        "maktx": "VERIMARK_1L_BR",
+                        "id": 4547928,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11009222",
+                        "maktx": "VERIMARK_1L_DE",
+                        "id": 4547929,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11007734",
+                        "maktx": "VERIMARK_200ML_BR",
+                        "id": 4547930,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "22024855",
+                        "maktx": "MSC_STRETCH_WRAP",
+                        "id": 4547931,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11007628",
+                        "maktx": "VERIMARK_375ML_RO",
+                        "id": 4547932,
+                        "reportDataId": 28173
+                    },
+                    {
+                        "matnr": "11009183",
+                        "maktx": "VERIMARK 200SC_5L_PL",
+                        "id": 4547933,
+                        "reportDataId": 28173
+                    }
+                ],
+                "id": 28173
+            },
+            {
+                "pdfname": "50000700_SDS_TW_ZF.PDF",
+                "specificationid": "50000700",
+                "path": "\\\\172.18.22.6\\sds_external/50000700_SDS_TW_ZF.PDF",
+                "reptype": "MSDS",
+                "language": "ZF",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "AZAKA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AZOXYSTROBIN 250 g/l SC",
+                "casnumber": "",
+                "commercialnames": "AZO 250 g/L SC",
+                "cmr": "",
+                "publishdate": "03/24/2026",
+                "iupac": "",
+                "incode": "YH688",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO002267",
+                "legacysdsid": "",
+                "revisiondate": "03/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005679",
+                        "maktx": "AZOXY 250SC_5L_MUL",
+                        "id": 4547934,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11001283",
+                        "maktx": "AZAKA_5L_BE_PROTEX",
+                        "id": 4547935,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11000746",
+                        "maktx": "AZAKA_5L_HU",
+                        "id": 4547936,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "12000448",
+                        "maktx": "AZO 250SC_ST_PA",
+                        "id": 4547937,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11014214",
+                        "maktx": "AZAKA_5L_BG",
+                        "id": 4547938,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002627",
+                        "maktx": "AZAKA_5L_ES",
+                        "id": 4547939,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002424",
+                        "maktx": "TORERO_5L_DE",
+                        "id": 4547940,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002668",
+                        "maktx": "AZAKA_1L_ES",
+                        "id": 4547941,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11010731",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 4547942,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "12006502",
+                        "maktx": "AZO 250SC_PHY_SYT",
+                        "id": 4547943,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002293",
+                        "maktx": "AZAKA_5L_GB",
+                        "id": 4547944,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002497",
+                        "maktx": "AZAKA_5L_SK",
+                        "id": 4547945,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11014464",
+                        "maktx": "AZAKA_1000ML_TW",
+                        "id": 4547946,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002640",
+                        "maktx": "AZAKA_5L_CZ",
+                        "id": 4547947,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11001716",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 4547948,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002241",
+                        "maktx": "AZAKA_1L_IT",
+                        "id": 4547949,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11014482",
+                        "maktx": "AZAKA_500ML_TW",
+                        "id": 4547950,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11008985",
+                        "maktx": "AZAKA_200L",
+                        "id": 4547951,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11004818",
+                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
+                        "id": 4547952,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "12001118",
+                        "maktx": "AZO 250SC_ST_SYT",
+                        "id": 4547953,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11001764",
+                        "maktx": "IRIBIS_5L_CZ",
+                        "id": 4547954,
+                        "reportDataId": 28174
+                    },
+                    {
+                        "matnr": "11002626",
+                        "maktx": "AZAKA_5L_PT",
+                        "id": 4547955,
+                        "reportDataId": 28174
+                    }
+                ],
+                "id": 28174
+            },
+            {
+                "pdfname": "50000700_SDS_TW_EN.PDF",
+                "specificationid": "50000700",
+                "path": "\\\\172.18.22.6\\sds_external/50000700_SDS_TW_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "SDS_TW",
+                "authorizedportal": "P3",
+                "productname": "AZAKA\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "AZOXYSTROBIN 250 g/l SC",
+                "casnumber": "",
+                "commercialnames": "AZO 250 g/L SC",
+                "cmr": "",
+                "publishdate": "03/24/2026",
+                "iupac": "",
+                "incode": "YH688",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "TW",
+                "validityareadescription": "Taiwan",
+                "legacyspecid": "FO002267",
+                "legacysdsid": "",
+                "revisiondate": "03/24/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11005679",
+                        "maktx": "AZOXY 250SC_5L_MUL",
+                        "id": 4547956,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11001283",
+                        "maktx": "AZAKA_5L_BE_PROTEX",
+                        "id": 4547957,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002626",
+                        "maktx": "AZAKA_5L_PT",
+                        "id": 4547958,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "12000448",
+                        "maktx": "AZO 250SC_ST_PA",
+                        "id": 4547959,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11014214",
+                        "maktx": "AZAKA_5L_BG",
+                        "id": 4547960,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002627",
+                        "maktx": "AZAKA_5L_ES",
+                        "id": 4547961,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002424",
+                        "maktx": "TORERO_5L_DE",
+                        "id": 4547962,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002640",
+                        "maktx": "AZAKA_5L_CZ",
+                        "id": 4547963,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11010731",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 4547964,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "12006502",
+                        "maktx": "AZO 250SC_PHY_SYT",
+                        "id": 4547965,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002497",
+                        "maktx": "AZAKA_5L_SK",
+                        "id": 4547966,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11001716",
+                        "maktx": "AZAKA_1L_RO",
+                        "id": 4547967,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11014464",
+                        "maktx": "AZAKA_1000ML_TW",
+                        "id": 4547968,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002668",
+                        "maktx": "AZAKA_1L_ES",
+                        "id": 4547969,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002293",
+                        "maktx": "AZAKA_5L_GB",
+                        "id": 4547970,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11002241",
+                        "maktx": "AZAKA_1L_IT",
+                        "id": 4547971,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11014482",
+                        "maktx": "AZAKA_500ML_TW",
+                        "id": 4547972,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11008985",
+                        "maktx": "AZAKA_200L",
+                        "id": 4547973,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11004818",
+                        "maktx": "AZAKA 250SC_1L_KE_LACHLAN",
+                        "id": 4547974,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "12001118",
+                        "maktx": "AZO 250SC_ST_SYT",
+                        "id": 4547975,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11001764",
+                        "maktx": "IRIBIS_5L_CZ",
+                        "id": 4547976,
+                        "reportDataId": 28175
+                    },
+                    {
+                        "matnr": "11000746",
+                        "maktx": "AZAKA_5L_HU",
+                        "id": 4547977,
+                        "reportDataId": 28175
+                    }
+                ],
+                "id": 28175
             }
         ],
         "isExportToExcel": false
