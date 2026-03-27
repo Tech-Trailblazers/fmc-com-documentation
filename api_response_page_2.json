@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6293,
+        "totalCount": 6292,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -57,306 +57,6 @@
             "id": 0
         },
         "items": [
-            {
-                "pdfname": "50001215_SDS_NZ_6N.PDF",
-                "specificationid": "50001215",
-                "path": "\\\\172.18.22.6\\sds_external/50001215_SDS_NZ_6N.PDF",
-                "reptype": "MSDS",
-                "language": "6N",
-                "genvariant": "SDS_NZ",
-                "authorizedportal": "P3",
-                "productname": "MULTIPLE PRO",
-                "chemicalname": "MN 29 + CU 9.3 + MGO 7.4 + ZN 5.9SC",
-                "commonname": "",
-                "tradename": "",
-                "casnumber": "",
-                "commercialnames": "NP-0242",
-                "cmr": "",
-                "publishdate": "04/08/2025",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.5",
-                "fileformat": "PDF",
-                "validityarea": "NZ",
-                "validityareadescription": "New Zealand",
-                "legacyspecid": "NP-0242",
-                "legacysdsid": "NP-0242",
-                "revisiondate": "04/08/2025",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11014741",
-                        "maktx": "MULTIPLE PRO_5L_IE",
-                        "id": 4492485,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11002987",
-                        "maktx": "MULTIPLE PRO_1000L_HU",
-                        "id": 4492486,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11014891",
-                        "maktx": "MULTIPLE PRO_5L_GR",
-                        "id": 4492487,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016732",
-                        "maktx": "MULTIPLE PRO_5L_TN_AGRODIS",
-                        "id": 4492488,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11004825",
-                        "maktx": "MULTIPLE PRO_5L_RO",
-                        "id": 4492489,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11015985",
-                        "maktx": "MULTIPLE PRO_5L_DZ_CASAP",
-                        "id": 4492490,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11008757",
-                        "maktx": "MULTIPLE PRO_1L_PL",
-                        "id": 4492491,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11014336",
-                        "maktx": "MULTIPLE PRO_1000L_DE",
-                        "id": 4492492,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11017070",
-                        "maktx": "VENUS_5L_PL",
-                        "id": 4492493,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11014097",
-                        "maktx": "VENUS_5L_GB",
-                        "id": 4492494,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11002969",
-                        "maktx": "MULTIPLE PRO_5L_FI_BERNER",
-                        "id": 4492495,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "12000478",
-                        "maktx": "MN 29-CU 9.3-MGO 7.4-ZN 5.9SC_FL_ALL",
-                        "id": 4492496,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11004686",
-                        "maktx": "MULTIPLE PRO_5L_NZ_LONZ",
-                        "id": 4492497,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11002884",
-                        "maktx": "MULTIPLE PRO_5L_GB",
-                        "id": 4492498,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11009037",
-                        "maktx": "MULTIPLE PRO_5L_PL",
-                        "id": 4492499,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016731",
-                        "maktx": "MULTIPLE PRO_1L_TN_AGRODIS",
-                        "id": 4492500,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11013952",
-                        "maktx": "MULTIPLE PRO_10L_BG",
-                        "id": 4492501,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11015758",
-                        "maktx": "VYTEGRIS MULTI_5L_BE",
-                        "id": 4492502,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016916",
-                        "maktx": "MULTIPLE PRO_1L_DZ_CASAP",
-                        "id": 4492503,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016922",
-                        "maktx": "MULTIPLE PRO_5L_DZ_CASAP",
-                        "id": 4492504,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11004582",
-                        "maktx": "UNIVERSAL_10L_UA_SPEC AG",
-                        "id": 4492505,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016032",
-                        "maktx": "MULTIPLE PRO_1L_DZ_CASAP",
-                        "id": 4492506,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11015478",
-                        "maktx": "VYTEGRIS MULTI_5L_MA_AGRIMATCO",
-                        "id": 4492507,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016539",
-                        "maktx": "VR KARTOFFEL GETREIDE PLUS_5L_VR PLUS",
-                        "id": 4492508,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11014242",
-                        "maktx": "MULTIPLE PRO_5L_MD",
-                        "id": 4492509,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11005538",
-                        "maktx": "MULTIPLE PRO_5L_LV_AUGU",
-                        "id": 4492510,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11014832",
-                        "maktx": "MULTIPLE PRO_5L_AT",
-                        "id": 4492511,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11013930",
-                        "maktx": "MULTIPLE PRO_5L_DE",
-                        "id": 4492512,
-                        "reportDataId": 26831
-                    },
-                    {
-                        "matnr": "11016542",
-                        "maktx": "VYTEGRIS MULTI FERTILIZER_5L_IT",
-                        "id": 4492513,
-                        "reportDataId": 26831
-                    }
-                ],
-                "id": 26831
-            },
-            {
-                "pdfname": "50000596_SDS_US_1X.PDF",
-                "specificationid": "50000596",
-                "path": "\\\\172.18.22.6\\sds_external/50000596_SDS_US_1X.PDF",
-                "reptype": "MSDS",
-                "language": "1X",
-                "genvariant": "SDS_US",
-                "authorizedportal": "P3",
-                "productname": "POUNCE\u00ae 1.5 G INSECTICIDE",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "POUNCE 1.5 G",
-                "casnumber": "",
-                "commercialnames": "PER 1.5 GR",
-                "cmr": "",
-                "publishdate": "12/12/2024",
-                "iupac": "",
-                "incode": "",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "US",
-                "validityareadescription": "USA",
-                "legacyspecid": "FO001455",
-                "legacysdsid": "",
-                "revisiondate": "12/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "11008323",
-                        "maktx": "POUNCE 1.5GR_50LB_DO",
-                        "id": 2221822,
-                        "reportDataId": 26832
-                    },
-                    {
-                        "matnr": "11008430",
-                        "maktx": "POUNCE 1.5G_50LOB",
-                        "id": 2221823,
-                        "reportDataId": 26832
-                    }
-                ],
-                "id": 26832
-            },
-            {
-                "pdfname": "50000368_SDS_ID_EN.PDF",
-                "specificationid": "50000368",
-                "path": "\\\\172.18.22.6\\sds_external/50000368_SDS_ID_EN.PDF",
-                "reptype": "MSDS",
-                "language": "EN",
-                "genvariant": "SDS_ID",
-                "authorizedportal": "P3",
-                "productname": "Marshal\u00ae 35 DS insecticide",
-                "chemicalname": "",
-                "commonname": "",
-                "tradename": "Carbosulfan 35 wt% DS",
-                "casnumber": "",
-                "commercialnames": "CSN 35 DS",
-                "cmr": "",
-                "publishdate": "12/12/2024",
-                "iupac": "",
-                "incode": "Y5560",
-                "ehsversionno": "1.0",
-                "fileformat": "PDF",
-                "validityarea": "ID",
-                "validityareadescription": "Indonesia",
-                "legacyspecid": "FO000218",
-                "legacysdsid": "",
-                "revisiondate": "12/12/2024",
-                "wercsrevisionno": "",
-                "wercssubformat": "",
-                "fmcbusiness": "",
-                "materials": [
-                    {
-                        "matnr": "12000624",
-                        "maktx": "CSN 35DS_UG_LF",
-                        "id": 3513688,
-                        "reportDataId": 26833
-                    },
-                    {
-                        "matnr": "11008138",
-                        "maktx": "MARSHAL 35DS_50KG_MUL",
-                        "id": 3513689,
-                        "reportDataId": 26833
-                    },
-                    {
-                        "matnr": "12000753",
-                        "maktx": "CARBOSULFAN 35DS_50KG_CN",
-                        "id": 3513690,
-                        "reportDataId": 26833
-                    }
-                ],
-                "id": 26833
-            },
             {
                 "pdfname": "50000361_SDS_US_1X.PDF",
                 "specificationid": "50000361",
@@ -265067,6 +264767,82 @@
                     }
                 ],
                 "id": 28175
+            },
+            {
+                "pdfname": "50001722_EXT_SDS_US_1X.PDF",
+                "specificationid": "50001722",
+                "path": "\\\\172.18.22.6\\sds_external/50001722_EXT_SDS_US_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Brigade\u00ae WSB Insecticide/Miticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIF 10 WP (v2) (CHILD)",
+                "cmr": "",
+                "publishdate": "03/26/2026",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.5",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000247",
+                "legacysdsid": "1482-2A-MX-A",
+                "revisiondate": "03/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11007869",
+                        "maktx": "BISTAR 10WP_62.5G_MX",
+                        "id": 4547978,
+                        "reportDataId": 28176
+                    }
+                ],
+                "id": 28176
+            },
+            {
+                "pdfname": "50001722_EXT_SDS_US_EN.PDF",
+                "specificationid": "50001722",
+                "path": "\\\\172.18.22.6\\sds_external/50001722_EXT_SDS_US_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_US",
+                "authorizedportal": "P3",
+                "productname": "Brigade\u00ae WSB Insecticide/Miticide",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "BIF 10 WP (v2) (CHILD)",
+                "cmr": "",
+                "publishdate": "03/26/2026",
+                "iupac": "",
+                "incode": "VKM29",
+                "ehsversionno": "1.5",
+                "fileformat": "PDF",
+                "validityarea": "US",
+                "validityareadescription": "USA",
+                "legacyspecid": "FO000247",
+                "legacysdsid": "1482-2A-MX-A",
+                "revisiondate": "03/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11007869",
+                        "maktx": "BISTAR 10WP_62.5G_MX",
+                        "id": 4547979,
+                        "reportDataId": 28177
+                    }
+                ],
+                "id": 28177
             }
         ],
         "isExportToExcel": false
