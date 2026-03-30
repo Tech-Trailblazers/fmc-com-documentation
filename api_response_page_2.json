@@ -1,7 +1,7 @@
 {
     "response": {
         "pageNumber": 2,
-        "totalCount": 6294,
+        "totalCount": 6299,
         "currentPage": 2,
         "totalPages": 2,
         "previousPage": "Yes",
@@ -265363,6 +265363,260 @@
                     }
                 ],
                 "id": 28179
+            },
+            {
+                "pdfname": "50001295_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50001295",
+                "path": "\\\\172.18.22.6\\sds_external/50001295_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "ALLECTUS\u00ae 300 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN + IMIDACLOPRID 50/250 G/L SC",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (50 + 250) g/l SC",
+                "cmr": "",
+                "publishdate": "03/26/2026",
+                "iupac": "",
+                "incode": "Z0W99",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO003457",
+                "legacysdsid": "",
+                "revisiondate": "03/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11015775",
+                        "maktx": "ALLECTUS 30SC_1L_NI",
+                        "id": 4555891,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11002950",
+                        "maktx": "ALLECTUS 30SC_1L_MUL",
+                        "id": 4555892,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11002711",
+                        "maktx": "ALLECTUS 30SC_1L",
+                        "id": 4555893,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11007927",
+                        "maktx": "ALLECTUS 300SC_1L_MX",
+                        "id": 4555894,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11015793",
+                        "maktx": "ALLECTUS 30SC_1L_DO",
+                        "id": 4555895,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11016538",
+                        "maktx": "ALLECTUS 30SC_200L_GT",
+                        "id": 4555896,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11007932",
+                        "maktx": "ALLECTUS 300SC_250ML_MX",
+                        "id": 4555897,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11016864",
+                        "maktx": "ALLECTUS 0.7GR_20KG_GT",
+                        "id": 4555898,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11016870",
+                        "maktx": "ALLECTUS 30SC_1L_GT",
+                        "id": 4555899,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11014624",
+                        "maktx": "ALLECTUS 300SC_200L_MX",
+                        "id": 4555900,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11007956",
+                        "maktx": "ALLECTUS 30SC_200L",
+                        "id": 4555901,
+                        "reportDataId": 28180
+                    },
+                    {
+                        "matnr": "11007958",
+                        "maktx": "ALLECTUS 300SC_250ML_MX",
+                        "id": 4555902,
+                        "reportDataId": 28180
+                    }
+                ],
+                "id": 28180
+            },
+            {
+                "pdfname": "50001647_EXT_SDS_MX_1X.PDF",
+                "specificationid": "50001647",
+                "path": "\\\\172.18.22.6\\sds_external/50001647_EXT_SDS_MX_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "POUNCE\u00ae 0.4 G",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "PERMETHRIN 0.4 WT% GR",
+                "casnumber": "",
+                "commercialnames": "PER 0.4 GR",
+                "cmr": "",
+                "publishdate": "03/26/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "2.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO001196",
+                "legacysdsid": "",
+                "revisiondate": "03/26/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008231",
+                        "maktx": "PIRANA 0.4GR_10KG_MX",
+                        "id": 4555915,
+                        "reportDataId": 28181
+                    },
+                    {
+                        "matnr": "11008106",
+                        "maktx": "POUNCE 0.4GR_10KG_MX",
+                        "id": 4555916,
+                        "reportDataId": 28181
+                    }
+                ],
+                "id": 28181
+            },
+            {
+                "pdfname": "50002337_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50002337",
+                "path": "\\\\172.18.22.6\\sds_external/50002337_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "ALSTAR DUAL\u00ae 300 SC",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "BIFENTHRIN + IMIDACLOPRID 50/250 G/L SC",
+                "casnumber": "",
+                "commercialnames": "BIF + IDC (50 + 250) g/l SC (CHILD)",
+                "cmr": "",
+                "publishdate": "03/29/2026",
+                "iupac": "",
+                "incode": "",
+                "ehsversionno": "3.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "FO003457",
+                "legacysdsid": "",
+                "revisiondate": "03/29/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [
+                    {
+                        "matnr": "11008281",
+                        "maktx": "ALSTAR DUAL 300SC_500ML_MX",
+                        "id": 4555919,
+                        "reportDataId": 28182
+                    },
+                    {
+                        "matnr": "11008712",
+                        "maktx": "ALSTAR DUAL 300SC_500ML_CR",
+                        "id": 4555920,
+                        "reportDataId": 28182
+                    }
+                ],
+                "id": 28182
+            },
+            {
+                "pdfname": "50002819_EXT_SDS_MX_1X.PDF",
+                "specificationid": "50002819",
+                "path": "\\\\172.18.22.6\\sds_external/50002819_EXT_SDS_MX_1X.PDF",
+                "reptype": "MSDS",
+                "language": "1X",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "AVAUNT XTEND\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IXC + ZCY (150+200) g/L EC",
+                "cmr": "",
+                "publishdate": "03/29/2026",
+                "iupac": "",
+                "incode": "XEF31",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/29/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28183
+            },
+            {
+                "pdfname": "50002819_EXT_SDS_MX_EN.PDF",
+                "specificationid": "50002819",
+                "path": "\\\\172.18.22.6\\sds_external/50002819_EXT_SDS_MX_EN.PDF",
+                "reptype": "MSDS",
+                "language": "EN",
+                "genvariant": "EXT_SDS_MX",
+                "authorizedportal": "P3",
+                "productname": "AVAUNT XTEND\u00ae",
+                "chemicalname": "",
+                "commonname": "",
+                "tradename": "",
+                "casnumber": "",
+                "commercialnames": "IXC + ZCY (150+200) g/L EC",
+                "cmr": "",
+                "publishdate": "03/29/2026",
+                "iupac": "",
+                "incode": "XEF31",
+                "ehsversionno": "1.0",
+                "fileformat": "PDF",
+                "validityarea": "MX",
+                "validityareadescription": "Mexico",
+                "legacyspecid": "",
+                "legacysdsid": "",
+                "revisiondate": "03/29/2026",
+                "wercsrevisionno": "",
+                "wercssubformat": "",
+                "fmcbusiness": "",
+                "materials": [],
+                "id": 28184
             }
         ],
         "isExportToExcel": false
